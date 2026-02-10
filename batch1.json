@@ -2708,10 +2708,688 @@
     "level": "easy",
     "topic": "Sentence Correction",
     "exam": "hsc"
+  },
+  
+  {
+    "id": 201,
+    "type": "mcq",
+    "question": "Choose the correct preposition: 'The book is divided ______ three chapters.'",
+    "options": [
+      "into",
+      "in",
+      "by",
+      "with"
+    ],
+    "answer": "into",
+    "explanation": "'Divided into' indicates separation into parts, 'into' ব্যবহৃত হয় অংশে বিভক্ত হওয়া বোঝাতে।",
+    "level": "medium",
+    "topic": "Prepositions",
+    "exam": "hsc"
+  },
+  {
+    "id": 202,
+    "type": "fill",
+    "question": "Transform the sentence: 'He said, \"I was watching TV when you called.\"' (into indirect speech)",
+    "options": [],
+    "answer": "He said that he had been watching TV when I had called.",
+    "explanation": "Past continuous changes to past perfect continuous; simple past changes to past perfect, Past continuous, past perfect continuous এ রূপান্তরিত হয়; simple past, past perfect এ পরিবর্তিত হয়।",
+    "level": "hard",
+    "topic": "Narration",
+    "exam": "hsc"
+  },
+  {
+    "id": 203,
+    "type": "short",
+    "question": "What is the one-word substitution for 'a person who cannot stop taking drugs'?",
+    "options": [],
+    "answer": "addict",
+    "explanation": "An addict is someone physically and mentally dependent on a substance, যে ব্যক্তি মাদকদ্রব্য ছাড়া থাকতে পারে না।",
+    "level": "easy",
+    "topic": "One Word Substitution",
+    "exam": "hsc"
+  },
+  {
+    "id": 204,
+    "type": "mcq",
+    "question": "Which sentence uses the correct conditional?",
+    "options": [
+      "If I will see him, I will tell him.",
+      "If I see him, I will tell him.",
+      "If I saw him, I will tell him.",
+      "If I would see him, I tell him."
+    ],
+    "answer": "If I see him, I will tell him.",
+    "explanation": "First conditional for real future possibilities, বাস্তব ভবিষ্যত সম্ভাবনার জন্য প্রথম কন্ডিশনাল ব্যবহৃত হয়।",
+    "level": "medium",
+    "topic": "Conditional Sentences",
+    "exam": "hsc"
+  },
+  {
+    "id": 205,
+    "type": "fill",
+    "question": "Add appropriate prefix: '______ social behavior is not acceptable.' (meaning: against society)",
+    "options": [],
+    "answer": "Anti",
+    "explanation": "'Anti-' means opposed to or against, 'Anti-' উপসর্গের অর্থ বিরোধী বা বিপরীত।",
+    "level": "medium",
+    "topic": "Suffix/Prefix",
+    "exam": "hsc"
+  },
+  {
+    "id": 206,
+    "type": "mcq",
+    "question": "What is the antonym of 'expand'?",
+    "options": [
+      "extend",
+      "contract",
+      "increase",
+      "enlarge"
+    ],
+    "answer": "contract",
+    "explanation": "Expand means to become larger; contract means to become smaller, Expand অর্থ প্রসারিত হওয়া; contract অর্থ সংকুচিত হওয়া।",
+    "level": "easy",
+    "topic": "Antonyms",
+    "exam": "hsc"
+  },
+  {
+    "id": 207,
+    "type": "short",
+    "question": "What does the idiom 'barking up the wrong tree' mean?",
+    "options": [],
+    "answer": "Accusing or blaming the wrong person",
+    "explanation": "To make a wrong assumption about something, ভুল ব্যক্তিকে দোষারোপ করা বা ভুল ধারণা পোষণ করা।",
+    "level": "medium",
+    "topic": "Idioms & Phrases",
+    "exam": "hsc"
+  },
+  {
+    "id": 208,
+    "type": "mcq",
+    "question": "Identify the correct passive voice: 'Someone had stolen my wallet.'",
+    "options": [
+      "My wallet had been stolen.",
+      "My wallet was stolen.",
+      "My wallet has been stolen.",
+      "My wallet is stolen."
+    ],
+    "answer": "My wallet had been stolen.",
+    "explanation": "Past perfect active becomes past perfect passive, Past perfect active, past perfect passive এ রূপান্তরিত হয়।",
+    "level": "medium",
+    "topic": "Voice",
+    "exam": "hsc"
+  },
+  {
+    "id": 209,
+    "type": "fill",
+    "question": "Fill in the blank with correct article: '______ Quran is ______ holy book of Muslims.'",
+    "options": [],
+    "answer": "The, the",
+    "explanation": "'The' for specific holy books and specific religions, নির্দিষ্ট ধর্মগ্রন্থ ও নির্দিষ্ট ধর্মের জন্য 'the' ব্যবহৃত হয়।",
+    "level": "easy",
+    "topic": "Articles",
+    "exam": "hsc"
+  },
+  {
+    "id": 210,
+    "type": "mcq",
+    "question": "Which connector is used to show contrast?",
+    "options": [
+      "because",
+      "although",
+      "so",
+      "and"
+    ],
+    "answer": "although",
+    "explanation": "'Although' introduces a contrasting idea, 'Although' বিপরীতধর্মী ধারণা উপস্থাপন করে।",
+    "level": "easy",
+    "topic": "Connectors",
+    "exam": "hsc"
+  },
+  {
+    "id": 211,
+    "type": "short",
+    "question": "What is the synonym of 'benevolent'?",
+    "options": [],
+    "answer": "kind",
+    "explanation": "Benevolent means well-meaning and kindly, Benevolent অর্থ দয়ালু ও কল্যাণকামী।",
+    "level": "medium",
+    "topic": "Synonyms",
+    "exam": "hsc"
+  },
+  {
+    "id": 212,
+    "type": "mcq",
+    "question": "Which sentence has correct modifier placement?",
+    "options": [
+      "While cooking dinner, the phone rang.",
+      "While cooking dinner, I heard the phone ring.",
+      "The phone rang while cooking dinner.",
+      "Cooking dinner, the phone was heard."
+    ],
+    "answer": "While cooking dinner, I heard the phone ring.",
+    "explanation": "Modifier must refer to the subject performing the action, Modifier যে কাজ করছে তার সাপেক্ষে subject এর সাথে সম্পর্ক থাকতে হবে।",
+    "level": "hard",
+    "topic": "Modifiers",
+    "exam": "hsc"
+  },
+  {
+    "id": 213,
+    "type": "fill",
+    "question": "Complete the tag question: 'Let him go, ______?'",
+    "options": [],
+    "answer": "will you",
+    "explanation": "For permissions with 'let him/her', use 'will you' tag, 'let him/her' এর অনুমতির ক্ষেত্রে 'will you' ট্যাগ ব্যবহৃত হয়।",
+    "level": "medium",
+    "topic": "Tag Questions",
+    "exam": "hsc"
+  },
+  {
+    "id": 214,
+    "type": "mcq",
+    "question": "Choose the correct transformation: 'He is too proud to beg.'",
+    "options": [
+      "He is so proud that he cannot beg.",
+      "He is very proud to beg.",
+      "He is proud enough to beg.",
+      "He is so proud that he can beg."
+    ],
+    "answer": "He is so proud that he cannot beg.",
+    "explanation": "Too...to structure can be transformed to so...that + negative, Too...to কাঠামো so...that + negative এ রূপান্তর করা যায়।",
+    "level": "hard",
+    "topic": "Transformation",
+    "exam": "hsc"
+  },
+  {
+    "id": 215,
+    "type": "short",
+    "question": "What is the past participle of 'swim'?",
+    "options": [],
+    "answer": "swum",
+    "explanation": "Swim - swam - swum are the three forms, Swim এর past participle হলো swum।",
+    "level": "easy",
+    "topic": "Tense",
+    "exam": "hsc"
+  },
+  {
+    "id": 216,
+    "type": "mcq",
+    "question": "Which phrasal verb means 'to postpone'?",
+    "options": [
+      "put off",
+      "put on",
+      "put out",
+      "put up"
+    ],
+    "answer": "put off",
+    "explanation": "'Put off' means to delay or postpone, 'Put off' অর্থ স্থগিত রাখা বা বিলম্ব করা।",
+    "level": "easy",
+    "topic": "Phrasal Verbs",
+    "exam": "hsc"
+  },
+  {
+    "id": 217,
+    "type": "fill",
+    "question": "Fill in the blank: 'She has been teaching ______ 2010.'",
+    "options": [],
+    "answer": "since",
+    "explanation": "'Since' is used with specific point in time, নির্দিষ্ট সময় বিন্দুর জন্য 'since' ব্যবহৃত হয়।",
+    "level": "medium",
+    "topic": "Prepositions",
+    "exam": "hsc"
+  },
+  {
+    "id": 218,
+    "type": "mcq",
+    "question": "What is the correct comparative form? 'This is ______ than that.'",
+    "options": [
+      "more good",
+      "better",
+      "gooder",
+      "best"
+    ],
+    "answer": "better",
+    "explanation": "Comparative of 'good' is 'better', Good এর comparative form হলো better।",
+    "level": "easy",
+    "topic": "Comparison",
+    "exam": "hsc"
+  },
+  {
+    "id": 219,
+    "type": "short",
+    "question": "What is the one-word for 'a person who travels to work daily'?",
+    "options": [],
+    "answer": "commuter",
+    "explanation": "A commuter regularly travels between home and work, যে ব্যক্তি নিয়মিত বাসা ও কাজের মধ্যে যাতায়াত করে।",
+    "level": "medium",
+    "topic": "One Word Substitution",
+    "exam": "hsc"
+  },
+  {
+    "id": 220,
+    "type": "mcq",
+    "question": "Which sentence is grammatically correct?",
+    "options": [
+      "Neither John nor Mary are coming.",
+      "Neither John nor Mary is coming.",
+      "Neither John or Mary are coming.",
+      "Neither John or Mary is coming."
+    ],
+    "answer": "Neither John nor Mary is coming.",
+    "explanation": "With 'neither...nor', verb agrees with nearer subject (Mary = singular), Neither...nor এর ক্ষেত্রে verb নিকটবর্তী subject এর সাথে agree করে।",
+    "level": "hard",
+    "topic": "Sentence Correction",
+    "exam": "hsc"
+  },
+  {
+    "id": 221,
+    "type": "fill",
+    "question": "Complete the conditional: 'If I ______ (know) his number, I would call him.'",
+    "options": [],
+    "answer": "knew",
+    "explanation": "Second conditional for unreal present situations, অবাস্তব বর্তমান অবস্থার জন্য দ্বিতীয় কন্ডিশনাল।",
+    "level": "medium",
+    "topic": "Conditional Sentences",
+    "exam": "hsc"
+  },
+  {
+    "id": 222,
+    "type": "mcq",
+    "question": "Identify the synonym of 'meticulous':",
+    "options": [
+      "careless",
+      "detailed",
+      "quick",
+      "rough"
+    ],
+    "answer": "detailed",
+    "explanation": "Meticulous means showing great attention to detail, Meticulous অর্থ সুক্ষ্মাতিসুক্ষ্ম বিবেচনাপূর্ণ।",
+    "level": "hard",
+    "topic": "Synonyms",
+    "exam": "hsc"
+  },
+  {
+    "id": 223,
+    "type": "short",
+    "question": "What does 'to hit the sack' mean?",
+    "options": [],
+    "answer": "To go to bed",
+    "explanation": "Informal idiom meaning to go to sleep, অনানুষ্ঠানিক idiom যার অর্থ ঘুমাতে যাওয়া।",
+    "level": "easy",
+    "topic": "Idioms & Phrases",
+    "exam": "hsc"
+  },
+  {
+    "id": 224,
+    "type": "mcq",
+    "question": "Choose the correct reported speech: 'She said, \"What a beautiful painting!\"'",
+    "options": [
+      "She exclaimed that it was a beautiful painting.",
+      "She said what a beautiful painting.",
+      "She asked what a beautiful painting.",
+      "She told what a beautiful painting."
+    ],
+    "answer": "She exclaimed that it was a beautiful painting.",
+    "explanation": "Exclamatory sentences use 'exclaimed' in reported speech, বিস্ময়সূচক বাক্যে reported speech এ 'exclaimed' ব্যবহৃত হয়।",
+    "level": "hard",
+    "topic": "Narration",
+    "exam": "hsc"
+  },
+  {
+    "id": 225,
+    "type": "fill",
+    "question": "Transform to passive: 'They are constructing a new bridge.'",
+    "options": [],
+    "answer": "A new bridge is being constructed.",
+    "explanation": "Present continuous active to present continuous passive, Present continuous active, present continuous passive এ পরিবর্তিত হয়।",
+    "level": "medium",
+    "topic": "Voice",
+    "exam": "hsc"
+  },
+  {
+    "id": 226,
+    "type": "mcq",
+    "question": "Which preposition is correct? 'He is proficient ______ English.'",
+    "options": [
+      "at",
+      "in",
+      "with",
+      "for"
+    ],
+    "answer": "in",
+    "explanation": "'Proficient in' is the correct collocation, 'Proficient in' সঠিক prepositional phrase।",
+    "level": "medium",
+    "topic": "Prepositions",
+    "exam": "hsc"
+  },
+  {
+    "id": 227,
+    "type": "short",
+    "question": "What is the antonym of 'ancient'?",
+    "options": [],
+    "answer": "modern",
+    "explanation": "Ancient means very old; modern means relating to present time, Ancient অর্থ প্রাচীন; modern অর্থ আধুনিক।",
+    "level": "easy",
+    "topic": "Antonyms",
+    "exam": "hsc"
+  },
+  {
+    "id": 228,
+    "type": "mcq",
+    "question": "Which tense is used: 'By next month, I will have completed my course.'",
+    "options": [
+      "Future Perfect",
+      "Future Continuous",
+      "Future Simple",
+      "Present Perfect"
+    ],
+    "answer": "Future Perfect",
+    "explanation": "Will have + past participle indicates future perfect tense, Will have + past participle ভবিষ্যৎ পূর্ণকাল নির্দেশ করে।",
+    "level": "hard",
+    "topic": "Tense",
+    "exam": "hsc"
+  },
+  {
+    "id": 229,
+    "type": "fill",
+    "question": "Add appropriate suffix: 'The ______ of the plan was unexpected.' (succeed)",
+    "options": [],
+    "answer": "success",
+    "explanation": "Noun form of 'succeed' is 'success', Succeed এর বিশেষ্য রূপ হলো success।",
+    "level": "medium",
+    "topic": "Suffix/Prefix",
+    "exam": "hsc"
+  },
+  {
+    "id": 230,
+    "type": "mcq",
+    "question": "What is the correct transformation? 'As soon as he saw me, he ran away.'",
+    "options": [
+      "No sooner did he see me than he ran away.",
+      "No sooner he saw me than he ran away.",
+      "No sooner had he seen me than he ran away.",
+      "Both A and C are correct"
+    ],
+    "answer": "Both A and C are correct",
+    "explanation": "Both simple past and past perfect can be used with 'no sooner...than', No sooner...than এর সাথে simple past ও past perfect উভয়ই ব্যবহার করা যায়।",
+    "level": "hard",
+    "topic": "Transformation",
+    "exam": "hsc"
+  },
+  {
+    "id": 231,
+    "type": "short",
+    "question": "What is the meaning of 'break the ice'?",
+    "options": [],
+    "answer": "To relieve tension in a social situation",
+    "explanation": "To make people feel more comfortable in social situations, সামাজিক পরিস্থিতিতে মানুষের মধ্যে স্বাচ্ছন্দ্য তৈরি করা।",
+    "level": "medium",
+    "topic": "Idioms & Phrases",
+    "exam": "hsc"
+  },
+  {
+    "id": 232,
+    "type": "mcq",
+    "question": "Choose the correct sentence:",
+    "options": [
+      "Each of the boys have their own room.",
+      "Each of the boys has his own room.",
+      "Each of the boys have his own room.",
+      "Each of the boys has their own room."
+    ],
+    "answer": "Each of the boys has his own room.",
+    "explanation": "'Each' is singular, requiring singular verb and singular pronoun, 'Each' একবচন, তাই একবচন verb ও pronoun প্রয়োজন।",
+    "level": "medium",
+    "topic": "Sentence Correction",
+    "exam": "hsc"
+  },
+  {
+    "id": 233,
+    "type": "fill",
+    "question": "Fill in the blank: 'He was accused ______ theft.'",
+    "options": [],
+    "answer": "of",
+    "explanation": "'Accused of' is the correct prepositional phrase, 'Accused of' সঠিক prepositional phrase।",
+    "level": "easy",
+    "topic": "Prepositions",
+    "exam": "hsc"
+  },
+  {
+    "id": 234,
+    "type": "mcq",
+    "question": "Which connector shows result?",
+    "options": [
+      "however",
+      "therefore",
+      "although",
+      "moreover"
+    ],
+    "answer": "therefore",
+    "explanation": "'Therefore' indicates consequence or result, 'Therefore' ফলাফল বা পরিণতি নির্দেশ করে।",
+    "level": "easy",
+    "topic": "Connectors",
+    "exam": "hsc"
+  },
+  {
+    "id": 235,
+    "type": "short",
+    "question": "What is the synonym of 'diligent'?",
+    "options": [],
+    "answer": "hardworking",
+    "explanation": "Diligent means having or showing care in one's work, Diligent অর্থ পরিশ্রমী ও যত্নশীল।",
+    "level": "medium",
+    "topic": "Synonyms",
+    "exam": "hsc"
+  },
+  {
+    "id": 236,
+    "type": "mcq",
+    "question": "Identify the correct indirect speech: 'He said, \"I must leave now.\"'",
+    "options": [
+      "He said that he must leave now.",
+      "He said that he had to leave then.",
+      "He said that he must leave then.",
+      "He said that he has to leave now."
+    ],
+    "answer": "He said that he had to leave then.",
+    "explanation": "'Must' often becomes 'had to' in reported speech; 'now' becomes 'then', Reported speech এ 'must' প্রায়ই 'had to' তে পরিবর্তিত হয়; 'now' 'then' এ পরিবর্তিত হয়।",
+    "level": "hard",
+    "topic": "Narration",
+    "exam": "hsc"
+  },
+  {
+    "id": 237,
+    "type": "fill",
+    "question": "Complete: 'She is the ______ girl I have ever met.' (intelligent)",
+    "options": [],
+    "answer": "most intelligent",
+    "explanation": "Superlative form for adjectives with three or more syllables, তিন বা ততোধিক syllable বিশেষণের superlative form।",
+    "level": "easy",
+    "topic": "Comparison",
+    "exam": "hsc"
+  },
+  {
+    "id": 238,
+    "type": "mcq",
+    "question": "Which phrasal verb means 'to investigate'?",
+    "options": [
+      "look into",
+      "look up",
+      "look after",
+      "look for"
+    ],
+    "answer": "look into",
+    "explanation": "'Look into' means to examine or investigate, 'Look into' অর্থ তদন্ত বা পরীক্ষা করা।",
+    "level": "medium",
+    "topic": "Phrasal Verbs",
+    "exam": "hsc"
+  },
+  {
+    "id": 239,
+    "type": "short",
+    "question": "What is the one-word for 'a person who hates women'?",
+    "options": [],
+    "answer": "misogynist",
+    "explanation": "From Greek: misos (hatred) + gyne (woman), যে ব্যক্তি নারীদের ঘৃণা করে।",
+    "level": "hard",
+    "topic": "One Word Substitution",
+    "exam": "hsc"
+  },
+  {
+    "id": 240,
+    "type": "mcq",
+    "question": "Which conditional type is this? 'If water reaches 100°C, it boils.'",
+    "options": [
+      "Zero conditional",
+      "First conditional",
+      "Second conditional",
+      "Third conditional"
+    ],
+    "answer": "Zero conditional",
+    "explanation": "Zero conditional for scientific facts and general truths, বৈজ্ঞানিক সত্য ও সাধারণ সত্যের জন্য জিরো কন্ডিশনাল।",
+    "level": "medium",
+    "topic": "Conditional Sentences",
+    "exam": "hsc"
+  },
+  {
+    "id": 241,
+    "type": "fill",
+    "question": "Transform: 'He is too weak to walk.' (Use: so...that)",
+    "options": [],
+    "answer": "He is so weak that he cannot walk.",
+    "explanation": "Too...to can be transformed to so...that with negative result, Too...to, so...that + negative এ রূপান্তর করা যায়।",
+    "level": "medium",
+    "topic": "Transformation",
+    "exam": "hsc"
+  },
+  {
+    "id": 242,
+    "type": "mcq",
+    "question": "Choose the correct article: 'He is ______ university student.'",
+    "options": [
+      "a",
+      "an",
+      "the",
+      "no article"
+    ],
+    "answer": "a",
+    "explanation": "'University' begins with consonant sound (yoo), so 'a' is used, 'University' consonant sound (yoo) দিয়ে শুরু হয়, তাই 'a' ব্যবহৃত হয়।",
+    "level": "easy",
+    "topic": "Articles",
+    "exam": "hsc"
+  },
+  {
+    "id": 243,
+    "type": "short",
+    "question": "What is the past tense of 'bring'?",
+    "options": [],
+    "answer": "brought",
+    "explanation": "Bring - brought - brought are the three forms, Bring এর past tense হলো brought।",
+    "level": "easy",
+    "topic": "Tense",
+    "exam": "hsc"
+  },
+  {
+    "id": 244,
+    "type": "mcq",
+    "question": "Which sentence has a dangling modifier?",
+    "options": [
+      "After finishing homework, the TV was turned on.",
+      "After finishing homework, I turned on the TV.",
+      "I turned on the TV after finishing homework.",
+      "The TV was turned on after I finished homework."
+    ],
+    "answer": "After finishing homework, the TV was turned on.",
+    "explanation": "Dangling modifier incorrectly modifies 'TV' instead of a person, Dangling modifier ভুলভাবে 'TV' কে modify করে ব্যক্তির পরিবর্তে।",
+    "level": "hard",
+    "topic": "Modifiers",
+    "exam": "hsc"
+  },
+  {
+    "id": 245,
+    "type": "fill",
+    "question": "Complete the tag: 'Nobody came, ______?'",
+    "options": [],
+    "answer": "did they",
+    "explanation": "With 'nobody', use positive tag with 'they', 'Nobody' এর সাথে positive tag ও 'they' ব্যবহার করা হয়।",
+    "level": "hard",
+    "topic": "Tag Questions",
+    "exam": "hsc"
+  },
+  {
+    "id": 246,
+    "type": "mcq",
+    "question": "What is the antonym of 'generous'?",
+    "options": [
+      "kind",
+      "selfish",
+      "giving",
+      "charitable"
+    ],
+    "answer": "selfish",
+    "explanation": "Generous means giving freely; selfish means concerned chiefly with oneself, Generous অর্থ উদার; selfish অর্থ স্বার্থপর।",
+    "level": "easy",
+    "topic": "Antonyms",
+    "exam": "hsc"
+  },
+  {
+    "id": 247,
+    "type": "short",
+    "question": "What does 'cost an arm and a leg' mean?",
+    "options": [],
+    "answer": "Very expensive",
+    "explanation": "Idiom meaning something is extremely costly, কিছু অত্যন্ত ব্যয়বহুল বোঝায়।",
+    "level": "medium",
+    "topic": "Idioms & Phrases",
+    "exam": "hsc"
+  },
+  {
+    "id": 248,
+    "type": "mcq",
+    "question": "Choose the correct passive: 'They gave him a reward.'",
+    "options": [
+      "He was given a reward.",
+      "A reward was given to him.",
+      "Both A and B are correct",
+      "Only A is correct"
+    ],
+    "answer": "Both A and B are correct",
+    "explanation": "Verbs with two objects can form passive in two ways, দুইটি object থাকলে passive voice দুইভাবে গঠন করা যায়।",
+    "level": "medium",
+    "topic": "Voice",
+    "exam": "hsc"
+  },
+  {
+    "id": 249,
+    "type": "fill",
+    "question": "Fill in: 'She is keen ______ learning Spanish.'",
+    "options": [],
+    "answer": "on",
+    "explanation": "'Keen on' means enthusiastic about something, 'Keen on' অর্থ কোন কিছুতে আগ্রহী।",
+    "level": "medium",
+    "topic": "Prepositions",
+    "exam": "hsc"
+  },
+  {
+    "id": 250,
+    "type": "mcq",
+    "question": "Which tense is correct? 'I ______ here since childhood.'",
+    "options": [
+      "have been living",
+      "am living",
+      "was living",
+      "lived"
+    ],
+    "answer": "have been living",
+    "explanation": "Present perfect continuous for action starting in past continuing to present, অতীতে শুরু হয়ে বর্তমান পর্যন্ত চলমান কাজের জন্য present perfect continuous।",
+    "level": "medium",
+    "topic": "Tense",
+    "exam": "hsc"
   }
 
 
 
 
+
 ]
+
 
