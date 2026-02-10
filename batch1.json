@@ -1620,8 +1620,1098 @@
     "level": "medium",
     "topic": "Voice",
     "exam": "hsc"
+  },
+  
+
+
+
+
+
+
+
+  {
+    "id": 121,
+    "type": "mcq",
+    "question": "Which sentence is in simple present tense?",
+    "options": [
+      "She goes to school every day.",
+      "She is going to school.",
+      "She went to school.",
+      "She has gone to school."
+    ],
+    "answer": "She goes to school every day.",
+    "explanation": "Simple present tense uses base verb + s/es for third person singular, indicating habitual action.",
+    "level": "easy",
+    "topic": "Tense",
+    "exam": "hsc"
+  },
+  {
+    "id": 122,
+    "type": "fill",
+    "question": "Fill in the blank with correct form of 'be': 'I ______ a student.'",
+    "options": [],
+    "answer": "am",
+    "explanation": "'Am' is used with first person singular (I).",
+    "level": "easy",
+    "topic": "Tense",
+    "exam": "hsc"
+  },
+  {
+    "id": 123,
+    "type": "short",
+    "question": "What is the opposite of 'happy'?",
+    "options": [],
+    "answer": "sad",
+    "explanation": "Happy means feeling pleasure; sad means feeling sorrow.",
+    "level": "easy",
+    "topic": "Antonyms",
+    "exam": "hsc"
+  },
+  {
+    "id": 124,
+    "type": "mcq",
+    "question": "Choose the correct plural form of 'child':",
+    "options": [
+      "childs",
+      "children",
+      "childes",
+      "child's"
+    ],
+    "answer": "children",
+    "explanation": "Child has irregular plural form 'children'.",
+    "level": "easy",
+    "topic": "Grammar",
+    "exam": "hsc"
+  },
+  {
+    "id": 125,
+    "type": "fill",
+    "question": "Fill in the blank with 'a' or 'an': 'He is ______ honest man.'",
+    "options": [],
+    "answer": "an",
+    "explanation": "'Honest' begins with a vowel sound (o sound), so 'an' is used.",
+    "level": "easy",
+    "topic": "Articles",
+    "exam": "hsc"
+  },
+  {
+    "id": 126,
+    "type": "mcq",
+    "question": "Which word is a noun?",
+    "options": [
+      "beautiful",
+      "run",
+      "happiness",
+      "quickly"
+    ],
+    "answer": "happiness",
+    "explanation": "Happiness is a noun (abstract noun). Beautiful is adjective, run is verb, quickly is adverb.",
+    "level": "easy",
+    "topic": "Grammar",
+    "exam": "hsc"
+  },
+  {
+    "id": 127,
+    "type": "short",
+    "question": "What is the synonym of 'big'?",
+    "options": [],
+    "answer": "large",
+    "explanation": "Both big and large mean of considerable size.",
+    "level": "easy",
+    "topic": "Synonyms",
+    "exam": "hsc"
+  },
+  {
+    "id": 128,
+    "type": "mcq",
+    "question": "Which sentence is correct?",
+    "options": [
+      "She don't like apples.",
+      "She doesn't likes apples.",
+      "She doesn't like apples.",
+      "She not like apples."
+    ],
+    "answer": "She doesn't like apples.",
+    "explanation": "Third person singular (she) requires 'does not' + base verb.",
+    "level": "easy",
+    "topic": "Sentence Correction",
+    "exam": "hsc"
+  },
+  {
+    "id": 129,
+    "type": "fill",
+    "question": "Complete the sentence: 'The cat is sleeping ______ the chair.'",
+    "options": [],
+    "answer": "under",
+    "explanation": "Common preposition indicating position.",
+    "level": "easy",
+    "topic": "Prepositions",
+    "exam": "hsc"
+  },
+  {
+    "id": 130,
+    "type": "mcq",
+    "question": "What is the past tense of 'go'?",
+    "options": [
+      "goed",
+      "went",
+      "gone",
+      "going"
+    ],
+    "answer": "went",
+    "explanation": "Go has irregular past tense 'went'.",
+    "level": "easy",
+    "topic": "Tense",
+    "exam": "hsc"
+  },
+  {
+    "id": 131,
+    "type": "short",
+    "question": "What does 'break a leg' mean?",
+    "options": [],
+    "answer": "Good luck",
+    "explanation": "Theatrical idiom wishing someone good luck before a performance.",
+    "level": "easy",
+    "topic": "Idioms & Phrases",
+    "exam": "hsc"
+  },
+  {
+    "id": 132,
+    "type": "mcq",
+    "question": "Which is a correct question form?",
+    "options": [
+      "Where you live?",
+      "Where do you live?",
+      "Where does you live?",
+      "Where are you live?"
+    ],
+    "answer": "Where do you live?",
+    "explanation": "For present simple questions with 'you', use 'do' + subject + base verb.",
+    "level": "easy",
+    "topic": "Grammar",
+    "exam": "hsc"
+  },
+  {
+    "id": 133,
+    "type": "fill",
+    "question": "Fill in the blank: 'She is ______ than her sister.' (tall)",
+    "options": [],
+    "answer": "taller",
+    "explanation": "Comparative form of 'tall' is 'taller'.",
+    "level": "easy",
+    "topic": "Comparison",
+    "exam": "hsc"
+  },
+  {
+    "id": 134,
+    "type": "mcq",
+    "question": "What is the feminine of 'actor'?",
+    "options": [
+      "actor",
+      "actress",
+      "actoress",
+      "acting"
+    ],
+    "answer": "actress",
+    "explanation": "Feminine form of actor is actress.",
+    "level": "easy",
+    "topic": "Grammar",
+    "exam": "hsc"
+  },
+  {
+    "id": 135,
+    "type": "short",
+    "question": "What is the one-word for 'a building where books are kept'?",
+    "options": [],
+    "answer": "library",
+    "explanation": "A library is a place where books are kept for reading or borrowing.",
+    "level": "easy",
+    "topic": "One Word Substitution",
+    "exam": "hsc"
+  },
+  {
+    "id": 136,
+    "type": "mcq",
+    "question": "Choose the correct spelling:",
+    "options": [
+      "recieve",
+      "receive",
+      "recieve",
+      "receve"
+    ],
+    "answer": "receive",
+    "explanation": "Correct spelling follows 'i before e except after c' rule.",
+    "level": "easy",
+    "topic": "Vocabulary",
+    "exam": "hsc"
+  },
+  {
+    "id": 137,
+    "type": "fill",
+    "question": "Fill in the blank with correct verb: 'They ______ playing football.' (be)",
+    "options": [],
+    "answer": "are",
+    "explanation": "'Are' is used with plural subject 'they'.",
+    "level": "easy",
+    "topic": "Tense",
+    "exam": "hsc"
+  },
+  {
+    "id": 138,
+    "type": "mcq",
+    "question": "Which is a pronoun?",
+    "options": [
+      "book",
+      "beautiful",
+      "he",
+      "quickly"
+    ],
+    "answer": "he",
+    "explanation": "He is a personal pronoun. Book is noun, beautiful is adjective, quickly is adverb.",
+    "level": "easy",
+    "topic": "Grammar",
+    "exam": "hsc"
+  },
+  {
+    "id": 139,
+    "type": "short",
+    "question": "What is the past participle of 'eat'?",
+    "options": [],
+    "answer": "eaten",
+    "explanation": "Past participle of eat is eaten.",
+    "level": "easy",
+    "topic": "Tense",
+    "exam": "hsc"
+  },
+  {
+    "id": 140,
+    "type": "mcq",
+    "question": "Choose the correct sentence:",
+    "options": [
+      "I have two brother.",
+      "I have two brothers.",
+      "I has two brothers.",
+      "I have two brother's."
+    ],
+    "answer": "I have two brothers.",
+    "explanation": "Plural noun needed after number; correct verb is 'have' for 'I'.",
+    "level": "easy",
+    "topic": "Sentence Correction",
+    "exam": "hsc"
+  },
+  {
+    "id": 141,
+    "type": "fill",
+    "question": "Complete: 'Please turn ______ the light.' (phrasal verb meaning switch on)",
+    "options": [],
+    "answer": "on",
+    "explanation": "'Turn on' means to switch on electrical devices.",
+    "level": "easy",
+    "topic": "Phrasal Verbs",
+    "exam": "hsc"
+  },
+  {
+    "id": 142,
+    "type": "mcq",
+    "question": "What is the synonym of 'begin'?",
+    "options": [
+      "end",
+      "start",
+      "finish",
+      "stop"
+    ],
+    "answer": "start",
+    "explanation": "Both begin and start mean to commence.",
+    "level": "easy",
+    "topic": "Synonyms",
+    "exam": "hsc"
+  },
+  {
+    "id": 143,
+    "type": "short",
+    "question": "What is the contraction of 'cannot'?",
+    "options": [],
+    "answer": "can't",
+    "explanation": "Cannot contracts to can't.",
+    "level": "easy",
+    "topic": "Grammar",
+    "exam": "hsc"
+  },
+  {
+    "id": 144,
+    "type": "mcq",
+    "question": "Which is a vowel?",
+    "options": [
+      "b",
+      "c",
+      "e",
+      "t"
+    ],
+    "answer": "e",
+    "explanation": "Vowels are a, e, i, o, u. Others are consonants.",
+    "level": "easy",
+    "topic": "Grammar",
+    "exam": "hsc"
+  },
+  {
+    "id": 145,
+    "type": "fill",
+    "question": "Fill in the blank: 'She ______ to school yesterday.' (go)",
+    "options": [],
+    "answer": "went",
+    "explanation": "Past tense of go is went.",
+    "level": "easy",
+    "topic": "Tense",
+    "exam": "hsc"
+  },
+  {
+    "id": 146,
+    "type": "mcq",
+    "question": "What is the opposite of 'day'?",
+    "options": [
+      "morning",
+      "evening",
+      "night",
+      "noon"
+    ],
+    "answer": "night",
+    "explanation": "Day and night are opposites.",
+    "level": "easy",
+    "topic": "Antonyms",
+    "exam": "hsc"
+  },
+  {
+    "id": 147,
+    "type": "short",
+    "question": "What is the plural of 'box'?",
+    "options": [],
+    "answer": "boxes",
+    "explanation": "Words ending in x form plural by adding -es.",
+    "level": "easy",
+    "topic": "Grammar",
+    "exam": "hsc"
+  },
+  {
+    "id": 148,
+    "type": "mcq",
+    "question": "Choose the correct word: 'She speaks English ______.'",
+    "options": [
+      "good",
+      "well",
+      "goodly",
+      "best"
+    ],
+    "answer": "well",
+    "explanation": "'Well' is the adverb modifying the verb 'speaks'.",
+    "level": "easy",
+    "topic": "Grammar",
+    "exam": "hsc"
+  },
+  {
+    "id": 149,
+    "type": "fill",
+    "question": "Complete: 'My father is a doctor. ______ works in a hospital.'",
+    "options": [],
+    "answer": "He",
+    "explanation": "Pronoun 'He' refers back to 'My father'.",
+    "level": "easy",
+    "topic": "Grammar",
+    "exam": "hsc"
+  },
+  {
+    "id": 150,
+    "type": "mcq",
+    "question": "Which is a complete sentence?",
+    "options": [
+      "The big red ball.",
+      "Running in the park.",
+      "She reads books.",
+      "After school yesterday."
+    ],
+    "answer": "She reads books.",
+    "explanation": "Only this option has both subject (She) and predicate (reads books).",
+    "level": "easy",
+    "topic": "Grammar",
+    "exam": "hsc"
+  },
+  {
+    "id": 151,
+    "type": "short",
+    "question": "What does 'once in a blue moon' mean?",
+    "options": [],
+    "answer": "Very rarely",
+    "explanation": "Idiom meaning something that happens very infrequently.",
+    "level": "easy",
+    "topic": "Idioms & Phrases",
+    "exam": "hsc"
+  },
+  {
+    "id": 152,
+    "type": "mcq",
+    "question": "What is the present continuous form of 'play'?",
+    "options": [
+      "played",
+      "playing",
+      "plays",
+      "play"
+    ],
+    "answer": "playing",
+    "explanation": "Present participle/gerund form is 'playing'.",
+    "level": "easy",
+    "topic": "Tense",
+    "exam": "hsc"
+  },
+  {
+    "id": 153,
+    "type": "fill",
+    "question": "Fill in: 'There are ______ apples in the basket.' (many/much)",
+    "options": [],
+    "answer": "many",
+    "explanation": "'Many' is used with countable nouns (apples).",
+    "level": "easy",
+    "topic": "Grammar",
+    "exam": "hsc"
+  },
+  {
+    "id": 154,
+    "type": "mcq",
+    "question": "Which word rhymes with 'cat'?",
+    "options": [
+      "cot",
+      "cut",
+      "bat",
+      "bite"
+    ],
+    "answer": "bat",
+    "explanation": "Bat rhymes with cat (same -at ending).",
+    "level": "easy",
+    "topic": "Vocabulary",
+    "exam": "hsc"
+  },
+  {
+    "id": 155,
+    "type": "short",
+    "question": "What is the comparative of 'good'?",
+    "options": [],
+    "answer": "better",
+    "explanation": "Good has irregular comparative form 'better'.",
+    "level": "easy",
+    "topic": "Comparison",
+    "exam": "hsc"
+  },
+  {
+    "id": 156,
+    "type": "mcq",
+    "question": "Choose the correct punctuation:",
+    "options": [
+      "Whats your name",
+      "What's your name.",
+      "What's your name?",
+      "whats your name?"
+    ],
+    "answer": "What's your name?",
+    "explanation": "Correct capitalization, contraction, and question mark.",
+    "level": "easy",
+    "topic": "Grammar",
+    "exam": "hsc"
+  },
+  {
+    "id": 157,
+    "type": "fill",
+    "question": "Complete: 'The sun rises ______ the east.'",
+    "options": [],
+    "answer": "in",
+    "explanation": "Standard preposition for directions is 'in'.",
+    "level": "easy",
+    "topic": "Prepositions",
+    "exam": "hsc"
+  },
+  {
+    "id": 158,
+    "type": "mcq",
+    "question": "What is the antonym of 'hot'?",
+    "options": [
+      "warm",
+      "cold",
+      "boiling",
+      "heat"
+    ],
+    "answer": "cold",
+    "explanation": "Hot and cold are temperature opposites.",
+    "level": "easy",
+    "topic": "Antonyms",
+    "exam": "hsc"
+  },
+  {
+    "id": 159,
+    "type": "short",
+    "question": "What is the one-word for 'a person who teaches'?",
+    "options": [],
+    "answer": "teacher",
+    "explanation": "Teacher is someone who teaches.",
+    "level": "easy",
+    "topic": "One Word Substitution",
+    "exam": "hsc"
+  },
+  {
+    "id": 160,
+    "type": "mcq",
+    "question": "Which is correct?",
+    "options": [
+      "These are my book.",
+      "This are my books.",
+      "These are my books.",
+      "This is my books."
+    ],
+    "answer": "These are my books.",
+    "explanation": "'These' (plural) matches 'are' and 'books' (plural).",
+    "level": "easy",
+    "topic": "Sentence Correction",
+    "exam": "hsc"
+  },
+  {
+    "id": 161,
+    "type": "fill",
+    "question": "Complete: 'I will call you ______ I arrive.'",
+    "options": [],
+    "answer": "when",
+    "explanation": "'When' introduces time clause.",
+    "level": "easy",
+    "topic": "Connectors",
+    "exam": "hsc"
+  },
+  {
+    "id": 162,
+    "type": "mcq",
+    "question": "What is the passive voice of: 'He writes a letter.'",
+    "options": [
+      "A letter is written by him.",
+      "A letter was written by him.",
+      "A letter wrote by him.",
+      "A letter is wrote by him."
+    ],
+    "answer": "A letter is written by him.",
+    "explanation": "Present simple active becomes present simple passive.",
+    "level": "easy",
+    "topic": "Voice",
+    "exam": "hsc"
+  },
+  {
+    "id": 163,
+    "type": "short",
+    "question": "What is the synonym of 'fast'?",
+    "options": [],
+    "answer": "quick",
+    "explanation": "Both fast and quick mean moving or able to move quickly.",
+    "level": "easy",
+    "topic": "Synonyms",
+    "exam": "hsc"
+  },
+  {
+    "id": 164,
+    "type": "mcq",
+    "question": "Which is an adjective?",
+    "options": [
+      "run",
+      "beautifully",
+      "beauty",
+      "beautiful"
+    ],
+    "answer": "beautiful",
+    "explanation": "Beautiful is adjective. Run is verb, beautifully is adverb, beauty is noun.",
+    "level": "easy",
+    "topic": "Grammar",
+    "exam": "hsc"
+  },
+  {
+    "id": 165,
+    "type": "fill",
+    "question": "Complete: 'If it rains, we ______ cancel the picnic.'",
+    "options": [],
+    "answer": "will",
+    "explanation": "First conditional: If + present, will + base verb.",
+    "level": "easy",
+    "topic": "Conditional Sentences",
+    "exam": "hsc"
+  },
+  {
+    "id": 166,
+    "type": "mcq",
+    "question": "What is the past tense of 'see'?",
+    "options": [
+      "seen",
+      "saw",
+      "seeed",
+      "sawed"
+    ],
+    "answer": "saw",
+    "explanation": "Past tense of see is saw.",
+    "level": "easy",
+    "topic": "Tense",
+    "exam": "hsc"
+  },
+  {
+    "id": 167,
+    "type": "short",
+    "question": "What is the meaning of 'phrasal verb'?",
+    "options": [],
+    "answer": "A verb combined with a preposition or adverb",
+    "explanation": "Phrasal verb = verb + particle with idiomatic meaning.",
+    "level": "easy",
+    "topic": "Phrasal Verbs",
+    "exam": "hsc"
+  },
+  {
+    "id": 168,
+    "type": "mcq",
+    "question": "Choose the correct word: 'Please give me ______ water.'",
+    "options": [
+      "a",
+      "an",
+      "some",
+      "the"
+    ],
+    "answer": "some",
+    "explanation": "'Some' is used with uncountable nouns like water in affirmative sentences.",
+    "level": "easy",
+    "topic": "Articles",
+    "exam": "hsc"
+  },
+  {
+    "id": 169,
+    "type": "fill",
+    "question": "Complete: 'She is the ______ girl in the class.' (tall)",
+    "options": [],
+    "answer": "tallest",
+    "explanation": "Superlative form of tall is tallest.",
+    "level": "easy",
+    "topic": "Comparison",
+    "exam": "hsc"
+  },
+  {
+    "id": 170,
+    "type": "mcq",
+    "question": "Which is a conjunction?",
+    "options": [
+      "and",
+      "happy",
+      "quickly",
+      "book"
+    ],
+    "answer": "and",
+    "explanation": "And is a conjunction connecting words or phrases.",
+    "level": "easy",
+    "topic": "Grammar",
+    "exam": "hsc"
+  },
+  {
+    "id": 171,
+    "type": "short",
+    "question": "What is the opposite of 'rich'?",
+    "options": [],
+    "answer": "poor",
+    "explanation": "Rich means having much money; poor means having little money.",
+    "level": "easy",
+    "topic": "Antonyms",
+    "exam": "hsc"
+  },
+  {
+    "id": 172,
+    "type": "mcq",
+    "question": "What is the indirect speech of: 'He said, \"I am tired.\"'",
+    "options": [
+      "He said that he is tired.",
+      "He said that he was tired.",
+      "He said that I am tired.",
+      "He said that I was tired."
+    ],
+    "answer": "He said that he was tired.",
+    "explanation": "Present tense changes to past tense in reported speech.",
+    "level": "easy",
+    "topic": "Narration",
+    "exam": "hsc"
+  },
+  {
+    "id": 173,
+    "type": "fill",
+    "question": "Complete: 'The book is ______ the table.'",
+    "options": [],
+    "answer": "on",
+    "explanation": "'On' indicates position above and in contact with surface.",
+    "level": "easy",
+    "topic": "Prepositions",
+    "exam": "hsc"
+  },
+  {
+    "id": 174,
+    "type": "mcq",
+    "question": "Which is a correct negative sentence?",
+    "options": [
+      "I no like coffee.",
+      "I don't like coffee.",
+      "I doesn't like coffee.",
+      "I not like coffee."
+    ],
+    "answer": "I don't like coffee.",
+    "explanation": "Correct negative form for first person present simple.",
+    "level": "easy",
+    "topic": "Sentence Correction",
+    "exam": "hsc"
+  },
+  {
+    "id": 175,
+    "type": "short",
+    "question": "What does 'it's raining cats and dogs' mean?",
+    "options": [],
+    "answer": "Raining heavily",
+    "explanation": "Idiom meaning very heavy rain.",
+    "level": "easy",
+    "topic": "Idioms & Phrases",
+    "exam": "hsc"
+  },
+  {
+    "id": 176,
+    "type": "mcq",
+    "question": "What is the plural of 'tooth'?",
+    "options": [
+      "tooths",
+      "teeth",
+      "toothes",
+      "teeths"
+    ],
+    "answer": "teeth",
+    "explanation": "Tooth has irregular plural form 'teeth'.",
+    "level": "easy",
+    "topic": "Grammar",
+    "exam": "hsc"
+  },
+  {
+    "id": 177,
+    "type": "fill",
+    "question": "Complete: 'She ______ breakfast every morning.' (have)",
+    "options": [],
+    "answer": "has",
+    "explanation": "Third person singular present simple: has.",
+    "level": "easy",
+    "topic": "Tense",
+    "exam": "hsc"
+  },
+  {
+    "id": 178,
+    "type": "mcq",
+    "question": "Which is correct?",
+    "options": [
+      "Me and my friend are going.",
+      "My friend and me are going.",
+      "My friend and I are going.",
+      "I and my friend are going."
+    ],
+    "answer": "My friend and I are going.",
+    "explanation": "Subject pronoun 'I' should come after others for politeness.",
+    "level": "easy",
+    "topic": "Grammar",
+    "exam": "hsc"
+  },
+  {
+    "id": 179,
+    "type": "short",
+    "question": "What is the past participle of 'write'?",
+    "options": [],
+    "answer": "written",
+    "explanation": "Past participle of write is written.",
+    "level": "easy",
+    "topic": "Tense",
+    "exam": "hsc"
+  },
+  {
+    "id": 180,
+    "type": "mcq",
+    "question": "Choose the correct spelling:",
+    "options": [
+      "accomodate",
+      "acommodate",
+      "accommodate",
+      "accomodate"
+    ],
+    "answer": "accommodate",
+    "explanation": "Correct spelling has double c and double m.",
+    "level": "easy",
+    "topic": "Vocabulary",
+    "exam": "hsc"
+  },
+  {
+    "id": 181,
+    "type": "fill",
+    "question": "Complete: 'He is afraid ______ spiders.'",
+    "options": [],
+    "answer": "of",
+    "explanation": "'Afraid of' is correct prepositional phrase.",
+    "level": "easy",
+    "topic": "Prepositions",
+    "exam": "hsc"
+  },
+  {
+    "id": 182,
+    "type": "mcq",
+    "question": "What is the synonym of 'smart'?",
+    "options": [
+      "stupid",
+      "intelligent",
+      "slow",
+      "dull"
+    ],
+    "answer": "intelligent",
+    "explanation": "Both smart and intelligent mean having quick mental capacity.",
+    "level": "easy",
+    "topic": "Synonyms",
+    "exam": "hsc"
+  },
+  {
+    "id": 183,
+    "type": "short",
+    "question": "What is the one-word for 'a place where patients are treated'?",
+    "options": [],
+    "answer": "hospital",
+    "explanation": "Hospital is a place for medical treatment.",
+    "level": "easy",
+    "topic": "One Word Substitution",
+    "exam": "hsc"
+  },
+  {
+    "id": 184,
+    "type": "mcq",
+    "question": "Which sentence uses 'too' correctly?",
+    "options": [
+      "I am too happy.",
+      "It's too hot to go out.",
+      "She is too beautiful girl.",
+      "He runs too fastly."
+    ],
+    "answer": "It's too hot to go out.",
+    "explanation": "'Too' means excessively and is correctly used with infinitive 'to go'.",
+    "level": "easy",
+    "topic": "Grammar",
+    "exam": "hsc"
+  },
+  {
+    "id": 185,
+    "type": "fill",
+    "question": "Complete: 'They have ______ finished their work.' (just/yet)",
+    "options": [],
+    "answer": "just",
+    "explanation": "'Just' indicates recent completion in present perfect.",
+    "level": "easy",
+    "topic": "Tense",
+    "exam": "hsc"
+  },
+  {
+    "id": 186,
+    "type": "mcq",
+    "question": "What is the feminine of 'king'?",
+    "options": [
+      "king",
+      "queen",
+      "prince",
+      "princess"
+    ],
+    "answer": "queen",
+    "explanation": "Feminine counterpart of king is queen.",
+    "level": "easy",
+    "topic": "Grammar",
+    "exam": "hsc"
+  },
+  {
+    "id": 187,
+    "type": "short",
+    "question": "What is the antonym of 'above'?",
+    "options": [],
+    "answer": "below",
+    "explanation": "Above means higher than; below means lower than.",
+    "level": "easy",
+    "topic": "Antonyms",
+    "exam": "hsc"
+  },
+  {
+    "id": 188,
+    "type": "mcq",
+    "question": "Choose correct tag question: 'You like coffee, ______?'",
+    "options": [
+      "do you",
+      "don't you",
+      "like you",
+      "you do"
+    ],
+    "answer": "don't you",
+    "explanation": "Positive statement requires negative tag.",
+    "level": "easy",
+    "topic": "Tag Questions",
+    "exam": "hsc"
+  },
+  {
+    "id": 189,
+    "type": "fill",
+    "question": "Complete: 'She is good ______ singing.'",
+    "options": [],
+    "answer": "at",
+    "explanation": "'Good at' indicates skill in an activity.",
+    "level": "easy",
+    "topic": "Prepositions",
+    "exam": "hsc"
+  },
+  {
+    "id": 190,
+    "type": "mcq",
+    "question": "Which is an adverb?",
+    "options": [
+      "quick",
+      "quickly",
+      "quickness",
+      "quicken"
+    ],
+    "answer": "quickly",
+    "explanation": "Quickly is adverb. Quick is adjective, quickness is noun, quicken is verb.",
+    "level": "easy",
+    "topic": "Grammar",
+    "exam": "hsc"
+  },
+  {
+    "id": 191,
+    "type": "short",
+    "question": "What is the meaning of 'look after'?",
+    "options": [],
+    "answer": "take care of",
+    "explanation": "Phrasal verb meaning to care for someone or something.",
+    "level": "easy",
+    "topic": "Phrasal Verbs",
+    "exam": "hsc"
+  },
+  {
+    "id": 192,
+    "type": "mcq",
+    "question": "What is the correct order?",
+    "options": [
+      "a red big ball",
+      "a big red ball",
+      "big a red ball",
+      "red a big ball"
+    ],
+    "answer": "a big red ball",
+    "explanation": "Correct adjective order: size before color.",
+    "level": "easy",
+    "topic": "Grammar",
+    "exam": "hsc"
+  },
+  {
+    "id": 193,
+    "type": "fill",
+    "question": "Complete: 'I ______ seen that movie before.' (have/has)",
+    "options": [],
+    "answer": "have",
+    "explanation": "'Have' is used with first person singular.",
+    "level": "easy",
+    "topic": "Tense",
+    "exam": "hsc"
+  },
+  {
+    "id": 194,
+    "type": "mcq",
+    "question": "Which is a compound word?",
+    "options": [
+      "book",
+      "classroom",
+      "teacher",
+      "student"
+    ],
+    "answer": "classroom",
+    "explanation": "Compound word formed from class + room.",
+    "level": "easy",
+    "topic": "Vocabulary",
+    "exam": "hsc"
+  },
+  {
+    "id": 195,
+    "type": "short",
+    "question": "What is the superlative of 'bad'?",
+    "options": [],
+    "answer": "worst",
+    "explanation": "Bad has irregular superlative form 'worst'.",
+    "level": "easy",
+    "topic": "Comparison",
+    "exam": "hsc"
+  },
+  {
+    "id": 196,
+    "type": "mcq",
+    "question": "Choose correct punctuation:",
+    "options": [
+      "That is Mary's book.",
+      "That is Marys book.",
+      "That is Marys' book.",
+      "That is Marys's book."
+    ],
+    "answer": "That is Mary's book.",
+    "explanation": "Correct possessive form for singular noun ending in consonant.",
+    "level": "easy",
+    "topic": "Grammar",
+    "exam": "hsc"
+  },
+  {
+    "id": 197,
+    "type": "fill",
+    "question": "Complete: 'We go to school ______ bus.'",
+    "options": [],
+    "answer": "by",
+    "explanation": "'By' indicates means of transportation.",
+    "level": "easy",
+    "topic": "Prepositions",
+    "exam": "hsc"
+  },
+  {
+    "id": 198,
+    "type": "mcq",
+    "question": "What is the indirect speech of: 'She said, \"I can help.\"'",
+    "options": [
+      "She said that she can help.",
+      "She said that she could help.",
+      "She said that I can help.",
+      "She said that I could help."
+    ],
+    "answer": "She said that she could help.",
+    "explanation": "'Can' changes to 'could' in reported speech.",
+    "level": "easy",
+    "topic": "Narration",
+    "exam": "hsc"
+  },
+  {
+    "id": 199,
+    "type": "short",
+    "question": "What does 'piece of cake' mean?",
+    "options": [],
+    "answer": "Very easy",
+    "explanation": "Idiom meaning something is very easy to do.",
+    "level": "easy",
+    "topic": "Idioms & Phrases",
+    "exam": "hsc"
+  },
+  {
+    "id": 200,
+    "type": "mcq",
+    "question": "Which is correct?",
+    "options": [
+      "He don't have any money.",
+      "He doesn't has any money.",
+      "He doesn't have any money.",
+      "He don't has any money."
+    ],
+    "answer": "He doesn't have any money.",
+    "explanation": "Third person singular negative: doesn't + base verb.",
+    "level": "easy",
+    "topic": "Sentence Correction",
+    "exam": "hsc"
   }
 
 
 
+
 ]
+
