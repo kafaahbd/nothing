@@ -1,0 +1,949 @@
+[
+  {
+    "id": 1,
+    "type": "mcq",
+    "question": "Which of the following sentences is in the present perfect continuous tense?",
+    "options": [
+      "She has been studying for three hours.",
+      "She studied for three hours.",
+      "She studies for three hours daily.",
+      "She had been studying for three hours."
+    ],
+    "answer": "She has been studying for three hours.",
+    "explanation": "Present perfect continuous tense uses 'has/have been + present participle' to indicate an action that started in the past and is still continuing.",
+    "level": "medium",
+    "topic": "Tense",
+    "exam": "hsc"
+  },
+  {
+    "id": 2,
+    "type": "fill",
+    "question": "The teacher said, 'The earth ______ round the sun.' Complete the sentence with the correct form of the verb 'move' in indirect speech.",
+    "options": [],
+    "answer": "moves",
+    "explanation": "In indirect speech, universal truths remain in present tense. The original direct speech 'The earth moves round the sun' becomes 'The teacher said that the earth moves round the sun.'",
+    "level": "medium",
+    "topic": "Narration",
+    "exam": "hsc"
+  },
+  {
+    "id": 3,
+    "type": "short",
+    "question": "What is the antonym of 'ephemeral'? Provide one-word answer.",
+    "options": [],
+    "answer": "permanent",
+    "explanation": "Ephemeral means lasting for a very short time, while permanent means lasting indefinitely.",
+    "level": "hard",
+    "topic": "Antonyms",
+    "exam": "hsc"
+  },
+  {
+    "id": 4,
+    "type": "mcq",
+    "question": "Identify the correct passive voice transformation of: 'They are building a new hospital.'",
+    "options": [
+      "A new hospital is being built by them.",
+      "A new hospital was being built by them.",
+      "A new hospital has been built by them.",
+      "A new hospital will be built by them."
+    ],
+    "answer": "A new hospital is being built by them.",
+    "explanation": "Present continuous active voice becomes present continuous passive voice: is/am/are + being + past participle.",
+    "level": "medium",
+    "topic": "Voice",
+    "exam": "hsc"
+  },
+  {
+    "id": 5,
+    "type": "fill",
+    "question": "Fill in the blank with appropriate article: He is ______ European diplomat working at ______ UN office.",
+    "options": [],
+    "answer": "a, the",
+    "explanation": "'European' begins with a consonant sound (yoo), so we use 'a'. 'UN' is a specific organization, so we use 'the'.",
+    "level": "medium",
+    "topic": "Articles",
+    "exam": "hsc"
+  },
+  {
+    "id": 6,
+    "type": "mcq",
+    "question": "Which sentence contains a dangling modifier?",
+    "options": [
+      "Running quickly, the bus was caught by the student.",
+      "The student caught the bus while running quickly.",
+      "Running quickly helped the student catch the bus.",
+      "The student, running quickly, caught the bus."
+    ],
+    "answer": "Running quickly, the bus was caught by the student.",
+    "explanation": "A dangling modifier occurs when the subject being modified is not clearly stated in the sentence. Here, it seems like the bus is running quickly.",
+    "level": "hard",
+    "topic": "Modifiers",
+    "exam": "hsc"
+  },
+  {
+    "id": 7,
+    "type": "short",
+    "question": "What does the idiom 'bite the bullet' mean?",
+    "options": [],
+    "answer": "To endure a painful or difficult situation bravely",
+    "explanation": "This idiom originated from patients biting on bullets during surgery before anesthesia was available.",
+    "level": "medium",
+    "topic": "Idioms & Phrases",
+    "exam": "hsc"
+  },
+  {
+    "id": 8,
+    "type": "mcq",
+    "question": "Choose the correct preposition: 'She has a great aptitude ______ mathematics.'",
+    "options": [
+      "for",
+      "to",
+      "with",
+      "at"
+    ],
+    "answer": "for",
+    "explanation": "The preposition 'for' is used with 'aptitude' to indicate suitability or natural ability for something.",
+    "level": "medium",
+    "topic": "Prepositions",
+    "exam": "hsc"
+  },
+  {
+    "id": 9,
+    "type": "fill",
+    "question": "Transform the sentence into negative without changing meaning: 'As soon as he arrived, the meeting started.'",
+    "options": [],
+    "answer": "No sooner did he arrive than the meeting started.",
+    "explanation": "'No sooner...than' is a negative construction that means the same as 'as soon as'.",
+    "level": "hard",
+    "topic": "Transformation",
+    "exam": "hsc"
+  },
+  {
+    "id": 10,
+    "type": "mcq",
+    "question": "Which of these is the correct tag question? 'Let's go for a walk, ______?'",
+    "options": [
+      "shall we",
+      "should we",
+      "will we",
+      "can we"
+    ],
+    "answer": "shall we",
+    "explanation": "For suggestions starting with 'Let's', the tag question is 'shall we'.",
+    "level": "medium",
+    "topic": "Tag Questions",
+    "exam": "hsc"
+  },
+  {
+    "id": 11,
+    "type": "short",
+    "question": "What is the one-word substitution for 'a person who knows several languages'?",
+    "options": [],
+    "answer": "polyglot",
+    "explanation": "Polyglot comes from Greek: poly (many) + glotta (tongue/language).",
+    "level": "medium",
+    "topic": "One Word Substitution",
+    "exam": "hsc"
+  },
+  {
+    "id": 12,
+    "type": "mcq",
+    "question": "Identify the sentence with correct conditional structure:",
+    "options": [
+      "If I will have time, I will visit you.",
+      "If I have time, I will visit you.",
+      "If I had time, I will visit you.",
+      "If I have time, I would visit you."
+    ],
+    "answer": "If I have time, I will visit you.",
+    "explanation": "This is first conditional (real possibility): If + present simple, will + base verb.",
+    "level": "medium",
+    "topic": "Conditional Sentences",
+    "exam": "hsc"
+  },
+  {
+    "id": 13,
+    "type": "fill",
+    "question": "Add appropriate suffix to 'audac' to form a noun meaning 'boldness or daring'.",
+    "options": [],
+    "answer": "audacity",
+    "explanation": "The suffix '-ity' added to 'audac' forms 'audacity', meaning boldness.",
+    "level": "hard",
+    "topic": "Suffix/Prefix",
+    "exam": "hsc"
+  },
+  {
+    "id": 14,
+    "type": "mcq",
+    "question": "Choose the correct comparative form: 'This is ______ movie I have ever seen.'",
+    "options": [
+      "the most interesting",
+      "the interestingest",
+      "more interesting",
+      "most interesting"
+    ],
+    "answer": "the most interesting",
+    "explanation": "Superlative degree for adjectives with three or more syllables uses 'the most + adjective'.",
+    "level": "medium",
+    "topic": "Comparison",
+    "exam": "hsc"
+  },
+  {
+    "id": 15,
+    "type": "short",
+    "question": "What does the phrasal verb 'call off' mean?",
+    "options": [],
+    "answer": "cancel",
+    "explanation": "'Call off' means to cancel something that was planned.",
+    "level": "medium",
+    "topic": "Phrasal Verbs",
+    "exam": "hsc"
+  },
+  {
+    "id": 16,
+    "type": "mcq",
+    "question": "Which connector is most appropriate? '______ it was raining heavily, we decided to go out.'",
+    "options": [
+      "Although",
+      "Because",
+      "Therefore",
+      "However"
+    ],
+    "answer": "Although",
+    "explanation": "'Although' shows contrast between the heavy rain and the decision to go out.",
+    "level": "medium",
+    "topic": "Connectors",
+    "exam": "hsc"
+  },
+  {
+    "id": 17,
+    "type": "fill",
+    "question": "Fill in the blank with correct verb form: 'If she ______ (study) harder, she would have passed the exam.'",
+    "options": [],
+    "answer": "had studied",
+    "explanation": "Third conditional: If + past perfect, would have + past participle.",
+    "level": "hard",
+    "topic": "Conditional Sentences",
+    "exam": "hsc"
+  },
+  {
+    "id": 18,
+    "type": "mcq",
+    "question": "Identify the synonym of 'ubiquitous':",
+    "options": [
+      "omnipresent",
+      "rare",
+      "unique",
+      "hidden"
+    ],
+    "answer": "omnipresent",
+    "explanation": "Ubiquitous means present everywhere, which is synonymous with omnipresent.",
+    "level": "hard",
+    "topic": "Synonyms",
+    "exam": "hsc"
+  },
+  {
+    "id": 19,
+    "type": "short",
+    "question": "Correct the error in this sentence: 'Neither of the boys are coming to the party.'",
+    "options": [],
+    "answer": "Neither of the boys is coming to the party.",
+    "explanation": "'Neither' is singular and requires singular verb 'is'.",
+    "level": "medium",
+    "topic": "Sentence Correction",
+    "exam": "hsc"
+  },
+  {
+    "id": 20,
+    "type": "mcq",
+    "question": "Choose the correct indirect speech: 'He said, \"What a beautiful painting!\"'",
+    "options": [
+      "He exclaimed that it was a very beautiful painting.",
+      "He said what a beautiful painting.",
+      "He exclaimed what a beautiful painting it was.",
+      "He said that it was a beautiful painting."
+    ],
+    "answer": "He exclaimed that it was a very beautiful painting.",
+    "explanation": "Exclamatory sentences in indirect speech use reporting verbs like 'exclaimed' and remove exclamation marks.",
+    "level": "hard",
+    "topic": "Narration",
+    "exam": "hsc"
+  },
+  
+  {
+    "id": 21,
+    "type": "fill",
+    "question": "Transform into passive voice: 'Someone has stolen my bicycle.'",
+    "options": [],
+    "answer": "My bicycle has been stolen.",
+    "explanation": "Present perfect active becomes present perfect passive: has/have + been + past participle.",
+    "level": "medium",
+    "topic": "Voice",
+    "exam": "hsc"
+  },
+  {
+    "id": 22,
+    "type": "mcq",
+    "question": "Which sentence uses the correct tense sequence?",
+    "options": [
+      "She will call you when she will arrive.",
+      "She will call you when she arrives.",
+      "She calls you when she will arrive.",
+      "She called you when she will arrive."
+    ],
+    "answer": "She will call you when she arrives.",
+    "explanation": "In time clauses with 'when', we use present tense after future tense in the main clause.",
+    "level": "hard",
+    "topic": "Tense",
+    "exam": "hsc"
+  },
+  {
+    "id": 23,
+    "type": "short",
+    "question": "What is the meaning of 'carte blanche'?",
+    "options": [],
+    "answer": "Complete freedom to act as one wishes",
+    "explanation": "French phrase meaning 'blank card' - referring to signed blank check giving freedom to fill in amount.",
+    "level": "hard",
+    "topic": "Idioms & Phrases",
+    "exam": "hsc"
+  },
+  {
+    "id": 24,
+    "type": "mcq",
+    "question": "Choose the correct preposition: 'He is jealous ______ his brother's success.'",
+    "options": [
+      "of",
+      "with",
+      "for",
+      "at"
+    ],
+    "answer": "of",
+    "explanation": "The preposition 'of' is used with 'jealous' to indicate the object of jealousy.",
+    "level": "medium",
+    "topic": "Prepositions",
+    "exam": "hsc"
+  },
+  {
+    "id": 25,
+    "type": "fill",
+    "question": "Add prefix to 'moral' to form a word meaning 'against moral principles'.",
+    "options": [],
+    "answer": "immoral",
+    "explanation": "The prefix 'im-' (variant of 'in-') means 'not' or 'opposite of'.",
+    "level": "medium",
+    "topic": "Suffix/Prefix",
+    "exam": "hsc"
+  },
+  {
+    "id": 26,
+    "type": "mcq",
+    "question": "Which is the correct transformation? 'He is too weak to walk.'",
+    "options": [
+      "He is so weak that he cannot walk.",
+      "He is very weak to walk.",
+      "He is weak enough to walk.",
+      "He is so weak that he can walk."
+    ],
+    "answer": "He is so weak that he cannot walk.",
+    "explanation": "Too...to structure can be transformed to so...that with negative result.",
+    "level": "medium",
+    "topic": "Transformation",
+    "exam": "hsc"
+  },
+  {
+    "id": 27,
+    "type": "short",
+    "question": "What is the antonym of 'cacophony'?",
+    "options": [],
+    "answer": "euphony",
+    "explanation": "Cacophony means harsh, discordant sound; euphony means pleasant, harmonious sound.",
+    "level": "hard",
+    "topic": "Antonyms",
+    "exam": "hsc"
+  },
+  {
+    "id": 28,
+    "type": "mcq",
+    "question": "Identify the sentence with correct article usage:",
+    "options": [
+      "He is a honest man.",
+      "He is an honest man.",
+      "He is the honest man.",
+      "He is honest man."
+    ],
+    "answer": "He is an honest man.",
+    "explanation": "'Honest' begins with a vowel sound (o sound), so 'an' is used despite starting with consonant 'h'.",
+    "level": "medium",
+    "topic": "Articles",
+    "exam": "hsc"
+  },
+  {
+    "id": 29,
+    "type": "fill",
+    "question": "Complete the conditional sentence: 'If I ______ (be) you, I would accept the offer.'",
+    "options": [],
+    "answer": "were",
+    "explanation": "Second conditional (unreal present): If + past simple (were for all subjects), would + base verb.",
+    "level": "medium",
+    "topic": "Conditional Sentences",
+    "exam": "hsc"
+  },
+  {
+    "id": 30,
+    "type": "mcq",
+    "question": "Which phrasal verb means 'to investigate'?",
+    "options": [
+      "look into",
+      "look up to",
+      "look down on",
+      "look after"
+    ],
+    "answer": "look into",
+    "explanation": "'Look into' means to investigate or examine something.",
+    "level": "medium",
+    "topic": "Phrasal Verbs",
+    "exam": "hsc"
+  },
+  {
+    "id": 31,
+    "type": "short",
+    "question": "What is the one-word substitution for 'a person who walks on foot'?",
+    "options": [],
+    "answer": "pedestrian",
+    "explanation": "From Latin 'pedester' meaning 'going on foot'.",
+    "level": "medium",
+    "topic": "One Word Substitution",
+    "exam": "hsc"
+  },
+  {
+    "id": 32,
+    "type": "mcq",
+    "question": "Choose the correct connector: 'She worked hard; ______, she failed the exam.'",
+    "options": [
+      "nevertheless",
+      "consequently",
+      "furthermore",
+      "accordingly"
+    ],
+    "answer": "nevertheless",
+    "explanation": "'Nevertheless' shows contrast between hard work and failure.",
+    "level": "hard",
+    "topic": "Connectors",
+    "exam": "hsc"
+  },
+  {
+    "id": 33,
+    "type": "fill",
+    "question": "Change to reported speech: 'He said, \"I may go there tomorrow.\"'",
+    "options": [],
+    "answer": "He said that he might go there the next day.",
+    "explanation": "'May' changes to 'might', 'tomorrow' to 'the next day' in reported speech.",
+    "level": "medium",
+    "topic": "Narration",
+    "exam": "hsc"
+  },
+  {
+    "id": 34,
+    "type": "mcq",
+    "question": "Which sentence has a misplaced modifier?",
+    "options": [
+      "I found a gold woman's necklace.",
+      "I found a woman's gold necklace.",
+      "The gold necklace belonged to a woman.",
+      "A woman's necklace made of gold was found."
+    ],
+    "answer": "I found a gold woman's necklace.",
+    "explanation": "Misplaced modifier makes it seem like the woman is gold rather than the necklace.",
+    "level": "hard",
+    "topic": "Modifiers",
+    "exam": "hsc"
+  },
+  {
+    "id": 35,
+    "type": "short",
+    "question": "What is the synonym of 'gregarious'?",
+    "options": [],
+    "answer": "sociable",
+    "explanation": "Gregarious means fond of company; sociable.",
+    "level": "hard",
+    "topic": "Synonyms",
+    "exam": "hsc"
+  },
+  {
+    "id": 36,
+    "type": "mcq",
+    "question": "Identify the correct comparative: 'This road is ______ than that one.'",
+    "options": [
+      "more wider",
+      "wider",
+      "widerer",
+      "more wide"
+    ],
+    "answer": "wider",
+    "explanation": "One-syllable adjectives form comparative by adding -er: wide → wider.",
+    "level": "medium",
+    "topic": "Comparison",
+    "exam": "hsc"
+  },
+  {
+    "id": 37,
+    "type": "fill",
+    "question": "Add appropriate tag question: 'Let him do his work, ______?'",
+    "options": [],
+    "answer": "will you",
+    "explanation": "For requests with 'let him/her/them', the tag is 'will you' asking permission.",
+    "level": "hard",
+    "topic": "Tag Questions",
+    "exam": "hsc"
+  },
+  {
+    "id": 38,
+    "type": "mcq",
+    "question": "Which sentence is grammatically correct?",
+    "options": [
+      "Each of the students have completed their assignment.",
+      "Each of the students has completed his or her assignment.",
+      "Each of the students have completed his assignment.",
+      "Each of the students has completed their assignment."
+    ],
+    "answer": "Each of the students has completed his or her assignment.",
+    "explanation": "'Each' is singular, requiring singular verb and singular pronoun.",
+    "level": "medium",
+    "topic": "Sentence Correction",
+    "exam": "hsc"
+  },
+  {
+    "id": 39,
+    "type": "short",
+    "question": "What does 'to burn the midnight oil' mean?",
+    "options": [],
+    "answer": "To work or study late into the night",
+    "explanation": "Idiom referring to working by lamplight late at night.",
+    "level": "medium",
+    "topic": "Idioms & Phrases",
+    "exam": "hsc"
+  },
+  {
+    "id": 40,
+    "type": "mcq",
+    "question": "Choose the correct passive form: 'Who broke the window?'",
+    "options": [
+      "By whom was the window broken?",
+      "By whom the window was broken?",
+      "Who was the window broken by?",
+      "Whom was the window broken by?"
+    ],
+    "answer": "By whom was the window broken?",
+    "explanation": "In formal passive voice, 'By whom' comes at beginning for 'who' questions.",
+    "level": "hard",
+    "topic": "Voice",
+    "exam": "hsc"
+  },
+  {
+    "id": 41,
+    "type": "fill",
+    "question": "Fill in blank with correct preposition: 'He is accustomed ______ working late.'",
+    "options": [],
+    "answer": "to",
+    "explanation": "'Accustomed to' is the correct prepositional phrase.",
+    "level": "medium",
+    "topic": "Prepositions",
+    "exam": "hsc"
+  },
+  {
+    "id": 42,
+    "type": "mcq",
+    "question": "Which tense is used in: 'By next year, I will have been working here for ten years.'",
+    "options": [
+      "Future Perfect Continuous",
+      "Future Continuous",
+      "Future Perfect",
+      "Present Perfect Continuous"
+    ],
+    "answer": "Future Perfect Continuous",
+    "explanation": "Will have been + present participle indicates future perfect continuous tense.",
+    "level": "hard",
+    "topic": "Tense",
+    "exam": "hsc"
+  },
+  {
+    "id": 43,
+    "type": "short",
+    "question": "What is the one-word substitution for 'a place where birds are kept'?",
+    "options": [],
+    "answer": "aviary",
+    "explanation": "From Latin 'avis' meaning bird.",
+    "level": "medium",
+    "topic": "One Word Substitution",
+    "exam": "hsc"
+  },
+  {
+    "id": 44,
+    "type": "mcq",
+    "question": "Identify the correct transformation: 'As he was ill, he could not attend the meeting.'",
+    "options": [
+      "Being ill, he could not attend the meeting.",
+      "Ill being, he could not attend the meeting.",
+      "He was ill so he could not attend meeting.",
+      "Due to his illness, he cannot attend meeting."
+    ],
+    "answer": "Being ill, he could not attend the meeting.",
+    "explanation": "Present participle 'being' can replace 'as he was' for conciseness.",
+    "level": "hard",
+    "topic": "Transformation",
+    "exam": "hsc"
+  },
+  {
+    "id": 45,
+    "type": "fill",
+    "question": "Add suffix to 'maintain' to form noun meaning 'the act of maintaining'.",
+    "options": [],
+    "answer": "maintenance",
+    "explanation": "The suffix '-ance' forms nouns from verbs.",
+    "level": "medium",
+    "topic": "Suffix/Prefix",
+    "exam": "hsc"
+  },
+  {
+    "id": 46,
+    "type": "mcq",
+    "question": "Which conditional type expresses general truth?",
+    "options": [
+      "Zero conditional",
+      "First conditional",
+      "Second conditional",
+      "Third conditional"
+    ],
+    "answer": "Zero conditional",
+    "explanation": "Zero conditional: If + present simple, present simple (for general truths).",
+    "level": "medium",
+    "topic": "Conditional Sentences",
+    "exam": "hsc"
+  },
+  {
+    "id": 47,
+    "type": "short",
+    "question": "What is the antonym of 'verbose'?",
+    "options": [],
+    "answer": "laconic",
+    "explanation": "Verbose means using too many words; laconic means using few words.",
+    "level": "hard",
+    "topic": "Antonyms",
+    "exam": "hsc"
+  },
+  {
+    "id": 48,
+    "type": "mcq",
+    "question": "Choose the correct phrasal verb: 'Please ______ the light when you leave.'",
+    "options": [
+      "turn off",
+      "turn out",
+      "turn over",
+      "turn up"
+    ],
+    "answer": "turn off",
+    "explanation": "'Turn off' means to switch off electrical devices.",
+    "level": "medium",
+    "topic": "Phrasal Verbs",
+    "exam": "hsc"
+  },
+  {
+    "id": 49,
+    "type": "fill",
+    "question": "Fill in blank with appropriate article: '______ Ganges is ______ sacred river.'",
+    "options": [],
+    "answer": "The, a",
+    "explanation": "'The' for specific river names, 'a' for general description.",
+    "level": "medium",
+    "topic": "Articles",
+    "exam": "hsc"
+  },
+  {
+    "id": 50,
+    "type": "mcq",
+    "question": "Which connector shows result?",
+    "options": [
+      "however",
+      "therefore",
+      "although",
+      "furthermore"
+    ],
+    "answer": "therefore",
+    "explanation": "'Therefore' indicates consequence or result.",
+    "level": "medium",
+    "topic": "Connectors",
+    "exam": "hsc"
+  },
+  {
+    "id": 51,
+    "type": "short",
+    "question": "What is the synonym of 'ephemeral'?",
+    "options": [],
+    "answer": "transient",
+    "explanation": "Both mean lasting for a very short time.",
+    "level": "hard",
+    "topic": "Synonyms",
+    "exam": "hsc"
+  },
+  {
+    "id": 52,
+    "type": "mcq",
+    "question": "Identify correct reported speech: 'She said, \"I must leave now.\"'",
+    "options": [
+      "She said that she had to leave then.",
+      "She said that she must leave now.",
+      "She said that she must leave then.",
+      "She said that she had to leave now."
+    ],
+    "answer": "She said that she had to leave then.",
+    "explanation": "'Must' often becomes 'had to' in reported speech; 'now' becomes 'then'.",
+    "level": "hard",
+    "topic": "Narration",
+    "exam": "hsc"
+  },
+  {
+    "id": 53,
+    "type": "fill",
+    "question": "Transform: 'He is the best student in the class.' (Use comparative degree)",
+    "options": [],
+    "answer": "He is better than any other student in the class.",
+    "explanation": "Superlative can be transformed to comparative using 'better than any other'.",
+    "level": "medium",
+    "topic": "Transformation",
+    "exam": "hsc"
+  },
+  {
+    "id": 54,
+    "type": "mcq",
+    "question": "Which sentence has correct modifier placement?",
+    "options": [
+      "Having finished the assignment, the TV was turned on.",
+      "Having finished the assignment, I turned on the TV.",
+      "The TV was turned on having finished the assignment.",
+      "Turning on the TV, the assignment was finished."
+    ],
+    "answer": "Having finished the assignment, I turned on the TV.",
+    "explanation": "The modifier correctly refers to 'I' who finished the assignment.",
+    "level": "hard",
+    "topic": "Modifiers",
+    "exam": "hsc"
+  },
+  {
+    "id": 55,
+    "type": "short",
+    "question": "What does 'to hit the nail on the head' mean?",
+    "options": [],
+    "answer": "To be exactly right about something",
+    "explanation": "Idiom meaning to describe exactly what is causing a situation or problem.",
+    "level": "medium",
+    "topic": "Idioms & Phrases",
+    "exam": "hsc"
+  },
+  {
+    "id": 56,
+    "type": "mcq",
+    "question": "Choose correct passive: 'They gave her a prize.'",
+    "options": [
+      "She was given a prize.",
+      "A prize was given to her.",
+      "Both A and B are correct",
+      "Only A is correct"
+    ],
+    "answer": "Both A and B are correct",
+    "explanation": "Verbs with two objects can form passive in two ways.",
+    "level": "medium",
+    "topic": "Voice",
+    "exam": "hsc"
+  },
+  {
+    "id": 57,
+    "type": "fill",
+    "question": "Complete the tag: 'Nobody knows the answer, ______?'",
+    "options": [],
+    "answer": "do they",
+    "explanation": "With 'nobody', we use positive tag with 'they'.",
+    "level": "hard",
+    "topic": "Tag Questions",
+    "exam": "hsc"
+  },
+  {
+    "id": 58,
+    "type": "mcq",
+    "question": "Which preposition completes: 'He is good ______ mathematics.'",
+    "options": [
+      "at",
+      "in",
+      "with",
+      "for"
+    ],
+    "answer": "at",
+    "explanation": "'Good at' indicates skill or proficiency in an activity.",
+    "level": "medium",
+    "topic": "Prepositions",
+    "exam": "hsc"
+  },
+  {
+    "id": 59,
+    "type": "short",
+    "question": "What is the one-word substitution for 'a person who hates mankind'?",
+    "options": [],
+    "answer": "misanthrope",
+    "explanation": "From Greek: misos (hatred) + anthropos (human).",
+    "level": "hard",
+    "topic": "One Word Substitution",
+    "exam": "hsc"
+  },
+  {
+    "id": 60,
+    "type": "mcq",
+    "question": "Identify correct tense: 'I ______ (live) here since 2010.'",
+    "options": [
+      "have been living",
+      "am living",
+      "was living",
+      "lived"
+    ],
+    "answer": "have been living",
+    "explanation": "Present perfect continuous with 'since' indicates action starting in past continuing to present.",
+    "level": "medium",
+    "topic": "Tense",
+    "exam": "hsc"
+  },
+  {
+    "id": 61,
+    "type": "fill",
+    "question": "Add prefix to 'code' to mean 'secret code'.",
+    "options": [],
+    "answer": "encode",
+    "explanation": "'En-' prefix can mean 'put into' or 'make into'.",
+    "level": "medium",
+    "topic": "Suffix/Prefix",
+    "exam": "hsc"
+  },
+  {
+    "id": 62,
+    "type": "mcq",
+    "question": "Which shows correct comparison?",
+    "options": [
+      "He is taller than me.",
+      "He is taller than I.",
+      "He is more taller than I.",
+      "He is tallest than me."
+    ],
+    "answer": "He is taller than I.",
+    "explanation": "Formal grammar requires subject pronoun after 'than': taller than I (am).",
+    "level": "hard",
+    "topic": "Comparison",
+    "exam": "hsc"
+  },
+  {
+    "id": 63,
+    "type": "short",
+    "question": "What is the synonym of 'mendacious'?",
+    "options": [],
+    "answer": "dishonest",
+    "explanation": "Mendacious means not telling the truth; lying.",
+    "level": "hard",
+    "topic": "Synonyms",
+    "exam": "hsc"
+  },
+  {
+    "id": 64,
+    "type": "mcq",
+    "question": "Choose correct conditional: '______ you heat ice, it melts.'",
+    "options": [
+      "If",
+      "When",
+      "Unless",
+      "Whether"
+    ],
+    "answer": "If",
+    "explanation": "Zero conditional for scientific facts: If + present simple, present simple.",
+    "level": "medium",
+    "topic": "Conditional Sentences",
+    "exam": "hsc"
+  },
+  {
+    "id": 65,
+    "type": "fill",
+    "question": "Transform to indirect: 'The teacher said, \"Don't make noise.\"'",
+    "options": [],
+    "answer": "The teacher told the students not to make noise.",
+    "explanation": "Imperative changes to infinitive in indirect speech.",
+    "level": "medium",
+    "topic": "Narration",
+    "exam": "hsc"
+  },
+  {
+    "id": 66,
+    "type": "mcq",
+    "question": "Which phrasal verb means 'to tolerate'?",
+    "options": [
+      "put up with",
+      "put off",
+      "put on",
+      "put out"
+    ],
+    "answer": "put up with",
+    "explanation": "'Put up with' means to tolerate or endure something unpleasant.",
+    "level": "medium",
+    "topic": "Phrasal Verbs",
+    "exam": "hsc"
+  },
+  {
+    "id": 67,
+    "type": "short",
+    "question": "What is the antonym of 'arduous'?",
+    "options": [],
+    "answer": "easy",
+    "explanation": "Arduous means difficult and tiring; easy is its opposite.",
+    "level": "medium",
+    "topic": "Antonyms",
+    "exam": "hsc"
+  },
+  {
+    "id": 68,
+    "type": "mcq",
+    "question": "Identify correct sentence:",
+    "options": [
+      "Neither the teacher nor the students is present.",
+      "Neither the teacher nor the students are present.",
+      "Neither the teacher or the students are present.",
+      "Neither teacher nor students is present."
+    ],
+    "answer": "Neither the teacher nor the students are present.",
+    "explanation": "With 'neither...nor', verb agrees with nearer subject (students = plural).",
+    "level": "hard",
+    "topic": "Sentence Correction",
+    "exam": "hsc"
+  },
+  {
+    "id": 69,
+    "type": "fill",
+    "question": "Fill with correct article: '______ honesty is ______ best policy.'",
+    "options": [],
+    "answer": "-, the",
+    "explanation": "No article before abstract nouns like honesty; 'the' for superlative 'best'.",
+    "level": "medium",
+    "topic": "Articles",
+    "exam": "hsc"
+  },
+  {
+    "id": 70,
+    "type": "mcq",
+    "question": "Which connector adds information?",
+    "options": [
+      "however",
+      "consequently",
+      "moreover",
+      "nevertheless"
+    ],
+    "answer": "moreover",
+    "explanation": "'Moreover' adds extra information or reinforces a point.",
+    "level": "medium",
+    "topic": "Connectors",
+    "exam": "hsc"
+  }
+
+]
