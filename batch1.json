@@ -944,6 +944,684 @@
     "level": "medium",
     "topic": "Connectors",
     "exam": "hsc"
+  },
+  
+  {
+    "id": 71,
+    "type": "short",
+    "question": "What does the idiom 'to let the cat out of the bag' mean?",
+    "options": [],
+    "answer": "To reveal a secret",
+    "explanation": "Origin: In medieval markets, piglets were sometimes substituted for cats in bags, and revealing the cat exposed the fraud.",
+    "level": "medium",
+    "topic": "Idioms & Phrases",
+    "exam": "hsc"
+  },
+  {
+    "id": 72,
+    "type": "mcq",
+    "question": "Identify the correct passive transformation: 'People speak English all over the world.'",
+    "options": [
+      "English is spoken all over the world.",
+      "English was spoken all over the world.",
+      "English has been spoken all over the world.",
+      "English speaks all over the world."
+    ],
+    "answer": "English is spoken all over the world.",
+    "explanation": "Present simple active becomes present simple passive: is/am/are + past participle.",
+    "level": "medium",
+    "topic": "Voice",
+    "exam": "hsc"
+  },
+  {
+    "id": 73,
+    "type": "fill",
+    "question": "Fill in the blank with correct preposition: 'He is eligible ______ the post.'",
+    "options": [],
+    "answer": "for",
+    "explanation": "'Eligible for' is the correct collocation.",
+    "level": "medium",
+    "topic": "Prepositions",
+    "exam": "hsc"
+  },
+  {
+    "id": 74,
+    "type": "mcq",
+    "question": "Which tense is correct? 'When I arrived, they ______ dinner.'",
+    "options": [
+      "had already had",
+      "already had",
+      "have already had",
+      "were already having"
+    ],
+    "answer": "had already had",
+    "explanation": "Past perfect indicates action completed before another past action.",
+    "level": "hard",
+    "topic": "Tense",
+    "exam": "hsc"
+  },
+  {
+    "id": 75,
+    "type": "short",
+    "question": "What is the one-word substitution for 'a person who compiles dictionaries'?",
+    "options": [],
+    "answer": "lexicographer",
+    "explanation": "From Greek: lexikon (wordbook) + graphein (to write).",
+    "level": "hard",
+    "topic": "One Word Substitution",
+    "exam": "hsc"
+  },
+  {
+    "id": 76,
+    "type": "mcq",
+    "question": "Choose the correct transformation: 'He is so intelligent that he can solve any problem.'",
+    "options": [
+      "He is too intelligent to solve any problem.",
+      "He is intelligent enough to solve any problem.",
+      "He is very intelligent that he can solve any problem.",
+      "He is so intelligent to solve any problem."
+    ],
+    "answer": "He is intelligent enough to solve any problem.",
+    "explanation": "So...that with positive meaning can transform to adjective + enough + to infinitive.",
+    "level": "hard",
+    "topic": "Transformation",
+    "exam": "hsc"
+  },
+  {
+    "id": 77,
+    "type": "fill",
+    "question": "Add suffix to 'photograph' to form adjective meaning 'relating to photography'.",
+    "options": [],
+    "answer": "photographic",
+    "explanation": "The suffix '-ic' forms adjectives meaning 'of or relating to'.",
+    "level": "medium",
+    "topic": "Suffix/Prefix",
+    "exam": "hsc"
+  },
+  {
+    "id": 78,
+    "type": "mcq",
+    "question": "Which conditional is used for hypothetical past situations?",
+    "options": [
+      "First conditional",
+      "Second conditional",
+      "Third conditional",
+      "Zero conditional"
+    ],
+    "answer": "Third conditional",
+    "explanation": "Third conditional: If + past perfect, would have + past participle (unreal past).",
+    "level": "medium",
+    "topic": "Conditional Sentences",
+    "exam": "hsc"
+  },
+  {
+    "id": 79,
+    "type": "short",
+    "question": "What is the antonym of 'prodigal'?",
+    "options": [],
+    "answer": "frugal",
+    "explanation": "Prodigal means wasteful; frugal means economical.",
+    "level": "hard",
+    "topic": "Antonyms",
+    "exam": "hsc"
+  },
+  {
+    "id": 80,
+    "type": "mcq",
+    "question": "Choose the correct phrasal verb: 'The meeting has been ______ until next week.'",
+    "options": [
+      "put off",
+      "put out",
+      "put away",
+      "put through"
+    ],
+    "answer": "put off",
+    "explanation": "'Put off' means to postpone or delay.",
+    "level": "medium",
+    "topic": "Phrasal Verbs",
+    "exam": "hsc"
+  },
+  {
+    "id": 81,
+    "type": "fill",
+    "question": "Fill in blank with article: 'He is ______ M.A. but his brother is ______ B.A.'",
+    "options": [],
+    "answer": "an, a",
+    "explanation": "M begins with vowel sound (em), so 'an'; B begins with consonant sound (bee), so 'a'.",
+    "level": "hard",
+    "topic": "Articles",
+    "exam": "hsc"
+  },
+  {
+    "id": 82,
+    "type": "mcq",
+    "question": "Which connector indicates contrast?",
+    "options": [
+      "furthermore",
+      "therefore",
+      "however",
+      "consequently"
+    ],
+    "answer": "however",
+    "explanation": "'However' introduces a contrasting idea.",
+    "level": "medium",
+    "topic": "Connectors",
+    "exam": "hsc"
+  },
+  {
+    "id": 83,
+    "type": "short",
+    "question": "What is the synonym of 'querulous'?",
+    "options": [],
+    "answer": "complaining",
+    "explanation": "Querulous means habitually complaining or whining.",
+    "level": "hard",
+    "topic": "Synonyms",
+    "exam": "hsc"
+  },
+  {
+    "id": 84,
+    "type": "mcq",
+    "question": "Identify correct reported speech: 'He said, \"I will be there at 5 PM.\"'",
+    "options": [
+      "He said that he would be there at 5 PM.",
+      "He said that he will be there at 5 PM.",
+      "He said that he would be there at 5 PM that day.",
+      "He said that he will be there at 5 PM that day."
+    ],
+    "answer": "He said that he would be there at 5 PM.",
+    "explanation": "'Will' becomes 'would' in reported speech; time expressions may change depending on context.",
+    "level": "medium",
+    "topic": "Narration",
+    "exam": "hsc"
+  },
+  {
+    "id": 85,
+    "type": "fill",
+    "question": "Transform: 'As soon as she finished her work, she went home.' (Use 'No sooner')",
+    "options": [],
+    "answer": "No sooner did she finish her work than she went home.",
+    "explanation": "Alternative: 'No sooner had she finished her work than she went home.'",
+    "level": "hard",
+    "topic": "Transformation",
+    "exam": "hsc"
+  },
+  {
+    "id": 86,
+    "type": "mcq",
+    "question": "Which sentence has correct modifier usage?",
+    "options": [
+      "Walking through the park, the flowers were beautiful.",
+      "Walking through the park, I saw beautiful flowers.",
+      "Walking through the park, beautiful flowers were seen.",
+      "Walking through the park, there were beautiful flowers."
+    ],
+    "answer": "Walking through the park, I saw beautiful flowers.",
+    "explanation": "The modifier 'walking through the park' correctly refers to 'I'.",
+    "level": "hard",
+    "topic": "Modifiers",
+    "exam": "hsc"
+  },
+  {
+    "id": 87,
+    "type": "short",
+    "question": "What does 'to beat around the bush' mean?",
+    "options": [],
+    "answer": "To avoid talking about what is important",
+    "explanation": "Idiom meaning to delay or avoid discussing something directly.",
+    "level": "medium",
+    "topic": "Idioms & Phrases",
+    "exam": "hsc"
+  },
+  {
+    "id": 88,
+    "type": "mcq",
+    "question": "Choose correct passive: 'Someone is following us.'",
+    "options": [
+      "We are being followed.",
+      "We are followed.",
+      "We have been followed.",
+      "We were being followed."
+    ],
+    "answer": "We are being followed.",
+    "explanation": "Present continuous active becomes present continuous passive.",
+    "level": "medium",
+    "topic": "Voice",
+    "exam": "hsc"
+  },
+  {
+    "id": 89,
+    "type": "fill",
+    "question": "Complete the tag: 'Let's start the meeting, ______?'",
+    "options": [],
+    "answer": "shall we",
+    "explanation": "For suggestions with 'Let's', use tag 'shall we'.",
+    "level": "medium",
+    "topic": "Tag Questions",
+    "exam": "hsc"
+  },
+  {
+    "id": 90,
+    "type": "mcq",
+    "question": "Which preposition completes: 'She is interested ______ learning French.'",
+    "options": [
+      "in",
+      "at",
+      "for",
+      "with"
+    ],
+    "answer": "in",
+    "explanation": "'Interested in' is the correct preposition.",
+    "level": "medium",
+    "topic": "Prepositions",
+    "exam": "hsc"
+  },
+  {
+    "id": 91,
+    "type": "short",
+    "question": "What is the one-word substitution for 'a government by the wealthy'?",
+    "options": [],
+    "answer": "plutocracy",
+    "explanation": "From Greek: ploutos (wealth) + kratos (power).",
+    "level": "hard",
+    "topic": "One Word Substitution",
+    "exam": "hsc"
+  },
+  {
+    "id": 92,
+    "type": "mcq",
+    "question": "Identify correct tense: 'By the time we arrived, the show ______.'",
+    "options": [
+      "had already started",
+      "already started",
+      "has already started",
+      "was already starting"
+    ],
+    "answer": "had already started",
+    "explanation": "Past perfect shows action completed before another past action.",
+    "level": "hard",
+    "topic": "Tense",
+    "exam": "hsc"
+  },
+  {
+    "id": 93,
+    "type": "fill",
+    "question": "Add prefix to 'legal' to form word meaning 'against the law'.",
+    "options": [],
+    "answer": "illegal",
+    "explanation": "Prefix 'il-' (variant of 'in-') meaning 'not' before words starting with L.",
+    "level": "medium",
+    "topic": "Suffix/Prefix",
+    "exam": "hsc"
+  },
+  {
+    "id": 94,
+    "type": "mcq",
+    "question": "Which shows correct comparison? 'She is ______ of the two sisters.'",
+    "options": [
+      "the smarter",
+      "smarter",
+      "the smartest",
+      "more smarter"
+    ],
+    "answer": "the smarter",
+    "explanation": "Comparative degree with 'the' when comparing two specific items.",
+    "level": "medium",
+    "topic": "Comparison",
+    "exam": "hsc"
+  },
+  {
+    "id": 95,
+    "type": "short",
+    "question": "What is the synonym of 'sagacious'?",
+    "options": [],
+    "answer": "wise",
+    "explanation": "Sagacious means having or showing keen mental discernment and good judgment.",
+    "level": "hard",
+    "topic": "Synonyms",
+    "exam": "hsc"
+  },
+  {
+    "id": 96,
+    "type": "mcq",
+    "question": "Choose correct conditional: '______ I had known, I would have helped.'",
+    "options": [
+      "If",
+      "Unless",
+      "Whether",
+      "When"
+    ],
+    "answer": "If",
+    "explanation": "Third conditional for unreal past situations.",
+    "level": "medium",
+    "topic": "Conditional Sentences",
+    "exam": "hsc"
+  },
+  {
+    "id": 97,
+    "type": "fill",
+    "question": "Transform to indirect: 'He said, \"Alas! I have failed.\"'",
+    "options": [],
+    "answer": "He exclaimed with sorrow that he had failed.",
+    "explanation": "Exclamatory sentences with 'Alas' require reporting verb 'exclaimed with sorrow'.",
+    "level": "hard",
+    "topic": "Narration",
+    "exam": "hsc"
+  },
+  {
+    "id": 98,
+    "type": "mcq",
+    "question": "Which phrasal verb means 'to extinguish'?",
+    "options": [
+      "put out",
+      "put off",
+      "put away",
+      "put up"
+    ],
+    "answer": "put out",
+    "explanation": "'Put out' means to extinguish a fire or light.",
+    "level": "medium",
+    "topic": "Phrasal Verbs",
+    "exam": "hsc"
+  },
+  {
+    "id": 99,
+    "type": "short",
+    "question": "What is the antonym of 'benevolent'?",
+    "options": [],
+    "answer": "malevolent",
+    "explanation": "Benevolent means kind and charitable; malevolent means having or showing a wish to do evil to others.",
+    "level": "hard",
+    "topic": "Antonyms",
+    "exam": "hsc"
+  },
+  {
+    "id": 100,
+    "type": "mcq",
+    "question": "Identify correct sentence:",
+    "options": [
+      "The team are celebrating their victory.",
+      "The team is celebrating their victory.",
+      "The team is celebrating its victory.",
+      "Both A and C are correct depending on context"
+    ],
+    "answer": "Both A and C are correct depending on context",
+    "explanation": "Collective nouns can take singular or plural verbs depending on whether the group acts as one unit or as individuals.",
+    "level": "hard",
+    "topic": "Sentence Correction",
+    "exam": "hsc"
+  },
+  {
+    "id": 101,
+    "type": "fill",
+    "question": "Fill with correct article: '______ Himalayas are ______ highest mountains.'",
+    "options": [],
+    "answer": "The, the",
+    "explanation": "'The' for mountain ranges and 'the' for superlative degree.",
+    "level": "medium",
+    "topic": "Articles",
+    "exam": "hsc"
+  },
+  {
+    "id": 102,
+    "type": "mcq",
+    "question": "Which connector shows purpose?",
+    "options": [
+      "so that",
+      "because",
+      "although",
+      "however"
+    ],
+    "answer": "so that",
+    "explanation": "'So that' introduces purpose or intention.",
+    "level": "medium",
+    "topic": "Connectors",
+    "exam": "hsc"
+  },
+  {
+    "id": 103,
+    "type": "short",
+    "question": "What does 'to have a chip on your shoulder' mean?",
+    "options": [],
+    "answer": "To be easily offended or aggrieved",
+    "explanation": "Idiom meaning to harbor a grievance or sense of inferiority.",
+    "level": "medium",
+    "topic": "Idioms & Phrases",
+    "exam": "hsc"
+  },
+  {
+    "id": 104,
+    "type": "mcq",
+    "question": "Choose correct passive: 'They have built a new bridge.'",
+    "options": [
+      "A new bridge has been built.",
+      "A new bridge had been built.",
+      "A new bridge was built.",
+      "A new bridge is built."
+    ],
+    "answer": "A new bridge has been built.",
+    "explanation": "Present perfect active becomes present perfect passive.",
+    "level": "medium",
+    "topic": "Voice",
+    "exam": "hsc"
+  },
+  {
+    "id": 105,
+    "type": "fill",
+    "question": "Fill in blank with preposition: 'He is confident ______ his success.'",
+    "options": [],
+    "answer": "of",
+    "explanation": "'Confident of' is the correct collocation.",
+    "level": "medium",
+    "topic": "Prepositions",
+    "exam": "hsc"
+  },
+  {
+    "id": 106,
+    "type": "mcq",
+    "question": "Which tense? 'I ______ (wait) for two hours when she finally arrived.'",
+    "options": [
+      "had been waiting",
+      "was waiting",
+      "have been waiting",
+      "waited"
+    ],
+    "answer": "had been waiting",
+    "explanation": "Past perfect continuous for action continuing up to a point in the past.",
+    "level": "hard",
+    "topic": "Tense",
+    "exam": "hsc"
+  },
+  {
+    "id": 107,
+    "type": "short",
+    "question": "What is the one-word substitution for 'a person who loves books'?",
+    "options": [],
+    "answer": "bibliophile",
+    "explanation": "From Greek: biblion (book) + philos (loving).",
+    "level": "medium",
+    "topic": "One Word Substitution",
+    "exam": "hsc"
+  },
+  {
+    "id": 108,
+    "type": "mcq",
+    "question": "Choose correct transformation: 'Besides being intelligent, he is hardworking.'",
+    "options": [
+      "Not only is he intelligent but also hardworking.",
+      "He is intelligent as well as hardworking.",
+      "Both A and B are correct",
+      "Only A is correct"
+    ],
+    "answer": "Both A and B are correct",
+    "explanation": "Both transformations maintain the original meaning.",
+    "level": "hard",
+    "topic": "Transformation",
+    "exam": "hsc"
+  },
+  {
+    "id": 109,
+    "type": "fill",
+    "question": "Add suffix to 'child' to form adjective meaning 'like a child'.",
+    "options": [],
+    "answer": "childish",
+    "explanation": "The suffix '-ish' can mean 'having the characteristics of'.",
+    "level": "medium",
+    "topic": "Suffix/Prefix",
+    "exam": "hsc"
+  },
+  {
+    "id": 110,
+    "type": "mcq",
+    "question": "Which conditional for real future possibilities?",
+    "options": [
+      "Zero conditional",
+      "First conditional",
+      "Second conditional",
+      "Third conditional"
+    ],
+    "answer": "First conditional",
+    "explanation": "First conditional: If + present simple, will + base verb (real future possibility).",
+    "level": "medium",
+    "topic": "Conditional Sentences",
+    "exam": "hsc"
+  },
+  {
+    "id": 111,
+    "type": "short",
+    "question": "What is the antonym of 'munificent'?",
+    "options": [],
+    "answer": "stingy",
+    "explanation": "Munificent means very generous; stingy means unwilling to give or spend.",
+    "level": "hard",
+    "topic": "Antonyms",
+    "exam": "hsc"
+  },
+  {
+    "id": 112,
+    "type": "mcq",
+    "question": "Choose correct phrasal verb: 'The car ______ on the highway.'",
+    "options": [
+      "broke down",
+      "broke out",
+      "broke in",
+      "broke up"
+    ],
+    "answer": "broke down",
+    "explanation": "'Broke down' means stopped working (for vehicles/machines).",
+    "level": "medium",
+    "topic": "Phrasal Verbs",
+    "exam": "hsc"
+  },
+  {
+    "id": 113,
+    "type": "fill",
+    "question": "Fill in blank with article: 'He plays ______ violin and ______ football.'",
+    "options": [],
+    "answer": "the, -",
+    "explanation": "'The' for musical instruments; no article for sports.",
+    "level": "medium",
+    "topic": "Articles",
+    "exam": "hsc"
+  },
+  {
+    "id": 114,
+    "type": "mcq",
+    "question": "Which connector indicates time sequence?",
+    "options": [
+      "meanwhile",
+      "therefore",
+      "nevertheless",
+      "furthermore"
+    ],
+    "answer": "meanwhile",
+    "explanation": "'Meanwhile' indicates something happening at the same time.",
+    "level": "medium",
+    "topic": "Connectors",
+    "exam": "hsc"
+  },
+  {
+    "id": 115,
+    "type": "short",
+    "question": "What is the synonym of 'loquacious'?",
+    "options": [],
+    "answer": "talkative",
+    "explanation": "Loquacious means tending to talk a great deal; talkative.",
+    "level": "hard",
+    "topic": "Synonyms",
+    "exam": "hsc"
+  },
+  {
+    "id": 116,
+    "type": "mcq",
+    "question": "Identify correct reported speech: 'She said, \"Can you help me?\"'",
+    "options": [
+      "She asked if I could help her.",
+      "She asked whether I could help her.",
+      "She said if I could help her.",
+      "Both A and B are correct"
+    ],
+    "answer": "Both A and B are correct",
+    "explanation": "Both 'if' and 'whether' can introduce reported yes/no questions.",
+    "level": "hard",
+    "topic": "Narration",
+    "exam": "hsc"
+  },
+  {
+    "id": 117,
+    "type": "fill",
+    "question": "Transform: 'He is the richest man in the city.' (Use: No other)",
+    "options": [],
+    "answer": "No other man in the city is as rich as he.",
+    "explanation": "Superlative to positive degree transformation using 'no other...as...as'.",
+    "level": "hard",
+    "topic": "Transformation",
+    "exam": "hsc"
+  },
+  {
+    "id": 118,
+    "type": "mcq",
+    "question": "Which modifier is correct?",
+    "options": [
+      "Having eaten lunch, the meeting began.",
+      "Having eaten lunch, we began the meeting.",
+      "The meeting began having eaten lunch.",
+      "We began the meeting having eaten lunch."
+    ],
+    "answer": "Having eaten lunch, we began the meeting.",
+    "explanation": "The modifier correctly refers to 'we' who ate lunch.",
+    "level": "hard",
+    "topic": "Modifiers",
+    "exam": "hsc"
+  },
+  {
+    "id": 119,
+    "type": "short",
+    "question": "What does 'to cry over spilt milk' mean?",
+    "options": [],
+    "answer": "To complain about a loss from the past",
+    "explanation": "Idiom meaning to express regret about something that has already happened and cannot be changed.",
+    "level": "medium",
+    "topic": "Idioms & Phrases",
+    "exam": "hsc"
+  },
+  {
+    "id": 120,
+    "type": "mcq",
+    "question": "Choose correct passive: 'They will finish the project by tomorrow.'",
+    "options": [
+      "The project will be finished by tomorrow.",
+      "The project will have been finished by tomorrow.",
+      "The project would be finished by tomorrow.",
+      "The project is finished by tomorrow."
+    ],
+    "answer": "The project will be finished by tomorrow.",
+    "explanation": "Future simple active becomes future simple passive.",
+    "level": "medium",
+    "topic": "Voice",
+    "exam": "hsc"
   }
+
+
 
 ]
