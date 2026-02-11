@@ -4124,9 +4124,691 @@
     "level": "easy",
     "topic": "Prepositions",
     "exam": "hsc"
+  },
+  {
+    "id": 301,
+    "type": "mcq",
+    "question": "In the sentence 'The sun rises in the east', the word 'in' is a:",
+    "options": [
+      "Preposition",
+      "Conjunction",
+      "Adverb",
+      "Article"
+    ],
+    "answer": "Preposition",
+    "explanation": "'In' shows position/direction, 'In' স্থান বা দিক নির্দেশ করে।",
+    "level": "easy",
+    "topic": "Prepositions",
+    "exam": "hsc"
+  },
+  {
+    "id": 302,
+    "type": "fill",
+    "question": "Complete with right form of verb: 'If he ______ (come), I will tell him.'",
+    "options": [],
+    "answer": "comes",
+    "explanation": "First conditional: If + present simple, will + base verb, প্রথম কন্ডিশনাল: If + present simple, will + base verb।",
+    "level": "medium",
+    "topic": "Right Form of Verbs",
+    "exam": "hsc"
+  },
+  {
+    "id": 303,
+    "type": "mcq",
+    "question": "Choose the correct connector: 'He studied hard ______ he failed the exam.'",
+    "options": [
+      "because",
+      "although",
+      "so",
+      "therefore"
+    ],
+    "answer": "although",
+    "explanation": "'Although' shows contrast between two ideas, 'Although' দুটি ধারণার মধ্যে বৈসাদৃশ্য দেখায়।",
+    "level": "medium",
+    "topic": "Connectors",
+    "exam": "hsc"
+  },
+  {
+    "id": 304,
+    "type": "wordmeaning",
+    "question": "What is the Bengali meaning of 'Voracious'?",
+    "options": [
+      "অল্পাহারী",
+      "অতিভোজী",
+      "বিরক্ত",
+      "উদাসীন"
+    ],
+    "answer": "অতিভোজী",
+    "explanation": "Voracious means wanting great quantities of food, Voracious অর্থ অত্যাধিক পরিমাণে খাদ্য গ্রহণের ইচ্ছা।",
+    "level": "hard",
+    "topic": "Vocabulary",
+    "exam": "hsc"
+  },
+  {
+    "id": 305,
+    "type": "fill",
+    "question": "Complete the sentence: 'No sooner had he seen the police ______'",
+    "options": [],
+    "answer": "than he ran away",
+    "explanation": "'No sooner...than' structure requires 'than' clause, 'No sooner...than' কাঠামোতে 'than' clause প্রয়োজন।",
+    "level": "hard",
+    "topic": "Completing Sentences",
+    "exam": "hsc"
+  },
+  {
+    "id": 306,
+    "type": "mcq",
+    "question": "In 'She sings beautifully', the word 'beautifully' is an:",
+    "options": [
+      "Adjective",
+      "Adverb",
+      "Noun",
+      "Verb"
+    ],
+    "answer": "Adverb",
+    "explanation": "'Beautifully' modifies the verb 'sings', 'Beautifully' ক্রিয়া 'sings' কে modify করছে।",
+    "level": "easy",
+    "topic": "Grammar",
+    "exam": "hsc"
+  },
+  {
+    "id": 307,
+    "type": "fill",
+    "question": "Transform to passive: 'Someone broke the window.'",
+    "options": [],
+    "answer": "The window was broken.",
+    "explanation": "Simple past active becomes simple past passive, Simple past active, simple past passive এ পরিবর্তিত হয়।",
+    "level": "medium",
+    "topic": "Voice",
+    "exam": "hsc"
+  },
+  {
+    "id": 308,
+    "type": "mcq",
+    "question": "Choose the correct article: 'He is ______ honest man.'",
+    "options": [
+      "a",
+      "an",
+      "the",
+      "no article"
+    ],
+    "answer": "an",
+    "explanation": "'Honest' begins with vowel sound, so 'an' is used, 'Honest' vowel sound দিয়ে শুরু হয়, তাই 'an' ব্যবহৃত হয়।",
+    "level": "easy",
+    "topic": "Articles",
+    "exam": "hsc"
+  },
+  {
+    "id": 309,
+    "type": "short",
+    "question": "What is the synonym of 'Rapid'?",
+    "options": [],
+    "answer": "Quick",
+    "explanation": "Both rapid and quick mean fast, Rapid এবং quick উভয়ই দ্রুত বোঝায়।",
+    "level": "easy",
+    "topic": "Synonyms",
+    "exam": "hsc"
+  },
+  {
+    "id": 310,
+    "type": "fill",
+    "question": "Fill in the gap: 'She is not only intelligent ______ hardworking.'",
+    "options": [],
+    "answer": "but also",
+    "explanation": "'Not only...but also' is a correlative conjunction, 'Not only...but also' একটি correlative conjunction।",
+    "level": "medium",
+    "topic": "Connectors",
+    "exam": "hsc"
+  },
+  {
+    "id": 311,
+    "type": "mcq",
+    "question": "In 'I have been waiting for two hours', the tense is:",
+    "options": [
+      "Present Perfect Continuous",
+      "Present Continuous",
+      "Past Perfect",
+      "Simple Present"
+    ],
+    "answer": "Present Perfect Continuous",
+    "explanation": "'Have been waiting' indicates present perfect continuous, 'Have been waiting' present perfect continuous নির্দেশ করে।",
+    "level": "medium",
+    "topic": "Tense",
+    "exam": "hsc"
+  },
+  {
+    "id": 312,
+    "type": "wordmeaning",
+    "question": "What is the Bengali meaning of 'Wistful'?",
+    "options": [
+      "উল্লসিত",
+      "বিষণ্ণ",
+      "আকাঙ্ক্ষাপূর্ণ",
+      "ক্রুদ্ধ"
+    ],
+    "answer": "আকাঙ্ক্ষাপূর্ণ",
+    "explanation": "Wistful means having a feeling of vague longing, Wistful অর্থ একটি অস্পষ্ট আকাঙ্ক্ষার অনুভূতি।",
+    "level": "hard",
+    "topic": "Vocabulary",
+    "exam": "hsc"
+  },
+  {
+    "id": 313,
+    "type": "fill",
+    "question": "Complete with right form: 'By next year, she ______ (complete) her degree.'",
+    "options": [],
+    "answer": "will have completed",
+    "explanation": "Future perfect for action completed before future time, ভবিষ্যত সময়ের আগে সম্পন্ন কাজের জন্য future perfect।",
+    "level": "hard",
+    "topic": "Right Form of Verbs",
+    "exam": "hsc"
+  },
+  {
+    "id": 314,
+    "type": "mcq",
+    "question": "In 'The book on the table is mine', 'on' is a:",
+    "options": [
+      "Preposition",
+      "Conjunction",
+      "Adverb",
+      "Interjection"
+    ],
+    "answer": "Preposition",
+    "explanation": "'On' shows position of the book, 'On' বইটির অবস্থান নির্দেশ করছে।",
+    "level": "easy",
+    "topic": "Prepositions",
+    "exam": "hsc"
+  },
+  {
+    "id": 315,
+    "type": "short",
+    "question": "What does the idiom 'Spill the beans' mean?",
+    "options": [],
+    "answer": "Reveal a secret",
+    "explanation": "To disclose confidential information, গোপন তথ্য ফাঁস করে দেওয়া।",
+    "level": "medium",
+    "topic": "Idioms & Phrases",
+    "exam": "hsc"
+  },
+  {
+    "id": 316,
+    "type": "fill",
+    "question": "Transform: 'He is too weak to carry the box.' (Use: so...that)",
+    "options": [],
+    "answer": "He is so weak that he cannot carry the box.",
+    "explanation": "Too...to can be transformed to so...that + negative, Too...to, so...that + negative এ রূপান্তর করা যায়।",
+    "level": "medium",
+    "topic": "Transformation",
+    "exam": "hsc"
+  },
+  {
+    "id": 317,
+    "type": "mcq",
+    "question": "Choose the correct conditional: '______ you heat water to 100°C, it boils.'",
+    "options": [
+      "If",
+      "Unless",
+      "When",
+      "Whether"
+    ],
+    "answer": "If",
+    "explanation": "Zero conditional for scientific facts, বৈজ্ঞানিক সত্যের জন্য জিরো কন্ডিশনাল।",
+    "level": "medium",
+    "topic": "Conditional Sentences",
+    "exam": "hsc"
+  },
+  {
+    "id": 318,
+    "type": "wordmeaning",
+    "question": "What is the Bengali meaning of 'Xenophile'?",
+    "options": [
+      "বিদেশী বিদ্বেষী",
+      "বিদেশী প্রেমী",
+      "স্বদেশপ্রেমী",
+      "উদাসীন"
+    ],
+    "answer": "বিদেশী প্রেমী",
+    "explanation": "Xenophile means person attracted to foreign cultures, Xenophile অর্থ বিদেশী সংস্কৃতির প্রতি আকৃষ্ট ব্যক্তি।",
+    "level": "hard",
+    "topic": "Vocabulary",
+    "exam": "hsc"
+  },
+  {
+    "id": 319,
+    "type": "fill",
+    "question": "Complete the sentence: 'Had I known, ______'",
+    "options": [],
+    "answer": "I would have helped",
+    "explanation": "Third conditional inversion structure, তৃতীয় কন্ডিশনালের inversion কাঠামো।",
+    "level": "hard",
+    "topic": "Completing Sentences",
+    "exam": "hsc"
+  },
+  {
+    "id": 320,
+    "type": "mcq",
+    "question": "In 'They themselves did the work', 'themselves' is a:",
+    "options": [
+      "Reflexive pronoun",
+      "Relative pronoun",
+      "Demonstrative pronoun",
+      "Interrogative pronoun"
+    ],
+    "answer": "Reflexive pronoun",
+    "explanation": "'Themselves' refers back to the subject 'they', 'Themselves' subject 'they' কে নির্দেশ করছে।",
+    "level": "medium",
+    "topic": "Grammar",
+    "exam": "hsc"
+  },
+  {
+    "id": 321,
+    "type": "fill",
+    "question": "Fill in the gap: '______ it was raining, we went out.'",
+    "options": [],
+    "answer": "Although",
+    "explanation": "'Although' shows contrast between rain and going out, 'Although' বৃষ্টি এবং বাইরে যাওয়ার মধ্যে বৈসাদৃশ্য দেখায়।",
+    "level": "medium",
+    "topic": "Connectors",
+    "exam": "hsc"
+  },
+  {
+    "id": 322,
+    "type": "mcq",
+    "question": "What is the antonym of 'Ancient'?",
+    "options": [
+      "Old",
+      "Modern",
+      "Historical",
+      "Traditional"
+    ],
+    "answer": "Modern",
+    "explanation": "Ancient means very old; modern means current, Ancient অর্থ প্রাচীন; modern অর্থ আধুনিক।",
+    "level": "easy",
+    "topic": "Antonyms",
+    "exam": "hsc"
+  },
+  {
+    "id": 323,
+    "type": "short",
+    "question": "What is the one-word for 'a person who writes novels'?",
+    "options": [],
+    "answer": "Novelist",
+    "explanation": "A novelist is a writer of novels, Novelist অর্থ উপন্যাস লেখক।",
+    "level": "easy",
+    "topic": "One Word Substitution",
+    "exam": "hsc"
+  },
+  {
+    "id": 324,
+    "type": "fill",
+    "question": "Change to indirect speech: 'He said, \"I will come tomorrow.\"'",
+    "options": [],
+    "answer": "He said that he would come the next day.",
+    "explanation": "'Will' becomes 'would'; 'tomorrow' becomes 'the next day', 'Will' 'would' তে পরিবর্তিত হয়; 'tomorrow' 'the next day' এ পরিবর্তিত হয়।",
+    "level": "medium",
+    "topic": "Narration",
+    "exam": "hsc"
+  },
+  {
+    "id": 325,
+    "type": "mcq",
+    "question": "In 'The running water', 'running' is a:",
+    "options": [
+      "Present participle",
+      "Gerund",
+      "Infinitive",
+      "Past participle"
+    ],
+    "answer": "Present participle",
+    "explanation": "'Running' functions as adjective modifying 'water', 'Running' adjective হিসেবে 'water' কে modify করছে।",
+    "level": "hard",
+    "topic": "Grammar",
+    "exam": "hsc"
+  },
+  {
+    "id": 326,
+    "type": "wordmeaning",
+    "question": "What is the Bengali meaning of 'Yearn'?",
+    "options": [
+      "ঘৃণা করা",
+      "অবহেলা করা",
+      "অভিলাষ করা",
+      "ভয় পাওয়া"
+    ],
+    "answer": "অভিলাষ করা",
+    "explanation": "Yearn means to have intense longing for something, Yearn অর্থ তীব্র আকাঙ্ক্ষা করা।",
+    "level": "medium",
+    "topic": "Vocabulary",
+    "exam": "hsc"
+  },
+  {
+    "id": 327,
+    "type": "fill",
+    "question": "Complete with right form: 'She ______ (read) the book when I called.'",
+    "options": [],
+    "answer": "was reading",
+    "explanation": "Past continuous for interrupted action, বিঘ্নিত কাজের জন্য past continuous।",
+    "level": "medium",
+    "topic": "Right Form of Verbs",
+    "exam": "hsc"
+  },
+  {
+    "id": 328,
+    "type": "mcq",
+    "question": "Choose the correct preposition: 'He is good ______ mathematics.'",
+    "options": [
+      "at",
+      "in",
+      "with",
+      "for"
+    ],
+    "answer": "at",
+    "explanation": "'Good at' indicates skill in a subject, 'Good at' কোনো বিষয়ে দক্ষতা নির্দেশ করে।",
+    "level": "easy",
+    "topic": "Prepositions",
+    "exam": "hsc"
+  },
+  {
+    "id": 329,
+    "type": "short",
+    "question": "What does the phrasal verb 'Give up' mean?",
+    "options": [],
+    "answer": "Quit",
+    "explanation": "To stop trying or surrender, চেষ্টা করা বন্ধ করা বা হার মানা।",
+    "level": "easy",
+    "topic": "Phrasal Verbs",
+    "exam": "hsc"
+  },
+  {
+    "id": 330,
+    "type": "fill",
+    "question": "Transform to negative: 'He is the best player in the team.'",
+    "options": [],
+    "answer": "No other player in the team is as good as he.",
+    "explanation": "Superlative to positive degree transformation, Superlative থেকে positive degree এ রূপান্তর।",
+    "level": "hard",
+    "topic": "Transformation",
+    "exam": "hsc"
+  },
+  {
+    "id": 331,
+    "type": "mcq",
+    "question": "In 'Neither John nor Mary is coming', the verb agrees with:",
+    "options": [
+      "John",
+      "Mary",
+      "Both",
+      "Neither"
+    ],
+    "answer": "Mary",
+    "explanation": "With 'neither...nor', verb agrees with nearer subject, 'Neither...nor' এর ক্ষেত্রে verb নিকটবর্তী subject এর সাথে agree করে।",
+    "level": "hard",
+    "topic": "Subject-Verb Agreement",
+    "exam": "hsc"
+  },
+  {
+    "id": 332,
+    "type": "wordmeaning",
+    "question": "What is the Bengali meaning of 'Zealous'?",
+    "options": [
+      "উদাসীন",
+      "উৎসাহী",
+      "অলস",
+      "ভীত"
+    ],
+    "answer": "উৎসাহী",
+    "explanation": "Zealous means having great energy or enthusiasm, Zealous অর্থ অত্যন্ত উদ্যমী বা উৎসাহী।",
+    "level": "medium",
+    "topic": "Vocabulary",
+    "exam": "hsc"
+  },
+  {
+    "id": 333,
+    "type": "fill",
+    "question": "Complete: 'Scarcely had he arrived ______'",
+    "options": [],
+    "answer": "when it started raining",
+    "explanation": "'Scarcely...when' structure requires 'when' clause, 'Scarcely...when' কাঠামোতে 'when' clause প্রয়োজন।",
+    "level": "hard",
+    "topic": "Completing Sentences",
+    "exam": "hsc"
+  },
+  {
+    "id": 334,
+    "type": "mcq",
+    "question": "Choose the correct article: '______ Quran is holy book.'",
+    "options": [
+      "A",
+      "An",
+      "The",
+      "No article"
+    ],
+    "answer": "The",
+    "explanation": "'The' for specific holy books, নির্দিষ্ট ধর্মগ্রন্থের জন্য 'the' ব্যবহৃত হয়।",
+    "level": "easy",
+    "topic": "Articles",
+    "exam": "hsc"
+  },
+  {
+    "id": 335,
+    "type": "short",
+    "question": "What is the synonym of 'Abundant'?",
+    "options": [],
+    "answer": "Plentiful",
+    "explanation": "Both mean existing in large quantities, উভয়ই প্রচুর পরিমাণে বিদ্যমান বোঝায়।",
+    "level": "medium",
+    "topic": "Synonyms",
+    "exam": "hsc"
+  },
+  {
+    "id": 336,
+    "type": "fill",
+    "question": "Fill in the gap: 'He works hard ______ he may pass.'",
+    "options": [],
+    "answer": "so that",
+    "explanation": "'So that' indicates purpose, 'So that' উদ্দেশ্য নির্দেশ করে।",
+    "level": "medium",
+    "topic": "Connectors",
+    "exam": "hsc"
+  },
+  {
+    "id": 337,
+    "type": "mcq",
+    "question": "In 'The quickly running boy', 'quickly' modifies:",
+    "options": [
+      "Running",
+      "Boy",
+      "The",
+      "All of the above"
+    ],
+    "answer": "Running",
+    "explanation": "'Quickly' is adverb modifying participle 'running', 'Quickly' adverb যা participle 'running' কে modify করছে।",
+    "level": "hard",
+    "topic": "Modifiers",
+    "exam": "hsc"
+  },
+  {
+    "id": 338,
+    "type": "wordmeaning",
+    "question": "What is the Bengali meaning of 'Ambiguous'?",
+    "options": [
+      "স্পষ্ট",
+      "দ্ব্যর্থক",
+      "সরল",
+      "নির্দিষ্ট"
+    ],
+    "answer": "দ্ব্যর্থক",
+    "explanation": "Ambiguous means open to more than one interpretation, Ambiguous অর্থ একাধিক অর্থবহ।",
+    "level": "hard",
+    "topic": "Vocabulary",
+    "exam": "hsc"
+  },
+  {
+    "id": 339,
+    "type": "fill",
+    "question": "Complete with right form: 'If I ______ (be) a bird, I would fly.'",
+    "options": [],
+    "answer": "were",
+    "explanation": "Second conditional uses 'were' for all subjects, দ্বিতীয় কন্ডিশনালে সব subject এর জন্য 'were' ব্যবহৃত হয়।",
+    "level": "medium",
+    "topic": "Right Form of Verbs",
+    "exam": "hsc"
+  },
+  {
+    "id": 340,
+    "type": "mcq",
+    "question": "What is the antonym of 'Brave'?",
+    "options": [
+      "Courageous",
+      "Cowardly",
+      "Bold",
+      "Heroic"
+    ],
+    "answer": "Cowardly",
+    "explanation": "Brave means courageous; cowardly means lacking courage, Brave অর্থ সাহসী; cowardly অর্থ ভীরু।",
+    "level": "easy",
+    "topic": "Antonyms",
+    "exam": "hsc"
+  },
+  {
+    "id": 341,
+    "type": "short",
+    "question": "What does 'Kick the bucket' mean?",
+    "options": [],
+    "answer": "Die",
+    "explanation": "Slang expression meaning to die, মারা যাওয়ার জন্য অপভাষা।",
+    "level": "medium",
+    "topic": "Idioms & Phrases",
+    "exam": "hsc"
+  },
+  {
+    "id": 342,
+    "type": "fill",
+    "question": "Transform to interrogative: 'He can speak English.'",
+    "options": [],
+    "answer": "Can he speak English?",
+    "explanation": "Modal verb 'can' comes before subject in questions, প্রশ্নবাক্যে modal verb 'can' subject এর আগে আসে।",
+    "level": "easy",
+    "topic": "Transformation",
+    "exam": "hsc"
+  },
+  {
+    "id": 343,
+    "type": "mcq",
+    "question": "In 'She as well as her friends is coming', the verb is singular because:",
+    "options": [
+      "Subject is 'she'",
+      "'As well as' doesn't make compound subject",
+      "Both A and B",
+      "Neither A nor B"
+    ],
+    "answer": "Both A and B",
+    "explanation": "With 'as well as', verb agrees with first subject, 'As well as' এর ক্ষেত্রে verb প্রথম subject এর সাথে agree করে।",
+    "level": "hard",
+    "topic": "Subject-Verb Agreement",
+    "exam": "hsc"
+  },
+  {
+    "id": 344,
+    "type": "wordmeaning",
+    "question": "What is the Bengali meaning of 'Clandestine'?",
+    "options": [
+      "খোলামেলা",
+      "গোপন",
+      "আনন্দদায়ক",
+      "বেদনাদায়ক"
+    ],
+    "answer": "গোপন",
+    "explanation": "Clandestine means kept secret or done secretively, Clandestine অর্থ গোপনে সংঘটিত।",
+    "level": "hard",
+    "topic": "Vocabulary",
+    "exam": "hsc"
+  },
+  {
+    "id": 345,
+    "type": "fill",
+    "question": "Complete: 'Not only did he come ______'",
+    "options": [],
+    "answer": "but also helped",
+    "explanation": "'Not only...but also' requires parallel structure, 'Not only...but also' সমান্তরাল গঠন প্রয়োজন।",
+    "level": "hard",
+    "topic": "Completing Sentences",
+    "exam": "hsc"
+  },
+  {
+    "id": 346,
+    "type": "mcq",
+    "question": "Choose the correct preposition: 'She is jealous ______ her sister.'",
+    "options": [
+      "of",
+      "with",
+      "for",
+      "at"
+    ],
+    "answer": "of",
+    "explanation": "'Jealous of' is correct prepositional phrase, 'Jealous of' সঠিক prepositional phrase।",
+    "level": "easy",
+    "topic": "Prepositions",
+    "exam": "hsc"
+  },
+  {
+    "id": 347,
+    "type": "short",
+    "question": "What is the one-word for 'a person who loves himself'?",
+    "options": [],
+    "answer": "Narcissist",
+    "explanation": "A narcissist has excessive interest in oneself, Narcissist অর্থ নিজের প্রতি অত্যধিক আগ্রহী ব্যক্তি।",
+    "level": "medium",
+    "topic": "One Word Substitution",
+    "exam": "hsc"
+  },
+  {
+    "id": 348,
+    "type": "fill",
+    "question": "Change to passive: 'People speak English worldwide.'",
+    "options": [],
+    "answer": "English is spoken worldwide.",
+    "explanation": "Present simple active becomes present simple passive, Present simple active, present simple passive এ পরিবর্তিত হয়।",
+    "level": "medium",
+    "topic": "Voice",
+    "exam": "hsc"
+  },
+  {
+    "id": 349,
+    "type": "mcq",
+    "question": "In 'Walking is good exercise', 'Walking' is a:",
+    "options": [
+      "Gerund",
+      "Present participle",
+      "Infinitive",
+      "Verb"
+    ],
+    "answer": "Gerund",
+    "explanation": "'Walking' functions as noun subject of sentence, 'Walking' বাক্যের subject হিসেবে noun এর কাজ করছে।",
+    "level": "hard",
+    "topic": "Grammar",
+    "exam": "hsc"
+  },
+  {
+    "id": 350,
+    "type": "wordmeaning",
+    "question": "What is the Bengali meaning of 'Debilitate'?",
+    "options": [
+      "শক্তিশালী করা",
+      "দুর্বল করা",
+      "উৎসাহিত করা",
+      "সাহায্য করা"
+    ],
+    "answer": "দুর্বল করা",
+    "explanation": "Debilitate means to make someone weak, Debilitate অর্থ দুর্বল করে দেওয়া।",
+    "level": "hard",
+    "topic": "Vocabulary",
+    "exam": "hsc"
   }
 
+
 ]
+
 
 
 
