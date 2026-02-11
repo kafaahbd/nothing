@@ -3387,7 +3387,7 @@
   },
   {
     "id": 251,
-    "type": "wordmeaning",
+    "type": "mcq",
     "question": "What is the Bengali meaning of 'Ubiquitous'?",
     "options": [
       "সর্বত্র বিদ্যমান",
@@ -3430,7 +3430,7 @@
   },
   {
     "id": 254,
-    "type": "wordmeaning",
+    "type": "mcq",
     "question": "What is the Bengali meaning of 'Ephemeral'?",
     "options": [
       "স্থায়ী",
@@ -3462,7 +3462,7 @@
   },
   {
     "id": 256,
-    "type": "wordmeaning",
+    "type": "mcq",
     "question": "What is the Bengali meaning of 'Meticulous'?",
     "options": [
       "অসতর্ক",
@@ -3505,7 +3505,7 @@
   },
   {
     "id": 259,
-    "type": "wordmeaning",
+    "type": "mcq",
     "question": "What is the Bengali meaning of 'Aesthetic'?",
     "options": [
       "কুৎসিত",
@@ -3537,7 +3537,7 @@
   },
   {
     "id": 261,
-    "type": "wordmeaning",
+    "type": "mcq",
     "question": "What is the Bengali meaning of 'Benevolent'?",
     "options": [
       "নিষ্ঠুর",
@@ -3564,7 +3564,7 @@
   },
   {
     "id": 263,
-    "type": "wordmeaning",
+    "type": "mcq",
     "question": "What is the Bengali meaning of 'Cacophony'?",
     "options": [
       "মধুর ধ্বনি",
@@ -3596,7 +3596,7 @@
   },
   {
     "id": 265,
-    "type": "wordmeaning",
+    "type": "mcq",
     "question": "What is the Bengali meaning of 'Diligent'?",
     "options": [
       "অলস",
@@ -3623,7 +3623,7 @@
   },
   {
     "id": 267,
-    "type": "wordmeaning",
+    "type": "mcq",
     "question": "What is the Bengali meaning of 'Euphoria'?",
     "options": [
       "বিষাদ",
@@ -3655,7 +3655,7 @@
   },
   {
     "id": 269,
-    "type": "wordmeaning",
+    "type": "mcq",
     "question": "What is the Bengali meaning of 'Facetious'?",
     "options": [
       "গম্ভীর",
@@ -3682,7 +3682,7 @@
   },
   {
     "id": 271,
-    "type": "wordmeaning",
+    "type": "mcq",
     "question": "What is the Bengali meaning of 'Gregarious'?",
     "options": [
       "নির্জনতাপ্রিয়",
@@ -3714,7 +3714,7 @@
   },
   {
     "id": 273,
-    "type": "wordmeaning",
+    "type": "mcq",
     "question": "What is the Bengali meaning of 'Hapless'?",
     "options": [
       "সৌভাগ্যবান",
@@ -3741,7 +3741,7 @@
   },
   {
     "id": 275,
-    "type": "wordmeaning",
+    "type": "mcq",
     "question": "What is the Bengali meaning of 'Inevitable'?",
     "options": [
       "অনিশ্চিত",
@@ -3773,7 +3773,7 @@
   },
   {
     "id": 277,
-    "type": "wordmeaning",
+    "type": "mcq",
     "question": "What is the Bengali meaning of 'Juxtaposition'?",
     "options": [
       "পৃথকীকরণ",
@@ -3800,7 +3800,7 @@
   },
   {
     "id": 279,
-    "type": "wordmeaning",
+    "type": "mcq",
     "question": "What is the Bengali meaning of 'Kaleidoscopic'?",
     "options": [
       "একরঙা",
@@ -3832,7 +3832,7 @@
   },
   {
     "id": 281,
-    "type": "wordmeaning",
+    "type": "mcq",
     "question": "What is the Bengali meaning of 'Laconic'?",
     "options": [
       "বাচাল",
@@ -3859,7 +3859,7 @@
   },
   {
     "id": 283,
-    "type": "wordmeaning",
+    "type": "mcq",
     "question": "What is the Bengali meaning of 'Mellifluous'?",
     "options": [
       "কর্কশ",
@@ -3891,7 +3891,7 @@
   },
   {
     "id": 285,
-    "type": "wordmeaning",
+    "type": "mcq",
     "question": "What is the Bengali meaning of 'Nefarious'?",
     "options": [
       "সদাচারী",
@@ -3918,7 +3918,7 @@
   },
   {
     "id": 287,
-    "type": "wordmeaning",
+    "type": "mcq",
     "question": "What is the Bengali meaning of 'Obfuscate'?",
     "options": [
       "স্পষ্ট করা",
@@ -3950,7 +3950,7 @@
   },
   {
     "id": 289,
-    "type": "wordmeaning",
+    "type": "mcq",
     "question": "What is the Bengali meaning of 'Pragmatic'?",
     "options": [
       "আদর্শবাদী",
@@ -3977,7 +3977,7 @@
   },
   {
     "id": 291,
-    "type": "wordmeaning",
+    "type": "mcq",
     "question": "What is the Bengali meaning of 'Quintessential'?",
     "options": [
       "সাধারণ",
@@ -4009,7 +4009,7 @@
   },
   {
     "id": 293,
-    "type": "wordmeaning",
+    "type": "mcq",
     "question": "What is the Bengali meaning of 'Reticent'?",
     "options": [
       "বাচাল",
@@ -4036,7 +4036,7 @@
   },
   {
     "id": 295,
-    "type": "wordmeaning",
+    "type": "mcq",
     "question": "What is the Bengali meaning of 'Serendipity'?",
     "options": [
       "দুর্ভাগ্য",
@@ -4068,7 +4068,7 @@
   },
   {
     "id": 297,
-    "type": "wordmeaning",
+    "type": "mcq",
     "question": "What is the Bengali meaning of 'Taciturn'?",
     "options": [
       "বাক্পটু",
@@ -4095,7 +4095,7 @@
   },
   {
     "id": 299,
-    "type": "wordmeaning",
+    "type": "mcq",
     "question": "What is the Bengali meaning of 'Ubiquitous'?",
     "options": [
       "দুর্লভ",
@@ -4170,7 +4170,7 @@
   },
   {
     "id": 304,
-    "type": "wordmeaning",
+    "type": "mcq",
     "question": "What is the Bengali meaning of 'Voracious'?",
     "options": [
       "অল্পাহারী",
@@ -4278,7 +4278,7 @@
   },
   {
     "id": 312,
-    "type": "wordmeaning",
+    "type": "mcq",
     "question": "What is the Bengali meaning of 'Wistful'?",
     "options": [
       "উল্লসিত",
@@ -4359,7 +4359,7 @@
   },
   {
     "id": 318,
-    "type": "wordmeaning",
+    "type": "mcq",
     "question": "What is the Bengali meaning of 'Xenophile'?",
     "options": [
       "বিদেশী বিদ্বেষী",
@@ -4467,7 +4467,7 @@
   },
   {
     "id": 326,
-    "type": "wordmeaning",
+    "type": "mcq",
     "question": "What is the Bengali meaning of 'Yearn'?",
     "options": [
       "ঘৃণা করা",
@@ -4548,7 +4548,7 @@
   },
   {
     "id": 332,
-    "type": "wordmeaning",
+    "type": "mcq",
     "question": "What is the Bengali meaning of 'Zealous'?",
     "options": [
       "উদাসীন",
@@ -4629,7 +4629,7 @@
   },
   {
     "id": 338,
-    "type": "wordmeaning",
+    "type": "mcq",
     "question": "What is the Bengali meaning of 'Ambiguous'?",
     "options": [
       "স্পষ্ট",
@@ -4710,7 +4710,7 @@
   },
   {
     "id": 344,
-    "type": "wordmeaning",
+    "type": "mcq",
     "question": "What is the Bengali meaning of 'Clandestine'?",
     "options": [
       "খোলামেলা",
@@ -4791,7 +4791,7 @@
   },
   {
     "id": 350,
-    "type": "wordmeaning",
+    "type": "mcq",
     "question": "What is the Bengali meaning of 'Debilitate'?",
     "options": [
       "শক্তিশালী করা",
@@ -4808,6 +4808,7 @@
 
 
 ]
+
 
 
 
