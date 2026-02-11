@@ -4804,10 +4804,737 @@
     "level": "hard",
     "topic": "Vocabulary",
     "exam": "hsc"
+  },
+  {
+    "id": 351,
+    "type": "mcq",
+    "question": "Which preposition correctly completes the sentence: 'He is accused ______ theft.'",
+    "options": [
+      "of",
+      "for",
+      "with",
+      "at"
+    ],
+    "answer": "of",
+    "explanation": "'Accused of' is the correct collocation, 'Accused of' সঠিক prepositional phrase।",
+    "level": "medium",
+    "topic": "Prepositions",
+    "exam": "hsc"
+  },
+  {
+    "id": 352,
+    "type": "fill",
+    "question": "Complete the sentence with correct verb form: 'If I ______ (have) enough money, I would buy a car.'",
+    "options": [],
+    "answer": "had",
+    "explanation": "Second conditional uses past simple tense, দ্বিতীয় কন্ডিশনালে past simple tense ব্যবহৃত হয়।",
+    "level": "medium",
+    "topic": "Right Form of Verbs",
+    "exam": "hsc"
+  },
+  {
+    "id": 353,
+    "type": "mcq",
+    "question": "Choose the correct connector: 'He is very talented; ______, he is quite lazy.'",
+    "options": [
+      "however",
+      "therefore",
+      "moreover",
+      "consequently"
+    ],
+    "answer": "however",
+    "explanation": "'However' shows contrast between talent and laziness, 'However' প্রতিভা এবং অলসতার মধ্যে বৈসাদৃশ্য দেখায়।",
+    "level": "medium",
+    "topic": "Connectors",
+    "exam": "hsc"
+  },
+  {
+    "id": 354,
+    "type": "mcq",
+    "question": "What is the Bengali meaning of 'Eccentric'?",
+    "options": [
+      "স্বাভাবিক",
+      "উদ্ভট",
+      "সাধারণ",
+      "নিয়মিত"
+    ],
+    "answer": "উদ্ভট",
+    "explanation": "Eccentric means unconventional and slightly strange, Eccentric অর্থ অস্বাভাবিক ও কিছুটা অদ্ভুত।",
+    "level": "hard",
+    "topic": "Vocabulary",
+    "exam": "hsc"
+  },
+  {
+    "id": 355,
+    "type": "mcq",
+    "question": "In the sentence 'The cat slept on the mat', the word 'on' functions as:",
+    "options": [
+      "Preposition showing position",
+      "Adverb of place",
+      "Conjunction",
+      "Interjection"
+    ],
+    "answer": "Preposition showing position",
+    "explanation": "'On' shows the position of the cat relative to the mat, 'On' বিড়ালটির ম্যাটের সাপেক্ষে অবস্থান দেখাচ্ছে।",
+    "level": "easy",
+    "topic": "Prepositions",
+    "exam": "hsc"
+  },
+  {
+    "id": 356,
+    "type": "fill",
+    "question": "Fill in the blank with appropriate suffix: 'The develop______ of the country is remarkable.'",
+    "options": [],
+    "answer": "ment",
+    "explanation": "The noun form of 'develop' is 'development', 'Develop' এর বিশেষ্য রূপ 'development'।",
+    "level": "medium",
+    "topic": "Suffix/Prefix",
+    "exam": "hsc"
+  },
+  {
+    "id": 357,
+    "type": "mcq",
+    "question": "Which is the correct passive form of: 'They are building a new hospital.'",
+    "options": [
+      "A new hospital is being built.",
+      "A new hospital was being built.",
+      "A new hospital has been built.",
+      "A new hospital will be built."
+    ],
+    "answer": "A new hospital is being built.",
+    "explanation": "Present continuous active becomes present continuous passive, Present continuous active, present continuous passive এ পরিবর্তিত হয়।",
+    "level": "medium",
+    "topic": "Voice",
+    "exam": "hsc"
+  },
+  {
+    "id": 358,
+    "type": "mcq",
+    "question": "Choose the correct conditional sentence:",
+    "options": [
+      "If I will see him, I will tell him.",
+      "If I see him, I will tell him.",
+      "If I saw him, I will tell him.",
+      "If I would see him, I tell him."
+    ],
+    "answer": "If I see him, I will tell him.",
+    "explanation": "First conditional for real future possibilities, বাস্তব ভবিষ্যত সম্ভাবনার জন্য প্রথম কন্ডিশনাল।",
+    "level": "medium",
+    "topic": "Conditional Sentences",
+    "exam": "hsc"
+  },
+  {
+    "id": 359,
+    "type": "fill",
+    "question": "Complete the sentence with correct preposition: 'She is fond ______ listening to music.'",
+    "options": [],
+    "answer": "of",
+    "explanation": "'Fond of' is the correct prepositional phrase, 'Fond of' সঠিক prepositional phrase।",
+    "level": "easy",
+    "topic": "Prepositions",
+    "exam": "hsc"
+  },
+  {
+    "id": 360,
+    "type": "mcq",
+    "question": "What is the antonym of 'Transparent'?",
+    "options": [
+      "Clear",
+      "Opaque",
+      "See-through",
+      "Lucid"
+    ],
+    "answer": "Opaque",
+    "explanation": "Transparent means see-through; opaque means not transparent, Transparent অর্থ স্বচ্ছ; opaque অর্থ অস্বচ্ছ।",
+    "level": "easy",
+    "topic": "Antonyms",
+    "exam": "hsc"
+  },
+  {
+    "id": 361,
+    "type": "mcq",
+    "question": "In 'The quickly running water', the word 'quickly' modifies:",
+    "options": [
+      "Running",
+      "Water",
+      "The",
+      "All of these"
+    ],
+    "answer": "Running",
+    "explanation": "'Quickly' is an adverb modifying the participle 'running', 'Quickly' একটি adverb যা participle 'running' কে modify করছে।",
+    "level": "hard",
+    "topic": "Modifiers",
+    "exam": "hsc"
+  },
+  {
+    "id": 362,
+    "type": "fill",
+    "question": "Fill in the blank with correct verb form: 'By tomorrow, he ______ (finish) his assignment.'",
+    "options": [],
+    "answer": "will have finished",
+    "explanation": "Future perfect tense for action completed before future time, ভবিষ্যত সময়ের আগে সম্পন্ন কাজের জন্য future perfect tense।",
+    "level": "hard",
+    "topic": "Right Form of Verbs",
+    "exam": "hsc"
+  },
+  {
+    "id": 363,
+    "type": "mcq",
+    "question": "Which sentence has correct subject-verb agreement?",
+    "options": [
+      "Neither the teacher nor the students is present.",
+      "Neither the teacher nor the students are present.",
+      "Neither the teacher or the students are present.",
+      "Neither teacher nor students is present."
+    ],
+    "answer": "Neither the teacher nor the students are present.",
+    "explanation": "With 'neither...nor', verb agrees with nearer subject (students = plural), 'Neither...nor' এর ক্ষেত্রে verb নিকটবর্তী subject এর সাথে agree করে (students = plural)।",
+    "level": "hard",
+    "topic": "Subject-Verb Agreement",
+    "exam": "hsc"
+  },
+  {
+    "id": 364,
+    "type": "mcq",
+    "question": "What is the Bengali meaning of 'Frugal'?",
+    "options": [
+      "অপব্যয়ী",
+      "মিতব্যয়ী",
+      "উদার",
+      "লোভী"
+    ],
+    "answer": "মিতব্যয়ী",
+    "explanation": "Frugal means economical in use of resources, Frugal অর্থ সম্পদের ব্যবহারে মিতব্যয়ী।",
+    "level": "medium",
+    "topic": "Vocabulary",
+    "exam": "hsc"
+  },
+  {
+    "id": 365,
+    "type": "mcq",
+    "question": "Choose the correct transformation: 'He is the tallest boy in the class.'",
+    "options": [
+      "No other boy in the class is as tall as he.",
+      "No other boy in the class is taller than he.",
+      "Both A and B are correct",
+      "Only A is correct"
+    ],
+    "answer": "Both A and B are correct",
+    "explanation": "Superlative can be transformed to positive or comparative degree, Superlative কে positive বা comparative degree এ রূপান্তর করা যায়।",
+    "level": "hard",
+    "topic": "Transformation",
+    "exam": "hsc"
+  },
+  {
+    "id": 366,
+    "type": "fill",
+    "question": "Complete with correct connector: '______ he is poor, he is honest.'",
+    "options": [],
+    "answer": "Although",
+    "explanation": "'Although' shows contrast between poverty and honesty, 'Although' দারিদ্র্য এবং সততার মধ্যে বৈসাদৃশ্য দেখায়।",
+    "level": "medium",
+    "topic": "Connectors",
+    "exam": "hsc"
+  },
+  {
+    "id": 367,
+    "type": "mcq",
+    "question": "Which is the correct reported speech of: 'He said, \"I may go there.\"'",
+    "options": [
+      "He said that he might go there.",
+      "He said that he may go there.",
+      "He said that he would go there.",
+      "He said that he can go there."
+    ],
+    "answer": "He said that he might go there.",
+    "explanation": "'May' becomes 'might' in reported speech, Reported speech এ 'may' 'might' তে পরিবর্তিত হয়।",
+    "level": "hard",
+    "topic": "Narration",
+    "exam": "hsc"
+  },
+  {
+    "id": 368,
+    "type": "mcq",
+    "question": "What does the idiom 'Bite off more than you can chew' mean?",
+    "options": [
+      "To eat too much",
+      "To take on a task too difficult",
+      "To be very hungry",
+      "To chew properly"
+    ],
+    "answer": "To take on a task too difficult",
+    "explanation": "To attempt something beyond one's capability, নিজের ক্ষমতার বাইরে কিছু করার চেষ্টা করা।",
+    "level": "medium",
+    "topic": "Idioms & Phrases",
+    "exam": "hsc"
+  },
+  {
+    "id": 369,
+    "type": "fill",
+    "question": "Add appropriate prefix: '______ legal activities should be avoided.'",
+    "options": [],
+    "answer": "Il",
+    "explanation": "Complete word is 'Illegal'. 'Il-' prefix makes opposite meaning, 'Il-' উপসর্গ বিপরীত অর্থ তৈরি করে।",
+    "level": "medium",
+    "topic": "Suffix/Prefix",
+    "exam": "hsc"
+  },
+  {
+    "id": 370,
+    "type": "mcq",
+    "question": "In 'She sings beautifully', the word 'beautifully' is:",
+    "options": [
+      "An adjective",
+      "An adverb",
+      "A noun",
+      "A verb"
+    ],
+    "answer": "An adverb",
+    "explanation": "'Beautifully' modifies the verb 'sings', 'Beautifully' ক্রিয়া 'sings' কে modify করছে।",
+    "level": "easy",
+    "topic": "Grammar",
+    "exam": "hsc"
+  },
+  {
+    "id": 371,
+    "type": "mcq",
+    "question": "Which preposition is correct: 'He is eligible ______ the post.'",
+    "options": [
+      "for",
+      "to",
+      "with",
+      "at"
+    ],
+    "answer": "for",
+    "explanation": "'Eligible for' is the correct collocation, 'Eligible for' সঠিক prepositional phrase।",
+    "level": "medium",
+    "topic": "Prepositions",
+    "exam": "hsc"
+  },
+  {
+    "id": 372,
+    "type": "fill",
+    "question": "Complete with correct verb form: 'If she ______ (study) harder, she would have passed.'",
+    "options": [],
+    "answer": "had studied",
+    "explanation": "Third conditional requires past perfect tense, তৃতীয় কন্ডিশনালের জন্য past perfect tense প্রয়োজন।",
+    "level": "hard",
+    "topic": "Right Form of Verbs",
+    "exam": "hsc"
+  },
+  {
+    "id": 373,
+    "type": "mcq",
+    "question": "What is the synonym of 'Prolific'?",
+    "options": [
+      "Unproductive",
+      "Productive",
+      "Lazy",
+      "Slow"
+    ],
+    "answer": "Productive",
+    "explanation": "Prolific means producing much fruit or many works, Prolific অর্থ প্রচুর পরিমাণে উৎপাদনশীল।",
+    "level": "medium",
+    "topic": "Synonyms",
+    "exam": "hsc"
+  },
+  {
+    "id": 374,
+    "type": "mcq",
+    "question": "Choose the correct sentence:",
+    "options": [
+      "One of the boys are missing.",
+      "One of the boys is missing.",
+      "One of the boy is missing.",
+      "One of boys are missing."
+    ],
+    "answer": "One of the boys is missing.",
+    "explanation": "'One' is singular subject requiring singular verb, 'One' একবচন subject যা একবচন verb প্রয়োজন।",
+    "level": "medium",
+    "topic": "Sentence Correction",
+    "exam": "hsc"
+  },
+  {
+    "id": 375,
+    "type": "fill",
+    "question": "Complete with correct article: '______ Himalayas are ______ highest mountains.'",
+    "options": [],
+    "answer": "The, the",
+    "explanation": "'The' for specific mountain ranges and superlatives, নির্দিষ্ট পর্বতশ্রেণী এবং superlative এর জন্য 'the' ব্যবহৃত হয়।",
+    "level": "medium",
+    "topic": "Articles",
+    "exam": "hsc"
+  },
+  {
+    "id": 376,
+    "type": "mcq",
+    "question": "What is the one-word substitution for 'a person who believes in God'?",
+    "options": [
+      "Atheist",
+      "Theist",
+      "Agnostic",
+      "Skeptic"
+    ],
+    "answer": "Theist",
+    "explanation": "A theist believes in existence of God, Theist ঈশ্বরে বিশ্বাসী ব্যক্তি।",
+    "level": "medium",
+    "topic": "One Word Substitution",
+    "exam": "hsc"
+  },
+  {
+    "id": 377,
+    "type": "mcq",
+    "question": "In 'Walking through the park, I saw a bird', the phrase 'Walking through the park' is:",
+    "options": [
+      "A dangling modifier",
+      "A misplaced modifier",
+      "A correct modifier",
+      "An absolute phrase"
+    ],
+    "answer": "A correct modifier",
+    "explanation": "The modifier correctly refers to 'I' who was walking, Modifier সঠিকভাবে 'I' কে নির্দেশ করছে যে হাঁটছিল।",
+    "level": "hard",
+    "topic": "Modifiers",
+    "exam": "hsc"
+  },
+  {
+    "id": 378,
+    "type": "fill",
+    "question": "Complete with correct prepositions: 'He is good ______ mathematics but weak ______ English.'",
+    "options": [],
+    "answer": "at, in",
+    "explanation": "'Good at' for skills; 'weak in' for subjects, দক্ষতার জন্য 'good at'; বিষয়ের জন্য 'weak in'।",
+    "level": "medium",
+    "topic": "Prepositions",
+    "exam": "hsc"
+  },
+  {
+    "id": 379,
+    "type": "mcq",
+    "question": "Which phrasal verb means 'to postpone'?",
+    "options": [
+      "Put off",
+      "Put on",
+      "Put out",
+      "Put up"
+    ],
+    "answer": "Put off",
+    "explanation": "'Put off' means to delay something, 'Put off' অর্থ কিছু বিলম্বিত করা।",
+    "level": "easy",
+    "topic": "Phrasal Verbs",
+    "exam": "hsc"
+  },
+  {
+    "id": 380,
+    "type": "mcq",
+    "question": "What is the Bengali meaning of 'Gregarious'?",
+    "options": [
+      "একাকী",
+      "সমাজবদ্ধ",
+      "ভীত",
+      "উদ্ধত"
+    ],
+    "answer": "সমাজবদ্ধ",
+    "explanation": "Gregarious means fond of company, Gregarious অর্থ সমাজে থাকতে পছন্দ করে এমন।",
+    "level": "hard",
+    "topic": "Vocabulary",
+    "exam": "hsc"
+  },
+  {
+    "id": 381,
+    "type": "mcq",
+    "question": "Choose the correct tag question: 'Let's go for a walk, ______?'",
+    "options": [
+      "shall we",
+      "will we",
+      "should we",
+      "can we"
+    ],
+    "answer": "shall we",
+    "explanation": "For suggestions with 'Let's', use 'shall we' tag, 'Let's' দিয়ে সুপারিশের ক্ষেত্রে 'shall we' ট্যাগ ব্যবহৃত হয়।",
+    "level": "medium",
+    "topic": "Tag Questions",
+    "exam": "hsc"
+  },
+  {
+    "id": 382,
+    "type": "fill",
+    "question": "Complete with correct verb form: 'I ______ (live) in Dhaka since 2010.'",
+    "options": [],
+    "answer": "have been living",
+    "explanation": "Present perfect continuous for action starting in past continuing to present, অতীতে শুরু হয়ে বর্তমান পর্যন্ত চলমান কাজের জন্য present perfect continuous।",
+    "level": "medium",
+    "topic": "Right Form of Verbs",
+    "exam": "hsc"
+  },
+  {
+    "id": 383,
+    "type": "mcq",
+    "question": "What is the antonym of 'Benevolent'?",
+    "options": [
+      "Kind",
+      "Malevolent",
+      "Generous",
+      "Charitable"
+    ],
+    "answer": "Malevolent",
+    "explanation": "Benevolent means kind; malevolent means wishing harm, Benevolent অর্থ দয়ালু; malevolent অর্থ অমঙ্গল কামনা করে এমন।",
+    "level": "hard",
+    "topic": "Antonyms",
+    "exam": "hsc"
+  },
+  {
+    "id": 384,
+    "type": "mcq",
+    "question": "Which connector shows purpose?",
+    "options": [
+      "However",
+      "Therefore",
+      "So that",
+      "Moreover"
+    ],
+    "answer": "So that",
+    "explanation": "'So that' introduces purpose or intention, 'So that' উদ্দেশ্য বা অভিপ্রায় প্রকাশ করে।",
+    "level": "medium",
+    "topic": "Connectors",
+    "exam": "hsc"
+  },
+  {
+    "id": 385,
+    "type": "fill",
+    "question": "Add appropriate suffix: 'Child______ is a precious time of life.'",
+    "options": [],
+    "answer": "hood",
+    "explanation": "'Childhood' means the state of being a child, 'Childhood' অর্থ শৈশবকাল।",
+    "level": "easy",
+    "topic": "Suffix/Prefix",
+    "exam": "hsc"
+  },
+  {
+    "id": 386,
+    "type": "mcq",
+    "question": "In 'The book which is on the table is mine', 'which' is a:",
+    "options": [
+      "Relative pronoun",
+      "Interrogative pronoun",
+      "Demonstrative pronoun",
+      "Reflexive pronoun"
+    ],
+    "answer": "Relative pronoun",
+    "explanation": "'Which' introduces relative clause modifying 'book', 'Which' relative clause শুরু করছে যা 'book' কে modify করছে।",
+    "level": "medium",
+    "topic": "Grammar",
+    "exam": "hsc"
+  },
+  {
+    "id": 387,
+    "type": "mcq",
+    "question": "What does 'Cost an arm and a leg' mean?",
+    "options": [
+      "Very cheap",
+      "Very expensive",
+      "Free of cost",
+      "Reasonable price"
+    ],
+    "answer": "Very expensive",
+    "explanation": "Idiom meaning something is very costly, কিছু অত্যন্ত ব্যয়বহুল বোঝায়।",
+    "level": "medium",
+    "topic": "Idioms & Phrases",
+    "exam": "hsc"
+  },
+  {
+    "id": 388,
+    "type": "fill",
+    "question": "Complete with correct preposition: 'He is accustomed ______ hard work.'",
+    "options": [],
+    "answer": "to",
+    "explanation": "'Accustomed to' is the correct collocation, 'Accustomed to' সঠিক prepositional phrase।",
+    "level": "medium",
+    "topic": "Prepositions",
+    "exam": "hsc"
+  },
+  {
+    "id": 389,
+    "type": "mcq",
+    "question": "Which is the correct passive of: 'Who broke the window?'",
+    "options": [
+      "By whom was the window broken?",
+      "By whom the window was broken?",
+      "Who was the window broken by?",
+      "Whom was the window broken by?"
+    ],
+    "answer": "By whom was the window broken?",
+    "explanation": "Formal passive voice for 'who' questions, 'Who' প্রশ্নের জন্য formal passive voice।",
+    "level": "hard",
+    "topic": "Voice",
+    "exam": "hsc"
+  },
+  {
+    "id": 390,
+    "type": "mcq",
+    "question": "What is the Bengali meaning of 'Hackneyed'?",
+    "options": [
+      "মৌলিক",
+      "সর্বজনগ্রাহ্য",
+      "সর্বজনবিদিত",
+      "নতুন"
+    ],
+    "answer": "সর্বজনবিদিত",
+    "explanation": "Hackneyed means lacking significance through overuse, Hackneyed অর্থ অত্যধিক ব্যবহারের মাধ্যমে তুচ্ছ হয়ে যাওয়া।",
+    "level": "hard",
+    "topic": "Vocabulary",
+    "exam": "hsc"
+  },
+  {
+    "id": 391,
+    "type": "mcq",
+    "question": "Choose the correct conditional: '______ I had studied harder, I would have passed.'",
+    "options": [
+      "If",
+      "Unless",
+      "When",
+      "Whether"
+    ],
+    "answer": "If",
+    "explanation": "Third conditional for unreal past situations, অবাস্তব অতীত অবস্থার জন্য তৃতীয় কন্ডিশনাল।",
+    "level": "medium",
+    "topic": "Conditional Sentences",
+    "exam": "hsc"
+  },
+  {
+    "id": 392,
+    "type": "fill",
+    "question": "Complete with correct verb form: 'She ______ (read) a book when I called her.'",
+    "options": [],
+    "answer": "was reading",
+    "explanation": "Past continuous for action in progress at specific past time, নির্দিষ্ট অতীত সময়ে চলমান কাজের জন্য past continuous।",
+    "level": "medium",
+    "topic": "Right Form of Verbs",
+    "exam": "hsc"
+  },
+  {
+    "id": 393,
+    "type": "mcq",
+    "question": "What is the synonym of 'Eloquent'?",
+    "options": [
+      "Inarticulate",
+      "Fluent",
+      "Mute",
+      "Silent"
+    ],
+    "answer": "Fluent",
+    "explanation": "Eloquent means fluent or persuasive in speaking, Eloquent অর্থ বাক্পটু বা বলায় পারদর্শী।",
+    "level": "medium",
+    "topic": "Synonyms",
+    "exam": "hsc"
+  },
+  {
+    "id": 394,
+    "type": "mcq",
+    "question": "In 'The man, as well as his sons, is honest', the verb is singular because:",
+    "options": [
+      "'As well as' doesn't make compound subject",
+      "Subject is 'the man'",
+      "Both A and B",
+      "Neither A nor B"
+    ],
+    "answer": "Both A and B",
+    "explanation": "With 'as well as', verb agrees with first subject, 'As well as' এর ক্ষেত্রে verb প্রথম subject এর সাথে agree করে।",
+    "level": "hard",
+    "topic": "Subject-Verb Agreement",
+    "exam": "hsc"
+  },
+  {
+    "id": 395,
+    "type": "fill",
+    "question": "Complete with correct articles: '______ Ganga is ______ sacred river.'",
+    "options": [],
+    "answer": "The, a",
+    "explanation": "'The' for specific rivers; 'a' for general description, নির্দিষ্ট নদীর জন্য 'the'; সাধারণ বর্ণনার জন্য 'a'।",
+    "level": "medium",
+    "topic": "Articles",
+    "exam": "hsc"
+  },
+  {
+    "id": 396,
+    "type": "mcq",
+    "question": "What is the one-word for 'a person who travels to a sacred place'?",
+    "options": [
+      "Tourist",
+      "Pilgrim",
+      "Wanderer",
+      "Explorer"
+    ],
+    "answer": "Pilgrim",
+    "explanation": "A pilgrim travels to holy places for religious reasons, Pilgrim ধর্মীয় কারণে পবিত্র স্থান ভ্রমণ করে।",
+    "level": "medium",
+    "topic": "One Word Substitution",
+    "exam": "hsc"
+  },
+  {
+    "id": 397,
+    "type": "mcq",
+    "question": "Choose the correct transformation: 'As soon as he came, we left.'",
+    "options": [
+      "No sooner did he come than we left.",
+      "No sooner had he come than we left.",
+      "Both A and B are correct",
+      "Only A is correct"
+    ],
+    "answer": "Both A and B are correct",
+    "explanation": "Both simple past and past perfect can be used with 'no sooner...than', 'No sooner...than' এর সাথে simple past ও past perfect উভয়ই ব্যবহার করা যায়।",
+    "level": "hard",
+    "topic": "Transformation",
+    "exam": "hsc"
+  },
+  {
+    "id": 398,
+    "type": "fill",
+    "question": "Complete with correct preposition: 'She is interested ______ learning French.'",
+    "options": [],
+    "answer": "in",
+    "explanation": "'Interested in' is the correct collocation, 'Interested in' সঠিক prepositional phrase।",
+    "level": "easy",
+    "topic": "Prepositions",
+    "exam": "hsc"
+  },
+  {
+    "id": 399,
+    "type": "mcq",
+    "question": "Which sentence is grammatically correct?",
+    "options": [
+      "Neither of the boys are coming.",
+      "Neither of the boys is coming.",
+      "Neither of the boy are coming.",
+      "Neither of boys is coming."
+    ],
+    "answer": "Neither of the boys is coming.",
+    "explanation": "'Neither' is singular requiring singular verb, 'Neither' একবচন যা একবচন verb প্রয়োজন।",
+    "level": "medium",
+    "topic": "Sentence Correction",
+    "exam": "hsc"
+  },
+  {
+    "id": 400,
+    "type": "mcq",
+    "question": "What is the Bengali meaning of 'Inevitable'?",
+    "options": [
+      "অনিশ্চিত",
+      "অনিবার্য",
+      "ঐচ্ছিক",
+      "সম্ভাব্য"
+    ],
+    "answer": "অনিবার্য",
+    "explanation": "Inevitable means certain to happen, Inevitable অর্থ যা অবশ্যই ঘটবে।",
+    "level": "medium",
+    "topic": "Vocabulary",
+    "exam": "hsc"
   }
 
 
+
 ]
+
 
 
 
