@@ -3384,12 +3384,749 @@
     "level": "medium",
     "topic": "Tense",
     "exam": "hsc"
+  },
+  {
+    "id": 251,
+    "type": "wordmeaning",
+    "question": "What is the Bengali meaning of 'Ubiquitous'?",
+    "options": [
+      "সর্বত্র বিদ্যমান",
+      "দুর্লভ",
+      "অদৃশ্য",
+      "বিচ্ছিন্ন"
+    ],
+    "answer": "সর্বত্র বিদ্যমান",
+    "explanation": "Ubiquitous means present everywhere, Ubiquitous অর্থ সর্বত্র বিদ্যমান বা উপস্থিত।",
+    "level": "hard",
+    "topic": "Vocabulary",
+    "exam": "hsc"
+  },
+  {
+    "id": 252,
+    "type": "mcq",
+    "question": "In the sentence 'Sheikh Sadi went to the richman's house', the word 'to' is a:",
+    "options": [
+      "Preposition",
+      "Conjunction",
+      "Adverb",
+      "Infinitive marker"
+    ],
+    "answer": "Preposition",
+    "explanation": "'To' shows direction/movement towards a place, 'To' এখানে একটি preposition যা দিক বা গমনের স্থান নির্দেশ করে।",
+    "level": "medium",
+    "topic": "Prepositions",
+    "exam": "hsc"
+  },
+  {
+    "id": 253,
+    "type": "fill",
+    "question": "In 'I want to eat', the word 'to' is used as ______.",
+    "options": [],
+    "answer": "infinitive marker",
+    "explanation": "'To' before a verb indicates infinitive form, ক্রিয়ার আগে 'to' ব্যবহৃত হলে তা infinitive marker হিসেবে কাজ করে।",
+    "level": "medium",
+    "topic": "Grammar",
+    "exam": "hsc"
+  },
+  {
+    "id": 254,
+    "type": "wordmeaning",
+    "question": "What is the Bengali meaning of 'Ephemeral'?",
+    "options": [
+      "স্থায়ী",
+      "ক্ষণস্থায়ী",
+      "চিরস্থায়ী",
+      "ধীরগতি"
+    ],
+    "answer": "ক্ষণস্থায়ী",
+    "explanation": "Ephemeral means lasting for a very short time, Ephemeral অর্থ অতি অল্প সময়ের জন্য স্থায়ী।",
+    "level": "hard",
+    "topic": "Vocabulary",
+    "exam": "hsc"
+  },
+  {
+    "id": 255,
+    "type": "mcq",
+    "question": "In 'He gave the book to me', the word 'to' is a:",
+    "options": [
+      "Preposition indicating indirect object",
+      "Infinitive marker",
+      "Adverb",
+      "Conjunction"
+    ],
+    "answer": "Preposition indicating indirect object",
+    "explanation": "'To' introduces the indirect object 'me', 'To' এখানে indirect object 'me' কে introduce করছে।",
+    "level": "medium",
+    "topic": "Prepositions",
+    "exam": "hsc"
+  },
+  {
+    "id": 256,
+    "type": "wordmeaning",
+    "question": "What is the Bengali meaning of 'Meticulous'?",
+    "options": [
+      "অসতর্ক",
+      "সুক্ষ্মাতিসুক্ষ্ম",
+      "অলস",
+      "দ্রুতগতি"
+    ],
+    "answer": "সুক্ষ্মাতিসুক্ষ্ম",
+    "explanation": "Meticulous means showing great attention to detail, Meticulous অর্থ প্রতিটি ছোটখাটো বিষয়ে অত্যধিক যত্নশীল।",
+    "level": "hard",
+    "topic": "Vocabulary",
+    "exam": "hsc"
+  },
+  {
+    "id": 257,
+    "type": "mcq",
+    "question": "In 'She is used to working hard', the word 'to' is a:",
+    "options": [
+      "Preposition",
+      "Infinitive marker",
+      "Part of phrasal verb",
+      "Adverb"
+    ],
+    "answer": "Preposition",
+    "explanation": "'Used to' is a fixed phrase where 'to' is a preposition, 'Used to' একটি fixed phrase যেখানে 'to' preposition হিসেবে কাজ করে।",
+    "level": "hard",
+    "topic": "Prepositions",
+    "exam": "hsc"
+  },
+  {
+    "id": 258,
+    "type": "fill",
+    "question": "In 'I look forward to meeting you', 'to' is followed by ______ form of verb.",
+    "options": [],
+    "answer": "gerund",
+    "explanation": "After 'look forward to', we use gerund (verb+ing), 'Look forward to' এর পরে gerund (verb+ing) ব্যবহৃত হয়।",
+    "level": "hard",
+    "topic": "Grammar",
+    "exam": "hsc"
+  },
+  {
+    "id": 259,
+    "type": "wordmeaning",
+    "question": "What is the Bengali meaning of 'Aesthetic'?",
+    "options": [
+      "কুৎসিত",
+      "সৌন্দর্যবোধসম্পন্ন",
+      "অব্যবহার্য",
+      "সাদামাটা"
+    ],
+    "answer": "সৌন্দর্যবোধসম্পন্ন",
+    "explanation": "Aesthetic means concerned with beauty, Aesthetic অর্থ সৌন্দর্য বা শিল্পবোধ সম্পর্কিত।",
+    "level": "medium",
+    "topic": "Vocabulary",
+    "exam": "hsc"
+  },
+  {
+    "id": 260,
+    "type": "mcq",
+    "question": "In 'He came to see me', the word 'to' is a:",
+    "options": [
+      "Infinitive marker",
+      "Preposition",
+      "Adverb",
+      "Conjunction"
+    ],
+    "answer": "Infinitive marker",
+    "explanation": "'To' introduces the infinitive 'see', 'To' এখানে infinitive 'see' কে introduce করছে।",
+    "level": "easy",
+    "topic": "Grammar",
+    "exam": "hsc"
+  },
+  {
+    "id": 261,
+    "type": "wordmeaning",
+    "question": "What is the Bengali meaning of 'Benevolent'?",
+    "options": [
+      "নিষ্ঠুর",
+      "দয়ালু",
+      "লোভী",
+      "অবজ্ঞাসূচক"
+    ],
+    "answer": "দয়ালু",
+    "explanation": "Benevolent means well-meaning and kindly, Benevolent অর্থ পরোপকারী ও দয়াশীল।",
+    "level": "medium",
+    "topic": "Vocabulary",
+    "exam": "hsc"
+  },
+  {
+    "id": 262,
+    "type": "short",
+    "question": "In 'We are committed to improving our services', what part of speech is 'to'?",
+    "options": [],
+    "answer": "Preposition",
+    "explanation": "'Committed to' is a phrase where 'to' is preposition, 'Committed to' একটি phrase যেখানে 'to' preposition হিসেবে কাজ করে।",
+    "level": "hard",
+    "topic": "Prepositions",
+    "exam": "hsc"
+  },
+  {
+    "id": 263,
+    "type": "wordmeaning",
+    "question": "What is the Bengali meaning of 'Cacophony'?",
+    "options": [
+      "মধুর ধ্বনি",
+      "কর্কশ শব্দ",
+      "নীরবতা",
+      "সুরেলা গান"
+    ],
+    "answer": "কর্কশ শব্দ",
+    "explanation": "Cacophony means harsh discordant sound, Cacophony অর্থ কর্কশ ও অসংগত শব্দ।",
+    "level": "hard",
+    "topic": "Vocabulary",
+    "exam": "hsc"
+  },
+  {
+    "id": 264,
+    "type": "mcq",
+    "question": "In 'He objected to the proposal', the word 'to' is a:",
+    "options": [
+      "Preposition",
+      "Infinitive marker",
+      "Adverb",
+      "Conjunction"
+    ],
+    "answer": "Preposition",
+    "explanation": "'Objected to' is a phrasal verb where 'to' is preposition, 'Objected to' একটি phrasal verb যেখানে 'to' preposition।",
+    "level": "medium",
+    "topic": "Prepositions",
+    "exam": "hsc"
+  },
+  {
+    "id": 265,
+    "type": "wordmeaning",
+    "question": "What is the Bengali meaning of 'Diligent'?",
+    "options": [
+      "অলস",
+      "পরিশ্রমী",
+      "অসতর্ক",
+      "বিলম্বকারী"
+    ],
+    "answer": "পরিশ্রমী",
+    "explanation": "Diligent means having or showing care in one's work, Diligent অর্থ কঠোর পরিশ্রমী ও যত্নশীল।",
+    "level": "medium",
+    "topic": "Vocabulary",
+    "exam": "hsc"
+  },
+  {
+    "id": 266,
+    "type": "fill",
+    "question": "In 'I prefer tea to coffee', 'to' shows ______.",
+    "options": [],
+    "answer": "comparison",
+    "explanation": "'To' here indicates preference between two things, 'To' এখানে দুটি জিনিসের মধ্যে পছন্দ নির্দেশ করছে।",
+    "level": "medium",
+    "topic": "Prepositions",
+    "exam": "hsc"
+  },
+  {
+    "id": 267,
+    "type": "wordmeaning",
+    "question": "What is the Bengali meaning of 'Euphoria'?",
+    "options": [
+      "বিষাদ",
+      "উদ্বেগ",
+      "পরম আনন্দ",
+      "নিরাসক্তি"
+    ],
+    "answer": "পরম আনন্দ",
+    "explanation": "Euphoria means feeling of intense excitement and happiness, Euphoria অর্থ তীব্র উত্তেজনা ও আনন্দের অনুভূতি।",
+    "level": "hard",
+    "topic": "Vocabulary",
+    "exam": "hsc"
+  },
+  {
+    "id": 268,
+    "type": "mcq",
+    "question": "In 'She contributed to the discussion', 'to' is a:",
+    "options": [
+      "Preposition",
+      "Infinitive marker",
+      "Adverb",
+      "Conjunction"
+    ],
+    "answer": "Preposition",
+    "explanation": "'Contributed to' is a verb+preposition combination, 'Contributed to' একটি verb+precombination যেখানে 'to' preposition।",
+    "level": "medium",
+    "topic": "Prepositions",
+    "exam": "hsc"
+  },
+  {
+    "id": 269,
+    "type": "wordmeaning",
+    "question": "What is the Bengali meaning of 'Facetious'?",
+    "options": [
+      "গম্ভীর",
+      "রসিকতাপূর্ণ",
+      "বিরক্তিকর",
+      "উদাসীন"
+    ],
+    "answer": "রসিকতাপূর্ণ",
+    "explanation": "Facetious means treating serious issues with inappropriate humor, Facetious অর্থ অপ্রাসঙ্গিক রসিকতার মাধ্যমে গুরুত্বপূর্ণ বিষয় উপস্থাপন।",
+    "level": "hard",
+    "topic": "Vocabulary",
+    "exam": "hsc"
+  },
+  {
+    "id": 270,
+    "type": "short",
+    "question": "In 'He is accustomed to hard work', what grammatical function does 'to' serve?",
+    "options": [],
+    "answer": "Preposition",
+    "explanation": "'Accustomed to' is a phrase where 'to' is preposition, 'Accustomed to' একটি phrase যেখানে 'to' preposition হিসেবে কাজ করে।",
+    "level": "hard",
+    "topic": "Prepositions",
+    "exam": "hsc"
+  },
+  {
+    "id": 271,
+    "type": "wordmeaning",
+    "question": "What is the Bengali meaning of 'Gregarious'?",
+    "options": [
+      "নির্জনতাপ্রিয়",
+      "সমাজবদ্ধ",
+      "অহংকারী",
+      "ভীরু"
+    ],
+    "answer": "সমাজবদ্ধ",
+    "explanation": "Gregarious means fond of company, Gregarious অর্থ সামাজিক ও অন্যদের সাথে থাকতে পছন্দ করে এমন।",
+    "level": "hard",
+    "topic": "Vocabulary",
+    "exam": "hsc"
+  },
+  {
+    "id": 272,
+    "type": "mcq",
+    "question": "In 'I have to go now', the word 'to' is a:",
+    "options": [
+      "Infinitive marker",
+      "Preposition",
+      "Adverb",
+      "Part of modal verb"
+    ],
+    "answer": "Infinitive marker",
+    "explanation": "'Have to' expresses obligation where 'to' marks infinitive, 'Have to' বাধ্যবাধকতা প্রকাশ করে যেখানে 'to' infinitive marker।",
+    "level": "easy",
+    "topic": "Grammar",
+    "exam": "hsc"
+  },
+  {
+    "id": 273,
+    "type": "wordmeaning",
+    "question": "What is the Bengali meaning of 'Hapless'?",
+    "options": [
+      "সৌভাগ্যবান",
+      "অভাগা",
+      "ধনী",
+      "বুদ্ধিমান"
+    ],
+    "answer": "অভাগা",
+    "explanation": "Hapless means unfortunate, Hapless অর্থ দুর্ভাগ্যপূর্ণ বা হতভাগ্য।",
+    "level": "medium",
+    "topic": "Vocabulary",
+    "exam": "hsc"
+  },
+  {
+    "id": 274,
+    "type": "fill",
+    "question": "In 'She listened to the music', 'to' indicates ______.",
+    "options": [],
+    "answer": "direction of attention",
+    "explanation": "'To' shows where attention is directed, 'To' এখানে মনোযোগের দিক নির্দেশ করছে।",
+    "level": "medium",
+    "topic": "Prepositions",
+    "exam": "hsc"
+  },
+  {
+    "id": 275,
+    "type": "wordmeaning",
+    "question": "What is the Bengali meaning of 'Inevitable'?",
+    "options": [
+      "অনিশ্চিত",
+      "অনিবার্য",
+      "ঐচ্ছিক",
+      "দুর্লভ"
+    ],
+    "answer": "অনিবার্য",
+    "explanation": "Inevitable means certain to happen, Inevitable অর্থ যা অবশ্যম্ভাবী বা অনিবার্য।",
+    "level": "medium",
+    "topic": "Vocabulary",
+    "exam": "hsc"
+  },
+  {
+    "id": 276,
+    "type": "mcq",
+    "question": "In 'They went to the market to buy vegetables', the first 'to' is a:",
+    "options": [
+      "Preposition",
+      "Infinitive marker",
+      "Both A and B",
+      "Neither A nor B"
+    ],
+    "answer": "Preposition",
+    "explanation": "First 'to' shows direction, second 'to' is infinitive marker, প্রথম 'to' দিক নির্দেশ করে, দ্বিতীয় 'to' infinitive marker।",
+    "level": "hard",
+    "topic": "Grammar",
+    "exam": "hsc"
+  },
+  {
+    "id": 277,
+    "type": "wordmeaning",
+    "question": "What is the Bengali meaning of 'Juxtaposition'?",
+    "options": [
+      "পৃথকীকরণ",
+      "পাশাপাশি স্থাপন",
+      "মিশ্রণ",
+      "উচ্চতা"
+    ],
+    "answer": "পাশাপাশি স্থাপন",
+    "explanation": "Juxtaposition means placing things side by side, Juxtaposition অর্থ দুটি জিনিস পাশাপাশি রাখা।",
+    "level": "hard",
+    "topic": "Vocabulary",
+    "exam": "hsc"
+  },
+  {
+    "id": 278,
+    "type": "short",
+    "question": "In 'He is allergic to dust', what is the function of 'to'?",
+    "options": [],
+    "answer": "Preposition",
+    "explanation": "'Allergic to' is a fixed phrase with preposition 'to', 'Allergic to' একটি fixed phrase যেখানে 'to' preposition।",
+    "level": "medium",
+    "topic": "Prepositions",
+    "exam": "hsc"
+  },
+  {
+    "id": 279,
+    "type": "wordmeaning",
+    "question": "What is the Bengali meaning of 'Kaleidoscopic'?",
+    "options": [
+      "একরঙা",
+      "বহুরূপী",
+      "নিষ্প্রভ",
+      "স্থির"
+    ],
+    "answer": "বহুরূপী",
+    "explanation": "Kaleidoscopic means having complex patterns of colors, Kaleidoscopic অর্থ নানান রঙ ও নকশার সমাহার।",
+    "level": "hard",
+    "topic": "Vocabulary",
+    "exam": "hsc"
+  },
+  {
+    "id": 280,
+    "type": "mcq",
+    "question": "In 'She admitted to stealing the money', 'to' is a:",
+    "options": [
+      "Preposition",
+      "Infinitive marker",
+      "Adverb",
+      "Conjunction"
+    ],
+    "answer": "Preposition",
+    "explanation": "'Admitted to' requires gerund after 'to', 'Admitted to' এর পরে gerund ব্যবহৃত হয়, তাই 'to' preposition।",
+    "level": "hard",
+    "topic": "Grammar",
+    "exam": "hsc"
+  },
+  {
+    "id": 281,
+    "type": "wordmeaning",
+    "question": "What is the Bengali meaning of 'Laconic'?",
+    "options": [
+      "বাচাল",
+      "সংক্ষিপ্তভাষী",
+      "জটিল",
+      "বিব্রত"
+    ],
+    "answer": "সংক্ষিপ্তভাষী",
+    "explanation": "Laconic means using very few words, Laconic অর্থ অল্প কথায় ভাব প্রকাশ করা।",
+    "level": "hard",
+    "topic": "Vocabulary",
+    "exam": "hsc"
+  },
+  {
+    "id": 282,
+    "type": "fill",
+    "question": "In 'From morning to night', 'to' indicates ______.",
+    "options": [],
+    "answer": "time range",
+    "explanation": "'To' shows duration between two time points, 'To' দুটি সময়ের মধ্যবর্তী সময়সীমা নির্দেশ করে।",
+    "level": "easy",
+    "topic": "Prepositions",
+    "exam": "hsc"
+  },
+  {
+    "id": 283,
+    "type": "wordmeaning",
+    "question": "What is the Bengali meaning of 'Mellifluous'?",
+    "options": [
+      "কর্কশ",
+      "মধুর",
+      "উচ্চ",
+      "নিচু"
+    ],
+    "answer": "মধুর",
+    "explanation": "Mellifluous means sweet-sounding, Mellifluous অর্থ মধুর ও শ্রুতিমধুর।",
+    "level": "hard",
+    "topic": "Vocabulary",
+    "exam": "hsc"
+  },
+  {
+    "id": 284,
+    "type": "mcq",
+    "question": "In 'He appealed to the court for justice', 'to' is a:",
+    "options": [
+      "Preposition",
+      "Infinitive marker",
+      "Adverb",
+      "Conjunction"
+    ],
+    "answer": "Preposition",
+    "explanation": "'Appealed to' means made a request to someone, 'Appealed to' অর্থ কারো কাছে আবেদন করা।",
+    "level": "medium",
+    "topic": "Prepositions",
+    "exam": "hsc"
+  },
+  {
+    "id": 285,
+    "type": "wordmeaning",
+    "question": "What is the Bengali meaning of 'Nefarious'?",
+    "options": [
+      "সদাচারী",
+      "অতি মন্দ",
+      "সাধু",
+      "সাহসী"
+    ],
+    "answer": "অতি মন্দ",
+    "explanation": "Nefarious means wicked or criminal, Nefarious অর্থ অত্যধিক মন্দ বা অপরাধমূলক।",
+    "level": "hard",
+    "topic": "Vocabulary",
+    "exam": "hsc"
+  },
+  {
+    "id": 286,
+    "type": "short",
+    "question": "In 'I look up to my teacher', what does 'to' indicate?",
+    "options": [],
+    "answer": "Direction of respect",
+    "explanation": "'Look up to' means admire, 'to' shows who is admired, 'Look up to' অর্থ শ্রদ্ধা করা, 'to' নির্দেশ করে কাকে শ্রদ্ধা করা হচ্ছে।",
+    "level": "medium",
+    "topic": "Prepositions",
+    "exam": "hsc"
+  },
+  {
+    "id": 287,
+    "type": "wordmeaning",
+    "question": "What is the Bengali meaning of 'Obfuscate'?",
+    "options": [
+      "স্পষ্ট করা",
+      "জটিল করা",
+      "সহজ করা",
+      "ব্যাখ্যা করা"
+    ],
+    "answer": "জটিল করা",
+    "explanation": "Obfuscate means to make something obscure, Obfuscate অর্থ অস্পষ্ট বা জটিল করা।",
+    "level": "hard",
+    "topic": "Vocabulary",
+    "exam": "hsc"
+  },
+  {
+    "id": 288,
+    "type": "mcq",
+    "question": "In 'She was reduced to tears', 'to' is a:",
+    "options": [
+      "Preposition showing result",
+      "Infinitive marker",
+      "Adverb",
+      "Conjunction"
+    ],
+    "answer": "Preposition showing result",
+    "explanation": "'Reduced to' shows resulting state, 'Reduced to' ফলাফলস্বরূপ অবস্থা নির্দেশ করে।",
+    "level": "hard",
+    "topic": "Prepositions",
+    "exam": "hsc"
+  },
+  {
+    "id": 289,
+    "type": "wordmeaning",
+    "question": "What is the Bengali meaning of 'Pragmatic'?",
+    "options": [
+      "আদর্শবাদী",
+      "ব্যবহারিক",
+      "কল্পনাপ্রবণ",
+      "অবাস্তব"
+    ],
+    "answer": "ব্যবহারিক",
+    "explanation": "Pragmatic means dealing with things sensibly, Pragmatic অর্থ বাস্তবসম্মত ও ব্যবহারিক দৃষ্টিভঙ্গি।",
+    "level": "medium",
+    "topic": "Vocabulary",
+    "exam": "hsc"
+  },
+  {
+    "id": 290,
+    "type": "fill",
+    "question": "In 'Ten to twelve students', 'to' indicates ______.",
+    "options": [],
+    "answer": "approximate number",
+    "explanation": "'To' shows approximation between numbers, 'To' সংখ্যার মধ্যে আনুমানিক পরিমাণ নির্দেশ করে।",
+    "level": "medium",
+    "topic": "Prepositions",
+    "exam": "hsc"
+  },
+  {
+    "id": 291,
+    "type": "wordmeaning",
+    "question": "What is the Bengali meaning of 'Quintessential'?",
+    "options": [
+      "সাধারণ",
+      "অসার",
+      "মূলসার",
+      "অপ্রয়োজনীয়"
+    ],
+    "answer": "মূলসার",
+    "explanation": "Quintessential means representing the perfect example, Quintessential অর্থ কোনো কিছুর পরম বা চূড়ান্ত উদাহরণ।",
+    "level": "hard",
+    "topic": "Vocabulary",
+    "exam": "hsc"
+  },
+  {
+    "id": 292,
+    "type": "mcq",
+    "question": "In 'He is dedicated to his work', 'to' is a:",
+    "options": [
+      "Preposition",
+      "Infinitive marker",
+      "Adverb",
+      "Conjunction"
+    ],
+    "answer": "Preposition",
+    "explanation": "'Dedicated to' is a phrase with preposition 'to', 'Dedicated to' একটি phrase যেখানে 'to' preposition।",
+    "level": "medium",
+    "topic": "Prepositions",
+    "exam": "hsc"
+  },
+  {
+    "id": 293,
+    "type": "wordmeaning",
+    "question": "What is the Bengali meaning of 'Reticent'?",
+    "options": [
+      "বাচাল",
+      "অল্পভাষী",
+      "উৎসাহী",
+      "উদ্বিগ্ন"
+    ],
+    "answer": "অল্পভাষী",
+    "explanation": "Reticent means not revealing one's thoughts easily, Reticent অর্থ নিজের মনের কথা সহজে প্রকাশ না করা।",
+    "level": "hard",
+    "topic": "Vocabulary",
+    "exam": "hsc"
+  },
+  {
+    "id": 294,
+    "type": "short",
+    "question": "In 'She reacted to the news', what is the role of 'to'?",
+    "options": [],
+    "answer": "Preposition showing stimulus",
+    "explanation": "'Reacted to' shows what triggered the reaction, 'Reacted to' নির্দেশ করে কী কারণে প্রতিক্রিয়া দেখা দিল।",
+    "level": "medium",
+    "topic": "Prepositions",
+    "exam": "hsc"
+  },
+  {
+    "id": 295,
+    "type": "wordmeaning",
+    "question": "What is the Bengali meaning of 'Serendipity'?",
+    "options": [
+      "দুর্ভাগ্য",
+      "দুর্ঘটনা",
+      "অনুসন্ধান",
+      "আকস্মিক সৌভাগ্য"
+    ],
+    "answer": "আকস্মিক সৌভাগ্য",
+    "explanation": "Serendipity means fortunate happenstance, Serendipity অর্থ আকস্মিকভাবে কোনো ভালো জিনিস পাওয়া।",
+    "level": "hard",
+    "topic": "Vocabulary",
+    "exam": "hsc"
+  },
+  {
+    "id": 296,
+    "type": "mcq",
+    "question": "In 'I'm looking forward to the weekend', 'to' is a:",
+    "options": [
+      "Preposition",
+      "Infinitive marker",
+      "Adverb",
+      "Conjunction"
+    ],
+    "answer": "Preposition",
+    "explanation": "'Looking forward to' requires noun/gerund after 'to', 'Looking forward to' এর পরে noun/gerund ব্যবহৃত হয়, তাই 'to' preposition।",
+    "level": "medium",
+    "topic": "Prepositions",
+    "exam": "hsc"
+  },
+  {
+    "id": 297,
+    "type": "wordmeaning",
+    "question": "What is the Bengali meaning of 'Taciturn'?",
+    "options": [
+      "বাক্পটু",
+      "মিতভাষী",
+      "উত্তেজিত",
+      "বন্ধুত্বপূর্ণ"
+    ],
+    "answer": "মিতভাষী",
+    "explanation": "Taciturn means reserved or uncommunicative, Taciturn অর্থ কম কথা বলা বা সংযত ভাষার ব্যবহার।",
+    "level": "hard",
+    "topic": "Vocabulary",
+    "exam": "hsc"
+  },
+  {
+    "id": 298,
+    "type": "fill",
+    "question": "In 'The key to success', 'to' shows ______.",
+    "options": [],
+    "answer": "relationship/connection",
+    "explanation": "'To' indicates connection between two things, 'To' দুটি জিনিসের মধ্যে সম্পর্ক নির্দেশ করে।",
+    "level": "medium",
+    "topic": "Prepositions",
+    "exam": "hsc"
+  },
+  {
+    "id": 299,
+    "type": "wordmeaning",
+    "question": "What is the Bengali meaning of 'Ubiquitous'?",
+    "options": [
+      "দুর্লভ",
+      "সর্বত্র বিদ্যমান",
+      "অনন্য",
+      "স্থানীয়"
+    ],
+    "answer": "সর্বত্র বিদ্যমান",
+    "explanation": "Ubiquitous means present everywhere, Ubiquitous অর্থ সব জায়গায় উপস্থিত থাকা।",
+    "level": "hard",
+    "topic": "Vocabulary",
+    "exam": "hsc"
+  },
+  {
+    "id": 300,
+    "type": "mcq",
+    "question": "In 'He spoke to the audience', 'to' indicates:",
+    "options": [
+      "Direction of speech",
+      "Infinitive purpose",
+      "Time duration",
+      "Comparison"
+    ],
+    "answer": "Direction of speech",
+    "explanation": "'To' shows who received the speech, 'To' নির্দেশ করে বক্তৃতা কার কাছে দেওয়া হচ্ছিল।",
+    "level": "easy",
+    "topic": "Prepositions",
+    "exam": "hsc"
   }
 
-
-
-
-
 ]
+
 
 
