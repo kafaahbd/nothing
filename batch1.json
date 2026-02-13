@@ -6255,12 +6255,713 @@
     "level": "medium",
     "topic": "Vocabulary",
     "exam": "hsc"
+  },
+  
+  {
+    "id": 451,
+    "type": "mcq",
+    "question": "Choose the correct connector: 'He worked hard ______ he could pass the exam.'",
+    "options": [
+      "so that",
+      "because",
+      "although",
+      "however"
+    ],
+    "answer": "so that",
+    "explanation": "'So that' indicates purpose, 'So that' উদ্দেশ্য নির্দেশ করে।",
+    "level": "medium",
+    "topic": "Connector",
+    "exam": "hsc"
+  },
+  {
+    "id": 452,
+    "type": "fill",
+    "question": "Complete with right form of verb: 'She ______ (work) in this office since 2015.'",
+    "options": [],
+    "answer": "has been working",
+    "explanation": "Present perfect continuous for action starting in past continuing to present, অতীতে শুরু হয়ে বর্তমান পর্যন্ত চলমান কাজের জন্য present perfect continuous।",
+    "level": "medium",
+    "topic": "Right Form of Verbs",
+    "exam": "hsc"
+  },
+  {
+    "id": 453,
+    "type": "mcq",
+    "question": "Which tense is used in: 'By next year, I will have graduated from university.'",
+    "options": [
+      "Future Continuous",
+      "Future Perfect",
+      "Future Perfect Continuous",
+      "Simple Future"
+    ],
+    "answer": "Future Perfect",
+    "explanation": "'Will have + past participle' indicates future perfect tense, 'Will have + past participle' ভবিষ্যৎ পূর্ণকাল নির্দেশ করে।",
+    "level": "hard",
+    "topic": "Tense",
+    "exam": "hsc"
+  },
+  {
+    "id": 454,
+    "type": "mcq",
+    "question": "What is the correct indirect speech of: 'He said, \"I am reading a book.\"'",
+    "options": [
+      "He said that he was reading a book.",
+      "He said that I am reading a book.",
+      "He said that he is reading a book.",
+      "He said that I was reading a book."
+    ],
+    "answer": "He said that he was reading a book.",
+    "explanation": "Present continuous changes to past continuous in indirect speech, Indirect speech এ present continuous past continuous এ পরিবর্তিত হয়।",
+    "level": "medium",
+    "topic": "Narration",
+    "exam": "hsc"
+  },
+  {
+    "id": 455,
+    "type": "fill",
+    "question": "Complete with correct preposition: 'He is confident ______ his success.'",
+    "options": [],
+    "answer": "of",
+    "explanation": "'Confident of' is the correct collocation, 'Confident of' সঠিক prepositional phrase।",
+    "level": "medium",
+    "topic": "Prepositions",
+    "exam": "hsc"
+  },
+  {
+    "id": 456,
+    "type": "mcq",
+    "question": "Choose the correct article: 'He is ______ honest man.'",
+    "options": [
+      "a",
+      "an",
+      "the",
+      "no article"
+    ],
+    "answer": "an",
+    "explanation": "'Honest' begins with vowel sound, so 'an' is used, 'Honest' vowel sound দিয়ে শুরু হয়, তাই 'an' ব্যবহৃত হয়।",
+    "level": "easy",
+    "topic": "Article",
+    "exam": "hsc"
+  },
+  {
+    "id": 457,
+    "type": "mcq",
+    "question": "Identify the dangling modifier:",
+    "options": [
+      "After reading the book, the movie was disappointing.",
+      "After reading the book, I found the movie disappointing.",
+      "The movie was disappointing after reading the book.",
+      "I found the movie disappointing after reading the book."
+    ],
+    "answer": "After reading the book, the movie was disappointing.",
+    "explanation": "The modifier suggests the movie read the book, Modifier টি বোঝাচ্ছে সিনেমাটি বইটি পড়েছিল।",
+    "level": "hard",
+    "topic": "Modifier",
+    "exam": "hsc"
+  },
+  {
+    "id": 458,
+    "type": "fill",
+    "question": "Complete with correct connector: '______ he is rich, he is not happy.'",
+    "options": [],
+    "answer": "Although",
+    "explanation": "'Although' shows contrast between wealth and happiness, 'Although' ধন-সম্পদ ও সুখের মধ্যে বৈসাদৃশ্য দেখায়।",
+    "level": "medium",
+    "topic": "Connector",
+    "exam": "hsc"
+  },
+  {
+    "id": 459,
+    "type": "mcq",
+    "question": "Which tense is correct? 'I ______ him yesterday.'",
+    "options": [
+      "have seen",
+      "saw",
+      "had seen",
+      "was seeing"
+    ],
+    "answer": "saw",
+    "explanation": "Simple past for completed action in the past with time reference, নির্দিষ্ট অতীত সময়ে সম্পন্ন কাজের জন্য simple past।",
+    "level": "easy",
+    "topic": "Tense",
+    "exam": "hsc"
+  },
+  {
+    "id": 460,
+    "type": "fill",
+    "question": "Complete with right form of verb: 'If I ______ (know) his address, I would visit him.'",
+    "options": [],
+    "answer": "knew",
+    "explanation": "Second conditional for unreal present, অবাস্তব বর্তমানের জন্য দ্বিতীয় কন্ডিশনাল।",
+    "level": "medium",
+    "topic": "Right Form of Verbs",
+    "exam": "hsc"
+  },
+  {
+    "id": 461,
+    "type": "mcq",
+    "question": "Choose the correct preposition: 'She is interested ______ learning French.'",
+    "options": [
+      "in",
+      "at",
+      "for",
+      "with"
+    ],
+    "answer": "in",
+    "explanation": "'Interested in' is the correct collocation, 'Interested in' সঠিক prepositional phrase।",
+    "year": "hsc"
+  },
+  {
+    "id": 462,
+    "type": "mcq",
+    "question": "What is the correct reported speech of: 'She said, \"I will come tomorrow.\"'",
+    "options": [
+      "She said that she will come tomorrow.",
+      "She said that she would come tomorrow.",
+      "She said that she would come the next day.",
+      "She said that she will come the next day."
+    ],
+    "answer": "She said that she would come the next day.",
+    "explanation": "'Will' becomes 'would'; 'tomorrow' becomes 'the next day', 'Will' 'would' তে পরিবর্তিত হয়; 'tomorrow' 'the next day' এ পরিবর্তিত হয়।",
+    "level": "medium",
+    "topic": "Narration",
+    "exam": "hsc"
+  },
+  {
+    "id": 463,
+    "type": "fill",
+    "question": "Complete with correct article: 'She is ______ university student.'",
+    "options": [],
+    "answer": "a",
+    "explanation": "'University' begins with consonant sound (yoo), so 'a' is used, 'University' consonant sound (yoo) দিয়ে শুরু হয়, তাই 'a' ব্যবহৃত হয়।",
+    "level": "easy",
+    "topic": "Article",
+    "exam": "hsc"
+  },
+  {
+    "id": 464,
+    "type": "mcq",
+    "question": "Which sentence has a misplaced modifier?",
+    "options": [
+      "She served cookies to the children on paper plates.",
+      "She served cookies on paper plates to the children.",
+      "On paper plates, she served cookies to the children.",
+      "To the children, she served cookies on paper plates."
+    ],
+    "answer": "She served cookies to the children on paper plates.",
+    "explanation": "Modifier suggests children are on paper plates, Modifier টি বোঝাচ্ছে শিশুরা কাগজের প্লেটে আছে।",
+    "level": "hard",
+    "topic": "Modifier",
+    "exam": "hsc"
+  },
+  {
+    "id": 465,
+    "type": "mcq",
+    "question": "Choose the correct connector: 'He failed ______ he did not study.'",
+    "options": [
+      "although",
+      "because",
+      "so",
+      "however"
+    ],
+    "answer": "because",
+    "explanation": "'Because' shows reason, 'Because' কারণ নির্দেশ করে।",
+    "level": "easy",
+    "topic": "Connector",
+    "exam": "hsc"
+  },
+  {
+    "id": 466,
+    "type": "fill",
+    "question": "Complete with right form of verb: 'It is time we ______ (leave).'",
+    "options": [],
+    "answer": "left",
+    "explanation": "After 'It is time', past tense is used for present meaning, 'It is time' এর পরে present অর্থে past tense ব্যবহৃত হয়।",
+    "level": "hard",
+    "topic": "Right Form of Verbs",
+    "exam": "hsc"
+  },
+  {
+    "id": 467,
+    "type": "mcq",
+    "question": "Which tense is correct? 'I ______ here for three years.'",
+    "options": [
+      "work",
+      "am working",
+      "have been working",
+      "worked"
+    ],
+    "answer": "have been working",
+    "explanation": "Present perfect continuous for duration from past to present, অতীত থেকে বর্তমান পর্যন্ত সময়কালের জন্য present perfect continuous।",
+    "level": "medium",
+    "topic": "Tense",
+    "exam": "hsc"
+  },
+  {
+    "id": 468,
+    "type": "fill",
+    "question": "Complete with correct preposition: 'He is good ______ mathematics.'",
+    "options": [],
+    "answer": "at",
+    "explanation": "'Good at' indicates skill in a subject, 'Good at' কোনো বিষয়ে দক্ষতা নির্দেশ করে।",
+    "level": "easy",
+    "topic": "Prepositions",
+    "exam": "hsc"
+  },
+  {
+    "id": 469,
+    "type": "mcq",
+    "question": "What is the correct indirect speech of: 'He said, \"I can swim.\"'",
+    "options": [
+      "He said that he can swim.",
+      "He said that he could swim.",
+      "He said that I can swim.",
+      "He said that I could swim."
+    ],
+    "answer": "He said that he could swim.",
+    "explanation": "'Can' becomes 'could' in indirect speech, Indirect speech এ 'can' 'could' তে পরিবর্তিত হয়।",
+    "level": "medium",
+    "topic": "Narration",
+    "exam": "hsc"
+  },
+  {
+    "id": 470,
+    "type": "mcq",
+    "question": "Choose the correct article: '______ Ganga is ______ sacred river.'",
+    "options": [
+      "A, a",
+      "An, a",
+      "The, a",
+      "The, the"
+    ],
+    "answer": "The, a",
+    "explanation": "'The' for specific rivers; 'a' for general description, নির্দিষ্ট নদীর জন্য 'the'; সাধারণ বর্ণনার জন্য 'a'।",
+    "level": "medium",
+    "topic": "Article",
+    "exam": "hsc"
+  },
+  {
+    "id": 471,
+    "type": "mcq",
+    "question": "Identify the dangling modifier:",
+    "options": [
+      "To pass the exam, hard work is needed.",
+      "To pass the exam, you need to work hard.",
+      "Hard work is needed to pass the exam.",
+      "You need to work hard to pass the exam."
+    ],
+    "answer": "To pass the exam, hard work is needed.",
+    "explanation": "The modifier suggests hard work wants to pass the exam, Modifier টি বোঝাচ্ছে কঠোর পরিশ্রম পরীক্ষায় পাস করতে চায়।",
+    "level": "hard",
+    "topic": "Modifier",
+    "exam": "hsc"
+  },
+  {
+    "id": 472,
+    "type": "fill",
+    "question": "Complete with correct connector: 'He studied hard; ______, he passed the exam.'",
+    "options": [],
+    "answer": "therefore",
+    "explanation": "'Therefore' shows result, 'Therefore' ফলাফল নির্দেশ করে।",
+    "level": "medium",
+    "topic": "Connector",
+    "exam": "hsc"
+  },
+  {
+    "id": 473,
+    "type": "fill",
+    "question": "Complete with right form of verb: 'I wish I ______ (have) a car.'",
+    "options": [],
+    "answer": "had",
+    "explanation": "After 'wish', past tense is used for unreal present, 'Wish' এর পরে অবাস্তব বর্তমানের জন্য past tense ব্যবহৃত হয়।",
+    "level": "medium",
+    "topic": "Right Form of Verbs",
+    "exam": "hsc"
+  },
+  {
+    "id": 474,
+    "type": "mcq",
+    "question": "Which tense is correct? 'He ______ asleep while he was driving.'",
+    "options": [
+      "falls",
+      "has fallen",
+      "fell",
+      "had fallen"
+    ],
+    "answer": "fell",
+    "explanation": "Simple past for completed action in the past, অতীতে সম্পন্ন কাজের জন্য simple past।",
+    "level": "medium",
+    "topic": "Tense",
+    "exam": "hsc"
+  },
+  {
+    "id": 475,
+    "type": "mcq",
+    "question": "Choose the correct preposition: 'He is jealous ______ his brother's success.'",
+    "options": [
+      "of",
+      "at",
+      "with",
+      "for"
+    ],
+    "answer": "of",
+    "explanation": "'Jealous of' is the correct prepositional phrase, 'Jealous of' সঠিক prepositional phrase।",
+    "level": "medium",
+    "topic": "Prepositions",
+    "exam": "hsc"
+  },
+  {
+    "id": 476,
+    "type": "fill",
+    "question": "Complete with correct article: 'He is ______ European, not ______ American.'",
+    "options": [],
+    "answer": "a, an",
+    "explanation": "'European' begins with consonant sound (yoo) so 'a'; 'American' begins with vowel sound so 'an', 'European' consonant sound (yoo) দিয়ে শুরু তাই 'a'; 'American' vowel sound দিয়ে শুরু তাই 'an'।",
+    "level": "medium",
+    "topic": "Article",
+    "exam": "hsc"
+  },
+  {
+    "id": 477,
+    "type": "mcq",
+    "question": "What is the correct indirect speech of: 'She said, \"I have finished my work.\"'",
+    "options": [
+      "She said that she has finished her work.",
+      "She said that she had finished her work.",
+      "She said that she finished her work.",
+      "She said that I have finished my work."
+    ],
+    "answer": "She said that she had finished her work.",
+    "explanation": "Present perfect changes to past perfect in indirect speech, Indirect speech এ present perfect past perfect এ পরিবর্তিত হয়।",
+    "level": "hard",
+    "topic": "Narration",
+    "exam": "hsc"
+  },
+  {
+    "id": 478,
+    "type": "mcq",
+    "question": "Which sentence has a squinting modifier?",
+    "options": [
+      "She agreed on Monday to start the project.",
+      "On Monday, she agreed to start the project.",
+      "She agreed to start the project on Monday.",
+      "She agreed to start on Monday the project."
+    ],
+    "answer": "She agreed on Monday to start the project.",
+    "explanation": "'On Monday' could modify either 'agreed' or 'to start', 'On Monday' 'agreed' বা 'to start' উভয়কেই modify করতে পারে।",
+    "level": "hard",
+    "topic": "Modifier",
+    "exam": "hsc"
+  },
+  {
+    "id": 479,
+    "type": "fill",
+    "question": "Complete with correct connector: 'He is ______ intelligent ______ hardworking.'",
+    "options": [],
+    "answer": "both, and",
+    "explanation": "'Both...and' is a correlative conjunction, 'Both...and' একটি correlative conjunction।",
+    "level": "medium",
+    "topic": "Connector",
+    "exam": "hsc"
+  },
+  {
+    "id": 480,
+    "type": "fill",
+    "question": "Complete with right form of verb: 'He acted as if he ______ (be) the boss.'",
+    "options": [],
+    "answer": "were",
+    "explanation": "After 'as if', past subjunctive 'were' is used for unreal situations, 'As if' এর পরে অবাস্তব অবস্থায় past subjunctive 'were' ব্যবহৃত হয়।",
+    "level": "hard",
+    "topic": "Right Form of Verbs",
+    "exam": "hsc"
+  },
+  {
+    "id": 481,
+    "type": "mcq",
+    "question": "Which tense is correct? 'The train ______ before we reached the station.'",
+    "options": [
+      "left",
+      "has left",
+      "had left",
+      "was leaving"
+    ],
+    "answer": "had left",
+    "explanation": "Past perfect for action completed before another past action, অপর একটি অতীত কাজের আগে সম্পন্ন কাজের জন্য past perfect।",
+    "level": "hard",
+    "topic": "Tense",
+    "exam": "hsc"
+  },
+  {
+    "id": 482,
+    "type": "mcq",
+    "question": "Choose the correct preposition: 'She is fond ______ music.'",
+    "options": [
+      "of",
+      "for",
+      "at",
+      "with"
+    ],
+    "answer": "of",
+    "explanation": "'Fond of' means having a liking for something, 'Fond of' অর্থ কোন কিছুর প্রতি আকৃষ্ট।",
+    "level": "easy",
+    "topic": "Prepositions",
+    "exam": "hsc"
+  },
+  {
+    "id": 483,
+    "type": "fill",
+    "question": "Complete with correct article: 'What ______ beautiful flower this is!'",
+    "options": [],
+    "answer": "a",
+    "explanation": "Exclamatory sentences use 'a' before singular countable nouns, বিস্ময়সূচক বাক্যে singular countable noun এর আগে 'a' ব্যবহৃত হয়।",
+    "level": "easy",
+    "topic": "Article",
+    "exam": "hsc"
+  },
+  {
+    "id": 484,
+    "type": "mcq",
+    "question": "What is the correct indirect speech of: 'He said, \"Alas! I am undone.\"'",
+    "options": [
+      "He exclaimed with sorrow that he was undone.",
+      "He said that he was undone.",
+      "He exclaimed that he is undone.",
+      "He said alas he was undone."
+    ],
+    "answer": "He exclaimed with sorrow that he was undone.",
+    "explanation": "Exclamatory sentences use 'exclaimed with sorrow/joy' etc, বিস্ময়সূচক বাক্যে 'exclaimed with sorrow/joy' ইত্যাদি ব্যবহৃত হয়।",
+    "level": "hard",
+    "topic": "Narration",
+    "exam": "hsc"
+  },
+  {
+    "id": 485,
+    "type": "mcq",
+    "question": "Identify the misplaced modifier:",
+    "options": [
+      "He bought a car from a dealer with red color.",
+      "He bought a red car from a dealer.",
+      "From a dealer, he bought a red car.",
+      "He bought a car with red color from a dealer."
+    ],
+    "answer": "He bought a car from a dealer with red color.",
+    "explanation": "Modifier suggests the dealer has red color, Modifier টি বোঝাচ্ছে ডিলারের রঙ লাল।",
+    "level": "hard",
+    "topic": "Modifier",
+    "exam": "hsc"
+  },
+  {
+    "id": 486,
+    "type": "fill",
+    "question": "Complete with correct connector: '______ he is very old, he is active.'",
+    "options": [],
+    "answer": "Though",
+    "explanation": "'Though' shows contrast, 'Though' বৈসাদৃশ্য দেখায়।",
+    "level": "medium",
+    "topic": "Connector",
+    "exam": "hsc"
+  },
+  {
+    "id": 487,
+    "type": "fill",
+    "question": "Complete with right form of verb: 'She would rather die than ______ (beg).'",
+    "options": [],
+    "answer": "beg",
+    "explanation": "After 'would rather...than', base form of verb is used, 'Would rather...than' এর পরে base form of verb ব্যবহৃত হয়।",
+    "level": "hard",
+    "topic": "Right Form of Verbs",
+    "exam": "hsc"
+  },
+  {
+    "id": 488,
+    "type": "mcq",
+    "question": "Which tense is correct? 'By this time tomorrow, I ______ the report.'",
+    "options": [
+      "will finish",
+      "will have finished",
+      "will be finishing",
+      "finish"
+    ],
+    "answer": "will have finished",
+    "explanation": "Future perfect for action completed before a specific future time, নির্দিষ্ট ভবিষ্যত সময়ের আগে সম্পন্ন কাজের জন্য future perfect।",
+    "level": "hard",
+    "topic": "Tense",
+    "exam": "hsc"
+  },
+  {
+    "id": 489,
+    "type": "mcq",
+    "question": "Choose the correct preposition: 'He is accused ______ murder.'",
+    "options": [
+      "of",
+      "for",
+      "with",
+      "at"
+    ],
+    "answer": "of",
+    "explanation": "'Accused of' is the correct collocation, 'Accused of' সঠিক prepositional phrase।",
+    "level": "medium",
+    "topic": "Prepositions",
+    "exam": "hsc"
+  },
+  {
+    "id": 490,
+    "type": "fill",
+    "question": "Complete with correct article: 'He is ______ best student in ______ class.'",
+    "options": [],
+    "answer": "the, the",
+    "explanation": "'The' before superlative and before specific group, Superlative এর আগে এবং নির্দিষ্ট গোষ্ঠীর আগে 'the' ব্যবহৃত হয়।",
+    "level": "medium",
+    "topic": "Article",
+    "exam": "hsc"
+  },
+  {
+    "id": 491,
+    "type": "mcq",
+    "question": "What is the correct indirect speech of: 'He said, \"Let us go for a walk.\"'",
+    "options": [
+      "He suggested that they should go for a walk.",
+      "He said that let us go for a walk.",
+      "He proposed to go for a walk.",
+      "Both A and C"
+    ],
+    "answer": "Both A and C",
+    "explanation": "'Let us' suggestions use 'suggested' or 'proposed', 'Let us' দিয়ে সুপারিশের ক্ষেত্রে 'suggested' বা 'proposed' ব্যবহৃত হয়।",
+    "level": "hard",
+    "topic": "Narration",
+    "exam": "hsc"
+  },
+  {
+    "id": 492,
+    "type": "mcq",
+    "question": "Which sentence has a dangling modifier?",
+    "options": [
+      "Driving to work, the traffic was heavy.",
+      "Driving to work, I faced heavy traffic.",
+      "I faced heavy traffic while driving to work.",
+      "While driving to work, I faced heavy traffic."
+    ],
+    "answer": "Driving to work, the traffic was heavy.",
+    "explanation": "The modifier suggests the traffic was driving, Modifier টি বোঝাচ্ছে ট্রাফিক গাড়ি চালাচ্ছিল।",
+    "level": "hard",
+    "topic": "Modifier",
+    "exam": "hsc"
+  },
+  {
+    "id": 493,
+    "type": "fill",
+    "question": "Complete with correct connector: '______ it rains, we will cancel the picnic.'",
+    "options": [],
+    "answer": "If",
+    "explanation": "'If' introduces conditional sentence, 'If' কন্ডিশনাল বাক্য শুরু করে।",
+    "level": "easy",
+    "topic": "Connector",
+    "exam": "hsc"
+  },
+  {
+    "id": 494,
+    "type": "fill",
+    "question": "Complete with right form of verb: 'It is essential that he ______ (attend) the meeting.'",
+    "options": [],
+    "answer": "attend",
+    "explanation": "After 'essential that', subjunctive (base form) is used, 'Essential that' এর পরে subjunctive (base form) ব্যবহৃত হয়।",
+    "level": "hard",
+    "topic": "Right Form of Verbs",
+    "exam": "hsc"
+  },
+  {
+    "id": 495,
+    "type": "mcq",
+    "question": "Which tense is correct? 'He ______ in this town since his childhood.'",
+    "options": [
+      "lived",
+      "has lived",
+      "was living",
+      "had lived"
+    ],
+    "answer": "has lived",
+    "explanation": "Present perfect for action starting in past continuing to present, অতীতে শুরু হয়ে বর্তমান পর্যন্ত চলমান কাজের জন্য present perfect।",
+    "level": "medium",
+    "topic": "Tense",
+    "exam": "hsc"
+  },
+  {
+    "id": 496,
+    "type": "mcq",
+    "question": "Choose the correct preposition: 'She is suffering ______ fever.'",
+    "options": [
+      "from",
+      "with",
+      "by",
+      "of"
+    ],
+    "answer": "from",
+    "explanation": "'Suffering from' is the correct collocation for illness, অসুস্থতার জন্য 'Suffering from' সঠিক collocation।",
+    "level": "easy",
+    "topic": "Prepositions",
+    "exam": "hsc"
+  },
+  {
+    "id": 497,
+    "type": "fill",
+    "question": "Complete with correct article: '______ honest man is ______ noblest work of God.'",
+    "options": [],
+    "answer": "An, the",
+    "explanation": "'An' before 'honest'; 'the' before superlative, 'Honest' এর আগে 'an'; superlative এর আগে 'the'।",
+    "level": "medium",
+    "topic": "Article",
+    "exam": "hsc"
+  },
+  {
+    "id": 498,
+    "type": "mcq",
+    "question": "What is the correct indirect speech of: 'He said, \"What a clever girl!\"'",
+    "options": [
+      "He exclaimed that she was a very clever girl.",
+      "He said what a clever girl.",
+      "He exclaimed what a clever girl she was.",
+      "He told that she is a clever girl."
+    ],
+    "answer": "He exclaimed that she was a very clever girl.",
+    "explanation": "Exclamatory sentences use 'exclaimed that' and change to statement form, বিস্ময়সূচক বাক্যে 'exclaimed that' ব্যবহৃত হয় এবং statement আকারে পরিবর্তিত হয়।",
+    "level": "hard",
+    "topic": "Narration",
+    "exam": "hsc"
+  },
+  {
+    "id": 499,
+    "type": "mcq",
+    "question": "Identify the misplaced modifier:",
+    "options": [
+      "She wore a dress made of silk in the party.",
+      "In the party, she wore a dress made of silk.",
+      "She wore a dress in the party made of silk.",
+      "She wore a silk dress in the party."
+    ],
+    "answer": "She wore a dress in the party made of silk.",
+    "explanation": "Modifier suggests the party is made of silk, Modifier টি বোঝাচ্ছে পার্টিটি রেশমের তৈরি।",
+    "level": "hard",
+    "topic": "Modifier",
+    "exam": "hsc"
+  },
+  {
+    "id": 500,
+    "type": "fill",
+    "question": "Complete with correct connector: 'He is ______ a fool ______ a madman.'",
+    "options": [],
+    "answer": "either, or",
+    "explanation": "'Either...or' presents two alternatives, 'Either...or' দুটি বিকল্প উপস্থাপন করে।",
+    "level": "medium",
+    "topic": "Connector",
+    "exam": "hsc"
   }
 
 
 
 
+
 ]
+
 
 
 
