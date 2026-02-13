@@ -6954,13 +6954,736 @@
     "level": "medium",
     "topic": "Connector",
     "exam": "hsc"
+  },
+  
+  {
+    "id": 501,
+    "type": "wordmeaning",
+    "question": "What is the Bengali meaning of 'Ephemeral'?",
+    "options": [
+      "স্থায়ী",
+      "ক্ষণস্থায়ী",
+      "দীর্ঘস্থায়ী",
+      "চিরন্তন"
+    ],
+    "answer": "ক্ষণস্থায়ী",
+    "explanation": "Ephemeral means lasting for a very short time, Ephemeral অর্থ অতি অল্প সময় স্থায়ী।",
+    "level": "hard",
+    "topic": "Vocabulary",
+    "exam": "hsc"
+  },
+  {
+    "id": 502,
+    "type": "mcq",
+    "question": "Choose the correct connector: 'He is intelligent ______ he is lazy.'",
+    "options": [
+      "but",
+      "so",
+      "because",
+      "therefore"
+    ],
+    "answer": "but",
+    "explanation": "'But' shows contrast between intelligence and laziness, 'But' বুদ্ধিমত্তা ও অলসতার মধ্যে বৈসাদৃশ্য দেখায়।",
+    "level": "easy",
+    "topic": "Connector",
+    "exam": "hsc"
+  },
+  {
+    "id": 503,
+    "type": "fill",
+    "question": "In the sentence 'The book on the table is mine', add a pre-modifier to 'book'.",
+    "options": [],
+    "answer": "red",
+    "explanation": "Any adjective before 'book' works (red, new, interesting, etc.), 'Book' এর আগে যেকোনো adjective বসাতে হবে (red, new, interesting ইত্যাদি)।",
+    "level": "easy",
+    "topic": "Modifier",
+    "exam": "hsc"
+  },
+  {
+    "id": 504,
+    "type": "wordmeaning",
+    "question": "What is the Bengali meaning of 'Ubiquitous'?",
+    "options": [
+      "দুর্লভ",
+      "সর্বব্যাপী",
+      "স্থানীয়",
+      "সীমিত"
+    ],
+    "answer": "সর্বব্যাপী",
+    "explanation": "Ubiquitous means present everywhere, Ubiquitous অর্থ সর্বত্র বিদ্যমান।",
+    "level": "hard",
+    "topic": "Vocabulary",
+    "exam": "hsc"
+  },
+  {
+    "id": 505,
+    "type": "mcq",
+    "question": "Choose the correct connector: 'He failed ______ he did not study well.'",
+    "options": [
+      "because",
+      "so",
+      "therefore",
+      "but"
+    ],
+    "answer": "because",
+    "explanation": "'Because' indicates reason for failure, 'Because' ব্যর্থতার কারণ নির্দেশ করে।",
+    "level": "easy",
+    "topic": "Connector",
+    "exam": "hsc"
+  },
+  {
+    "id": 506,
+    "type": "fill",
+    "question": "In the sentence 'The girl wearing a red dress is my sister', identify the post-modifier of 'girl'.",
+    "options": [],
+    "answer": "wearing a red dress",
+    "explanation": "The phrase 'wearing a red dress' comes after 'girl' and modifies it, 'wearing a red dress' phrase টি 'girl' এর পরে এসে তাকে modify করছে।",
+    "level": "medium",
+    "topic": "Modifier",
+    "exam": "hsc"
+  },
+  {
+    "id": 507,
+    "type": "wordmeaning",
+    "question": "What is the Bengali meaning of 'Meticulous'?",
+    "options": [
+      "অসাবধান",
+      "সতর্ক",
+      "অলস",
+      "দ্রুত"
+    ],
+    "answer": "সতর্ক",
+    "explanation": "Meticulous means showing great attention to detail, Meticulous অর্থ অত্যন্ত সতর্ক ও বিস্তারিত মনোযোগী।",
+    "level": "hard",
+    "topic": "Vocabulary",
+    "exam": "hsc"
+  },
+  {
+    "id": 508,
+    "type": "mcq",
+    "question": "Choose the correct connector: 'He worked hard; ______, he succeeded.'",
+    "options": [
+      "however",
+      "therefore",
+      "nevertheless",
+      "although"
+    ],
+    "answer": "therefore",
+    "explanation": "'Therefore' shows the result of hard work, 'Therefore' কঠোর পরিশ্রমের ফলাফল দেখায়।",
+    "level": "medium",
+    "topic": "Connector",
+    "exam": "hsc"
+  },
+  {
+    "id": 509,
+    "type": "fill",
+    "question": "Add a suitable pre-modifier to 'man' in the sentence: '______ man is waiting outside.'",
+    "options": [],
+    "answer": "The tall",
+    "explanation": "Any adjective + article can be pre-modifier (the tall, an old, a young, etc.), যেকোনো adjective + article pre-modifier হতে পারে (the tall, an old, a young ইত্যাদি)।",
+    "level": "easy",
+    "topic": "Modifier",
+    "exam": "hsc"
+  },
+  {
+    "id": 510,
+    "type": "wordmeaning",
+    "question": "What is the Bengali meaning of 'Ambivalent'?",
+    "options": [
+      "একমুখী",
+      "দ্বিধাগ্রস্ত",
+      "নিশ্চিত",
+      "স্পষ্ট"
+    ],
+    "answer": "দ্বিধাগ্রস্ত",
+    "explanation": "Ambivalent means having mixed feelings, Ambivalent অর্থ দ্বিধাগ্রস্ত বা মিশ্র অনুভূতি থাকা।",
+    "level": "hard",
+    "topic": "Vocabulary",
+    "exam": "hsc"
+  },
+  {
+    "id": 511,
+    "type": "mcq",
+    "question": "Choose the correct connector: '______ he is rich, he is unhappy.'",
+    "options": [
+      "Because",
+      "Although",
+      "So",
+      "Therefore"
+    ],
+    "answer": "Although",
+    "explanation": "'Although' shows contrast between wealth and happiness, 'Although' ধন-সম্পদ ও সুখের মধ্যে বৈসাদৃশ্য দেখায়।",
+    "level": "medium",
+    "topic": "Connector",
+    "exam": "hsc"
+  },
+  {
+    "id": 512,
+    "type": "fill",
+    "question": "In the sentence 'The house built by my grandfather is old', identify the post-modifier of 'house'.",
+    "options": [],
+    "answer": "built by my grandfather",
+    "explanation": "The phrase 'built by my grandfather' comes after 'house' and modifies it, 'built by my grandfather' phrase টি 'house' এর পরে এসে তাকে modify করছে।",
+    "level": "medium",
+    "topic": "Modifier",
+    "exam": "hsc"
+  },
+  {
+    "id": 513,
+    "type": "wordmeaning",
+    "question": "What is the Bengali meaning of 'Gregarious'?",
+    "options": [
+      "একাকী",
+      "মিশুক",
+      "লাজুক",
+      "রাগী"
+    ],
+    "answer": "মিশুক",
+    "explanation": "Gregarious means fond of company, Gregarious অর্থ মিশুক বা দলবদ্ধ হয়ে থাকতে পছন্দ করে এমন।",
+    "level": "hard",
+    "topic": "Vocabulary",
+    "exam": "hsc"
+  },
+  {
+    "id": 514,
+    "type": "mcq",
+    "question": "Choose the correct connector: 'He is not only intelligent ______ also hardworking.'",
+    "options": [
+      "but",
+      "and",
+      "or",
+      "yet"
+    ],
+    "answer": "but",
+    "explanation": "'Not only...but also' is the correct correlative conjunction pair, 'Not only...but also' সঠিক correlative conjunction জুটি।",
+    "level": "medium",
+    "topic": "Connector",
+    "exam": "hsc"
+  },
+  {
+    "id": 515,
+    "type": "fill",
+    "question": "Add a suitable pre-modifier to 'car' in the sentence: 'He bought ______ car.'",
+    "options": [],
+    "answer": "a new",
+    "explanation": "Any article + adjective can be pre-modifier (a new, an expensive, the red, etc.), যেকোনো article + adjective pre-modifier হতে পারে (a new, an expensive, the red ইত্যাদি)।",
+    "level": "easy",
+    "topic": "Modifier",
+    "exam": "hsc"
+  },
+  {
+    "id": 516,
+    "type": "wordmeaning",
+    "question": "What is the Bengali meaning of 'Fortuitous'?",
+    "options": [
+      "পরিকল্পিত",
+      "আকস্মিক",
+      "নিয়মিত",
+      "বিরল"
+    ],
+    "answer": "আকস্মিক",
+    "explanation": "Fortuitous means happening by chance, Fortuitous অর্থ আকস্মিক বা অপরিকল্পিতভাবে ঘটে যাওয়া।",
+    "level": "hard",
+    "topic": "Vocabulary",
+    "exam": "hsc"
+  },
+  {
+    "id": 517,
+    "type": "mcq",
+    "question": "Choose the correct connector: '______ you work hard, you will not succeed.'",
+    "options": [
+      "If",
+      "Unless",
+      "When",
+      "Because"
+    ],
+    "answer": "Unless",
+    "explanation": "'Unless' means 'if not', 'Unless' অর্থ 'যদি না'।",
+    "level": "medium",
+    "topic": "Connector",
+    "exam": "hsc"
+  },
+  {
+    "id": 518,
+    "type": "fill",
+    "question": "In the sentence 'The man with the blue hat is my uncle', identify the post-modifier of 'man'.",
+    "options": [],
+    "answer": "with the blue hat",
+    "explanation": "The phrase 'with the blue hat' comes after 'man' and modifies him, 'with the blue hat' phrase টি 'man' এর পরে এসে তাকে modify করছে।",
+    "level": "medium",
+    "topic": "Modifier",
+    "exam": "hsc"
+  },
+  {
+    "id": 519,
+    "type": "wordmeaning",
+    "question": "What is the Bengali meaning of 'Ineffable'?",
+    "options": [
+      "বর্ণনাযোগ্য",
+      "অবর্ণনীয়",
+      "সাধারণ",
+      "স্পষ্ট"
+    ],
+    "answer": "অবর্ণনীয়",
+    "explanation": "Ineffable means too great to be expressed in words, Ineffable অর্থ অবর্ণনীয় বা ভাষায় প্রকাশ করা যায় না এমন।",
+    "level": "hard",
+    "topic": "Vocabulary",
+    "exam": "hsc"
+  },
+  {
+    "id": 520,
+    "type": "mcq",
+    "question": "Choose the correct connector: 'He was tired; ______, he continued working.'",
+    "options": [
+      "therefore",
+      "however",
+      "so",
+      "because"
+    ],
+    "answer": "however",
+    "explanation": "'However' shows contrast between tiredness and continuing, 'However' ক্লান্তি ও কাজ চালিয়ে যাওয়ার মধ্যে বৈসাদৃশ্য দেখায়।",
+    "level": "medium",
+    "topic": "Connector",
+    "exam": "hsc"
+  },
+  {
+    "id": 521,
+    "type": "fill",
+    "question": "Add a suitable pre-modifier to 'building' in the sentence: 'They live in ______ building.'",
+    "options": [],
+    "answer": "a tall",
+    "explanation": "Any article + adjective can be pre-modifier (a tall, an old, the modern, etc.), যেকোনো article + adjective pre-modifier হতে পারে (a tall, an old, the modern ইত্যাদি)।",
+    "level": "easy",
+    "topic": "Modifier",
+    "exam": "hsc"
+  },
+  {
+    "id": 522,
+    "type": "wordmeaning",
+    "question": "What is the Bengali meaning of 'Cacophony'?",
+    "options": [
+      "সুরেলা ধ্বনি",
+      "কর্কশ শব্দ",
+      "মধুর গান",
+      "নীরবতা"
+    ],
+    "answer": "কর্কশ শব্দ",
+    "explanation": "Cacophony means harsh, discordant sound, Cacophony অর্থ কর্কশ ও অসংগত শব্দ।",
+    "level": "hard",
+    "topic": "Vocabulary",
+    "exam": "hsc"
+  },
+  {
+    "id": 523,
+    "type": "mcq",
+    "question": "Choose the correct connector: '______ he finished his work, he went home.'",
+    "options": [
+      "Because",
+      "After",
+      "Although",
+      "Unless"
+    ],
+    "answer": "After",
+    "explanation": "'After' shows time sequence, 'After' সময়ের ক্রম নির্দেশ করে।",
+    "level": "easy",
+    "topic": "Connector",
+    "exam": "hsc"
+  },
+  {
+    "id": 524,
+    "type": "fill",
+    "question": "In the sentence 'The boy playing in the garden is my brother', identify the post-modifier of 'boy'.",
+    "options": [],
+    "answer": "playing in the garden",
+    "explanation": "The phrase 'playing in the garden' comes after 'boy' and modifies him, 'playing in the garden' phrase টি 'boy' এর পরে এসে তাকে modify করছে।",
+    "level": "medium",
+    "topic": "Modifier",
+    "exam": "hsc"
+  },
+  {
+    "id": 525,
+    "type": "wordmeaning",
+    "question": "What is the Bengali meaning of 'Hackneyed'?",
+    "options": [
+      "মৌলিক",
+      "ঘুণে ধরা",
+      "সতেজ",
+      "আকর্ষণীয়"
+    ],
+    "answer": "ঘুণে ধরা",
+    "explanation": "Hackneyed means unoriginal due to overuse, Hackneyed অর্থ অতিরিক্ত ব্যবহারের কারণে মৌলিকত্বহীন।",
+    "level": "hard",
+    "topic": "Vocabulary",
+    "exam": "hsc"
+  },
+  {
+    "id": 526,
+    "type": "mcq",
+    "question": "Choose the correct connector: 'He is ______ intelligent ______ hardworking.'",
+    "options": [
+      "both, and",
+      "either, or",
+      "neither, nor",
+      "not only, but also"
+    ],
+    "answer": "both, and",
+    "explanation": "'Both...and' includes two qualities, 'Both...and' দুটি গুণ অন্তর্ভুক্ত করে।",
+    "level": "medium",
+    "topic": "Connector",
+    "exam": "hsc"
+  },
+  {
+    "id": 527,
+    "type": "fill",
+    "question": "Add a suitable pre-modifier to 'flower' in the sentence: 'She picked ______ flower.'",
+    "options": [],
+    "answer": "a beautiful",
+    "explanation": "Any article + adjective can be pre-modifier (a beautiful, an exotic, the red, etc.), যেকোনো article + adjective pre-modifier হতে পারে (a beautiful, an exotic, the red ইত্যাদি)।",
+    "level": "easy",
+    "topic": "Modifier",
+    "exam": "hsc"
+  },
+  {
+    "id": 528,
+    "type": "wordmeaning",
+    "question": "What is the Bengali meaning of 'Juxtaposition'?",
+    "options": [
+      "পৃথকীকরণ",
+      "পাশাপাশি স্থাপন",
+      "মিশ্রণ",
+      "বিচ্ছেদ"
+    ],
+    "answer": "পাশাপাশি স্থাপন",
+    "explanation": "Juxtaposition means placing things side by side, Juxtaposition অর্থ দুটি জিনিস পাশাপাশি রাখা।",
+    "level": "hard",
+    "topic": "Vocabulary",
+    "exam": "hsc"
+  },
+  {
+    "id": 529,
+    "type": "mcq",
+    "question": "Choose the correct connector: 'He is poor, ______ he is honest.'",
+    "options": [
+      "so",
+      "yet",
+      "because",
+      "therefore"
+    ],
+    "answer": "yet",
+    "explanation": "'Yet' shows contrast between poverty and honesty, 'Yet' দারিদ্র্য ও সততার মধ্যে বৈসাদৃশ্য দেখায়।",
+    "level": "medium",
+    "topic": "Connector",
+    "exam": "hsc"
+  },
+  {
+    "id": 530,
+    "type": "fill",
+    "question": "In the sentence 'The food cooked by my mother is delicious', identify the post-modifier of 'food'.",
+    "options": [],
+    "answer": "cooked by my mother",
+    "explanation": "The phrase 'cooked by my mother' comes after 'food' and modifies it, 'cooked by my mother' phrase টি 'food' এর পরে এসে তাকে modify করছে।",
+    "level": "medium",
+    "topic": "Modifier",
+    "exam": "hsc"
+  },
+  {
+    "id": 531,
+    "type": "wordmeaning",
+    "question": "What is the Bengali meaning of 'Kaleidoscopic'?",
+    "options": [
+      "একরঙা",
+      "বহুরঙা",
+      "স্থির",
+      "নিষ্প্রভ"
+    ],
+    "answer": "বহুরঙা",
+    "explanation": "Kaleidoscopic means with complex patterns of colors, Kaleidoscopic অর্থ বহুরঙা ও নানান নকশার সমাহার।",
+    "level": "hard",
+    "topic": "Vocabulary",
+    "exam": "hsc"
+  },
+  {
+    "id": 532,
+    "type": "mcq",
+    "question": "Choose the correct connector: '______ he comes, we will start the meeting.'",
+    "options": [
+      "When",
+      "Although",
+      "Because",
+      "Unless"
+    ],
+    "answer": "When",
+    "explanation": "'When' indicates time, 'When' সময় নির্দেশ করে।",
+    "level": "easy",
+    "topic": "Connector",
+    "exam": "hsc"
+  },
+  {
+    "id": 533,
+    "type": "fill",
+    "question": "Add a suitable pre-modifier to 'story' in the sentence: 'She told ______ story.'",
+    "options": [],
+    "answer": "an interesting",
+    "explanation": "Any article + adjective can be pre-modifier (an interesting, a funny, the same, etc.), যেকোনো article + adjective pre-modifier হতে পারে (an interesting, a funny, the same ইত্যাদি)।",
+    "level": "easy",
+    "topic": "Modifier",
+    "exam": "hsc"
+  },
+  {
+    "id": 534,
+    "type": "wordmeaning",
+    "question": "What is the Bengali meaning of 'Laconic'?",
+    "options": [
+      "বাচাল",
+      "অল্পভাষী",
+      "জটিল",
+      "সরল"
+    ],
+    "answer": "অল্পভাষী",
+    "explanation": "Laconic means using few words, Laconic অর্থ অল্প কথায় ভাব প্রকাশ করে এমন।",
+    "level": "hard",
+    "topic": "Vocabulary",
+    "exam": "hsc"
+  },
+  {
+    "id": 535,
+    "type": "mcq",
+    "question": "Choose the correct connector: 'You must study hard; ______, you will fail.'",
+    "options": [
+      "otherwise",
+      "therefore",
+      "however",
+      "moreover"
+    ],
+    "answer": "otherwise",
+    "explanation": "'Otherwise' indicates consequence of not studying, 'Otherwise' না পড়ার পরিণতি নির্দেশ করে।",
+    "level": "medium",
+    "topic": "Connector",
+    "exam": "hsc"
+  },
+  {
+    "id": 536,
+    "type": "fill",
+    "question": "In the sentence 'The man standing at the door is my father', identify the post-modifier of 'man'.",
+    "options": [],
+    "answer": "standing at the door",
+    "explanation": "The phrase 'standing at the door' comes after 'man' and modifies him, 'standing at the door' phrase টি 'man' এর পরে এসে তাকে modify করছে।",
+    "level": "medium",
+    "topic": "Modifier",
+    "exam": "hsc"
+  },
+  {
+    "id": 537,
+    "type": "wordmeaning",
+    "question": "What is the Bengali meaning of 'Mellifluous'?",
+    "options": [
+      "কর্কশ",
+      "মধুর",
+      "উচ্চ",
+      "নিম্ন"
+    ],
+    "answer": "মধুর",
+    "explanation": "Mellifluous means sweet-sounding, Mellifluous অর্থ মধুর ও শ্রুতিমধুর।",
+    "level": "hard",
+    "topic": "Vocabulary",
+    "exam": "hsc"
+  },
+  {
+    "id": 538,
+    "type": "mcq",
+    "question": "Choose the correct connector: 'He is ______ rich ______ generous.'",
+    "options": [
+      "not only, but also",
+      "both, and",
+      "either, or",
+      "neither, nor"
+    ],
+    "answer": "both, and",
+    "explanation": "'Both...and' connects two positive qualities, 'Both...and' দুটি ইতিবাচক গুণ সংযুক্ত করে।",
+    "level": "medium",
+    "topic": "Connector",
+    "exam": "hsc"
+  },
+  {
+    "id": 539,
+    "type": "fill",
+    "question": "Add a suitable pre-modifier to 'house' in the sentence: 'They bought ______ house.'",
+    "options": [],
+    "answer": "a big",
+    "explanation": "Any article + adjective can be pre-modifier (a big, an old, the new, etc.), যেকোনো article + adjective pre-modifier হতে পারে (a big, an old, the new ইত্যাদি)।",
+    "level": "easy",
+    "topic": "Modifier",
+    "exam": "hsc"
+  },
+  {
+    "id": 540,
+    "type": "wordmeaning",
+    "question": "What is the Bengali meaning of 'Nefarious'?",
+    "options": [
+      "সৎ",
+      "দুষ্ট",
+      "সাহসী",
+      "দয়ালু"
+    ],
+    "answer": "দুষ্ট",
+    "explanation": "Nefarious means wicked or criminal, Nefarious অর্থ দুষ্ট বা অপরাধমূলক।",
+    "level": "hard",
+    "topic": "Vocabulary",
+    "exam": "hsc"
+  },
+  {
+    "id": 541,
+    "type": "mcq",
+    "question": "Choose the correct connector: '______ she was tired, she finished the work.'",
+    "options": [
+      "Because",
+      "Although",
+      "So",
+      "Therefore"
+    ],
+    "answer": "Although",
+    "explanation": "'Although' shows contrast between tiredness and finishing work, 'Although' ক্লান্তি ও কাজ শেষ করার মধ্যে বৈসাদৃশ্য দেখায়।",
+    "level": "medium",
+    "topic": "Connector",
+    "exam": "hsc"
+  },
+  {
+    "id": 542,
+    "type": "fill",
+    "question": "In the sentence 'The letter written by him is lost', identify the post-modifier of 'letter'.",
+    "options": [],
+    "answer": "written by him",
+    "explanation": "The phrase 'written by him' comes after 'letter' and modifies it, 'written by him' phrase টি 'letter' এর পরে এসে তাকে modify করছে।",
+    "level": "medium",
+    "topic": "Modifier",
+    "exam": "hsc"
+  },
+  {
+    "id": 543,
+    "type": "wordmeaning",
+    "question": "What is the Bengali meaning of 'Obfuscate'?",
+    "options": [
+      "স্পষ্ট করা",
+      "জটিল করা",
+      "সহজ করা",
+      "ব্যাখ্যা করা"
+    ],
+    "answer": "জটিল করা",
+    "explanation": "Obfuscate means to make something unclear, Obfuscate অর্থ জটিল বা অস্পষ্ট করা।",
+    "level": "hard",
+    "topic": "Vocabulary",
+    "exam": "hsc"
+  },
+  {
+    "id": 544,
+    "type": "mcq",
+    "question": "Choose the correct connector: 'He is clever, ______ he fails sometimes.'",
+    "options": [
+      "so",
+      "yet",
+      "because",
+      "therefore"
+    ],
+    "answer": "yet",
+    "explanation": "'Yet' shows contrast between cleverness and failure, 'Yet' বুদ্ধিমত্তা ও ব্যর্থতার মধ্যে বৈসাদৃশ্য দেখায়।",
+    "level": "medium",
+    "topic": "Connector",
+    "exam": "hsc"
+  },
+  {
+    "id": 545,
+    "type": "fill",
+    "question": "Add a suitable pre-modifier to 'child' in the sentence: '______ child is playing.'",
+    "options": [],
+    "answer": "The little",
+    "explanation": "Any article + adjective can be pre-modifier (the little, a small, an innocent, etc.), যেকোনো article + adjective pre-modifier হতে পারে (the little, a small, an innocent ইত্যাদি)।",
+    "level": "easy",
+    "topic": "Modifier",
+    "exam": "hsc"
+  },
+  {
+    "id": 546,
+    "type": "wordmeaning",
+    "question": "What is the Bengali meaning of 'Pragmatic'?",
+    "options": [
+      "আদর্শবাদী",
+      "বাস্তববাদী",
+      "কল্পনাপ্রবণ",
+      "স্বপ্নবিলাসী"
+    ],
+    "answer": "বাস্তববাদী",
+    "explanation": "Pragmatic means dealing with things practically, Pragmatic অর্থ বাস্তববাদী ও ব্যবহারিক দৃষ্টিভঙ্গি সম্পন্ন।",
+    "level": "hard",
+    "topic": "Vocabulary",
+    "exam": "hsc"
+  },
+  {
+    "id": 547,
+    "type": "mcq",
+    "question": "Choose the correct connector: 'You will pass ______ you study hard.'",
+    "options": [
+      "if",
+      "unless",
+      "although",
+      "because"
+    ],
+    "answer": "if",
+    "explanation": "'If' introduces a condition, 'If' একটি শর্ত নির্দেশ করে।",
+    "level": "easy",
+    "topic": "Connector",
+    "exam": "hsc"
+  },
+  {
+    "id": 548,
+    "type": "fill",
+    "question": "In the sentence 'The flowers blooming in spring are beautiful', identify the post-modifier of 'flowers'.",
+    "options": [],
+    "answer": "blooming in spring",
+    "explanation": "The phrase 'blooming in spring' comes after 'flowers' and modifies them, 'blooming in spring' phrase টি 'flowers' এর পরে এসে তাদের modify করছে।",
+    "level": "medium",
+    "topic": "Modifier",
+    "exam": "hsc"
+  },
+  {
+    "id": 549,
+    "type": "wordmeaning",
+    "question": "What is the Bengali meaning of 'Quintessential'?",
+    "options": [
+      "গৌণ",
+      "মূলসার",
+      "অপ্রধান",
+      "সাধারণ"
+    ],
+    "answer": "মূলসার",
+    "explanation": "Quintessential means representing the perfect example, Quintessential অর্থ কোনো কিছুর মূলসার বা আদর্শ উদাহরণ।",
+    "level": "hard",
+    "topic": "Vocabulary",
+    "exam": "hsc"
+  },
+  {
+    "id": 550,
+    "type": "mcq",
+    "question": "Choose the correct connector: 'He is ______ a fool ______ a madman.'",
+    "options": [
+      "both, and",
+      "either, or",
+      "neither, nor",
+      "not only, but also"
+    ],
+    "answer": "either, or",
+    "explanation": "'Either...or' presents two alternatives, 'Either...or' দুটি বিকল্প উপস্থাপন করে।",
+    "level": "medium",
+    "topic": "Connector",
+    "exam": "hsc"
   }
 
 
 
 
 
+
 ]
+
 
 
 
