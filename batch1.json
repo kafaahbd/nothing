@@ -8351,6 +8351,807 @@
     "level": "hard",
     "topic": "Right Form of Verbs",
     "exam": "hsc"
+  },
+  
+  {
+    "id": 601,
+    "type": "mcq",
+    "question": "Choose the correct preposition: 'He is interested ______ learning French.'",
+    "options": [
+      "in",
+      "at",
+      "for",
+      "with"
+    ],
+    "answer": "in",
+    "explanation": "'Interested in' is the correct collocation, 'Interested in' সঠিক prepositional phrase।",
+    "level": "easy",
+    "topic": "Prepositions",
+    "exam": "hsc"
+  },
+  {
+    "id": 602,
+    "type": "mcq",
+    "question": "What is the synonym of 'Big'?",
+    "options": [
+      "Small",
+      "Large",
+      "Tiny",
+      "Short"
+    ],
+    "answer": "Large",
+    "explanation": "Big and large both mean of considerable size, Big এবং large উভয়ই বড় আকার বোঝায়।",
+    "level": "easy",
+    "topic": "Synonyms",
+    "exam": "hsc"
+  },
+  {
+    "id": 603,
+    "type": "mcq",
+    "question": "Which sentence is in the present continuous tense?",
+    "options": [
+      "She eats rice",
+      "She is eating rice",
+      "She ate rice",
+      "She has eaten rice"
+    ],
+    "answer": "She is eating rice",
+    "explanation": "Present continuous uses am/is/are + verb-ing, Present continuous এ am/is/are + verb-ing ব্যবহৃত হয়।",
+    "level": "easy",
+    "topic": "Tense",
+    "exam": "hsc"
+  },
+  {
+    "id": 604,
+    "type": "mcq",
+    "question": "Choose the correct article: 'He is ______ honest man.'",
+    "options": [
+      "a",
+      "an",
+      "the",
+      "no article"
+    ],
+    "answer": "an",
+    "explanation": "'Honest' begins with vowel sound, so 'an' is used, 'Honest' vowel sound দিয়ে শুরু হয়, তাই 'an' ব্যবহৃত হয়।",
+    "level": "easy",
+    "topic": "Articles",
+    "exam": "hsc"
+  },
+  {
+    "id": 605,
+    "type": "mcq",
+    "question": "What is the antonym of 'Hot'?",
+    "options": [
+      "Warm",
+      "Cold",
+      "Cool",
+      "Chilly"
+    ],
+    "answer": "Cold",
+    "explanation": "Hot and cold are direct opposites in temperature, Hot এবং cold তাপমাত্রার সরাসরি বিপরীত।",
+    "level": "easy",
+    "topic": "Antonyms",
+    "exam": "hsc"
+  },
+  {
+    "id": 606,
+    "type": "mcq",
+    "question": "Choose the correct connector: 'He is rich ______ he is not happy.'",
+    "options": [
+      "but",
+      "so",
+      "because",
+      "therefore"
+    ],
+    "answer": "but",
+    "explanation": "'But' shows contrast between richness and happiness, 'But' ধনী হওয়া ও সুখী না হওয়ার মধ্যে বৈসাদৃশ্য দেখায়।",
+    "level": "easy",
+    "topic": "Connector",
+    "exam": "hsc"
+  },
+  {
+    "id": 607,
+    "type": "mcq",
+    "question": "What is the past tense of 'Go'?",
+    "options": [
+      "Went",
+      "Gone",
+      "Goed",
+      "Going"
+    ],
+    "answer": "Went",
+    "explanation": "Go is an irregular verb; past tense is 'went', Go একটি অনিয়মিত ক্রিয়া; past tense হলো 'went'।",
+    "level": "easy",
+    "topic": "Tense",
+    "exam": "hsc"
+  },
+  {
+    "id": 608,
+    "type": "mcq",
+    "question": "Which word is a noun?",
+    "options": [
+      "Beautiful",
+      "Happiness",
+      "Quickly",
+      "Run"
+    ],
+    "answer": "Happiness",
+    "explanation": "Happiness is a noun; beautiful is adjective, quickly is adverb, run is verb, Happiness একটি বিশেষ্য; beautiful বিশেষণ, quickly ক্রিয়া-বিশেষণ, run ক্রিয়া।",
+    "level": "easy",
+    "topic": "Parts of Speech",
+    "exam": "hsc"
+  },
+  {
+    "id": 609,
+    "type": "mcq",
+    "question": "Choose the correct preposition: 'She is fond ______ music.'",
+    "options": [
+      "of",
+      "for",
+      "at",
+      "with"
+    ],
+    "answer": "of",
+    "explanation": "'Fond of' means having a liking for something, 'Fond of' অর্থ কোন কিছুর প্রতি আকৃষ্ট।",
+    "level": "easy",
+    "topic": "Prepositions",
+    "exam": "hsc"
+  },
+  {
+    "id": 610,
+    "type": "mcq",
+    "question": "What is the plural of 'Child'?",
+    "options": [
+      "Childs",
+      "Children",
+      "Childes",
+      "Child's"
+    ],
+    "answer": "Children",
+    "explanation": "Child has irregular plural form 'children', Child এর irregular plural form 'children'।",
+    "level": "easy",
+    "topic": "Nouns",
+    "exam": "hsc"
+  },
+  {
+    "id": 611,
+    "type": "mcq",
+    "question": "Which sentence is correct?",
+    "options": [
+      "She don't like coffee",
+      "She doesn't like coffee",
+      "She not like coffee",
+      "She no like coffee"
+    ],
+    "answer": "She doesn't like coffee",
+    "explanation": "Third person singular requires 'does not' + base verb, Third person singular এ 'does not' + base verb প্রয়োজন।",
+    "level": "easy",
+    "topic": "Sentence Correction",
+    "exam": "hsc"
+  },
+  {
+    "id": 612,
+    "type": "mcq",
+    "question": "Choose the correct connector: 'He studied hard ______ he could pass the exam.'",
+    "options": [
+      "so that",
+      "because",
+      "although",
+      "however"
+    ],
+    "answer": "so that",
+    "explanation": "'So that' indicates purpose, 'So that' উদ্দেশ্য নির্দেশ করে।",
+    "level": "easy",
+    "topic": "Connector",
+    "exam": "hsc"
+  },
+  {
+    "id": 613,
+    "type": "mcq",
+    "question": "What is the opposite of 'Day'?",
+    "options": [
+      "Morning",
+      "Night",
+      "Evening",
+      "Noon"
+    ],
+    "answer": "Night",
+    "explanation": "Day and night are opposites, Day এবং night বিপরীত।",
+    "level": "easy",
+    "topic": "Antonyms",
+    "exam": "hsc"
+  },
+  {
+    "id": 614,
+    "type": "mcq",
+    "question": "Which is a pronoun?",
+    "options": [
+      "Book",
+      "She",
+      "Beautiful",
+      "Quickly"
+    ],
+    "answer": "She",
+    "explanation": "She is a pronoun; book is noun, beautiful is adjective, quickly is adverb, She একটি সর্বনাম; book বিশেষ্য, beautiful বিশেষণ, quickly ক্রিয়া-বিশেষণ।",
+    "level": "easy",
+    "topic": "Parts of Speech",
+    "exam": "hsc"
+  },
+  {
+    "id": 615,
+    "type": "mcq",
+    "question": "Choose the correct article: 'He is ______ university student.'",
+    "options": [
+      "a",
+      "an",
+      "the",
+      "no article"
+    ],
+    "answer": "a",
+    "explanation": "'University' begins with consonant sound (yoo), so 'a' is used, 'University' consonant sound (yoo) দিয়ে শুরু হয়, তাই 'a' ব্যবহৃত হয়।",
+    "level": "easy",
+    "topic": "Articles",
+    "exam": "hsc"
+  },
+  {
+    "id": 616,
+    "type": "mcq",
+    "question": "What is the meaning of the word 'Happy'?",
+    "options": [
+      "Sad",
+      "Joyful",
+      "Angry",
+      "Tired"
+    ],
+    "answer": "Joyful",
+    "explanation": "Happy means feeling or showing pleasure, Happy অর্থ আনন্দিত বা খুশি।",
+    "level": "easy",
+    "topic": "Vocabulary",
+    "exam": "hsc"
+  },
+  {
+    "id": 617,
+    "type": "mcq",
+    "question": "Which tense is used in 'I have finished my work'?",
+    "options": [
+      "Simple Past",
+      "Present Perfect",
+      "Past Perfect",
+      "Simple Present"
+    ],
+    "answer": "Present Perfect",
+    "explanation": "'Have + past participle' indicates present perfect tense, 'Have + past participle' present perfect tense নির্দেশ করে।",
+    "level": "easy",
+    "topic": "Tense",
+    "exam": "hsc"
+  },
+  {
+    "id": 618,
+    "type": "mcq",
+    "question": "Choose the correct preposition: 'He is good ______ mathematics.'",
+    "options": [
+      "at",
+      "in",
+      "with",
+      "for"
+    ],
+    "answer": "at",
+    "explanation": "'Good at' indicates skill in a subject, 'Good at' কোনো বিষয়ে দক্ষতা নির্দেশ করে।",
+    "level": "easy",
+    "topic": "Prepositions",
+    "exam": "hsc"
+  },
+  {
+    "id": 619,
+    "type": "mcq",
+    "question": "What is the past participle of 'Eat'?",
+    "options": [
+      "Ate",
+      "Eaten",
+      "Eating",
+      "Eats"
+    ],
+    "answer": "Eaten",
+    "explanation": "Eat - ate - eaten are the three forms, Eat - ate - eaten তিনটি রূপ।",
+    "level": "easy",
+    "topic": "Verbs",
+    "exam": "hsc"
+  },
+  {
+    "id": 620,
+    "type": "mcq",
+    "question": "Which sentence uses correct subject-verb agreement?",
+    "options": [
+      "The boys is playing",
+      "The boy are playing",
+      "The boy is playing",
+      "The boys am playing"
+    ],
+    "answer": "The boy is playing",
+    "explanation": "Singular subject 'boy' takes singular verb 'is', Singular subject 'boy' এর সাথে singular verb 'is' ব্যবহৃত হয়।",
+    "level": "easy",
+    "topic": "Subject-Verb Agreement",
+    "exam": "hsc"
+  },
+  {
+    "id": 621,
+    "type": "mcq",
+    "question": "Choose the correct connector: '______ he is poor, he is honest.'",
+    "options": [
+      "Because",
+      "Although",
+      "So",
+      "Therefore"
+    ],
+    "answer": "Although",
+    "explanation": "'Although' shows contrast between poverty and honesty, 'Although' দারিদ্র্য ও সততার মধ্যে বৈসাদৃশ্য দেখায়।",
+    "level": "medium",
+    "topic": "Connector",
+    "exam": "hsc"
+  },
+  {
+    "id": 622,
+    "type": "mcq",
+    "question": "What is the meaning of the word 'Benevolent'?",
+    "options": [
+      "Kind and generous",
+      "Cruel and mean",
+      "Lazy and idle",
+      "Angry and furious"
+    ],
+    "answer": "Kind and generous",
+    "explanation": "Benevolent means well-meaning and kindly, Benevolent অর্থ দয়ালু ও উদার।",
+    "level": "medium",
+    "topic": "Vocabulary",
+    "exam": "hsc"
+  },
+  {
+    "id": 623,
+    "type": "mcq",
+    "question": "Which tense is correct? 'I ______ here since 2010.'",
+    "options": [
+      "live",
+      "am living",
+      "have been living",
+      "lived"
+    ],
+    "answer": "have been living",
+    "explanation": "Present perfect continuous for action starting in past continuing to present, অতীতে শুরু হয়ে বর্তমান পর্যন্ত চলমান কাজের জন্য present perfect continuous।",
+    "level": "medium",
+    "topic": "Tense",
+    "exam": "hsc"
+  },
+  {
+    "id": 624,
+    "type": "mcq",
+    "question": "Choose the correct preposition: 'He is confident ______ his success.'",
+    "options": [
+      "of",
+      "in",
+      "at",
+      "with"
+    ],
+    "answer": "of",
+    "explanation": "'Confident of' is the correct collocation, 'Confident of' সঠিক prepositional phrase।",
+    "level": "medium",
+    "topic": "Prepositions",
+    "exam": "hsc"
+  },
+  {
+    "id": 625,
+    "type": "mcq",
+    "question": "What is the antonym of 'Expand'?",
+    "options": [
+      "Increase",
+      "Contract",
+      "Enlarge",
+      "Extend"
+    ],
+    "answer": "Contract",
+    "explanation": "Expand means to become larger; contract means to become smaller, Expand অর্থ বড় হওয়া; contract অর্থ ছোট হওয়া।",
+    "level": "medium",
+    "topic": "Antonyms",
+    "exam": "hsc"
+  },
+  {
+    "id": 626,
+    "type": "mcq",
+    "question": "Identify the correct passive voice: 'They are building a new hospital.'",
+    "options": [
+      "A new hospital is being built.",
+      "A new hospital was being built.",
+      "A new hospital has been built.",
+      "A new hospital will be built."
+    ],
+    "answer": "A new hospital is being built.",
+    "explanation": "Present continuous active becomes present continuous passive, Present continuous active, present continuous passive এ পরিবর্তিত হয়।",
+    "level": "medium",
+    "topic": "Voice",
+    "exam": "hsc"
+  },
+  {
+    "id": 627,
+    "type": "mcq",
+    "question": "Choose the correct conditional: 'If I ______ (know) his number, I would call him.'",
+    "options": [
+      "know",
+      "knew",
+      "had known",
+      "have known"
+    ],
+    "answer": "knew",
+    "explanation": "Second conditional uses past tense after 'if', দ্বিতীয় কন্ডিশনালে 'if' এর পরে past tense ব্যবহৃত হয়।",
+    "level": "medium",
+    "topic": "Conditional Sentences",
+    "exam": "hsc"
+  },
+  {
+    "id": 628,
+    "type": "mcq",
+    "question": "What is the synonym of 'Meticulous'?",
+    "options": [
+      "Careless",
+      "Detailed",
+      "Quick",
+      "Rough"
+    ],
+    "answer": "Detailed",
+    "explanation": "Meticulous means showing great attention to detail, Meticulous অর্থ সুক্ষ্মাতিসুক্ষ্ম বিবেচনাপূর্ণ।",
+    "level": "medium",
+    "topic": "Synonyms",
+    "exam": "hsc"
+  },
+  {
+    "id": 629,
+    "type": "mcq",
+    "question": "Choose the correct connector: 'He worked hard; ______, he passed the exam.'",
+    "options": [
+      "however",
+      "therefore",
+      "nevertheless",
+      "although"
+    ],
+    "answer": "therefore",
+    "explanation": "'Therefore' shows the result of hard work, 'Therefore' কঠোর পরিশ্রমের ফলাফল দেখায়।",
+    "level": "medium",
+    "topic": "Connector",
+    "exam": "hsc"
+  },
+  {
+    "id": 630,
+    "type": "mcq",
+    "question": "Which sentence has correct subject-verb agreement?",
+    "options": [
+      "Neither of the boys are coming.",
+      "Neither of the boys is coming.",
+      "Neither of the boy are coming.",
+      "Neither of boys is coming."
+    ],
+    "answer": "Neither of the boys is coming.",
+    "explanation": "'Neither' is singular requiring singular verb, 'Neither' একবচন যা একবচন verb প্রয়োজন।",
+    "level": "medium",
+    "topic": "Subject-Verb Agreement",
+    "exam": "hsc"
+  },
+  {
+    "id": 631,
+    "type": "mcq",
+    "question": "What is the correct reported speech of: 'He said, \"I am reading a book.\"'",
+    "options": [
+      "He said that he was reading a book.",
+      "He said that I am reading a book.",
+      "He said that he is reading a book.",
+      "He said that I was reading a book."
+    ],
+    "answer": "He said that he was reading a book.",
+    "explanation": "Present continuous changes to past continuous in indirect speech, Indirect speech এ present continuous past continuous এ পরিবর্তিত হয়।",
+    "level": "medium",
+    "topic": "Narration",
+    "exam": "hsc"
+  },
+  {
+    "id": 632,
+    "type": "mcq",
+    "question": "Choose the correct article: '______ Ganga is ______ sacred river.'",
+    "options": [
+      "A, a",
+      "An, a",
+      "The, a",
+      "The, the"
+    ],
+    "answer": "The, a",
+    "explanation": "'The' for specific rivers; 'a' for general description, নির্দিষ্ট নদীর জন্য 'the'; সাধারণ বর্ণনার জন্য 'a'।",
+    "level": "medium",
+    "topic": "Articles",
+    "exam": "hsc"
+  },
+  {
+    "id": 633,
+    "type": "mcq",
+    "question": "What is the meaning of the word 'Gregarious'?",
+    "options": [
+      "Liking to be alone",
+      "Liking to be with others",
+      "Always angry",
+      "Always happy"
+    ],
+    "answer": "Liking to be with others",
+    "explanation": "Gregarious means fond of company, Gregarious অর্থ মিশুক বা দলবদ্ধ হয়ে থাকতে পছন্দ করে এমন।",
+    "level": "medium",
+    "topic": "Vocabulary",
+    "exam": "hsc"
+  },
+  {
+    "id": 634,
+    "type": "mcq",
+    "question": "Which phrasal verb means 'to postpone'?",
+    "options": [
+      "Put off",
+      "Put on",
+      "Put out",
+      "Put up"
+    ],
+    "answer": "Put off",
+    "explanation": "'Put off' means to delay something, 'Put off' অর্থ কিছু বিলম্বিত করা।",
+    "level": "medium",
+    "topic": "Phrasal Verbs",
+    "exam": "hsc"
+  },
+  {
+    "id": 635,
+    "type": "mcq",
+    "question": "Choose the correct transformation: 'He is too weak to walk.'",
+    "options": [
+      "He is so weak that he cannot walk.",
+      "He is very weak to walk.",
+      "He is weak enough to walk.",
+      "He is so weak that he can walk."
+    ],
+    "answer": "He is so weak that he cannot walk.",
+    "explanation": "Too...to structure can be transformed to so...that + negative, Too...to কাঠামো so...that + negative এ রূপান্তর করা যায়।",
+    "level": "medium",
+    "topic": "Transformation",
+    "exam": "hsc"
+  },
+  {
+    "id": 636,
+    "type": "mcq",
+    "question": "What is the antonym of 'Benevolent'?",
+    "options": [
+      "Kind",
+      "Malevolent",
+      "Generous",
+      "Charitable"
+    ],
+    "answer": "Malevolent",
+    "explanation": "Benevolent means kind; malevolent means wishing harm, Benevolent অর্থ দয়ালু; malevolent অর্থ অমঙ্গল কামনা করে এমন।",
+    "level": "medium",
+    "topic": "Antonyms",
+    "exam": "hsc"
+  },
+  {
+    "id": 637,
+    "type": "mcq",
+    "question": "Choose the correct preposition: 'He is jealous ______ his brother's success.'",
+    "options": [
+      "of",
+      "at",
+      "with",
+      "for"
+    ],
+    "answer": "of",
+    "explanation": "'Jealous of' is the correct prepositional phrase, 'Jealous of' সঠিক prepositional phrase।",
+    "level": "medium",
+    "topic": "Prepositions",
+    "exam": "hsc"
+  },
+  {
+    "id": 638,
+    "type": "mcq",
+    "question": "Which tense is correct? 'By next year, I will have completed my degree.'",
+    "options": [
+      "Future Perfect",
+      "Future Continuous",
+      "Future Simple",
+      "Present Perfect"
+    ],
+    "answer": "Future Perfect",
+    "explanation": "Will have + past participle indicates future perfect tense, Will have + past participle ভবিষ্যৎ পূর্ণকাল নির্দেশ করে।",
+    "level": "hard",
+    "topic": "Tense",
+    "exam": "hsc"
+  },
+  {
+    "id": 639,
+    "type": "mcq",
+    "question": "What is the meaning of the word 'Ephemeral'?",
+    "options": [
+      "Lasting forever",
+      "Lasting a short time",
+      "Very strong",
+      "Very weak"
+    ],
+    "answer": "Lasting a short time",
+    "explanation": "Ephemeral means lasting for a very short time, Ephemeral অর্থ অতি অল্প সময় স্থায়ী।",
+    "level": "hard",
+    "topic": "Vocabulary",
+    "exam": "hsc"
+  },
+  {
+    "id": 640,
+    "type": "mcq",
+    "question": "Identify the dangling modifier:",
+    "options": [
+      "Walking along the road, a snake bit him.",
+      "Walking along the road, he was bitten by a snake.",
+      "While walking along the road, a snake bit him.",
+      "He was bitten by a snake while walking."
+    ],
+    "answer": "Walking along the road, a snake bit him.",
+    "explanation": "The modifier suggests the snake was walking, Modifier টি বোঝাচ্ছে সাপটি হাঁটছিল।",
+    "level": "hard",
+    "topic": "Modifier",
+    "exam": "hsc"
+  },
+  {
+    "id": 641,
+    "type": "mcq",
+    "question": "Choose the correct conditional: 'If I ______ (know) earlier, I would have helped.'",
+    "options": [
+      "knew",
+      "had known",
+      "have known",
+      "know"
+    ],
+    "answer": "had known",
+    "explanation": "Third conditional for unreal past situations, অবাস্তব অতীত অবস্থার জন্য তৃতীয় কন্ডিশনাল।",
+    "level": "hard",
+    "topic": "Conditional Sentences",
+    "exam": "hsc"
+  },
+  {
+    "id": 642,
+    "type": "mcq",
+    "question": "What is the correct indirect speech of: 'He said, \"I must leave now.\"'",
+    "options": [
+      "He said that he must leave now.",
+      "He said that he had to leave then.",
+      "He said that he must leave then.",
+      "He said that he has to leave now."
+    ],
+    "answer": "He said that he had to leave then.",
+    "explanation": "'Must' often becomes 'had to'; 'now' becomes 'then' in reported speech, Reported speech এ 'must' প্রায়ই 'had to' তে পরিবর্তিত হয়; 'now' 'then' এ পরিবর্তিত হয়।",
+    "level": "hard",
+    "topic": "Narration",
+    "exam": "hsc"
+  },
+  {
+    "id": 643,
+    "type": "mcq",
+    "question": "Choose the correct connector: 'He is ______ intelligent ______ hardworking, ______ he fails sometimes.'",
+    "options": [
+      "both, and, yet",
+      "not only, but also, however",
+      "either, or, so",
+      "neither, nor, therefore"
+    ],
+    "answer": "both, and, yet",
+    "explanation": "'Both...and' connects qualities; 'yet' shows contrast, 'Both...and' গুণ সংযুক্ত করে; 'yet' বৈসাদৃশ্য দেখায়।",
+    "level": "hard",
+    "topic": "Connector",
+    "exam": "hsc"
+  },
+  {
+    "id": 644,
+    "type": "mcq",
+    "question": "What is the meaning of the word 'Ubiquitous'?",
+    "options": [
+      "Found everywhere",
+      "Found nowhere",
+      "Very rare",
+      "Very common"
+    ],
+    "answer": "Found everywhere",
+    "explanation": "Ubiquitous means present everywhere, Ubiquitous অর্থ সর্বত্র বিদ্যমান।",
+    "level": "hard",
+    "topic": "Vocabulary",
+    "exam": "hsc"
+  },
+  {
+    "id": 645,
+    "type": "mcq",
+    "question": "Which sentence has correct modifier placement?",
+    "options": [
+      "I found a gold woman's necklace.",
+      "I found a woman's gold necklace.",
+      "The necklace was gold and woman's.",
+      "Gold necklace woman's I found."
+    ],
+    "answer": "I found a woman's gold necklace.",
+    "explanation": "Modifier 'gold' correctly describes the necklace, Modifier 'gold' সঠিকভাবে necklace বর্ণনা করছে।",
+    "level": "hard",
+    "topic": "Modifier",
+    "exam": "hsc"
+  },
+  {
+    "id": 646,
+    "type": "mcq",
+    "question": "Choose the correct transformation: 'No sooner had he arrived than the meeting started.'",
+    "options": [
+      "As soon as he arrived, the meeting started.",
+      "As soon as he had arrived, the meeting started.",
+      "Both A and B are correct",
+      "Only A is correct"
+    ],
+    "answer": "Both A and B are correct",
+    "explanation": "'As soon as' can be used with both simple past and past perfect, 'As soon as' simple past ও past perfect উভয়ের সাথেই ব্যবহৃত হতে পারে।",
+    "level": "hard",
+    "topic": "Transformation",
+    "exam": "hsc"
+  },
+  {
+    "id": 647,
+    "type": "mcq",
+    "question": "What is the antonym of 'Ephemeral'?",
+    "options": [
+      "Temporary",
+      "Permanent",
+      "Brief",
+      "Short-lived"
+    ],
+    "answer": "Permanent",
+    "explanation": "Ephemeral means short-lived; permanent means lasting forever, Ephemeral অর্থ ক্ষণস্থায়ী; permanent অর্থ স্থায়ী।",
+    "level": "hard",
+    "topic": "Antonyms",
+    "exam": "hsc"
+  },
+  {
+    "id": 648,
+    "type": "mcq",
+    "question": "Which sentence has correct subject-verb agreement?",
+    "options": [
+      "The teacher, as well as the students, are present.",
+      "The teacher, as well as the students, is present.",
+      "The teacher and the students is present.",
+      "The teacher with the students are present."
+    ],
+    "answer": "The teacher, as well as the students, is present.",
+    "explanation": "With 'as well as', verb agrees with first subject (teacher = singular), 'As well as' এর ক্ষেত্রে verb প্রথম subject এর সাথে agree করে (teacher = singular)।",
+    "level": "hard",
+    "topic": "Subject-Verb Agreement",
+    "exam": "hsc"
+  },
+  {
+    "id": 649,
+    "type": "mcq",
+    "question": "What is the meaning of the word 'Cacophony'?",
+    "options": [
+      "Pleasant sound",
+      "Harsh sound",
+      "Loud sound",
+      "Soft sound"
+    ],
+    "answer": "Harsh sound",
+    "explanation": "Cacophony means harsh, discordant sound, Cacophony অর্থ কর্কশ ও অসংগত শব্দ।",
+    "level": "hard",
+    "topic": "Vocabulary",
+    "exam": "hsc"
+  },
+  {
+    "id": 650,
+    "type": "mcq",
+    "question": "Choose the correct passive: 'Who broke the window?'",
+    "options": [
+      "By whom was the window broken?",
+      "By whom the window was broken?",
+      "Who was the window broken by?",
+      "Whom was the window broken by?"
+    ],
+    "answer": "By whom was the window broken?",
+    "explanation": "Formal passive voice for 'who' questions, 'Who' প্রশ্নের জন্য formal passive voice।",
+    "level": "hard",
+    "topic": "Voice",
+    "exam": "hsc"
   }
 
 
@@ -8359,7 +9160,9 @@
 
 
 
+
 ]
+
 
 
 
