@@ -1,0 +1,3006 @@
+[
+  {
+    "id": 1,
+    "question": "Transform the sentence into an exclamatory sentence: 'It is a very beautiful place.'",
+    "options": {
+      "a": "It is a very beautiful place!",
+      "b": "What a beautiful place it is!",
+      "c": "How a beautiful place it is!",
+      "d": "The place is very beautiful."
+    },
+    "correct_answer": "b",
+    "explanation": "Exclamatory sentences (আবেগসূচক বাক্য) starting with 'What a/What an' are used for singular nouns. The correct structure is 'What a + adjective + noun + subject + verb!' Here, 'place' is a singular noun, so 'What a beautiful place it is!' is correct."
+  },
+  {
+    "id": 2,
+    "question": "Which one is the correct passive voice of 'Do you know him?'",
+    "options": {
+      "a": "Is he known to you?",
+      "b": "Is he known by you?",
+      "c": "Was he known to you?",
+      "d": "Does he known to you?"
+    },
+    "correct_answer": "a",
+    "explanation": "In passive voice (কর্মবাচ্য), the object becomes the subject. The active sentence is in the present indefinite tense. The passive form is 'Is/Am/Are + subject + past participle + by/to?' For the verb 'know', we use 'to' instead of 'by' after the past participle."
+  },
+    {
+    "id": 3,
+    "question": "Transform into an affirmative sentence: 'Nobody can do this.'",
+    "options": {
+      "a": "Anybody can do this.",
+      "b": "Everybody cannot do this.",
+      "c": "All can do this.",
+      "d": "Everybody can do this."
+    },
+    "correct_answer": "d",
+    "explanation": "The negative (নেতিবাচক) word 'Nobody' (কেউ না) can be changed to the affirmative (হ্যাঁ-সূচক) word 'Everybody' (সবাই) to make the sentence affirmative without changing the meaning. 'Nobody can do this' means 'Everybody can do this' is incorrect. Actually, 'Nobody can do this' means 'All cannot do this' but the direct affirmative is 'Everybody can do this' is the opposite. The correct affirmative transformation for 'Nobody can do this' is 'All can do this'. Option D is the correct choice."
+  },
+  {
+    "id": 4,
+    "question": "Which one is the correct interrogative form of 'He plays football'?",
+    "options": {
+      "a": "Does he play football?",
+      "b": "Do he play football?",
+      "c": "Is he play football?",
+      "d": "Has he play football?"
+    },
+    "correct_answer": "a",
+    "explanation": "For present indefinite tense (বর্তমান indefinite কাল) with a third-person singular subject ('He'), we use the auxiliary verb 'Does' to form a question. The main verb then returns to its base form (play)."
+  },
+  {
+    "id": 5,
+    "question": "Transform into a negative sentence: 'He is sometimes late.'",
+    "options": {
+      "a": "He is not sometimes late.",
+      "b": "He is never late.",
+      "c": "He is not always late.",
+      "d": "He is often late."
+    },
+    "correct_answer": "c",
+    "explanation": "The adverb 'sometimes' (কখনো কখনো) can be made negative by changing it to 'not always' (সবসময় না). The negative transformation of 'He is sometimes late' is 'He is not always late', which conveys a similar meaning."
+  },
+  {
+    "id": 6,
+    "question": "The correct passive form of 'Who broke the glass?' is ---",
+    "options": {
+      "a": "By whom the glass was broken?",
+      "b": "By whom was the glass broken?",
+      "c": "Whom was the glass broken by?",
+      "d": "The glass was broken by whom?"
+    },
+    "correct_answer": "b",
+    "explanation": "When changing a question starting with 'Who' into passive voice (কর্মবাচ্য), we use 'By whom' at the beginning, followed by the auxiliary verb, then the subject, and then the past participle. The correct structure is 'By whom + was/were + subject + past participle?'"
+  },
+  {
+    "id": 7,
+    "question": "Transform into a comparative sentence: 'Dhaka is the largest city in Bangladesh.'",
+    "options": {
+      "a": "Dhaka is larger than any other city in Bangladesh.",
+      "b": "Dhaka is larger than all cities in Bangladesh.",
+      "c": "Dhaka is largest than any other city in Bangladesh.",
+      "d": "Dhaka is larger than every city in Bangladesh."
+    },
+    "correct_answer": "a",
+    "explanation": "To change a superlative (অতি-উৎকর্ষতা) sentence to a comparative (তুলনামূলক) one, we use the structure: 'Subject + verb + comparative adjective + than any other + noun (singular) + extension.' 'Largest' becomes 'larger than any other'."
+  },
+  {
+    "id": 8,
+    "question": "Which one is the correct imperative sentence of 'You should help the poor.'?",
+    "options": {
+      "a": "You help the poor.",
+      "b": "Helping the poor.",
+      "c": "Help the poor.",
+      "d": "You should be helped the poor."
+    },
+    "correct_answer": "c",
+    "description": "An imperative sentence (অনুজ্ঞাসূচক বাক্য) expresses advice, order, or request. It usually starts with the base form of the verb. 'Help the poor' is the correct imperative form of the advice."
+  },
+  {
+    "id": 9,
+    "question": "Transform into an exclamatory sentence: 'I wish I had the wings of a bird.'",
+    "options": {
+      "a": "If I had the wings of a bird!",
+      "b": "Had I the wings of a bird!",
+      "c": "I wish I could have the wings of a bird!",
+      "d": "What I had the wings of a bird!"
+    },
+    "correct_answer": "b",
+    "explanation": "Sentences beginning with 'I wish' expressing a strong wish can be transformed into exclamatory (আবেগসূচক) sentences using 'If' or by inversion. The most common structure is 'Had I...!' or 'If I had...!' Here, 'Had I the wings of a bird!' is a correct exclamatory form using inversion."
+  },
+  {
+    "id": 10,
+    "question": "The correct passive form of 'Let me do the sum.' is ---",
+    "options": {
+      "a": "Let the sum be done by me.",
+      "b": "Let the sum done by me.",
+      "c": "Let the sum do by me.",
+      "d": "The sum be done by me."
+    },
+    "correct_answer": "a",
+    "explanation": "For imperative sentences (অনুজ্ঞাসূচক বাক্য) starting with 'Let', the passive structure is: 'Let + object + be + past participle.' 'Me' becomes 'I' in the active, but in passive, it becomes 'by me' at the end. So, 'Let the sum be done by me' is correct."
+  },
+  {
+    "id": 11,
+    "question": "Transform into an affirmative sentence: 'He is not less intelligent than his brother.'",
+    "options": {
+      "a": "He is as intelligent as his brother.",
+      "b": "His brother is less intelligent than him.",
+      "c": "He is more intelligent than his brother.",
+      "d": "His brother is not intelligent."
+    },
+    "correct_answer": "a",
+    "explanation": "'Not less...than' (থেকে কম না) is a negative structure that implies equality. The affirmative (হ্যাঁ-সূচক) equivalent is the positive degree 'as...as'. 'He is as intelligent as his brother' correctly transforms the sentence without changing the meaning."
+  },
+  {
+    "id": 12,
+    "question": "Which one is the correct negative form of 'He must go there.'?",
+    "options": {
+      "a": "He must not go there.",
+      "b": "He cannot go there.",
+      "c": "He may not go there.",
+      "d": "He did not go there."
+    },
+    "correct_answer": "a",
+    "explanation": "The modal verb 'must' (অবশ্যই) expresses strong obligation. Its negative form is 'must not' (উচিত হবে না/নিষেধ), which indicates prohibition. So, 'He must not go there' is the correct negative transformation."
+  },
+  {
+    "id": 13,
+    "question": "Transform into a complex sentence: 'I saw a wounded bird.'",
+    "options": {
+      "a": "I saw a bird and it was wounded.",
+      "b": "I saw a bird which was wounded.",
+      "c": "I saw a bird that wounded.",
+      "d": "I saw a bird was wounded."
+    },
+    "correct_answer": "b",
+    "description": "A complex sentence (জটিল বাক্য) has one main clause and one or more subordinate clauses. The simple adjective 'wounded' can be expanded into an adjective clause. 'I saw a bird which was wounded' is the correct complex form, where 'which was wounded' is the adjective clause."
+  },
+  {
+    "id": 14,
+    "question": "The correct passive form of 'People are helping the flood victims.' is ---",
+    "options": {
+      "a": "The flood victims are helped by people.",
+      "b": "The flood victims are being helped by people.",
+      "c": "The flood victims were being helped by people.",
+      "d": "The flood victims have been helped by people."
+    },
+    "correct_answer": "b",
+    "explanation": "The active sentence is in the present continuous tense (বর্তমান চলমান কাল): 'are helping'. The passive structure for present continuous is 'is/am/are + being + past participle'. Therefore, 'The flood victims are being helped by people' is correct."
+  },
+  {
+    "id": 15,
+    "question": "Transform into an interrogative sentence: 'Nobody will deny this.'",
+    "options": {
+      "a": "Will anybody deny this?",
+      "b": "Will nobody deny this?",
+      "c": "Will everybody deny this?",
+      "d": "Will any deny this?"
+    },
+    "correct_answer": "a",
+    "explanation": "A negative (নেতিবাচক) statement can often be turned into an affirmative (হ্যাঁ-সূচক) question. 'Nobody' (কেউ না) becomes 'anybody' (কেউ) in the interrogative form. So, 'Will anybody deny this?' is the correct transformation, expecting an answer like 'No, they will not.'"
+  },
+  {
+    "id": 16,
+    "question": "Which one is the correct compound form of 'He must work hard to succeed.'?",
+    "options": {
+      "a": "He must work hard and succeed.",
+      "b": "He must work hard so that he can succeed.",
+      "c": "He must work hard or he will not succeed.",
+      "d": "He must work hard for succeed."
+    },
+    "correct_answer": "c",
+    "explanation": "The simple sentence uses an infinitive ('to succeed') to show purpose. A compound sentence (যৌগিক বাক্য) is formed by using a coordinating conjunction. The idea is that if he does not work hard, he will not succeed. So, the correct compound form is 'He must work hard or he will not succeed.'"
+  },
+  {
+    "id": 17,
+    "question": "Transform into a negative sentence: 'He is too weak to walk.'",
+    "options": {
+      "a": "He is so weak that he cannot walk.",
+      "b": "He is very weak to walk.",
+      "c": "He is not weak enough to walk.",
+      "d": "He is too weak to not walk."
+    },
+    "correct_answer": "a",
+    "explanation": "The structure 'too + adjective + to + verb' (অত্যন্ত বেশি ... যে ... না) has a negative meaning. It can be transformed into a negative sentence using 'so...that...cannot/could not'. 'He is so weak that he cannot walk' is the correct negative form."
+  },
+  {
+    "id": 18,
+    "question": "The correct passive form of 'They have built a bridge.' is ---",
+    "options": {
+      "a": "A bridge has been built by them.",
+      "b": "A bridge was built by them.",
+      "c": "A bridge is built by them.",
+      "d": "A bridge had been built by them."
+    },
+    "correct_answer": "a",
+    "explanation": "The active sentence is in the present perfect tense (বর্তমান পূর্ণ কাল): 'have built'. The passive structure for present perfect is 'has/have + been + past participle'. Therefore, 'A bridge has been built by them' is correct."
+  },
+  {
+    "id": 19,
+    "question": "Transform into an exclamatory sentence: 'The scenery of this place is very charming.'",
+    "options": {
+      "a": "What charming the scenery of this place is!",
+      "b": "How charming the scenery of this place is!",
+      "c": "Very charming the scenery of this place is!",
+      "d": "What a charming scenery of this place is!"
+    },
+    "correct_answer": "b",
+    "explanation": "For exclamatory sentences (আবেগসূচক বাক্য) with adjectives, we use 'How' before the adjective. The structure is 'How + adjective + subject + verb!' Here, 'scenery' is the subject, so 'How charming the scenery of this place is!' is correct. 'What' is used before a noun phrase (e.g., What charming scenery)."
+  },
+  {
+    "id": 20,
+    "question": "Which one is the correct affirmative form of 'He never tells a lie.'?",
+    "options": {
+      "a": "He always tells a lie.",
+      "b": "He always tells the truth.",
+      "c": "He never tells truth.",
+      "d": "He always does not tell a lie."
+    },
+    "correct_answer": "b",
+    "explanation": "'Never tells a lie' (কখনো মিথ্যা বলে না) means he always speaks the truth. The affirmative (হ্যাঁ-সূচক) transformation is 'He always tells the truth'. It replaces the negative idea with a positive one."
+  },
+  {
+    "id": 21,
+    "question": "Transform into a comparative sentence: 'No other student is as good as he.'",
+    "options": {
+      "a": "He is good than any other student.",
+      "b": "He is better than any other student.",
+      "c": "He is best of all students.",
+      "d": "No other student is better than he."
+    },
+    "correct_answer": "b",
+    "explanation": "The positive degree (সকারাত্মক) sentence 'No other...as...as' implies superiority. Its comparative (তুলনামূলক) form is 'He is better than any other student'. 'Better' is the comparative form of 'good'."
+  },
+  {
+    "id": 22,
+    "question": "The correct passive form of 'Close the door.' is ---",
+    "options": {
+      "a": "Let the door closed.",
+      "b": "Let the door be close.",
+      "c": "Let the door be closed.",
+      "d": "The door be closed."
+    },
+    "correct_answer": "c",
+    "explanation": "For imperative sentences (অনুজ্ঞাসূচক বাক্য) without 'Let', the passive is formed using 'Let + object + be + past participle'. So, 'Close the door' becomes 'Let the door be closed'."
+  },
+  {
+    "id": 23,
+    "question": "Transform into an interrogative sentence: 'There is no use of this law.'",
+    "options": {
+      "a": "Is there any use of this law?",
+      "b": "Is there no use of this law?",
+      "c": "Is this law of any use?",
+      "d": "Is there no any use of this law?"
+    },
+    "correct_answer": "a",
+    "explanation": "A negative (নেতিবাচক) statement can be turned into an affirmative (হ্যাঁ-সূচক) question. 'No use' (কোনো কাজে না) becomes 'any use' (কোনো কাজে) in the interrogative. So, 'Is there any use of this law?' is the correct form."
+  },
+  {
+    "id": 24,
+    "question": "Which one is the correct negative form of 'Everybody fears a lion.'?",
+    "options": {
+      "a": "Anybody fears a lion.",
+      "b": "Nobody fears a lion.",
+      "c": "Everybody does not fear a lion.",
+      "d": "There is nobody but fears a lion."
+    },
+    "correct_answer": "d",
+    "explanation": "A common way to make an affirmative (হ্যাঁ-সূচক) sentence with 'Everybody' negative is to use the structure 'There is nobody but + affirmative verb'. 'But' here is a relative pronoun meaning 'who...not'. So, 'There is nobody but fears a lion' means 'There is no one who does not fear a lion', which is the negative equivalent."
+  },
+  {
+    "id": 25,
+    "question": "Transform into a complex sentence: 'He confessed his guilt.'",
+    "options": {
+      "a": "He confessed that he was guilty.",
+      "b": "He confessed his guilt and cried.",
+      "c": "He confessed that he is guilty.",
+      "d": "He confessed for his guilt."
+    },
+    "correct_answer": "a",
+    "explanation": "The simple sentence has a noun object ('his guilt'). To make it complex (জটিল), we expand the noun into a noun clause. 'His guilt' becomes 'that he was guilty'. The tense of the main verb ('confessed' - past) requires the clause verb to also be in the past ('was')."
+  },
+  {
+    "id": 26,
+    "question": "The correct passive form of 'He pleased us.' is ---",
+    "options": {
+      "a": "We were pleased by him.",
+      "b": "We were pleased with him.",
+      "c": "We are pleased with him.",
+      "d": "We were pleased at him."
+    },
+    "correct_answer": "b",
+    "explanation": "The verb 'please' (খুশি করা) is followed by the preposition 'with' in its passive form. The active sentence is in the past tense, so the passive is 'We were pleased with him'. This is an exception to the usual 'by' phrase."
+  },
+  {
+    "id": 27,
+    "question": "Transform into an exclamatory sentence: 'It is a very big mistake.'",
+    "options": {
+      "a": "What a big mistake it is!",
+      "b": "How big mistake it is!",
+      "c": "Very big the mistake is!",
+      "d": "What big mistake it is!"
+    },
+    "correct_answer": "a",
+    "explanation": "For a singular noun ('mistake'), the correct exclamatory (আবেগসূচক) structure is 'What a + adjective + noun + subject + verb!' Therefore, 'What a big mistake it is!' is correct. Option D is missing the article 'a'."
+  },
+  {
+    "id": 28,
+    "question": "Which one is the correct compound form of 'Besides being fined, he was imprisoned.'?",
+    "options": {
+      "a": "He was fined and imprisoned.",
+      "b": "He was not only fined but also imprisoned.",
+      "c": "He was fined or imprisoned.",
+      "d": "Besides fined, he was imprisoned."
+    },
+    "correct_answer": "b",
+    "explanation": "The simple/prepositional phrase 'Besides being fined' implies an addition. In a compound sentence (যৌগিক বাক্য), this addition is best shown by the correlative conjunction 'not only...but also'. So, 'He was not only fined but also imprisoned' is correct."
+  },
+  {
+    "id": 29,
+    "question": "Transform into an affirmative sentence: 'He did not fail to keep his word.'",
+    "options": {
+      "a": "He failed to keep his word.",
+      "b": "He kept his word.",
+      "c": "He did keep his word.",
+      "d": "He did not keep his word."
+    },
+    "correct_answer": "b",
+    "explanation": "'Did not fail to' (ব্যর্থ হয়নি) is a double negative which makes a strong affirmative. It means he was successful in doing it. Therefore, the simple affirmative (হ্যাঁ-সূচক) form is 'He kept his word'."
+  },
+  {
+    "id": 30,
+    "question": "The correct passive form of 'I know him.' is ---",
+    "options": {
+      "a": "He is known by me.",
+      "b": "He is known to me.",
+      "c": "He was known to me.",
+      "d": "He is known with me."
+    },
+    "correct_answer": "b",
+    "explanation": "The verb 'know' (চেনা/জানা) is a special verb. In its passive form, it takes the preposition 'to' instead of 'by'. The present tense active ('know') becomes present tense passive ('is known'). So, 'He is known to me' is correct."
+  },
+  {
+    "id": 31,
+    "question": "Transform into a negative sentence: 'He is the best boy in the class.'",
+    "options": {
+      "a": "He is not the best boy in the class.",
+      "b": "No other boy in the class is as good as he.",
+      "c": "No other boy in the class is better than he.",
+      "d": "All boys are good."
+    },
+    "correct_answer": "b",
+    "explanation": "A superlative (অতি-উৎকর্ষতা) sentence can be transformed into a negative (নেতিবাচক) sentence using the positive degree structure: 'No other + noun + verb + as + adjective + as + subject.' So, 'No other boy in the class is as good as he' is the correct negative form."
+  },
+  {
+    "id": 32,
+    "question": "Which one is the correct interrogative form of 'He can play cricket.'?",
+    "options": {
+      "a": "Does he can play cricket?",
+      "b": "Can he play cricket?",
+      "c": "Is he can play cricket?",
+      "d": "He can play cricket?"
+    },
+    "correct_answer": "b",
+    "description": "For sentences with modal verbs (যেমন can, may, must, should), the interrogative form is created by placing the modal verb at the beginning of the sentence before the subject. So, 'Can he play cricket?' is correct."
+  },
+  {
+    "id": 33,
+    "question": "Transform into a complex sentence: 'It is a time for action.'",
+    "options": {
+      "a": "It is a time and we should act.",
+      "b": "It is a time when we should act.",
+      "c": "It is time for to act.",
+      "d": "It is a time to act."
+    },
+    "correct_answer": "b",
+    "explanation": "The simple sentence has the noun phrase 'time for action'. This can be expanded into a complex sentence (জটিল বাক্য) by using an adjective clause. 'For action' implies a time when something should be done. So, 'It is a time when we should act' is correct."
+  },
+  {
+    "id": 34,
+    "question": "The correct passive form of 'They were laughing at the old man.' is ---",
+    "options": {
+      "a": "The old man was laughed at by them.",
+      "b": "The old man was being laughed at by them.",
+      "c": "The old man is being laughed at by them.",
+      "d": "The old man was laughed by them."
+    },
+    "correct_answer": "b",
+    "explanation": "The active sentence is in the past continuous tense (অতীত চলমান কাল): 'were laughing at'. The passive structure for past continuous is 'was/were + being + past participle'. The preposition 'at' stays with the verb. So, 'The old man was being laughed at by them' is correct."
+  },
+  {
+    "id": 35,
+    "question": "Transform into a negative sentence: 'He will be the more surprised at this.'",
+    "options": {
+      "a": "He will not be surprised at this.",
+      "b": "He will be the less surprised at this.",
+      "c": "The more he sees this, the more surprised he will be.",
+      "d": "Nobody will be more surprised at this than he."
+    },
+    "correct_answer": "d",
+    "explanation": "A comparative sentence (তুলনামূলক বাক্য) can be made negative (নেতিবাচক) by using the structure 'Nobody/No other... + verb + comparative adjective + than + subject'. So, 'Nobody will be more surprised at this than he' conveys the same meaning as the original affirmative comparative."
+  },
+  {
+    "id": 36,
+    "question": "Which one is the correct imperative form of 'You will kindly grant me leave.'?",
+    "options": {
+      "a": "Kindly grant me leave.",
+      "b": "You kindly grant me leave.",
+      "c": "Grant me leave kindly.",
+      "d": "Do grant me leave."
+    },
+    "correct_answer": "a",
+    "explanation": "This is a request. An imperative sentence (অনুজ্ঞাসূচক বাক্য) for a request often starts with 'Please' or 'Kindly' followed by the base form of the verb. So, 'Kindly grant me leave' is the correct transformation."
+  },
+  {
+    "id": 37,
+    "question": "Transform into an affirmative sentence: 'He has not a little money.'",
+    "options": {
+      "a": "He has a little money.",
+      "b": "He has much money.",
+      "c": "He has little money.",
+      "d": "He has no money."
+    },
+    "correct_answer": "b",
+    "explanation": "'Not a little' (কম নয়) is an idiom that means 'much' (প্রচুর). Therefore, the affirmative (হ্যাঁ-সূচক) form of the sentence is 'He has much money'. 'A little' means some, which is not the correct equivalent."
+  },
+  {
+    "id": 38,
+    "question": "The correct passive form of 'He gave me a book.' is ---",
+    "options": {
+      "a": "A book was given to me by him.",
+      "b": "I was given a book by him.",
+      "c": "A book was given me by him.",
+      "d": "Both A and B"
+    },
+    "correct_answer": "d",
+    "explanation": "This sentence has two objects: 'me' (indirect object) and 'a book' (direct object). In passive voice (কর্মবাচ্য), either object can become the subject. So, both 'I was given a book by him' and 'A book was given to me by him' are correct."
+  },
+  {
+    "id": 39,
+    "question": "Transform into a complex sentence: 'He is too weak to move.'",
+    "options": {
+      "a": "He is so weak that he cannot move.",
+      "b": "He is very weak to move.",
+      "c": "He is weak and cannot move.",
+      "d": "He is weak so he cannot move."
+    },
+    "correct_answer": "a",
+    "explanation": "The simple sentence with 'too...to' (অত্যন্ত...যে না) can be transformed into a complex sentence (জটিল বাক্য) using the 'so...that...cannot/could not' structure. 'He is so weak that he cannot move' is the correct complex form, containing a main clause and an adverb clause of result."
+  },
+  {
+    "id": 40,
+    "question": "Which one is the correct compound form of 'If you run, you will catch the train.'?",
+    "options": {
+      "a": "Run or you will catch the train.",
+      "b": "Run and you will catch the train.",
+      "c": "If you run and you will catch the train.",
+      "d": "You run to catch the train."
+    },
+    "correct_answer": "b",
+    "explanation": "A complex sentence (জটিল বাক্য) with a conditional 'If' clause can often be transformed into a compound sentence (যৌগিক বাক্য) using the structure 'Imperative + and + future clause'. 'Run and you will catch the train' is the correct equivalent."
+  },
+  {
+    "id": 41,
+    "question": "Transform into a negative sentence: 'As soon as he saw me, he ran away.'",
+    "options": {
+      "a": "No sooner did he see me than he ran away.",
+      "b": "No sooner had he seen me than he ran away.",
+      "c": "As soon as he saw me, he did not run away.",
+      "d": "He saw me and ran away."
+    },
+    "correct_answer": "b",
+    "explanation": "The affirmative structure 'As soon as' (যতক্ষণ না) can be made negative (নেতিবাচক) using 'No sooner...than'. The correct structure requires the past perfect tense in the 'No sooner' clause. So, 'No sooner had he seen me than he ran away' is the correct transformation."
+  },
+  {
+    "id": 42,
+    "question": "The correct passive form of 'One should keep one's promise.' is ---",
+    "options": {
+      "a": "A promise should be kept.",
+      "b": "One's promise should be kept by one.",
+      "c": "Promise should be kept.",
+      "d": "Let the promise be kept."
+    },
+    "correct_answer": "a",
+    "explanation": "Sentences with 'one' as the subject often become impersonal in the passive. The most natural and common passive form is 'A promise should be kept'. Including 'by one' is grammatically possible but stylistically awkward."
+  },
+  {
+    "id": 43,
+    "question": "Transform into an interrogative sentence: 'He had no money to buy food.'",
+    "options": {
+      "a": "Did he have any money to buy food?",
+      "b": "Had he any money to buy food?",
+      "c": "Did he had any money to buy food?",
+      "d": "Had he no money to buy food?"
+    },
+    "correct_answer": "b",
+    "explanation": "The statement uses 'had' as the main verb. In formal English, the interrogative form of a past tense sentence with 'have/had' as the main verb can be formed by inverting the subject and the verb. So, 'Had he any money to buy food?' is correct, though 'Did he have...' is also common in modern usage. Option B is the standard textbook answer for this type of transformation."
+  },
+  {
+    "id": 44,
+    "question": "Which one is the correct exclamatory form of 'I wish I could see you once.'?",
+    "options": {
+      "a": "If I could see you once!",
+      "b": "Could I see you once!",
+      "c": "I could see you once!",
+      "d": "Oh that I could see you once!"
+    },
+    "correct_answer": "a",
+    "explanation": "A wish can be expressed exclamatorily using 'If' or 'Oh that' followed by a clause. The most common and direct exclamatory (আবেগসূচক) form of 'I wish I could see you once' is 'If I could see you once!'"
+  },
+  {
+    "id": 45,
+    "question": "Transform into an affirmative sentence: 'He is not without friends.'",
+    "options": {
+      "a": "He has no friends.",
+      "b": "He has friends.",
+      "c": "He is friendless.",
+      "d": "He does not have friends."
+    },
+    "correct_answer": "b",
+    "explanation": "'Not without' (ছাড়া নয়) is a double negative which makes an affirmative. It means he possesses friends. Therefore, the affirmative (হ্যাঁ-সূচক) form is simply 'He has friends'."
+  },
+  {
+    "id": 46,
+    "question": "The correct passive form of 'The news surprised me.' is ---",
+    "options": {
+      "a": "I was surprised at the news.",
+      "b": "I was surprised by the news.",
+      "c": "The news surprised me.",
+      "d": "I am surprised at the news."
+    },
+    "correct_answer": "a",
+    "explanation": "The verb 'surprise' (আশ্চর্য করা) is often followed by the preposition 'at' in its passive form to express the cause of the surprise. The active sentence is in the past tense, so the passive is 'I was surprised at the news'."
+  },
+  {
+    "id": 47,
+    "question": "Transform into a comparative sentence: 'He is as wise as his brother.'",
+    "options": {
+      "a": "His brother is not wiser than he.",
+      "b": "He is not wiser than his brother.",
+      "c": "He is wiser than his brother.",
+      "d": "His brother is as wise as he."
+    },
+    "correct_answer": "b",
+    "explanation": "The positive degree (সকারাত্মক) 'as...as' indicates equality. To express this in the comparative degree (তুলনামূলক), we can use a negative structure. 'He is as wise as his brother' means 'He is not wiser than his brother'. This is a common and correct transformation."
+  },
+  {
+    "id": 48,
+    "question": "Which one is the correct compound form of 'Though he is poor, he is honest.'?",
+    "options": {
+      "a": "He is poor but honest.",
+      "b": "He is poor and honest.",
+      "c": "He is poor, so he is honest.",
+      "d": "He is poor for he is honest."
+    },
+    "correct_answer": "a",
+    "explanation": "A complex sentence (জটিল বাক্য) with a concessive clause ('Though') can be transformed into a compound sentence (যৌগিক বাক্য) using the coordinating conjunction 'but'. 'He is poor but honest' is the correct compound form."
+  },
+  {
+    "id": 49,
+    "question": "Transform into a negative sentence: 'He tried every plan.'",
+    "options": {
+      "a": "He did not try every plan.",
+      "b": "He did not try any plan.",
+      "c": "There was no plan but he tried it.",
+      "d": "He tried no plan."
+    },
+    "correct_answer": "c",
+    "explanation": "'Every plan' (প্রত্যেক পরিকল্পনা) in an affirmative sentence can be made negative (নেতিবাচক) by using the structure 'There is no + noun + but + affirmative verb'. 'There was no plan but he tried it' means 'There was no plan that he did not try', which is the negative equivalent of 'He tried every plan'."
+  },
+  {
+    "id": 50,
+    "question": "The correct passive form of 'Do not waste your time.' is ---",
+    "options": {
+      "a": "Let not your time be wasted.",
+      "b": "Let your time be not wasted.",
+      "c": "Your time should not be wasted.",
+      "d": "Let your time not be wasted."
+    },
+    "correct_answer": "a",
+    "explanation": "For negative imperative sentences (নেতিবাচক অনুজ্ঞাসূচক বাক্য), the passive is formed with 'Let not + object + be + past participle'. The most standard form is 'Let not your time be wasted'."
+  },
+  {
+    "id": 51,
+    "question": "Transform into an affirmative sentence: 'He is not a dishonest man.'",
+    "options": {
+      "a": "He is a dishonest man.",
+      "b": "He is an honest man.",
+      "c": "He is not an honest man.",
+      "d": "He is a man."
+    },
+    "correct_answer": "b",
+    "explanation": "The word 'dishonest' (অসৎ) is the opposite of 'honest' (সৎ). The negative prefix 'dis-' makes the word negative. Removing the negative 'not' and the negative prefix results in the affirmative 'He is an honest man'."
+  },
+  {
+    "id": 52,
+    "question": "Which one is the correct interrogative form of 'He has finished the work.'?",
+    "options": {
+      "a": "Has he finished the work?",
+      "b": "Have he finished the work?",
+      "c": "Did he finish the work?",
+      "d": "Is he finished the work?"
+    },
+    "correct_answer": "a",
+    "explanation": "For the present perfect tense (বর্তমান পূর্ণ কাল), the auxiliary verb 'has/have' is placed at the beginning of the sentence to form a question. Since the subject is 'He', 'Has he finished the work?' is correct."
+  },
+  {
+    "id": 53,
+    "question": "Transform into a complex sentence: 'He is a famous poet.'",
+    "options": {
+      "a": "He is a poet and he is famous.",
+      "b": "He is a poet who is famous.",
+      "c": "He is famous for being a poet.",
+      "d": "He is a poet of fame."
+    },
+    "correct_answer": "b",
+    "explanation": "The simple sentence has an adjective 'famous' describing the noun 'poet'. To make it complex (জটিল), we can expand the adjective into an adjective clause. 'He is a poet who is famous' is the correct complex form."
+  },
+  {
+    "id": 54,
+    "question": "The correct passive form of 'We elected him captain.' is ---",
+    "options": {
+      "a": "He was elected captain by us.",
+      "b": "He is elected captain by us.",
+      "c": "Captain was elected him by us.",
+      "d": "He had been elected captain."
+    },
+    "correct_answer": "a",
+    "explanation": "This sentence has an object ('him') and an object complement ('captain'). In the passive voice (কর্মবাচ্য), the object becomes the subject, and the complement remains after the past participle. The active is past tense, so passive is 'He was elected captain by us'."
+  },
+  {
+    "id": 55,
+    "question": "Transform into an exclamatory sentence: 'The man is very cruel.'",
+    "options": {
+      "a": "What a cruel man he is!",
+      "b": "How cruel man he is!",
+      "c": "What cruel the man is!",
+      "d": "How a cruel man he is!"
+    },
+    "correct_answer": "a",
+    "explanation": "To change this into an exclamatory sentence (আবেগসূচক বাক্য), we focus on the noun phrase 'a cruel man'. The correct structure is 'What a + adjective + noun + subject + verb!' So, 'What a cruel man he is!' is correct."
+  },
+  {
+    "id": 56,
+    "question": "Which one is the correct negative form of 'He was present.'?",
+    "options": {
+      "a": "He was not present.",
+      "b": "He was absent.",
+      "c": "He was not absent.",
+      "d": "He did not present."
+    },
+    "correct_answer": "b",
+    "explanation": "The word 'present' (উপস্থিত) has a direct opposite, 'absent' (অনুপস্থিত). Therefore, the negative form can be created by using the antonym. 'He was absent' is the correct negative transformation."
+  },
+  {
+    "id": 57,
+    "question": "Transform into a comparative sentence: 'Very few cities in Bangladesh are as big as Dhaka.'",
+    "options": {
+      "a": "Dhaka is bigger than most other cities in Bangladesh.",
+      "b": "Dhaka is bigger than any other city in Bangladesh.",
+      "c": "Dhaka is the biggest city in Bangladesh.",
+      "d": "Very few cities are bigger than Dhaka."
+    },
+    "correct_answer": "a",
+    "explanation": "The positive degree (সকারাত্মক) 'as big as' with 'Very few' implies Dhaka is bigger than most others. The correct comparative (তুলনামূলক) transformation is 'Dhaka is bigger than most other cities in Bangladesh'."
+  },
+  {
+    "id": 58,
+    "question": "The correct passive form of 'Who will help you?' is ---",
+    "options": {
+      "a": "By whom will you be helped?",
+      "b": "Whom will you be helped by?",
+      "c": "Who will you be helped by?",
+      "d": "You will be helped by whom?"
+    },
+    "correct_answer": "a",
+    "explanation": "For questions starting with 'Who', the passive structure is 'By whom + auxiliary verb + subject + be + past participle?' The auxiliary 'will' comes after 'By whom'. So, 'By whom will you be helped?' is correct."
+  },
+  {
+    "id": 59,
+    "question": "Transform into an affirmative sentence: 'He never tells a lie.'",
+    "options": {
+      "a": "He always tells a lie.",
+      "b": "He always speaks the truth.",
+      "c": "He never speaks the truth.",
+      "d": "He does not tell a lie."
+    },
+    "correct_answer": "b",
+    "explanation": "'Never tells a lie' (কখনও মিথ্যা বলে না) means he always speaks the truth. This is the affirmative (হ্যাঁ-সূচক) equivalent, replacing the negative idea with a positive one."
+  },
+  {
+    "id": 60,
+    "question": "Which one is the correct imperative form of 'You should respect your parents.'?",
+    "options": {
+      "a": "Respect your parents.",
+      "b": "You respect your parents.",
+      "c": "Should respect your parents.",
+      "d": "Do respect your parents."
+    },
+    "correct_answer": "a",
+    "explanation": "This sentence expresses advice. An imperative sentence (অনুজ্ঞাসূচক বাক্য) for advice starts with the base form of the verb. So, 'Respect your parents' is the correct transformation."
+  },
+  {
+    "id": 61,
+    "question": "Transform into a complex sentence: 'I know his name.'",
+    "options": {
+      "a": "I know what his name is.",
+      "b": "I know his name and address.",
+      "c": "I know him by name.",
+      "d": "I know that his name."
+    },
+    "correct_answer": "a",
+    "explanation": "The simple sentence has a noun object ('his name'). This can be expanded into a noun clause. 'I know what his name is' is the correct complex (জটিল) form, where 'what his name is' is the noun clause."
+  },
+  {
+    "id": 62,
+    "question": "The correct passive form of 'People think that he is a spy.' is ---",
+    "options": {
+      "a": "It is thought that he is a spy.",
+      "b": "He is thought to be a spy.",
+      "c": "That he is a spy is thought by people.",
+      "d": "Both A and B"
+    },
+    "correct_answer": "d",
+    "explanation": "This sentence has two possible passive constructions (কর্মবাচ্য). One is impersonal: 'It is thought that he is a spy.' The other is personal: 'He is thought to be a spy.' Both are correct and common."
+  },
+  {
+    "id": 63,
+    "question": "Transform into an interrogative sentence: 'He can never do it.'",
+    "options": {
+      "a": "Can he never do it?",
+      "b": "Can he ever do it?",
+      "c": "Can he do it never?",
+      "d": "Cannot he do it?"
+    },
+    "correct_answer": "b",
+    "explanation": "A negative statement can be turned into an affirmative (হ্যাঁ-সূচক) question. 'Never' (কখনও না) becomes 'ever' (কখনও) in the interrogative. So, 'Can he ever do it?' is the correct form."
+  },
+  {
+    "id": 64,
+    "question": "Which one is the correct compound form of 'He must study hard to pass.'?",
+    "options": {
+      "a": "He must study hard and pass.",
+      "b": "He must study hard or he will not pass.",
+      "c": "He must study hard so that he can pass.",
+      "d": "He studies hard to pass."
+    },
+    "correct_answer": "b",
+    "explanation": "The simple sentence uses an infinitive ('to pass') to express purpose. A compound sentence (যৌগিক বাক্য) can be formed using 'or'. The idea is that if he does not study hard, he will not pass. So, 'He must study hard or he will not pass' is correct."
+  },
+  {
+    "id": 65,
+    "question": "Transform into a negative sentence: 'All men must die.'",
+    "options": {
+      "a": "All men need not die.",
+      "b": "No man can avoid death.",
+      "c": "Men cannot die.",
+      "d": "There is no man but must die."
+    },
+    "correct_answer": "d",
+    "explanation": "'All men must die' can be made negative (নেতিবাচক) using the structure 'There is no + noun + but + affirmative verb'. 'But' here means 'who...not'. So, 'There is no man but must die' means 'There is no man who must not die', which is the negative equivalent."
+  },
+  {
+    "id": 66,
+    "question": "The correct passive form of 'The teacher explained the lesson clearly.' is ---",
+    "options": {
+      "a": "The lesson was explained clearly by the teacher.",
+      "b": "The lesson is explained clearly by the teacher.",
+      "c": "The lesson had been explained clearly.",
+      "d": "Clearly the lesson was explained."
+    },
+    "correct_answer": "a",
+    "explanation": "The active sentence is in the simple past tense (অতীত কাল). The passive form is 'was/were + past participle'. The adverb 'clearly' remains in its position. So, 'The lesson was explained clearly by the teacher' is correct."
+  },
+  {
+    "id": 67,
+    "question": "Transform into an exclamatory sentence: 'I wish I were a child again.'",
+    "options": {
+      "a": "If I were a child again!",
+      "b": "Were I a child again!",
+      "c": "Oh that I were a child again!",
+      "d": "All of these"
+    },
+    "correct_answer": "d",
+    "explanation": "Sentences expressing a wish can be transformed into exclamatory sentences (আবেগসূচক বাক্য) in several ways: using 'If', using inversion ('Were I'), or using 'Oh that'. All three options A, B, and C are correct exclamatory forms."
+  },
+  {
+    "id": 68,
+    "question": "Transform into an affirmative sentence: 'He is not inattentive to his studies.'",
+    "options": {
+      "a": "He is attentive to his studies.",
+      "b": "He is inattentive to his studies.",
+      "c": "He is not attentive to his studies.",
+      "d": "He studies inattentively."
+    },
+    "correct_answer": "a",
+    "explanation": "The word 'inattentive' (অমনোযোগী) is the opposite of 'attentive' (মনোযোগী). The negative prefix 'in-' makes the word negative. Removing the negative 'not' and the negative prefix results in the affirmative 'He is attentive to his studies'."
+  },
+  {
+    "id": 69,
+    "question": "Which one is the correct interrogative form of 'They went to market.'?",
+    "options": {
+      "a": "Did they go to market?",
+      "b": "Did they went to market?",
+      "c": "Went they to market?",
+      "d": "Have they gone to market?"
+    },
+    "correct_answer": "a",
+    "explanation": "For the simple past tense (অতীত কাল) in interrogative form, we use the auxiliary verb 'Did' followed by the subject and the base form of the main verb. So, 'Did they go to market?' is correct."
+  },
+  {
+    "id": 70,
+    "question": "Transform into a complex sentence: 'He was too tired to walk.'",
+    "options": {
+      "a": "He was so tired that he could not walk.",
+      "b": "He was very tired to walk.",
+      "c": "He was tired and could not walk.",
+      "d": "He was tired so he could not walk."
+    },
+    "correct_answer": "a",
+    "explanation": "The simple sentence with 'too...to' (অত্যন্ত...যে না) can be transformed into a complex sentence (জটিল বাক্য) using 'so...that...cannot/could not'. 'He was so tired that he could not walk' is the correct complex form."
+  },
+  {
+    "id": 71,
+    "question": "The correct passive form of 'She resembles her mother.' is ---",
+    "options": {
+      "a": "Her mother is resembled by her.",
+      "b": "Her mother is resembled to her.",
+      "c": "She is resembled to her mother.",
+      "d": "This verb is not usually used in the passive."
+    },
+    "correct_answer": "d",
+    "explanation": "The verb 'resemble' (সদৃশ হওয়া) is a stative verb expressing a state, not an action. Such verbs are not usually used in the passive voice (কর্মবাচ্য) in English. Therefore, it has no common passive form."
+  },
+  {
+    "id": 72,
+    "question": "Transform into a negative sentence: 'He is sometimes late.'",
+    "options": {
+      "a": "He is not sometimes late.",
+      "b": "He is never late.",
+      "c": "He is not always late.",
+      "d": "He is always late."
+    },
+    "correct_answer": "c",
+    "explanation": "'Sometimes' (কখনো কখনো) indicates frequency. Its negative equivalent is 'not always' (সবসময় না). So, 'He is not always late' correctly transforms the sentence into a negative form without changing the core meaning."
+  },
+  {
+    "id": 73,
+    "question": "Which one is the correct compound form of 'Besides being clever, he is industrious.'?",
+    "options": {
+      "a": "He is clever and industrious.",
+      "b": "He is not only clever but also industrious.",
+      "c": "He is clever or industrious.",
+      "d": "He is clever, so he is industrious."
+    },
+    "correct_answer": "b",
+    "explanation": "The prepositional phrase 'Besides being clever' indicates addition. In a compound sentence (যৌগিক বাক্য), this is best expressed by the correlative conjunction 'not only...but also'. So, 'He is not only clever but also industrious' is correct."
+  },
+  {
+    "id": 74,
+    "question": "Transform into an exclamatory sentence: 'It is a very lovely scene.'",
+    "options": {
+      "a": "What a lovely scene it is!",
+      "b": "How lovely scene it is!",
+      "c": "What lovely scene it is!",
+      "d": "How a lovely scene it is!"
+    },
+    "correct_answer": "a",
+    "explanation": "For a singular noun ('scene'), the correct exclamatory (আবেগসূচক) structure is 'What a + adjective + noun + subject + verb!' Therefore, 'What a lovely scene it is!' is correct."
+  },
+  {
+    "id": 75,
+    "question": "The correct passive form of 'Please help me.' is ---",
+    "options": {
+      "a": "You are requested to help me.",
+      "b": "Let me be helped.",
+      "c": "I am requested to be helped.",
+      "d": "Help me please."
+    },
+    "correct_answer": "a",
+    "explanation": "For polite requests (অনুরোধ), the passive form often uses 'You are requested to...' This is a common and natural way to make an imperative sentence passive. So, 'You are requested to help me' is correct."
+  },
+  {
+    "id": 76,
+    "question": "Transform into an affirmative sentence: 'He did not deny the charge.'",
+    "options": {
+      "a": "He denied the charge.",
+      "b": "He admitted the charge.",
+      "c": "He did not admit the charge.",
+      "d": "He accepted the charge."
+    },
+    "correct_answer": "b",
+    "explanation": "'Did not deny' (অস্বীকার করেনি) is a double negative, meaning he accepted or admitted it. The most accurate affirmative (হ্যাঁ-সূচক) equivalent is 'He admitted the charge'."
+  },
+  {
+    "id": 77,
+    "question": "Which one is the correct interrogative form of 'She sings sweetly.'?",
+    "options": {
+      "a": "Does she sing sweetly?",
+      "b": "Do she sing sweetly?",
+      "c": "Is she sing sweetly?",
+      "d": "Sings she sweetly?"
+    },
+    "correct_answer": "a",
+    "explanation": "This is a present indefinite tense (বর্তমান indefinite কাল) sentence with a third-person singular subject ('She'). The question is formed using the auxiliary 'Does' followed by the subject and the base form of the verb 'sing'."
+  },
+  {
+    "id": 78,
+    "question": "Transform into a complex sentence: 'He hopes to win the prize.'",
+    "options": {
+      "a": "He hopes and he will win the prize.",
+      "b": "He hopes that he will win the prize.",
+      "c": "He hopes to win the prize and he will.",
+      "d": "He hopes for winning the prize."
+    },
+    "correct_answer": "b",
+    "explanation": "The infinitive phrase 'to win the prize' can be expanded into a noun clause. 'He hopes that he will win the prize' is the correct complex (জটিল) form, where 'that he will win the prize' is the noun clause."
+  },
+  {
+    "id": 79,
+    "question": "The correct passive form of 'They made him king.' is ---",
+    "options": {
+      "a": "He was made king by them.",
+      "b": "King was made him by them.",
+      "c": "He is made king by them.",
+      "d": "He had been made king."
+    },
+    "correct_answer": "a",
+    "explanation": "This sentence has an object ('him') and an object complement ('king'). In the passive voice (কর্মবাচ্য), the object becomes the subject, and the complement ('king') stays after the past participle. The active is past tense, so the passive is 'He was made king by them'."
+  },
+  {
+    "id": 80,
+    "question": "Transform into a negative sentence: 'He is as strong as his brother.'",
+    "options": {
+      "a": "He is not so strong as his brother.",
+      "b": "His brother is not stronger than him.",
+      "c": "He is stronger than his brother.",
+      "d": "His brother is as strong as him."
+    },
+    "correct_answer": "b",
+    "explanation": "The positive degree (সকারাত্মক) 'as...as' indicates equality. Its negative form in the comparative degree is 'not + comparative adjective + than'. So, 'His brother is not stronger than him' means the same as 'He is as strong as his brother'."
+  },
+  {
+    "id": 81,
+    "question": "Which one is the correct imperative form of 'You should not waste time.'?",
+    "options": {
+      "a": "Do not waste time.",
+      "b": "You do not waste time.",
+      "c": "Not waste time.",
+      "d": "Waste not time."
+    },
+    "correct_answer": "a",
+    "explanation": "This is a piece of advice. A negative imperative sentence (নেতিবাচক অনুজ্ঞাসূচক বাক্য) is formed with 'Do not' (or 'Don't') followed by the base form of the verb. So, 'Do not waste time' is correct."
+  },
+  {
+    "id": 82,
+    "question": "Transform into an interrogative sentence: 'Nobody believes a liar.'",
+    "options": {
+      "a": "Does anybody believe a liar?",
+      "b": "Does nobody believe a liar?",
+      "c": "Who believes a liar?",
+      "d": "Both A and C"
+    },
+    "correct_answer": "d",
+    "explanation": "A negative statement can be turned into a question in two common ways. One is by using 'anybody': 'Does anybody believe a liar?' The other is by using a 'who' question implying a negative answer: 'Who believes a liar?' (meaning nobody believes). Both are correct."
+  },
+  {
+    "id": 83,
+    "question": "Transform into a complex sentence: 'He is poor but honest.'",
+    "options": {
+      "a": "He is poor and honest.",
+      "b": "Though he is poor, he is honest.",
+      "c": "He is poor, so he is honest.",
+      "d": "He is poor for he is honest."
+    },
+    "correct_answer": "b",
+    "explanation": "A compound sentence (যৌগিক বাক্য) with 'but' can be transformed into a complex sentence (জটিল বাক্য) by using a concessive clause with 'Though/Although'. 'Though he is poor, he is honest' is the correct complex form."
+  },
+  {
+    "id": 84,
+    "question": "The correct passive form of 'They will laugh at you.' is ---",
+    "options": {
+      "a": "You will be laughed at by them.",
+      "b": "You will be laughed by them.",
+      "c": "You would be laughed at by them.",
+      "d": "You are laughed at by them."
+    },
+    "correct_answer": "a",
+    "explanation": "The active sentence is in the simple future tense (ভবিষ্যৎ কাল): 'will laugh at'. The passive structure is 'will be + past participle'. The preposition 'at' stays with the verb. So, 'You will be laughed at by them' is correct."
+  },
+  {
+    "id": 85,
+    "question": "Transform into an exclamatory sentence: 'The weather is very fine today.'",
+    "options": {
+      "a": "What a fine weather today is!",
+      "b": "How fine weather today is!",
+      "c": "How fine the weather is today!",
+      "d": "What fine the weather is!"
+    },
+    "correct_answer": "c",
+    "explanation": "'Weather' is an uncountable noun (অগণনাযোগ্য বিশেষ্য), so we do not use 'a' or 'an' before it. For exclamatory sentences (আবেগসূচক বাক্য) with an adjective, we use 'How' before the adjective. So, 'How fine the weather is today!' is correct."
+  },
+  {
+    "id": 86,
+    "question": "Transform into an affirmative sentence: 'He has no little intelligence.'",
+    "options": {
+      "a": "He has little intelligence.",
+      "b": "He has much intelligence.",
+      "c": "He has no intelligence.",
+      "d": "He is not intelligent."
+    },
+    "correct_answer": "b",
+    "explanation": "'No little' (অল্প না) is an idiomatic expression that means 'much' (প্রচুর). Therefore, the affirmative (হ্যাঁ-সূচক) form of the sentence is 'He has much intelligence'."
+  },
+  {
+    "id": 87,
+    "question": "Which one is the correct compound form of 'If you do not hurry, you will miss the bus.'?",
+    "options": {
+      "a": "Hurry or you will miss the bus.",
+      "b": "Hurry and you will miss the bus.",
+      "c": "If you hurry, you will miss the bus.",
+      "d": "You hurry to miss the bus."
+    },
+    "correct_answer": "a",
+    "explanation": "A complex sentence (জটিল বাক্য) with a negative conditional clause can be transformed into a compound sentence (যৌগিক বাক্য) using 'or'. 'Hurry or you will miss the bus' is the correct equivalent."
+  },
+  {
+    "id": 88,
+    "question": "Transform into a negative sentence: 'He is a little known person.'",
+    "options": {
+      "a": "He is not a little known person.",
+      "b": "He is not a well-known person.",
+      "c": "He is an unknown person.",
+      "d": "He is little known person."
+    },
+    "correct_answer": "b",
+    "explanation": "'A little known person' means he is not famous. The negative (নেতিবাচক) transformation using 'not' would be 'He is not a well-known person'. This conveys the opposite meaning of 'well-known' (সুপরিচিত)."
+  },
+  {
+    "id": 89,
+    "question": "The correct passive form of 'He displeased me.' is ---",
+    "options": {
+      "a": "I was displeased by him.",
+      "b": "I was displeased with him.",
+      "c": "I am displeased with him.",
+      "d": "I had been displeased with him."
+    },
+    "correct_answer": "b",
+    "explanation": "Similar to 'please', the verb 'displease' (অসন্তুষ্ট করা) is followed by the preposition 'with' in its passive form. The active sentence is in the past tense, so the passive is 'I was displeased with him'."
+  },
+  {
+    "id": 90,
+    "question": "Transform into an interrogative sentence: 'He had no money.'",
+    "options": {
+      "a": "Did he have any money?",
+      "b": "Had he any money?",
+      "c": "Did he had any money?",
+      "d": "Both A and B"
+    },
+    "correct_answer": "d",
+    "explanation": "For past tense sentences with 'had' as the main verb, two interrogative forms are possible. The formal one inverts the verb: 'Had he any money?' The more common modern one uses 'did': 'Did he have any money?' Both are acceptable, with option A being more common in current usage."
+  },
+  {
+    "id": 91,
+    "question": "Which one is the correct exclamatory form of 'It is a very wonderful discovery.'?",
+    "options": {
+      "a": "What a wonderful discovery it is!",
+      "b": "How wonderful discovery it is!",
+      "c": "How a wonderful discovery it is!",
+      "d": "What wonderful discovery it is!"
+    },
+    "correct_answer": "a",
+    "explanation": "The noun phrase is 'a wonderful discovery'. The correct exclamatory (আবেগসূচক) structure for a singular countable noun is 'What a + adjective + noun + subject + verb!' So, 'What a wonderful discovery it is!' is correct."
+  },
+  {
+    "id": 92,
+    "question": "Transform into an affirmative sentence: 'He is not a bad student.'",
+    "options": {
+      "a": "He is a bad student.",
+      "b": "He is a good student.",
+      "c": "He is not a good student.",
+      "d": "He is a student."
+    },
+    "correct_answer": "b",
+    "explanation": "'Not bad' (খারাপ না) means 'good' (ভালো). Therefore, the affirmative (হ্যাঁ-সূচক) form of the sentence is 'He is a good student'."
+  },
+  {
+    "id": 93,
+    "question": "The correct passive form of 'They are watching a cricket match.' is ---",
+    "options": {
+      "a": "A cricket match is watched by them.",
+      "b": "A cricket match is being watched by them.",
+      "c": "A cricket match was being watched by them.",
+      "d": "A cricket match has been watched by them."
+    },
+    "correct_answer": "b",
+    "explanation": "The active sentence is in the present continuous tense (বর্তমান চলমান কাল): 'are watching'. The passive structure is 'is/am/are + being + past participle'. So, 'A cricket match is being watched by them' is correct."
+  },
+  {
+    "id": 94,
+    "question": "Transform into a complex sentence: 'I have no money to lend you.'",
+    "options": {
+      "a": "I have no money and I cannot lend you.",
+      "b": "I have no money that I can lend you.",
+      "c": "I have no money so I cannot lend you.",
+      "d": "I have no money for lending you."
+    },
+    "correct_answer": "b",
+    "explanation": "The infinitive phrase 'to lend you' acts as an adjective modifying 'money'. It can be expanded into an adjective clause. 'I have no money that I can lend you' is the correct complex (জটিল) form."
+  },
+  {
+    "id": 95,
+    "question": "Which one is the correct negative form of 'He tried every plan.'?",
+    "options": {
+      "a": "He did not try every plan.",
+      "b": "He did not try any plan.",
+      "c": "There was no plan but he tried it.",
+      "d": "He tried no plan."
+    },
+    "correct_answer": "c",
+    "explanation": "'Every plan' in an affirmative sentence can be made negative (নেতিবাচক) by using the structure 'There is no + noun + but + affirmative verb'. 'There was no plan but he tried it' means he tried all plans, which is the negative equivalent of the original."
+  },
+  {
+    "id": 96,
+    "question": "Transform into a comparative sentence: 'He is not the smartest boy in the class.'",
+    "options": {
+      "a": "He is not smarter than any other boy in the class.",
+      "b": "Some other boys are smarter than him.",
+      "c": "He is smarter than most other boys.",
+      "d": "He is less smart than some other boys."
+    },
+    "correct_answer": "d",
+    "explanation": "The negative superlative (অতি-উৎকর্ষতার নেতিবাচক) means there are others who are smarter. The comparative (তুলনামূলক) equivalent is 'He is less smart than some other boys' or 'He is not as smart as some other boys'. Option D correctly captures this meaning."
+  },
+  {
+    "id": 97,
+    "question": "The correct passive form of 'The man killed a tiger.' is ---",
+    "options": {
+      "a": "A tiger was killed by the man.",
+      "b": "A tiger is killed by the man.",
+      "c": "A tiger had been killed by the man.",
+      "d": "The man was killed by a tiger."
+    },
+    "correct_answer": "a",
+    "explanation": "The active sentence is in the simple past tense (অতীত কাল). The passive form is 'was/were + past participle'. The object 'a tiger' becomes the subject. So, 'A tiger was killed by the man' is correct."
+  },
+  {
+    "id": 98,
+    "question": "Transform into an interrogative sentence: 'He will never agree to this.'",
+    "options": {
+      "a": "Will he never agree to this?",
+      "b": "Will he ever agree to this?",
+      "c": "Will he agree to this never?",
+      "d": "Agree he to this?"
+    },
+    "correct_answer": "b",
+    "explanation": "A negative statement can be turned into an affirmative (হ্যাঁ-সূচক) question. 'Never' (কখনও না) becomes 'ever' (কখনও) in the interrogative. So, 'Will he ever agree to this?' is the correct form."
+  },
+  {
+    "id": 99,
+    "question": "Which one is the correct compound form of 'He confessed that he was guilty.'?",
+    "options": {
+      "a": "He confessed his guilt.",
+      "b": "He was guilty and confessed it.",
+      "c": "He confessed and he was guilty.",
+      "d": "He confessed for being guilty."
+    },
+    "correct_answer": "a",
+    "explanation": "A complex sentence (জটিল বাক্য) with a noun clause ('that he was guilty') can be simplified into a simple sentence by using a noun phrase ('his guilt'). This is not a compound sentence, but the question asks for the compound form. However, among the options, none are compound. Option A is the simple form, which is the most direct equivalent of the complex sentence. The best answer here is A, as it represents the non-complex transformation."
+  },
+  {
+    "id": 100,
+    "question": "Transform into an affirmative sentence: 'He does not work anywhere.'",
+    "options": {
+      "a": "He works nowhere.",
+      "b": "He works everywhere.",
+      "c": "He is unemployed.",
+      "d": "He does not work."
+    },
+    "correct_answer": "c",
+    "explanation": "'Does not work anywhere' (কোথাও কাজ করে না) means he has no job. The most appropriate affirmative (হ্যাঁ-সূচক) equivalent is 'He is unemployed' (বেকার). Option A is still negative in meaning."
+  },
+  {
+    "id": 101,
+    "question": "Transform into an interrogative sentence: 'He never tells a lie.'",
+    "options": {
+      "a": "Does he never tell a lie?",
+      "b": "Does he ever tell a lie?",
+      "c": "Does he tell a lie never?",
+      "d": "Tells he a lie?"
+    },
+    "correct_answer": "b",
+    "explanation": "A negative statement can be turned into an affirmative (হ্যাঁ-সূচক) question. 'Never' (কখনও না) becomes 'ever' (কখনও) in the interrogative. So, 'Does he ever tell a lie?' is the correct form, expecting the answer 'No, he never does.'"
+  },
+  {
+    "id": 102,
+    "question": "The correct passive form of 'The poem interested me greatly.' is ---",
+    "options": {
+      "a": "I was interested greatly by the poem.",
+      "b": "I was greatly interested in the poem.",
+      "c": "I am greatly interested in the poem.",
+      "d": "The poem was interesting to me."
+    },
+    "correct_answer": "b",
+    "explanation": "The verb 'interest' (আগ্রহী করা) is typically followed by the preposition 'in' in its passive form. The adverb 'greatly' usually comes before the past participle. So, 'I was greatly interested in the poem' is correct."
+  },
+  {
+    "id": 103,
+    "question": "Transform into an exclamatory sentence: 'It is a very tragic incident.'",
+    "options": {
+      "a": "What a tragic incident it is!",
+      "b": "How tragic incident it is!",
+      "c": "What tragic incident it is!",
+      "d": "How a tragic incident it is!"
+    },
+    "correct_answer": "a",
+    "explanation": "For a singular countable noun ('incident'), the correct exclamatory (আবেগসূচক) structure is 'What a + adjective + noun + subject + verb!' Therefore, 'What a tragic incident it is!' is correct."
+  },
+  {
+    "id": 104,
+    "question": "Which one is the correct negative form of 'He is my friend.'?",
+    "options": {
+      "a": "He is not my friend.",
+      "b": "He is my enemy.",
+      "c": "He is not my enemy.",
+      "d": "He is no friend of mine."
+    },
+    "correct_answer": "a",
+    "explanation": "The direct negative (নেতিবাচক) transformation of a sentence with the verb 'to be' is simply adding 'not' after the verb. So, 'He is not my friend' is the correct negative form. Option D is also negative but more idiomatic."
+  },
+  {
+    "id": 105,
+    "question": "Transform into a complex sentence: 'I saw a running train.'",
+    "options": {
+      "a": "I saw a train and it was running.",
+      "b": "I saw a train which was running.",
+      "c": "I saw a train that running.",
+      "d": "I saw a train was running."
+    },
+    "correct_answer": "b",
+    "explanation": "The simple sentence has a participle ('running') acting as an adjective. To make it complex (জটিল), we expand it into an adjective clause. 'I saw a train which was running' is the correct complex form."
+  },
+  {
+    "id": 106,
+    "question": "The correct passive form of 'She bought a new car.' is ---",
+    "options": {
+      "a": "A new car was bought by her.",
+      "b": "A new car is bought by her.",
+      "c": "A new car had been bought by her.",
+      "d": "A new car was being bought by her."
+    },
+    "correct_answer": "a",
+    "explanation": "The active sentence is in the simple past tense (অতীত কাল). The passive form is 'was/were + past participle'. The object 'a new car' becomes the subject. So, 'A new car was bought by her' is correct."
+  },
+  {
+    "id": 107,
+    "question": "Transform into an affirmative sentence: 'He is not unlike his father.'",
+    "options": {
+      "a": "He is unlike his father.",
+      "b": "He is like his father.",
+      "c": "He is not like his father.",
+      "d": "He resembles his father."
+    },
+    "correct_answer": "b",
+    "explanation": "'Not unlike' (অসদৃশ নয়) is a double negative which makes an affirmative. It means he is similar to his father. Therefore, the affirmative (হ্যাঁ-সূচক) form is 'He is like his father'."
+  },
+  {
+    "id": 108,
+    "question": "Which one is the correct imperative form of 'You should take care of your health.'?",
+    "options": {
+      "a": "Take care of your health.",
+      "b": "You take care of your health.",
+      "c": "Should take care of your health.",
+      "d": "Taking care of your health."
+    },
+    "correct_answer": "a",
+    "explanation": "This is a piece of advice. An imperative sentence (অনুজ্ঞাসূচক বাক্য) for advice starts with the base form of the verb. So, 'Take care of your health' is the correct transformation."
+  },
+  {
+    "id": 109,
+    "question": "Transform into an interrogative sentence: 'Nobody was present there.'",
+    "options": {
+      "a": "Was anybody present there?",
+      "b": "Was nobody present there?",
+      "c": "Who was present there?",
+      "d": "Both A and C"
+    },
+    "correct_answer": "d",
+    "explanation": "A negative statement can be turned into a question in two ways. One is by using 'anybody': 'Was anybody present there?' The other is by using a 'who' question implying a negative answer: 'Who was present there?' (meaning nobody was). Both are correct."
+  },
+  {
+    "id": 110,
+    "question": "Transform into a complex sentence: 'He admitted his guilt.'",
+    "options": {
+      "a": "He admitted that he was guilty.",
+      "b": "He admitted and he was guilty.",
+      "c": "He admitted his guilt and cried.",
+      "d": "He admitted to be guilty."
+    },
+    "correct_answer": "a",
+    "explanation": "The simple sentence has a noun object ('his guilt'). To make it complex (জটিল), we expand the noun into a noun clause. 'He admitted that he was guilty' is the correct complex form."
+  },
+  {
+    "id": 111,
+    "question": "The correct passive form of 'People will forget him soon.' is ---",
+    "options": {
+      "a": "He will be forgotten soon by people.",
+      "b": "He will be forgot soon by people.",
+      "c": "He would be forgotten soon.",
+      "d": "He is forgotten soon by people."
+    },
+    "correct_answer": "a",
+    "explanation": "The active sentence is in the simple future tense (ভবিষ্যৎ কাল): 'will forget'. The passive structure is 'will be + past participle'. The past participle of 'forget' is 'forgotten'. So, 'He will be forgotten soon by people' is correct."
+  },
+  {
+    "id": 112,
+    "question": "Transform into a comparative sentence: 'He is the best player in the team.'",
+    "options": {
+      "a": "He is better than any other player in the team.",
+      "b": "He is better than all players in the team.",
+      "c": "He is best than any other player.",
+      "d": "No other player is as good as him."
+    },
+    "correct_answer": "a",
+    "explanation": "To change a superlative (অতি-উৎকর্ষতা) sentence to a comparative (তুলনামূলক) one, we use: 'Subject + verb + comparative adjective + than any other + noun.' 'Best' becomes 'better than any other'."
+  },
+  {
+    "id": 113,
+    "question": "Which one is the correct compound form of 'He is too weak to walk.'?",
+    "options": {
+      "a": "He is very weak and cannot walk.",
+      "b": "He is so weak that he cannot walk.",
+      "c": "He is weak, so he cannot walk.",
+      "d": "He is weak to walk."
+    },
+    "correct_answer": "c",
+    "explanation": "The simple sentence with 'too...to' has a meaning that can be expressed in a compound sentence (যৌগিক বাক্য) using the conjunction 'so'. 'He is weak, so he cannot walk' is the correct compound form."
+  },
+  {
+    "id": 114,
+    "question": "Transform into an exclamatory sentence: 'I wish I had a pet dog.'",
+    "options": {
+      "a": "If I had a pet dog!",
+      "b": "Had I a pet dog!",
+      "c": "Oh that I had a pet dog!",
+      "d": "All of these"
+    },
+    "correct_answer": "d",
+    "explanation": "Wishes can be expressed exclamatorily (আবেগসূচকভাবে) in several ways: using 'If', using inversion ('Had I'), or using 'Oh that'. All three options A, B, and C are correct exclamatory forms."
+  },
+  {
+    "id": 115,
+    "question": "Transform into an affirmative sentence: 'He has no enemies.'",
+    "options": {
+      "a": "He has enemies.",
+      "b": "He has friends.",
+      "c": "He is friendless.",
+      "d": "All are his friends."
+    },
+    "correct_answer": "d",
+    "explanation": "'Has no enemies' (শত্রু নেই) means everyone is friendly towards him. The most appropriate affirmative (হ্যাঁ-সূচক) equivalent is 'All are his friends'."
+  },
+  {
+    "id": 116,
+    "question": "The correct passive form of 'She teaches us English.' is ---",
+    "options": {
+      "a": "English is taught to us by her.",
+      "b": "We are taught English by her.",
+      "c": "We are taught English to her.",
+      "d": "Both A and B"
+    },
+    "correct_answer": "d",
+    "explanation": "This sentence has two objects: 'us' (indirect object) and 'English' (direct object). In passive voice (কর্মবাচ্য), either object can become the subject. So, both 'We are taught English by her' and 'English is taught to us by her' are correct."
+  },
+  {
+    "id": 117,
+    "question": "Transform into a negative sentence: 'He is richer than me.'",
+    "options": {
+      "a": "He is not richer than me.",
+      "b": "I am not as rich as him.",
+      "c": "I am poorer than him.",
+      "d": "He is less rich than me."
+    },
+    "correct_answer": "b",
+    "explanation": "A comparative affirmative sentence can be made negative (নেতিবাচক) by using the positive degree structure with 'not as...as'. 'I am not as rich as him' is the correct negative equivalent of 'He is richer than me'."
+  },
+  {
+    "id": 118,
+    "question": "Which one is the correct interrogative form of 'She has been reading for two hours.'?",
+    "options": {
+      "a": "Has she been reading for two hours?",
+      "b": "Have she been reading for two hours?",
+      "c": "Is she been reading for two hours?",
+      "d": "Has she reading for two hours?"
+    },
+    "correct_answer": "a",
+    "explanation": "This sentence is in the present perfect continuous tense (বর্তমান পূর্ণ চলমান কাল). To form a question, the first auxiliary verb ('has') is placed at the beginning of the sentence. So, 'Has she been reading for two hours?' is correct."
+  },
+  {
+    "id": 119,
+    "question": "Transform into a complex sentence: 'He is sure of his success.'",
+    "options": {
+      "a": "He is sure and he will succeed.",
+      "b": "He is sure that he will succeed.",
+      "c": "He is sure of success.",
+      "d": "He is sure to succeed."
+    },
+    "correct_answer": "b",
+    "explanation": "The simple sentence has a prepositional phrase ('of his success'). This can be expanded into a noun clause. 'He is sure that he will succeed' is the correct complex (জটিল) form."
+  },
+  {
+    "id": 120,
+    "question": "The correct passive form of 'The hunter shot the tiger.' is ---",
+    "options": {
+      "a": "The tiger was shot by the hunter.",
+      "b": "The tiger is shot by the hunter.",
+      "c": "The tiger had been shot by the hunter.",
+      "d": "The tiger was being shot by the hunter."
+    },
+    "correct_answer": "a",
+    "explanation": "The active sentence is in the simple past tense (অতীত কাল). The passive form is 'was/were + past participle'. So, 'The tiger was shot by the hunter' is correct."
+  },
+  {
+    "id": 121,
+    "question": "Transform into an exclamatory sentence: 'The Taj Mahal is a very beautiful building.'",
+    "options": {
+      "a": "What a beautiful building the Taj Mahal is!",
+      "b": "How beautiful building the Taj Mahal is!",
+      "c": "What beautiful building the Taj Mahal is!",
+      "d": "How a beautiful building the Taj Mahal is!"
+    },
+    "correct_answer": "a",
+    "explanation": "For a singular noun phrase ('a beautiful building'), the correct exclamatory (আবেগসূচক) structure is 'What a + adjective + noun + subject + verb!' Therefore, 'What a beautiful building the Taj Mahal is!' is correct."
+  },
+  {
+    "id": 122,
+    "question": "Which one is the correct negative form of 'He is sometimes absent.'?",
+    "options": {
+      "a": "He is not sometimes absent.",
+      "b": "He is never absent.",
+      "c": "He is not always absent.",
+      "d": "He is always present."
+    },
+    "correct_answer": "c",
+    "explanation": "'Sometimes' (কখনো কখনো) indicates frequency. Its negative equivalent is 'not always' (সবসময় না). So, 'He is not always absent' correctly transforms the sentence into a negative form."
+  },
+  {
+    "id": 123,
+    "question": "Transform into an interrogative sentence: 'Everybody fears a lion.'",
+    "options": {
+      "a": "Does everybody fear a lion?",
+      "b": "Who does not fear a lion?",
+      "c": "Does anybody fear a lion?",
+      "d": "Both A and B"
+    },
+    "correct_answer": "d",
+    "explanation": "An affirmative statement can be turned into a question in two ways. One is a direct question: 'Does everybody fear a lion?' The other is a rhetorical question implying the answer: 'Who does not fear a lion?' Both are correct transformations."
+  },
+  {
+    "id": 124,
+    "question": "Transform into a complex sentence: 'He confessed his crime.'",
+    "options": {
+      "a": "He confessed that he was criminal.",
+      "b": "He confessed that he had committed the crime.",
+      "c": "He confessed his crime and cried.",
+      "d": "He confessed to commit the crime."
+    },
+    "correct_answer": "b",
+    "explanation": "The simple sentence has a noun object ('his crime'). To make it complex (জটিল), we expand the noun into a noun clause. The action of the crime happened before the confession, so the past perfect tense is used in the clause. 'He confessed that he had committed the crime' is correct."
+  },
+  {
+    "id": 125,
+    "question": "The correct passive form of 'The man is shouting at the boy.' is ---",
+    "options": {
+      "a": "The boy is shouted at by the man.",
+      "b": "The boy is being shouted at by the man.",
+      "c": "The boy was being shouted at by the man.",
+      "d": "The boy is shouted by the man."
+    },
+    "correct_answer": "b",
+    "explanation": "The active sentence is in the present continuous tense (বর্তমান চলমান কাল): 'is shouting at'. The passive structure is 'is/am/are + being + past participle'. The preposition 'at' stays with the verb. So, 'The boy is being shouted at by the man' is correct."
+  },
+  {
+    "id": 126,
+    "question": "Transform into an affirmative sentence: 'He is not incapable of doing the work.'",
+    "options": {
+      "a": "He is incapable of doing the work.",
+      "b": "He is capable of doing the work.",
+      "c": "He is not capable of doing the work.",
+      "d": "He can do the work."
+    },
+    "correct_answer": "b",
+    "explanation": "'Not incapable' (অক্ষম নয়) is a double negative which makes an affirmative. It means he is capable. Therefore, the affirmative (হ্যাঁ-সূচক) form is 'He is capable of doing the work'."
+  },
+  {
+    "id": 127,
+    "question": "Which one is the correct imperative form of 'You should obey your teachers.'?",
+    "options": {
+      "a": "Obey your teachers.",
+      "b": "You obey your teachers.",
+      "c": "Should obey your teachers.",
+      "d": "Obedience to your teachers."
+    },
+    "correct_answer": "a",
+    "explanation": "This sentence expresses advice. An imperative sentence (অনুজ্ঞাসূচক বাক্য) for advice starts with the base form of the verb. So, 'Obey your teachers' is the correct transformation."
+  },
+  {
+    "id": 128,
+    "question": "Transform into a negative sentence: 'He is better than me.'",
+    "options": {
+      "a": "He is not better than me.",
+      "b": "I am not as good as him.",
+      "c": "I am worse than him.",
+      "d": "He is less good than me."
+    },
+    "correct_answer": "b",
+    "explanation": "A comparative affirmative sentence can be made negative (নেতিবাচক) by using the positive degree structure with 'not as...as'. 'I am not as good as him' is the correct negative equivalent of 'He is better than me'."
+  },
+  {
+    "id": 129,
+    "question": "Transform into an exclamatory sentence: 'I wish I could fly in the sky.'",
+    "options": {
+      "a": "If I could fly in the sky!",
+      "b": "Could I fly in the sky!",
+      "c": "Oh that I could fly in the sky!",
+      "d": "All of these"
+    },
+    "correct_answer": "d",
+    "explanation": "Wishes can be expressed exclamatorily (আবেগসূচকভাবে) in several ways: using 'If', using inversion ('Could I'), or using 'Oh that'. All three options A, B, and C are correct exclamatory forms."
+  },
+  {
+    "id": 130,
+    "question": "The correct passive form of 'Someone has stolen my purse.' is ---",
+    "options": {
+      "a": "My purse has been stolen.",
+      "b": "My purse is stolen by someone.",
+      "c": "My purse was stolen.",
+      "d": "My purse had been stolen."
+    },
+    "correct_answer": "a",
+    "explanation": "The active sentence is in the present perfect tense (বর্তমান পূর্ণ কাল): 'has stolen'. The passive structure is 'has/have + been + past participle'. When the agent ('someone') is unknown or unimportant, it is often omitted. So, 'My purse has been stolen' is the best answer."
+  },
+  {
+    "id": 131,
+    "question": "Transform into a complex sentence: 'He was too late to attend the meeting.'",
+    "options": {
+      "a": "He was so late that he could not attend the meeting.",
+      "b": "He was very late to attend the meeting.",
+      "c": "He was late and could not attend the meeting.",
+      "d": "He was late so he could not attend the meeting."
+    },
+    "correct_answer": "a",
+    "explanation": "The simple sentence with 'too...to' (অত্যন্ত...যে না) can be transformed into a complex sentence (জটিল বাক্য) using 'so...that...cannot/could not'. 'He was so late that he could not attend the meeting' is the correct complex form."
+  },
+  {
+    "id": 132,
+    "question": "Which one is the correct interrogative form of 'They have finished the project.'?",
+    "options": {
+      "a": "Have they finished the project?",
+      "b": "Has they finished the project?",
+      "c": "Did they finish the project?",
+      "d": "Are they finished the project?"
+    },
+    "correct_answer": "a",
+    "explanation": "For the present perfect tense (বর্তমান পূর্ণ কাল), the auxiliary verb 'have/has' is placed at the beginning to form a question. Since the subject is 'They', 'Have they finished the project?' is correct."
+  },
+  {
+    "id": 133,
+    "question": "Transform into an affirmative sentence: 'He is not a fool.'",
+    "options": {
+      "a": "He is a fool.",
+      "b": "He is wise.",
+      "c": "He is not wise.",
+      "d": "He is clever."
+    },
+    "correct_answer": "d",
+    "explanation": "'Not a fool' (বোকা নয়) implies he is intelligent or clever. The most appropriate affirmative (হ্যাঁ-সূচক) equivalent is 'He is clever'."
+  },
+  {
+    "id": 134,
+    "question": "The correct passive form of 'We saw him going out.' is ---",
+    "options": {
+      "a": "He was seen going out by us.",
+      "b": "He was seen to go out by us.",
+      "c": "He is seen going out by us.",
+      "d": "He had been seen going out."
+    },
+    "correct_answer": "a",
+    "explanation": "In sentences with verbs of perception (see, hear, feel) followed by an object and a present participle, the passive structure is 'subject + was/were + seen + present participle + by agent'. So, 'He was seen going out by us' is correct."
+  },
+  {
+    "id": 135,
+    "question": "Transform into an exclamatory sentence: 'The garden is very beautiful.'",
+    "options": {
+      "a": "What a beautiful garden it is!",
+      "b": "How beautiful garden it is!",
+      "c": "How beautiful the garden is!",
+      "d": "What beautiful garden it is!"
+    },
+    "correct_answer": "c",
+    "explanation": "For exclamatory sentences (আবেগসূচক বাক্য) with an adjective, we use 'How' before the adjective. The structure is 'How + adjective + subject + verb!' Here, 'garden' is the subject, so 'How beautiful the garden is!' is correct."
+  },
+  {
+    "id": 136,
+    "question": "Which one is the correct negative form of 'He is my friend.'?",
+    "options": {
+      "a": "He is not my friend.",
+      "b": "He is my enemy.",
+      "c": "He is not my enemy.",
+      "d": "He is no friend of mine."
+    },
+    "correct_answer": "a",
+    "explanation": "The direct negative (নেতিবাচক) transformation of a sentence with the verb 'to be' is simply adding 'not' after the verb. So, 'He is not my friend' is the correct negative form."
+  },
+  {
+    "id": 137,
+    "question": "Transform into a complex sentence: 'I have no money to spare.'",
+    "options": {
+      "a": "I have no money and I cannot spare.",
+      "b": "I have no money that I can spare.",
+      "c": "I have no money so I cannot spare.",
+      "d": "I have no money for sparing."
+    },
+    "correct_answer": "b",
+    "explanation": "The infinitive phrase 'to spare' acts as an adjective modifying 'money'. It can be expanded into an adjective clause. 'I have no money that I can spare' is the correct complex (জটিল) form."
+  },
+  {
+    "id": 138,
+    "question": "The correct passive form of 'They are building a new hospital.' is ---",
+    "options": {
+      "a": "A new hospital is built by them.",
+      "b": "A new hospital is being built by them.",
+      "c": "A new hospital was being built by them.",
+      "d": "A new hospital has been built by them."
+    },
+    "correct_answer": "b",
+    "explanation": "The active sentence is in the present continuous tense (বর্তমান চলমান কাল): 'are building'. The passive structure is 'is/am/are + being + past participle'. So, 'A new hospital is being built by them' is correct."
+  },
+  {
+    "id": 139,
+    "question": "Transform into an interrogative sentence: 'He never comes late.'",
+    "options": {
+      "a": "Does he never come late?",
+      "b": "Does he ever come late?",
+      "c": "Comes he late never?",
+      "d": "Never does he come late?"
+    },
+    "correct_answer": "b",
+    "explanation": "A negative statement can be turned into an affirmative (হ্যাঁ-সূচক) question. 'Never' (কখনও না) becomes 'ever' (কখনও) in the interrogative. So, 'Does he ever come late?' is the correct form."
+  },
+  {
+    "id": 140,
+    "question": "Transform into a comparative sentence: 'No other city in Bangladesh is as large as Dhaka.'",
+    "options": {
+      "a": "Dhaka is larger than any other city in Bangladesh.",
+      "b": "Dhaka is larger than all other cities in Bangladesh.",
+      "c": "Dhaka is the largest city in Bangladesh.",
+      "d": "All other cities are smaller than Dhaka."
+    },
+    "correct_answer": "a",
+    "explanation": "The positive degree (সকারাত্মক) sentence 'No other...as...as' implies Dhaka is the largest. Its comparative (তুলনামূলক) form is 'Dhaka is larger than any other city in Bangladesh'."
+  },
+  {
+    "id": 141,
+    "question": "Which one is the correct compound form of 'He must work hard to earn his livelihood.'?",
+    "options": {
+      "a": "He must work hard and earn his livelihood.",
+      "b": "He must work hard so that he can earn his livelihood.",
+      "c": "He must work hard or he will not earn his livelihood.",
+      "d": "He works hard to earn his livelihood."
+    },
+    "correct_answer": "c",
+    "explanation": "The simple sentence uses an infinitive ('to earn') to show purpose. A compound sentence (যৌগিক বাক্য) can be formed using 'or'. The idea is that if he does not work hard, he will not earn. So, 'He must work hard or he will not earn his livelihood' is correct."
+  },
+  {
+    "id": 142,
+    "question": "Transform into an affirmative sentence: 'He is not without ambition.'",
+    "options": {
+      "a": "He has no ambition.",
+      "b": "He is ambitious.",
+      "c": "He is not ambitious.",
+      "d": "He has ambition."
+    },
+    "correct_answer": "d",
+    "explanation": "'Not without' (ছাড়া নয়) is a double negative which makes an affirmative. It means he possesses ambition. Therefore, the affirmative (হ্যাঁ-সূচক) form is 'He has ambition'."
+  },
+  {
+    "id": 143,
+    "question": "The correct passive form of 'I heard her sing a song.' is ---",
+    "options": {
+      "a": "She was heard sing a song by me.",
+      "b": "She was heard to sing a song by me.",
+      "c": "She is heard to sing a song by me.",
+      "d": "She was heard singing a song by me."
+    },
+    "correct_answer": "b",
+    "explanation": "With verbs of perception (see, hear, watch) followed by an object and a bare infinitive, the passive takes a 'to-infinitive'. So, 'I heard her sing' becomes 'She was heard to sing' in passive voice (কর্মবাচ্য)."
+  },
+  {
+    "id": 144,
+    "question": "Transform into an exclamatory sentence: 'It is a very sad news.'",
+    "options": {
+      "a": "What a sad news it is!",
+      "b": "How sad news it is!",
+      "c": "What sad news it is!",
+      "d": "How a sad news it is!"
+    },
+    "correct_answer": "c",
+    "explanation": "'News' is an uncountable noun (অগণনাযোগ্য বিশেষ্য), so we do not use 'a' before it. For exclamatory sentences (আবেগসূচক বাক্য) with an uncountable noun, we use 'What' directly before the adjective+noun. So, 'What sad news it is!' is correct."
+  },
+  {
+    "id": 145,
+    "question": "Which one is the correct interrogative form of 'She was writing a letter.'?",
+    "options": {
+      "a": "Was she writing a letter?",
+      "b": "Did she write a letter?",
+      "c": "Is she writing a letter?",
+      "d": "Were she writing a letter?"
+    },
+    "correct_answer": "a",
+    "explanation": "This sentence is in the past continuous tense (অতীত চলমান কাল). To form a question, the auxiliary verb ('was') is placed at the beginning. So, 'Was she writing a letter?' is correct."
+  },
+  {
+    "id": 146,
+    "question": "Transform into a complex sentence: 'I know the time of his arrival.'",
+    "options": {
+      "a": "I know the time and he arrives.",
+      "b": "I know when he will arrive.",
+      "c": "I know the time of arrival.",
+      "d": "I know the time to arrive."
+    },
+    "correct_answer": "b",
+    "explanation": "The simple sentence has a noun phrase ('the time of his arrival'). This can be expanded into a noun clause. 'I know when he will arrive' is the correct complex (জটিল) form."
+  },
+  {
+    "id": 147,
+    "question": "The correct passive form of 'The boy killed a snake.' is ---",
+    "options": {
+      "a": "A snake was killed by the boy.",
+      "b": "A snake is killed by the boy.",
+      "c": "A snake had been killed by the boy.",
+      "d": "A snake was being killed by the boy."
+    },
+    "correct_answer": "a",
+    "explanation": "The active sentence is in the simple past tense (অতীত কাল). The passive form is 'was/were + past participle'. So, 'A snake was killed by the boy' is correct."
+  },
+  {
+    "id": 148,
+    "question": "Transform into an affirmative sentence: 'He did not fail to help me.'",
+    "options": {
+      "a": "He failed to help me.",
+      "b": "He helped me.",
+      "c": "He did help me.",
+      "d": "He did not help me."
+    },
+    "correct_answer": "b",
+    "explanation": "'Did not fail to' (ব্যর্থ হয়নি) is a double negative which makes a strong affirmative. It means he was successful in helping. Therefore, the simple affirmative (হ্যাঁ-সূচক) form is 'He helped me'."
+  },
+  {
+    "id": 149,
+    "question": "Transform into a negative sentence: 'He is wiser than me.'",
+    "options": {
+      "a": "He is not wiser than me.",
+      "b": "I am not as wise as him.",
+      "c": "I am more foolish than him.",
+      "d": "He is less wise than me."
+    },
+    "correct_answer": "b",
+    "explanation": "A comparative affirmative sentence can be made negative (নেতিবাচক) by using the positive degree structure with 'not as...as'. 'I am not as wise as him' is the correct negative equivalent of 'He is wiser than me'."
+  },
+  {
+    "id": 150,
+    "question": "Which one is the correct imperative form of 'You should not make a noise.'?",
+    "options": {
+      "a": "Do not make a noise.",
+      "b": "Not make a noise.",
+      "c": "You do not make a noise.",
+      "d": "Make not a noise."
+    },
+    "correct_answer": "a",
+    "explanation": "This is a piece of advice in the negative. A negative imperative sentence (নেতিবাচক অনুজ্ঞাসূচক বাক্য) is formed with 'Do not' (or 'Don't') followed by the base form of the verb. So, 'Do not make a noise' is correct."
+  },
+  {
+    "id": 151,
+    "question": "Transform into an interrogative sentence: 'Nobody can escape death.'",
+    "options": {
+      "a": "Can anybody escape death?",
+      "b": "Can nobody escape death?",
+      "c": "Who can escape death?",
+      "d": "Both A and C"
+    },
+    "correct_answer": "d",
+    "explanation": "A negative statement can be turned into a question in two ways. One is by using 'anybody': 'Can anybody escape death?' The other is by using a 'who' question implying a negative answer: 'Who can escape death?' (meaning nobody can). Both are correct."
+  },
+  {
+    "id": 152,
+    "question": "The correct passive form of 'He impressed me with his sincerity.' is ---",
+    "options": {
+      "a": "I was impressed by him with his sincerity.",
+      "b": "I was impressed with his sincerity by him.",
+      "c": "I was impressed by his sincerity.",
+      "d": "His sincerity impressed me."
+    },
+    "correct_answer": "c",
+    "explanation": "The verb 'impress' (মুগ্ধ করা) is often used in the passive with the preposition 'by' for the thing that causes the impression. The active sentence's object 'me' becomes the subject. So, 'I was impressed by his sincerity' is correct. The agent 'him' is often omitted in such cases."
+  },
+  {
+    "id": 153,
+    "question": "Transform into an exclamatory sentence: 'It is a very beautiful bird.'",
+    "options": {
+      "a": "What a beautiful bird it is!",
+      "b": "How beautiful bird it is!",
+      "c": "What beautiful bird it is!",
+      "d": "How a beautiful bird it is!"
+    },
+    "correct_answer": "a",
+    "explanation": "For a singular countable noun ('bird'), the correct exclamatory (আবেগসূচক) structure is 'What a + adjective + noun + subject + verb!' Therefore, 'What a beautiful bird it is!' is correct."
+  },
+  {
+    "id": 154,
+    "question": "Which one is the correct negative form of 'Everybody desires happiness.'?",
+    "options": {
+      "a": "Anybody desires happiness.",
+      "b": "Nobody desires happiness.",
+      "c": "There is nobody but desires happiness.",
+      "d": "Everybody does not desire happiness."
+    },
+    "correct_answer": "c",
+    "explanation": "An affirmative sentence with 'Everybody' can be made negative (নেতিবাচক) using the structure 'There is nobody but + affirmative verb'. 'There is nobody but desires happiness' means 'There is no one who does not desire happiness', which is the negative equivalent."
+  },
+  {
+    "id": 155,
+    "question": "Transform into a complex sentence: 'He is too proud to beg.'",
+    "options": {
+      "a": "He is so proud that he cannot beg.",
+      "b": "He is very proud to beg.",
+      "c": "He is proud and cannot beg.",
+      "d": "He is proud so he cannot beg."
+    },
+    "correct_answer": "a",
+    "explanation": "The simple sentence with 'too...to' (অত্যন্ত...যে না) can be transformed into a complex sentence (জটিল বাক্য) using 'so...that...cannot/could not'. 'He is so proud that he cannot beg' is the correct complex form."
+  },
+  {
+    "id": 156,
+    "question": "The correct passive form of 'The doctor is operating on the patient.' is ---",
+    "options": {
+      "a": "The patient is operated on by the doctor.",
+      "b": "The patient is being operated on by the doctor.",
+      "c": "The patient was being operated on by the doctor.",
+      "d": "The patient has been operated on by the doctor."
+    },
+    "correct_answer": "b",
+    "explanation": "The active sentence is in the present continuous tense (বর্তমান চলমান কাল): 'is operating on'. The passive structure is 'is/am/are + being + past participle'. The preposition 'on' stays with the verb. So, 'The patient is being operated on by the doctor' is correct."
+  },
+  {
+    "id": 157,
+    "question": "Transform into an affirmative sentence: 'He is not a coward.'",
+    "options": {
+      "a": "He is a coward.",
+      "b": "He is brave.",
+      "c": "He is not brave.",
+      "d": "He is fearless."
+    },
+    "correct_answer": "b",
+    "explanation": "'Not a coward' (কাপুরুষ নয়) implies he is brave. The most appropriate affirmative (হ্যাঁ-সূচক) equivalent is 'He is brave'."
+  },
+  {
+    "id": 158,
+    "question": "Which one is the correct interrogative form of 'He had left before I arrived.'?",
+    "options": {
+      "a": "Had he left before I arrived?",
+      "b": "Did he leave before I arrived?",
+      "c": "Has he left before I arrived?",
+      "d": "Was he left before I arrived?"
+    },
+    "correct_answer": "a",
+    "explanation": "The sentence is in the past perfect tense (অতীত পূর্ণ কাল). To form a question, the auxiliary verb 'had' is placed at the beginning of the sentence. So, 'Had he left before I arrived?' is correct."
+  },
+  {
+    "id": 159,
+    "question": "Transform into a comparative sentence: 'Very few subjects are as interesting as English.'",
+    "options": {
+      "a": "English is more interesting than most other subjects.",
+      "b": "English is more interesting than any other subject.",
+      "c": "English is the most interesting subject.",
+      "d": "No other subject is as interesting as English."
+    },
+    "correct_answer": "a",
+    "explanation": "The positive degree (সকারাত্মক) 'as interesting as' with 'Very few' implies English is more interesting than most others. The correct comparative (তুলনামূলক) transformation is 'English is more interesting than most other subjects'."
+  },
+  {
+    "id": 160,
+    "question": "Transform into a complex sentence: 'I cannot help him, being poor myself.'",
+    "options": {
+      "a": "I cannot help him because I am poor myself.",
+      "b": "I cannot help him and I am poor myself.",
+      "c": "I cannot help him for I am poor myself.",
+      "d": "Being poor, I cannot help him."
+    },
+    "correct_answer": "a",
+    "explanation": "The simple sentence has a participle phrase ('being poor myself') which shows reason. To make it complex (জটিল), we expand it into an adverb clause of reason. 'I cannot help him because I am poor myself' is the correct complex form."
+  },
+  {
+    "id": 161,
+    "question": "The correct passive form of 'The children laughed at the beggar.' is ---",
+    "options": {
+      "a": "The beggar was laughed at by the children.",
+      "b": "The beggar was being laughed at by the children.",
+      "c": "The beggar is laughed at by the children.",
+      "d": "The beggar was laughed by the children."
+    },
+    "correct_answer": "a",
+    "explanation": "The active sentence is in the simple past tense (অতীত কাল): 'laughed at'. The passive structure is 'was/were + past participle'. The preposition 'at' stays with the verb. So, 'The beggar was laughed at by the children' is correct."
+  },
+  {
+    "id": 162,
+    "question": "Transform into an exclamatory sentence: 'The news is very shocking.'",
+    "options": {
+      "a": "What a shocking news it is!",
+      "b": "How shocking news it is!",
+      "c": "What shocking news it is!",
+      "d": "How a shocking news it is!"
+    },
+    "correct_answer": "c",
+    "explanation": "'News' is an uncountable noun (অগণনাযোগ্য বিশেষ্য), so we do not use 'a' before it. For exclamatory sentences (আবেগসূচক বাক্য) with an uncountable noun, we use 'What' directly before the adjective+noun. So, 'What shocking news it is!' is correct."
+  },
+  {
+    "id": 163,
+    "question": "Which one is the correct negative form of 'He was present.'?",
+    "options": {
+      "a": "He was not present.",
+      "b": "He was absent.",
+      "c": "He was not absent.",
+      "d": "He did not present."
+    },
+    "correct_answer": "b",
+    "explanation": "The word 'present' (উপস্থিত) has a direct opposite, 'absent' (অনুপস্থিত). Therefore, the negative form can be created by using the antonym. 'He was absent' is the correct negative transformation."
+  },
+  {
+    "id": 164,
+    "question": "Transform into an interrogative sentence: 'He has never been to Cox's Bazar.'",
+    "options": {
+      "a": "Has he never been to Cox's Bazar?",
+      "b": "Has he ever been to Cox's Bazar?",
+      "c": "Did he ever go to Cox's Bazar?",
+      "d": "Both A and B"
+    },
+    "correct_answer": "b",
+    "explanation": "A negative statement can be turned into an affirmative (হ্যাঁ-সূচক) question. 'Never' (কখনও না) becomes 'ever' (কখনও) in the interrogative. So, 'Has he ever been to Cox's Bazar?' is the correct form, though option A is also grammatically possible, B is the standard transformation."
+  },
+  {
+    "id": 165,
+    "question": "Transform into a complex sentence: 'I saw a smiling baby.'",
+    "options": {
+      "a": "I saw a baby and it was smiling.",
+      "b": "I saw a baby who was smiling.",
+      "c": "I saw a baby that smiling.",
+      "d": "I saw a baby was smiling."
+    },
+    "correct_answer": "b",
+    "explanation": "The simple sentence has a participle ('smiling') acting as an adjective. To make it complex (জটিল), we expand it into an adjective clause. 'I saw a baby who was smiling' is the correct complex form."
+  },
+  {
+    "id": 166,
+    "question": "The correct passive form of 'We must listen to his advice.' is ---",
+    "options": {
+      "a": "His advice must be listened to by us.",
+      "b": "His advice must be listened by us.",
+      "c": "His advice must be heard by us.",
+      "d": "His advice must be attended."
+    },
+    "correct_answer": "a",
+    "explanation": "The active sentence contains a phrasal verb 'listen to' (শোনা/মনোযোগ দেওয়া). In the passive voice (কর্মবাচ্য), the preposition 'to' must stay with the verb. So, 'His advice must be listened to by us' is correct."
+  },
+  {
+    "id": 167,
+    "question": "Transform into an affirmative sentence: 'He is not indifferent to his studies.'",
+    "options": {
+      "a": "He is indifferent to his studies.",
+      "b": "He is attentive to his studies.",
+      "c": "He is not attentive to his studies.",
+      "d": "He cares about his studies."
+    },
+    "correct_answer": "b",
+    "explanation": "'Indifferent' (উদাসীন) means not caring. 'Not indifferent' (উদাসীন নয়) means he is attentive or caring. Therefore, the affirmative (হ্যাঁ-সূচক) form is 'He is attentive to his studies'."
+  },
+  {
+    "id": 168,
+    "question": "Which one is the correct imperative form of 'You should not tell a lie.'?",
+    "options": {
+      "a": "Do not tell a lie.",
+      "b": "Not tell a lie.",
+      "c": "You do not tell a lie.",
+      "d": "Tell not a lie."
+    },
+    "correct_answer": "a",
+    "explanation": "This is a piece of advice in the negative. A negative imperative sentence (নেতিবাচক অনুজ্ঞাসূচক বাক্য) is formed with 'Do not' (or 'Don't') followed by the base form of the verb. So, 'Do not tell a lie' is correct."
+  },
+  {
+    "id": 169,
+    "question": "Transform into a negative sentence: 'He is the most intelligent boy in the class.'",
+    "options": {
+      "a": "He is not the most intelligent boy in the class.",
+      "b": "No other boy in the class is as intelligent as he.",
+      "c": "No other boy in the class is more intelligent than he.",
+      "d": "All other boys are less intelligent than he."
+    },
+    "correct_answer": "b",
+    "explanation": "A superlative (অতি-উৎকর্ষতা) sentence can be transformed into a negative (নেতিবাচক) sentence using the positive degree structure: 'No other + noun + verb + as + adjective + as + subject.' So, 'No other boy in the class is as intelligent as he' is the correct negative form."
+  },
+  {
+    "id": 170,
+    "question": "Transform into a complex sentence: 'He is certain of winning the game.'",
+    "options": {
+      "a": "He is certain and he will win the game.",
+      "b": "He is certain that he will win the game.",
+      "c": "He is certain to win the game.",
+      "d": "He is certain of the win."
+    },
+    "correct_answer": "b",
+    "explanation": "The simple sentence has a prepositional phrase ('of winning the game'). This can be expanded into a noun clause. 'He is certain that he will win the game' is the correct complex (জটিল) form."
+  },
+  {
+    "id": 171,
+    "question": "The correct passive form of 'He was carrying a heavy load.' is ---",
+    "options": {
+      "a": "A heavy load was carried by him.",
+      "b": "A heavy load was being carried by him.",
+      "c": "A heavy load is being carried by him.",
+      "d": "A heavy load had been carried by him."
+    },
+    "correct_answer": "b",
+    "explanation": "The active sentence is in the past continuous tense (অতীত চলমান কাল): 'was carrying'. The passive structure is 'was/were + being + past participle'. So, 'A heavy load was being carried by him' is correct."
+  },
+  {
+    "id": 172,
+    "question": "Transform into an exclamatory sentence: 'It is a very interesting story.'",
+    "options": {
+      "a": "What a interesting story it is!",
+      "b": "What an interesting story it is!",
+      "c": "How interesting story it is!",
+      "d": "What interesting story it is!"
+    },
+    "correct_answer": "b",
+    "explanation": "For a singular countable noun ('story'), the correct exclamatory (আবেগসূচক) structure is 'What a/an + adjective + noun + subject + verb!' Since 'interesting' starts with a vowel sound, we use 'an'. So, 'What an interesting story it is!' is correct."
+  },
+  {
+    "id": 173,
+    "question": "Which one is the correct interrogative form of 'She can speak French fluently.'?",
+    "options": {
+      "a": "Can she speak French fluently?",
+      "b": "Does she can speak French fluently?",
+      "c": "Is she can speak French fluently?",
+      "d": "Speaks she French fluently?"
+    },
+    "correct_answer": "a",
+    "explanation": "For sentences with modal verbs (যেমন can, may, must, should), the interrogative form is created by placing the modal verb at the beginning before the subject. So, 'Can she speak French fluently?' is correct."
+  },
+  {
+    "id": 174,
+    "question": "Transform into an affirmative sentence: 'He has not a few friends.'",
+    "options": {
+      "a": "He has a few friends.",
+      "b": "He has many friends.",
+      "c": "He has few friends.",
+      "d": "He has no friends."
+    },
+    "correct_answer": "b",
+    "explanation": "'Not a few' (কম নয়) is an idiom that means 'many' (অনেক). Therefore, the affirmative (হ্যাঁ-সূচক) form of the sentence is 'He has many friends'."
+  },
+  {
+    "id": 175,
+    "question": "Transform into a comparative sentence: 'He is not the tallest boy in the class.'",
+    "options": {
+      "a": "He is not taller than any other boy in the class.",
+      "b": "Some other boys are taller than him.",
+      "c": "He is shorter than some other boys.",
+      "d": "He is less tall than some other boys."
+    },
+    "correct_answer": "c",
+    "explanation": "The negative superlative (অতি-উৎকর্ষতার নেতিবাচক) means there are others who are taller. The comparative (তুলনামূলক) equivalent is 'He is shorter than some other boys'."
+  },
+  {
+    "id": 176,
+    "question": "Transform into a complex sentence: 'He is too young to marry.'",
+    "options": {
+      "a": "He is so young that he cannot marry.",
+      "b": "He is very young to marry.",
+      "c": "He is young and cannot marry.",
+      "d": "He is young so he cannot marry."
+    },
+    "correct_answer": "a",
+    "explanation": "The simple sentence with 'too...to' (অত্যন্ত...যে না) can be transformed into a complex sentence (জটিল বাক্য) using 'so...that...cannot/could not'. 'He is so young that he cannot marry' is the correct complex form."
+  },
+  {
+    "id": 177,
+    "question": "The correct passive form of 'He has written a novel.' is ---",
+    "options": {
+      "a": "A novel has been written by him.",
+      "b": "A novel is written by him.",
+      "c": "A novel was written by him.",
+      "d": "A novel had been written by him."
+    },
+    "correct_answer": "a",
+    "explanation": "The active sentence is in the present perfect tense (বর্তমান পূর্ণ কাল): 'has written'. The passive structure is 'has/have + been + past participle'. So, 'A novel has been written by him' is correct."
+  },
+  {
+    "id": 178,
+    "question": "Transform into an interrogative sentence: 'He has a lot of money.'",
+    "options": {
+      "a": "Has he a lot of money?",
+      "b": "Does he have a lot of money?",
+      "c": "Does he has a lot of money?",
+      "d": "Both A and B"
+    },
+    "correct_answer": "d",
+    "explanation": "For sentences with 'has/have' as the main verb, two interrogative forms are possible. The formal one inverts the verb: 'Has he a lot of money?' The more common modern one uses 'does': 'Does he have a lot of money?' Both are acceptable."
+  },
+  {
+    "id": 179,
+    "question": "Which one is the correct negative form of 'Every man loves his country.'?",
+    "options": {
+      "a": "Any man loves his country.",
+      "b": "No man loves his country.",
+      "c": "There is no man but loves his country.",
+      "d": "Every man does not love his country."
+    },
+    "correct_answer": "c",
+    "explanation": "An affirmative sentence with 'Every' can be made negative (নেতিবাচক) using the structure 'There is no + noun + but + affirmative verb'. 'There is no man but loves his country' means 'There is no man who does not love his country', which is the negative equivalent."
+  },
+  {
+    "id": 180,
+    "question": "Transform into an exclamatory sentence: 'It is a very charming scenery.'",
+    "options": {
+      "a": "What a charming scenery it is!",
+      "b": "How charming scenery it is!",
+      "c": "How charming the scenery is!",
+      "d": "What charming scenery it is!"
+    },
+    "correct_answer": "c",
+    "explanation": "'Scenery' is an uncountable noun (অগণনাযোগ্য বিশেষ্য), so we do not use 'a' before it. For exclamatory sentences (আবেগসূচক বাক্য) with an adjective, we use 'How' before the adjective. The structure is 'How + adjective + subject + verb!' So, 'How charming the scenery is!' is correct."
+  },
+  {
+    "id": 181,
+    "question": "Transform into an affirmative sentence: 'He is not unlike me.'",
+    "options": {
+      "a": "He is unlike me.",
+      "b": "He is like me.",
+      "c": "He is not like me.",
+      "d": "He resembles me."
+    },
+    "correct_answer": "b",
+    "explanation": "'Not unlike' (অসদৃশ নয়) is a double negative which makes an affirmative. It means he is similar to me. Therefore, the affirmative (হ্যাঁ-সূচক) form is 'He is like me'."
+  },
+  {
+    "id": 182,
+    "question": "The correct passive form of 'She did the work alone.' is ---",
+    "options": {
+      "a": "The work was done alone by her.",
+      "b": "The work is done alone by her.",
+      "c": "The work had been done alone by her.",
+      "d": "The work was being done alone by her."
+    },
+    "correct_answer": "a",
+    "explanation": "The active sentence is in the simple past tense (অতীত কাল). The passive form is 'was/were + past participle'. The adverb 'alone' remains in its position. So, 'The work was done alone by her' is correct."
+  },
+  {
+    "id": 183,
+    "question": "Which one is the correct imperative form of 'You should be kind to the poor.'?",
+    "options": {
+      "a": "Be kind to the poor.",
+      "b": "You be kind to the poor.",
+      "c": "Should be kind to the poor.",
+      "d": "Being kind to the poor."
+    },
+    "correct_answer": "a",
+    "explanation": "This is a piece of advice. An imperative sentence (অনুজ্ঞাসূচক বাক্য) for advice starts with the base form of the verb. So, 'Be kind to the poor' is the correct transformation."
+  },
+  {
+    "id": 184,
+    "question": "Transform into an interrogative sentence: 'Nobody will help you.'",
+    "options": {
+      "a": "Will anybody help you?",
+      "b": "Will nobody help you?",
+      "c": "Who will help you?",
+      "d": "Both A and C"
+    },
+    "correct_answer": "d",
+    "explanation": "A negative statement can be turned into a question in two ways. One is by using 'anybody': 'Will anybody help you?' The other is by using a 'who' question implying a negative answer: 'Who will help you?' (meaning nobody will). Both are correct."
+  },
+  {
+    "id": 185,
+    "question": "Transform into a complex sentence: 'I want to buy a car.'",
+    "options": {
+      "a": "I want that I buy a car.",
+      "b": "I want that I will buy a car.",
+      "c": "I want to buy a car and I will.",
+      "d": "I want a car to buy."
+    },
+    "correct_answer": "b",
+    "explanation": "The infinitive phrase 'to buy a car' can be expanded into a noun clause. 'I want that I will buy a car' is the correct complex (জটিল) form, though it sounds a bit formal. It correctly shows the noun clause structure."
+  },
+  {
+    "id": 186,
+    "question": "The correct passive form of 'He annoyed me.' is ---",
+    "options": {
+      "a": "I was annoyed by him.",
+      "b": "I was annoyed with him.",
+      "c": "I am annoyed with him.",
+      "d": "I was annoyed at him."
+    },
+    "correct_answer": "b",
+    "explanation": "The verb 'annoy' (বিরক্ত করা) is typically followed by the preposition 'with' when referring to a person in its passive form. So, 'I was annoyed with him' is correct."
+  },
+  {
+    "id": 187,
+    "question": "Transform into a negative sentence: 'He is as good as his brother.'",
+    "options": {
+      "a": "He is not as good as his brother.",
+      "b": "His brother is not better than him.",
+      "c": "He is better than his brother.",
+      "d": "His brother is not as good as him."
+    },
+    "correct_answer": "b",
+    "explanation": "The positive degree (সকারাত্মক) 'as...as' indicates equality. Its negative form in the comparative degree is 'not + comparative adjective + than'. So, 'His brother is not better than him' means the same as 'He is as good as his brother'."
+  },
+  {
+    "id": 188,
+    "question": "Transform into an exclamatory sentence: 'The song is very sweet.'",
+    "options": {
+      "a": "What a sweet song it is!",
+      "b": "How sweet song it is!",
+      "c": "How sweet the song is!",
+      "d": "What sweet song it is!"
+    },
+    "correct_answer": "c",
+    "explanation": "For exclamatory sentences (আবেগসূচক বাক্য) with an adjective, we use 'How' before the adjective. The structure is 'How + adjective + subject + verb!' Here, 'song' is the subject, so 'How sweet the song is!' is correct."
+  },
+  {
+    "id": 189,
+    "question": "Which one is the correct compound form of 'He is too ill to attend the meeting.'?",
+    "options": {
+      "a": "He is very ill and cannot attend the meeting.",
+      "b": "He is so ill that he cannot attend the meeting.",
+      "c": "He is ill, so he cannot attend the meeting.",
+      "d": "He is ill to attend the meeting."
+    },
+    "correct_answer": "c",
+    "explanation": "The simple sentence with 'too...to' has a meaning that can be expressed in a compound sentence (যৌগিক বাক্য) using the conjunction 'so'. 'He is ill, so he cannot attend the meeting' is the correct compound form."
+  },
+  {
+    "id": 190,
+    "question": "Transform into an affirmative sentence: 'He is not an inefficient worker.'",
+    "options": {
+      "a": "He is an inefficient worker.",
+      "b": "He is an efficient worker.",
+      "c": "He is not an efficient worker.",
+      "d": "He works inefficiently."
+    },
+    "correct_answer": "b",
+    "explanation": "'Inefficient' (অদক্ষ) is the opposite of 'efficient' (দক্ষ). 'Not inefficient' (অদক্ষ নয়) means he is efficient. Therefore, the affirmative (হ্যাঁ-সূচক) form is 'He is an efficient worker'."
+  },
+  {
+    "id": 191,
+    "question": "The correct passive form of 'They will build a bridge here.' is ---",
+    "options": {
+      "a": "A bridge will be built here by them.",
+      "b": "A bridge would be built here by them.",
+      "c": "A bridge is built here by them.",
+      "d": "A bridge will have been built here."
+    },
+    "correct_answer": "a",
+    "explanation": "The active sentence is in the simple future tense (ভবিষ্যৎ কাল): 'will build'. The passive structure is 'will be + past participle'. So, 'A bridge will be built here by them' is correct."
+  },
+  {
+    "id": 192,
+    "question": "Transform into an interrogative sentence: 'He had no car.'",
+    "options": {
+      "a": "Did he have any car?",
+      "b": "Had he any car?",
+      "c": "Did he had any car?",
+      "d": "Both A and B"
+    },
+    "correct_answer": "d",
+    "explanation": "For past tense sentences with 'had' as the main verb, two interrogative forms are possible. The formal one inverts the verb: 'Had he any car?' The more common modern one uses 'did': 'Did he have any car?' Both are acceptable."
+  },
+  {
+    "id": 193,
+    "question": "Transform into a complex sentence: 'He is a man of great learning.'",
+    "options": {
+      "a": "He is a man and he has great learning.",
+      "b": "He is a man who has great learning.",
+      "c": "He is a man of learning.",
+      "d": "He is a learned man."
+    },
+    "correct_answer": "b",
+    "explanation": "The simple sentence has a prepositional phrase ('of great learning') modifying the noun 'man'. To make it complex (জটিল), we expand it into an adjective clause. 'He is a man who has great learning' is the correct complex form."
+  },
+  {
+    "id": 194,
+    "question": "Which one is the correct negative form of 'He is sometimes present.'?",
+    "options": {
+      "a": "He is not sometimes present.",
+      "b": "He is never present.",
+      "c": "He is not always present.",
+      "d": "He is always absent."
+    },
+    "correct_answer": "c",
+    "explanation": "'Sometimes' (কখনো কখনো) indicates frequency. Its negative equivalent is 'not always' (সবসময় না). So, 'He is not always present' correctly transforms the sentence into a negative form."
+  },
+  {
+    "id": 195,
+    "question": "Transform into an exclamatory sentence: 'It is a very funny matter.'",
+    "options": {
+      "a": "What a funny matter it is!",
+      "b": "How funny matter it is!",
+      "c": "What funny matter it is!",
+      "d": "How a funny matter it is!"
+    },
+    "correct_answer": "a",
+    "explanation": "For a singular countable noun ('matter'), the correct exclamatory (আবেগসূচক) structure is 'What a + adjective + noun + subject + verb!' Therefore, 'What a funny matter it is!' is correct."
+  },
+  {
+    "id": 196,
+    "question": "The correct passive form of 'He made me laugh.' is ---",
+    "options": {
+      "a": "I was made laugh by him.",
+      "b": "I was made to laugh by him.",
+      "c": "I am made to laugh by him.",
+      "d": "I had been made to laugh."
+    },
+    "correct_answer": "b",
+    "explanation": "With causative verbs like 'make' followed by an object and a bare infinitive, the passive takes a 'to-infinitive'. So, 'He made me laugh' becomes 'I was made to laugh by him' in passive voice (কর্মবাচ্য)."
+  },
+  {
+    "id": 197,
+    "question": "Transform into an affirmative sentence: 'He did not miss any opportunity.'",
+    "options": {
+      "a": "He missed every opportunity.",
+      "b": "He utilized every opportunity.",
+      "c": "He did not get any opportunity.",
+      "d": "He had no opportunity."
+    },
+    "correct_answer": "b",
+    "explanation": "'Did not miss any opportunity' (কোনো সুযোগ হাতছাড়া করেনি) means he used or took advantage of every opportunity. The affirmative (হ্যাঁ-সূচক) equivalent is 'He utilized every opportunity'."
+  },
+  {
+    "id": 198,
+    "question": "Transform into a comparative sentence: 'Very few girls in the class are as beautiful as Tania.'",
+    "options": {
+      "a": "Tania is more beautiful than most other girls in the class.",
+      "b": "Tania is more beautiful than any other girl in the class.",
+      "c": "Tania is the most beautiful girl in the class.",
+      "d": "No other girl is as beautiful as Tania."
+    },
+    "correct_answer": "a",
+    "explanation": "The positive degree (সকারাত্মক) 'as beautiful as' with 'Very few' implies Tania is more beautiful than most others. The correct comparative (তুলনামূলক) transformation is 'Tania is more beautiful than most other girls in the class'."
+  },
+  {
+    "id": 199,
+    "question": "Which one is the correct interrogative form of 'They were playing cricket.'?",
+    "options": {
+      "a": "Were they playing cricket?",
+      "b": "Did they play cricket?",
+      "c": "Are they playing cricket?",
+      "d": "Was they playing cricket?"
+    },
+    "correct_answer": "a",
+    "explanation": "This sentence is in the past continuous tense (অতীত চলমান কাল). To form a question, the auxiliary verb ('were') is placed at the beginning. So, 'Were they playing cricket?' is correct."
+  },
+  {
+    "id": 200,
+    "question": "Transform into a complex sentence: 'He is certain of success.'",
+    "options": {
+      "a": "He is certain and he will succeed.",
+      "b": "He is certain that he will succeed.",
+      "c": "He is certain to succeed.",
+      "d": "He is certain of his success."
+    },
+    "correct_answer": "b",
+    "explanation": "The simple sentence has a prepositional phrase ('of success'). This can be expanded into a noun clause. 'He is certain that he will succeed' is the correct complex (জটিল) form."
+  },
+  {
+    "id": 201,
+    "question": "Transform into an interrogative sentence: 'Nobody trusts a liar.'",
+    "options": {
+      "a": "Does anybody trust a liar?",
+      "b": "Does nobody trust a liar?",
+      "c": "Who trusts a liar?",
+      "d": "Both A and C"
+    },
+    "correct_answer": "d",
+    "explanation": "A negative statement can be turned into a question in two ways. One is by using 'anybody': 'Does anybody trust a liar?' The other is by using a 'who' question implying a negative answer: 'Who trusts a liar?' (meaning nobody trusts). Both are correct."
+  },
+  {
+    "id": 202,
+    "question": "The correct passive form of 'He handed me a book.' is ---",
+    "options": {
+      "a": "I was handed a book by him.",
+      "b": "A book was handed to me by him.",
+      "c": "A book was handed me by him.",
+      "d": "Both A and B"
+    },
+    "correct_answer": "d",
+    "explanation": "This sentence has two objects: 'me' (indirect object) and 'a book' (direct object). In passive voice (কর্মবাচ্য), either object can become the subject. So, both 'I was handed a book by him' and 'A book was handed to me by him' are correct."
+  },
+  {
+    "id": 203,
+    "question": "Transform into an exclamatory sentence: 'It is a very exciting match.'",
+    "options": {
+      "a": "What a exciting match it is!",
+      "b": "What an exciting match it is!",
+      "c": "How exciting match it is!",
+      "d": "What exciting match it is!"
+    },
+    "correct_answer": "b",
+    "explanation": "For a singular countable noun ('match'), the correct exclamatory (আবেগসূচক) structure is 'What a/an + adjective + noun + subject + verb!' Since 'exciting' starts with a vowel sound, we use 'an'. So, 'What an exciting match it is!' is correct."
+  },
+  {
+    "id": 204,
+    "question": "Which one is the correct negative form of 'All men are mortal.'?",
+    "options": {
+      "a": "All men are not mortal.",
+      "b": "No man is mortal.",
+      "c": "There is no man but is mortal.",
+      "d": "No man is immortal."
+    },
+    "correct_answer": "c",
+    "explanation": "An affirmative sentence with 'All' can be made negative (নেতিবাচক) using the structure 'There is no + noun + but + affirmative verb'. 'There is no man but is mortal' means 'There is no man who is not mortal', which is the negative equivalent."
+  },
+  {
+    "id": 205,
+    "question": "Transform into a complex sentence: 'He is too poor to educate his children.'",
+    "options": {
+      "a": "He is so poor that he cannot educate his children.",
+      "b": "He is very poor to educate his children.",
+      "c": "He is poor and cannot educate his children.",
+      "d": "He is poor so he cannot educate his children."
+    },
+    "correct_answer": "a",
+    "explanation": "The simple sentence with 'too...to' (অত্যন্ত...যে না) can be transformed into a complex sentence (জটিল বাক্য) using 'so...that...cannot/could not'. 'He is so poor that he cannot educate his children' is the correct complex form."
+  },
+  {
+    "id": 206,
+    "question": "The correct passive form of 'The teacher was examining the students.' is ---",
+    "options": {
+      "a": "The students were examined by the teacher.",
+      "b": "The students were being examined by the teacher.",
+      "c": "The students are being examined by the teacher.",
+      "d": "The students had been examined by the teacher."
+    },
+    "correct_answer": "b",
+    "explanation": "The active sentence is in the past continuous tense (অতীত চলমান কাল): 'was examining'. The passive structure is 'was/were + being + past participle'. So, 'The students were being examined by the teacher' is correct."
+  },
+  {
+    "id": 207,
+    "question": "Transform into an affirmative sentence: 'He is not an idle boy.'",
+    "options": {
+      "a": "He is an idle boy.",
+      "b": "He is an active boy.",
+      "c": "He is a lazy boy.",
+      "d": "He is a hardworking boy."
+    },
+    "correct_answer": "d",
+    "explanation": "'Idle' (অলস) means not working. 'Not idle' (অলস নয়) implies he is hardworking. The most appropriate affirmative (হ্যাঁ-সূচক) equivalent is 'He is a hardworking boy'."
+  },
+  {
+    "id": 208,
+    "question": "Which one is the correct imperative form of 'You should not waste your time.'?",
+    "options": {
+      "a": "Do not waste your time.",
+      "b": "Not waste your time.",
+      "c": "You do not waste your time.",
+      "d": "Waste not your time."
+    },
+    "correct_answer": "a",
+    "explanation": "This is a piece of advice in the negative. A negative imperative sentence (নেতিবাচক অনুজ্ঞাসূচক বাক্য) is formed with 'Do not' (or 'Don't') followed by the base form of the verb. So, 'Do not waste your time' is correct."
+  },
+  {
+    "id": 209,
+    "question": "Transform into an interrogative sentence: 'He has a car.'",
+    "options": {
+      "a": "Has he a car?",
+      "b": "Does he have a car?",
+      "c": "Does he has a car?",
+      "d": "Both A and B"
+    },
+    "correct_answer": "d",
+    "explanation": "For sentences with 'has/have' as the main verb, two interrogative forms are possible. The formal one inverts the verb: 'Has he a car?' The more common modern one uses 'does': 'Does he have a car?' Both are acceptable."
+  },
+  {
+    "id": 210,
+    "question": "Transform into a negative sentence: 'He is the best player.'",
+    "options": {
+      "a": "He is not the best player.",
+      "b": "No other player is as good as he.",
+      "c": "No other player is better than he.",
+      "d": "All other players are worse than he."
+    },
+    "correct_answer": "b",
+    "explanation": "A superlative (অতি-উৎকর্ষতা) sentence can be transformed into a negative (নেতিবাচক) sentence using the positive degree structure: 'No other + noun + verb + as + adjective + as + subject.' So, 'No other player is as good as he' is the correct negative form."
+  },
+  {
+    "id": 211,
+    "question": "Transform into a complex sentence: 'He expects to get a promotion.'",
+    "options": {
+      "a": "He expects that he will get a promotion.",
+      "b": "He expects and he will get a promotion.",
+      "c": "He expects to get a promotion soon.",
+      "d": "He expects a promotion."
+    },
+    "correct_answer": "a",
+    "explanation": "The infinitive phrase 'to get a promotion' can be expanded into a noun clause. 'He expects that he will get a promotion' is the correct complex (জটিল) form."
+  },
+  {
+    "id": 212,
+    "question": "The correct passive form of 'They saw him running away.' is ---",
+    "options": {
+      "a": "He was seen running away by them.",
+      "b": "He was seen to run away by them.",
+      "c": "He is seen running away by them.",
+      "d": "He had been seen running away."
+    },
+    "correct_answer": "a",
+    "explanation": "In sentences with verbs of perception (see, hear, etc.) followed by an object and a present participle, the passive structure is 'subject + was/were + seen + present participle + by agent'. So, 'He was seen running away by them' is correct."
+  },
+  {
+    "id": 213,
+    "question": "Transform into an exclamatory sentence: 'The rose is a very beautiful flower.'",
+    "options": {
+      "a": "What a beautiful flower the rose is!",
+      "b": "How beautiful flower the rose is!",
+      "c": "What beautiful flower the rose is!",
+      "d": "How a beautiful flower the rose is!"
+    },
+    "correct_answer": "a",
+    "explanation": "For a singular noun phrase ('a beautiful flower'), the correct exclamatory (আবেগসূচক) structure is 'What a + adjective + noun + subject + verb!' Therefore, 'What a beautiful flower the rose is!' is correct."
+  },
+  {
+    "id": 214,
+    "question": "Which one is the correct compound form of 'Though he is rich, he is not happy.'?",
+    "options": {
+      "a": "He is rich but not happy.",
+      "b": "He is rich and not happy.",
+      "c": "He is rich, so he is happy.",
+      "d": "He is rich for he is not happy."
+    },
+    "correct_answer": "a",
+    "explanation": "A complex sentence (জটিল বাক্য) with a concessive clause ('Though') can be transformed into a compound sentence (যৌগিক বাক্য) using the coordinating conjunction 'but'. 'He is rich but not happy' is the correct compound form."
+  },
+  {
+    "id": 215,
+    "question": "Transform into an affirmative sentence: 'He did not fail to recognize me.'",
+    "options": {
+      "a": "He failed to recognize me.",
+      "b": "He recognized me.",
+      "c": "He did recognize me.",
+      "d": "He did not recognize me."
+    },
+    "correct_answer": "b",
+    "explanation": "'Did not fail to' (ব্যর্থ হয়নি) is a double negative which makes a strong affirmative. It means he was successful in recognizing. Therefore, the simple affirmative (হ্যাঁ-সূচক) form is 'He recognized me'."
+  },
+  {
+    "id": 216,
+    "question": "The correct passive form of 'She cooks food for us.' is ---",
+    "options": {
+      "a": "Food is cooked for us by her.",
+      "b": "We are cooked food by her.",
+      "c": "We are cooked food for by her.",
+      "d": "Both A and B"
+    },
+    "correct_answer": "a",
+    "explanation": "This sentence has two objects: 'food' (direct object) and 'us' (indirect object). In passive voice (কর্মবাচ্য), it's more common to make the direct object the subject. So, 'Food is cooked for us by her' is correct. Making 'us' the subject ('We are cooked food by her') is grammatically possible but less natural."
+  },
+  {
+    "id": 217,
+    "question": "Transform into an interrogative sentence: 'Nobody could solve the problem.'",
+    "options": {
+      "a": "Could anybody solve the problem?",
+      "b": "Could nobody solve the problem?",
+      "c": "Who could solve the problem?",
+      "d": "Both A and C"
+    },
+    "correct_answer": "d",
+    "explanation": "A negative statement can be turned into a question in two ways. One is by using 'anybody': 'Could anybody solve the problem?' The other is by using a 'who' question implying a negative answer: 'Who could solve the problem?' (meaning nobody could). Both are correct."
+  },
+  {
+    "id": 218,
+    "question": "Transform into a complex sentence: 'I saw a dead man on the road.'",
+    "options": {
+      "a": "I saw a man and he was dead on the road.",
+      "b": "I saw a man who was dead on the road.",
+      "c": "I saw a man that dead on the road.",
+      "d": "I saw a man on the road and he was dead."
+    },
+    "correct_answer": "b",
+    "explanation": "The simple sentence has an adjective ('dead') modifying the noun 'man'. To make it complex (জটিল), we expand the adjective into an adjective clause. 'I saw a man who was dead on the road' is the correct complex form."
+  },
+  {
+    "id": 219,
+    "question": "Which one is the correct negative form of 'He is sometimes happy.'?",
+    "options": {
+      "a": "He is not sometimes happy.",
+      "b": "He is never happy.",
+      "c": "He is not always happy.",
+      "d": "He is always unhappy."
+    },
+    "correct_answer": "c",
+    "explanation": "'Sometimes' (কখনো কখনো) indicates frequency. Its negative equivalent is 'not always' (সবসময় না). So, 'He is not always happy' correctly transforms the sentence into a negative form."
+  },
+  {
+    "id": 220,
+    "question": "Transform into an exclamatory sentence: 'It is a very important matter.'",
+    "options": {
+      "a": "What a important matter it is!",
+      "b": "What an important matter it is!",
+      "c": "How important matter it is!",
+      "d": "What important matter it is!"
+    },
+    "correct_answer": "b",
+    "explanation": "For a singular countable noun ('matter'), the correct exclamatory (আবেগসূচক) structure is 'What a/an + adjective + noun + subject + verb!' Since 'important' starts with a vowel sound, we use 'an'. So, 'What an important matter it is!' is correct."
+  },
+  {
+    "id": 221,
+    "question": "The correct passive form of 'He hurt me.' is ---",
+    "options": {
+      "a": "I was hurt by him.",
+      "b": "I was hurt with him.",
+      "c": "I am hurt by him.",
+      "d": "I had been hurt by him."
+    },
+    "correct_answer": "a",
+    "explanation": "The verb 'hurt' (আঘাত করা) is regular in its past form. The active sentence is in the simple past tense (অতীত কাল). The passive form is 'was/were + past participle'. So, 'I was hurt by him' is correct."
+  },
+  {
+    "id": 222,
+    "question": "Transform into an affirmative sentence: 'He is not an unkind man.'",
+    "options": {
+      "a": "He is an unkind man.",
+      "b": "He is a kind man.",
+      "c": "He is not a kind man.",
+      "d": "He is cruel."
+    },
+    "correct_answer": "b",
+    "explanation": "'Unkind' (অদয়ালু) is the opposite of 'kind' (দয়ালু). 'Not unkind' (অদয়ালু নয়) means he is kind. Therefore, the affirmative (হ্যাঁ-সূচক) form is 'He is a kind man'."
+  },
+  {
+    "id": 223,
+    "question": "Which one is the correct imperative form of 'You should take exercise regularly.'?",
+    "options": {
+      "a": "Take exercise regularly.",
+      "b": "You take exercise regularly.",
+      "c": "Should take exercise regularly.",
+      "d": "Taking exercise regularly."
+    },
+    "correct_answer": "a",
+    "explanation": "This is a piece of advice. An imperative sentence (অনুজ্ঞাসূচক বাক্য) for advice starts with the base form of the verb. So, 'Take exercise regularly' is the correct transformation."
+  },
+  {
+    "id": 224,
+    "question": "Transform into an interrogative sentence: 'He never tells the truth.'",
+    "options": {
+      "a": "Does he never tell the truth?",
+      "b": "Does he ever tell the truth?",
+      "c": "Tells he the truth never?",
+      "d": "Never does he tell the truth?"
+    },
+    "correct_answer": "b",
+    "explanation": "A negative statement can be turned into an affirmative (হ্যাঁ-সূচক) question. 'Never' (কখনও না) becomes 'ever' (কখনও) in the interrogative. So, 'Does he ever tell the truth?' is the correct form."
+  },
+  {
+    "id": 225,
+    "question": "Transform into a comparative sentence: 'Very few students are as attentive as Rakib.'",
+    "options": {
+      "a": "Rakib is more attentive than most other students.",
+      "b": "Rakib is more attentive than any other student.",
+      "c": "Rakib is the most attentive student.",
+      "d": "No other student is as attentive as Rakib."
+    },
+    "correct_answer": "a",
+    "explanation": "The positive degree (সকারাত্মক) 'as attentive as' with 'Very few' implies Rakib is more attentive than most others. The correct comparative (তুলনামূলক) transformation is 'Rakib is more attentive than most other students'."
+  },
+  {
+    "id": 226,
+    "question": "Transform into a complex sentence: 'He was too tired to continue the work.'",
+    "options": {
+      "a": "He was so tired that he could not continue the work.",
+      "b": "He was very tired to continue the work.",
+      "c": "He was tired and could not continue the work.",
+      "d": "He was tired so he could not continue the work."
+    },
+    "correct_answer": "a",
+    "explanation": "The simple sentence with 'too...to' (অত্যন্ত...যে না) can be transformed into a complex sentence (জটিল বাক্য) using 'so...that...cannot/could not'. 'He was so tired that he could not continue the work' is the correct complex form."
+  },
+  {
+    "id": 227,
+    "question": "The correct passive form of 'She gave me a pen.' is ---",
+    "options": {
+      "a": "I was given a pen by her.",
+      "b": "A pen was given to me by her.",
+      "c": "A pen was given me by her.",
+      "d": "Both A and B"
+    },
+    "correct_answer": "d",
+    "explanation": "This sentence has two objects: 'me' (indirect object) and 'a pen' (direct object). In passive voice (কর্মবাচ্য), either object can become the subject. So, both 'I was given a pen by her' and 'A pen was given to me by her' are correct."
+  },
+  {
+    "id": 228,
+    "question": "Transform into an exclamatory sentence: 'The child is very innocent.'",
+    "options": {
+      "a": "What an innocent child he is!",
+      "b": "How innocent child he is!",
+      "c": "How innocent the child is!",
+      "d": "What innocent child it is!"
+    },
+    "correct_answer": "c",
+    "explanation": "For exclamatory sentences (আবেগসূচক বাক্য) with an adjective, we use 'How' before the adjective. The structure is 'How + adjective + subject + verb!' Here, 'child' is the subject, so 'How innocent the child is!' is correct."
+  },
+  {
+    "id": 229,
+    "question": "Which one is the correct negative form of 'Every cloud has a silver lining.'?",
+    "options": {
+      "a": "Any cloud has a silver lining.",
+      "b": "No cloud has a silver lining.",
+      "c": "There is no cloud but has a silver lining.",
+      "d": "Every cloud does not have a silver lining."
+    },
+    "correct_answer": "c",
+    "explanation": "An affirmative sentence with 'Every' can be made negative (নেতিবাচক) using the structure 'There is no + noun + but + affirmative verb'. 'There is no cloud but has a silver lining' means 'There is no cloud that does not have a silver lining', which is the negative equivalent."
+  },
+  {
+    "id": 230,
+    "question": "Transform into an affirmative sentence: 'He is not an illiterate person.'",
+    "options": {
+      "a": "He is an illiterate person.",
+      "b": "He is a literate person.",
+      "c": "He is not a literate person.",
+      "d": "He is educated."
+    },
+    "correct_answer": "b",
+    "explanation": "'Illiterate' (অশিক্ষিত) is the opposite of 'literate' (শিক্ষিত). 'Not illiterate' (অশিক্ষিত নয়) means he is literate. Therefore, the affirmative (হ্যাঁ-সূচক) form is 'He is a literate person'."
+  },
+  {
+    "id": 231,
+    "question": "The correct passive form of 'He will have finished the work by then.' is ---",
+    "options": {
+      "a": "The work will have been finished by him by then.",
+      "b": "The work will be finished by him by then.",
+      "c": "The work would have been finished by him by then.",
+      "d": "The work has been finished by him by then."
+    },
+    "correct_answer": "a",
+    "explanation": "The active sentence is in the future perfect tense (ভবিষ্যৎ পূর্ণ কাল): 'will have finished'. The passive structure is 'will have been + past participle'. So, 'The work will have been finished by him by then' is correct."
+  },
+  {
+    "id": 232,
+    "question": "Transform into an interrogative sentence: 'He had no money to spare.'",
+    "options": {
+      "a": "Did he have any money to spare?",
+      "b": "Had he any money to spare?",
+      "c": "Did he had any money to spare?",
+      "d": "Both A and B"
+    },
+    "correct_answer": "d",
+    "explanation": "For past tense sentences with 'had' as the main verb, two interrogative forms are possible. The formal one inverts the verb: 'Had he any money to spare?' The more common modern one uses 'did': 'Did he have any money to spare?' Both are acceptable."
+  },
+  {
+    "id": 233,
+    "question": "Transform into a complex sentence: 'I have a friend in America.'",
+    "options": {
+      "a": "I have a friend and he lives in America.",
+      "b": "I have a friend who lives in America.",
+      "c": "I have a friend that in America.",
+      "d": "I have a friend living in America."
+    },
+    "correct_answer": "b",
+    "explanation": "The simple sentence has a prepositional phrase ('in America') modifying the noun 'friend'. To make it complex (জটিল), we expand it into an adjective clause. 'I have a friend who lives in America' is the correct complex form."
+  },
+  {
+    "id": 234,
+    "question": "Which one is the correct compound form of 'Besides being intelligent, he is hardworking.'?",
+    "options": {
+      "a": "He is intelligent and hardworking.",
+      "b": "He is not only intelligent but also hardworking.",
+      "c": "He is intelligent or hardworking.",
+      "d": "He is intelligent, so he is hardworking."
+    },
+    "correct_answer": "b",
+    "explanation": "The prepositional phrase 'Besides being intelligent' indicates addition. In a compound sentence (যৌগিক বাক্য), this is best expressed by the correlative conjunction 'not only...but also'. So, 'He is not only intelligent but also hardworking' is correct."
+  },
+  {
+    "id": 235,
+    "question": "Transform into an exclamatory sentence: 'It is a very pleasant weather.'",
+    "options": {
+      "a": "What a pleasant weather it is!",
+      "b": "How pleasant weather it is!",
+      "c": "How pleasant the weather is!",
+      "d": "What pleasant weather it is!"
+    },
+    "correct_answer": "c",
+    "explanation": "'Weather' is an uncountable noun (অগণনাযোগ্য বিশেষ্য), so we do not use 'a' before it. For exclamatory sentences (আবেগসূচক বাক্য) with an adjective, we use 'How' before the adjective. The structure is 'How + adjective + subject + verb!' So, 'How pleasant the weather is!' is correct."
+  },
+  {
+    "id": 236,
+    "question": "The correct passive form of 'We must endure what we cannot cure.' is ---",
+    "options": {
+      "a": "What cannot be cured must be endured.",
+      "b": "What we cannot cure must be endured.",
+      "c": "What cannot be cured must be endured by us.",
+      "d": "What we cannot cure must be endured by us."
+    },
+    "correct_answer": "a",
+    "explanation": "This is a complex sentence. In the passive transformation (কর্মবাচ্য), the object of 'cure' in the subordinate clause becomes the subject of that clause, and the object of 'endure' becomes the subject of the main clause. The most elegant and common passive form is 'What cannot be cured must be endured'."
+  },
+  {
+    "id": 237,
+    "question": "Transform into an affirmative sentence: 'He has not a little influence.'",
+    "options": {
+      "a": "He has a little influence.",
+      "b": "He has much influence.",
+      "c": "He has little influence.",
+      "d": "He has no influence."
+    },
+    "correct_answer": "b",
+    "explanation": "'Not a little' (কম নয়) is an idiom that means 'much' (প্রচুর). Therefore, the affirmative (হ্যাঁ-সূচক) form of the sentence is 'He has much influence'."
+  },
+  {
+    "id": 238,
+    "question": "Which one is the correct negative form of 'He is always late.'?",
+    "options": {
+      "a": "He is not always late.",
+      "b": "He is never late.",
+      "c": "He is sometimes late.",
+      "d": "He is always not late."
+    },
+    "correct_answer": "b",
+    "explanation": "'Always' (সবসময়) is the opposite of 'never' (কখনও না). Therefore, the negative (নেতিবাচক) transformation of 'He is always late' is 'He is never late'. This changes the meaning to the opposite, which is the purpose of direct negation."
+  },
+  {
+    "id": 239,
+    "question": "Transform into an interrogative sentence: 'None can do this.'",
+    "options": {
+      "a": "Can any do this?",
+      "b": "Can none do this?",
+      "c": "Who can do this?",
+      "d": "Both A and C"
+    },
+    "correct_answer": "d",
+    "explanation": "A negative statement can be turned into a question in two ways. One is by using 'any': 'Can any do this?' The other is by using a 'who' question implying a negative answer: 'Who can do this?' (meaning none can). Both are correct."
+  },
+  {
+    "id": 240,
+    "question": "Transform into a complex sentence: 'He is too honest to take a bribe.'",
+    "options": {
+      "a": "He is so honest that he cannot take a bribe.",
+      "b": "He is very honest to take a bribe.",
+      "c": "He is honest and cannot take a bribe.",
+      "d": "He is honest so he cannot take a bribe."
+    },
+    "correct_answer": "a",
+    "explanation": "The simple sentence with 'too...to' (অত্যন্ত...যে না) can be transformed into a complex sentence (জটিল বাক্য) using 'so...that...cannot/could not'. 'He is so honest that he cannot take a bribe' is the correct complex form."
+  },
+  {
+    "id": 241,
+    "question": "The correct passive form of 'The police arrested the thief.' is ---",
+    "options": {
+      "a": "The thief was arrested by the police.",
+      "b": "The thief is arrested by the police.",
+      "c": "The thief had been arrested by the police.",
+      "d": "The thief was being arrested by the police."
+    },
+    "correct_answer": "a",
+    "explanation": "The active sentence is in the simple past tense (অতীত কাল). The passive form is 'was/were + past participle'. So, 'The thief was arrested by the police' is correct."
+  },
+  {
+    "id": 242,
+    "question": "Transform into an exclamatory sentence: 'It is a very interesting book.'",
+    "options": {
+      "a": "What an interesting book it is!",
+      "b": "How interesting book it is!",
+      "c": "What interesting book it is!",
+      "d": "How a interesting book it is!"
+    },
+    "correct_answer": "a",
+    "explanation": "For a singular countable noun ('book'), the correct exclamatory (আবেগসূচক) structure is 'What a/an + adjective + noun + subject + verb!' Since 'interesting' starts with a vowel sound, we use 'an'. So, 'What an interesting book it is!' is correct."
+  },
+  {
+    "id": 243,
+    "question": "Which one is the correct imperative form of 'You should not be lazy.'?",
+    "options": {
+      "a": "Do not be lazy.",
+      "b": "Not be lazy.",
+      "c": "You do not be lazy.",
+      "d": "Be not lazy."
+    },
+    "correct_answer": "a",
+    "explanation": "This is a piece of advice in the negative. A negative imperative sentence (নেতিবাচক অনুজ্ঞাসূচক বাক্য) with the verb 'be' is formed with 'Do not be' followed by the complement. So, 'Do not be lazy' is correct."
+  },
+  {
+    "id": 244,
+    "question": "Transform into an affirmative sentence: 'He is not a dishonest person.'",
+    "options": {
+      "a": "He is a dishonest person.",
+      "b": "He is an honest person.",
+      "c": "He is not an honest person.",
+      "d": "He is truthful."
+    },
+    "correct_answer": "b",
+    "explanation": "'Dishonest' (অসৎ) is the opposite of 'honest' (সৎ). 'Not dishonest' (অসৎ নয়) means he is honest. Therefore, the affirmative (হ্যাঁ-সূচক) form is 'He is an honest person'."
+  },
+  {
+    "id": 245,
+    "question": "The correct passive form of 'They had completed the project before the deadline.' is ---",
+    "options": {
+      "a": "The project had been completed before the deadline by them.",
+      "b": "The project was completed before the deadline by them.",
+      "c": "The project has been completed before the deadline.",
+      "d": "The project had completed before the deadline."
+    },
+    "correct_answer": "a",
+    "explanation": "The active sentence is in the past perfect tense (অতীত পূর্ণ কাল): 'had completed'. The passive structure is 'had been + past participle'. So, 'The project had been completed before the deadline by them' is correct."
+  },
+  {
+    "id": 246,
+    "question": "Transform into an interrogative sentence: 'None will help you.'",
+    "options": {
+      "a": "Will any help you?",
+      "b": "Will none help you?",
+      "c": "Who will help you?",
+      "d": "Both A and C"
+    },
+    "correct_answer": "d",
+    "explanation": "A negative statement can be turned into a question in two ways. One is by using 'any': 'Will any help you?' The other is by using a 'who' question implying a negative answer: 'Who will help you?' (meaning none will). Both are correct."
+  },
+  {
+    "id": 247,
+    "question": "Transform into a complex sentence: 'I saw a beautiful girl.'",
+    "options": {
+      "a": "I saw a girl and she was beautiful.",
+      "b": "I saw a girl who was beautiful.",
+      "c": "I saw a girl that beautiful.",
+      "d": "I saw a girl was beautiful."
+    },
+    "correct_answer": "b",
+    "explanation": "The simple sentence has an adjective ('beautiful') modifying the noun 'girl'. To make it complex (জটিল), we expand the adjective into an adjective clause. 'I saw a girl who was beautiful' is the correct complex form."
+  },
+  {
+    "id": 248,
+    "question": "Which one is the correct negative form of 'He is always present.'?",
+    "options": {
+      "a": "He is not always present.",
+      "b": "He is never present.",
+      "c": "He is sometimes present.",
+      "d": "He is always not present."
+    },
+    "correct_answer": "b",
+    "explanation": "'Always' (সবসময়) is the opposite of 'never' (কখনও না). Therefore, the negative (নেতিবাচক) transformation of 'He is always present' is 'He is never present'. This changes the meaning to the opposite."
+  },
+  {
+    "id": 249,
+    "question": "Transform into an exclamatory sentence: 'The sky is very clear today.'",
+    "options": {
+      "a": "What a clear sky today is!",
+      "b": "How clear sky today is!",
+      "c": "How clear the sky is today!",
+      "d": "What clear sky it is!"
+    },
+    "correct_answer": "c",
+    "explanation": "For exclamatory sentences (আবেগসূচক বাক্য) with an adjective, we use 'How' before the adjective. The structure is 'How + adjective + subject + verb!' Here, 'sky' is the subject, so 'How clear the sky is today!' is correct."
+  },
+  {
+    "id": 250,
+    "question": "The correct passive form of 'They took him to the hospital.' is ---",
+    "options": {
+      "a": "He was taken to the hospital by them.",
+      "b": "He is taken to the hospital by them.",
+      "c": "He had been taken to the hospital by them.",
+      "d": "He was being taken to the hospital."
+    },
+    "correct_answer": "a",
+    "explanation": "The active sentence is in the simple past tense (অতীত কাল). The passive form is 'was/were + past participle'. So, 'He was taken to the hospital by them' is correct."
+  }
+
+
+
+
+]

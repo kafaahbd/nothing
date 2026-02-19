@@ -1,0 +1,3006 @@
+[
+  {
+    "id": 1,
+    "question": "What is the Bangla meaning of the word 'Abolish'?",
+    "options": {
+      "a": "প্রতিষ্ঠা করা",
+      "b": "বিলুপ্ত করা",
+      "c": "গঠন করা",
+      "d": "ধ্বংস করা"
+    },
+    "correct_answer": "b",
+    "explanation": "The correct Bangla meaning of 'Abolish' is বিলু্ত করা, which means to formally put an end to something. 'প্রতিষ্ঠা করা' (establish) is the opposite, 'গঠন করা' (form) is different, and 'ধ্বংস করা' (destroy) implies physical destruction, not formal ending."
+  },
+  {
+    "id": 2,
+    "question": "Identify the correct Bangla meaning for the word 'Cordial'.",
+    "options": {
+      "a": "অসৌজন্যমূলক",
+      "b": "আন্তরিক",
+      "c": "ঠান্ডা",
+      "d": "উদাসীন"
+    },
+    "correct_answer": "b",
+    "explanation": "'Cordial' means warm and friendly. Its Bangla equivalent is আন্তরিক (heartfelt/sincere). The other options are antonyms: 'অসৌজন্যমূলক' (discourteous), 'ঠান্ডা' (cold), and 'উদাসীন' (indifferent)."
+  },
+  {
+    "id": 3,
+    "question": "What is the Bangla meaning of the word 'Fragile'?",
+    "options": {
+      "a": "শক্তিশালী",
+      "b": "ভঙ্গুর",
+      "c": "স্থিতিস্থাপক",
+      "d": "মজবুত"
+    },
+    "correct_answer": "b",
+    "explanation": "'Fragile' means easily broken or delicate. The Bangla word is ভঙ্গুর (breakable). 'শক্তিশালী' (strong), 'স্থিতিস্থাপক' (resilient), and 'মজবুত' (sturdy) are all antonyms."
+  },
+  {
+    "id": 4,
+    "question": "Choose the correct Bangla translation of the word 'Hazardous'.",
+    "options": {
+      "a": "নিরাপদ",
+      "b": "বিপজ্জনক",
+      "c": "আরামদায়ক",
+      "d": "সহজ"
+    },
+    "correct_answer": "b",
+    "explanation": "'Hazardous' means risky or dangerous. Its Bangla meaning is বিপজ্জনক (dangerous). 'নিরাপদ' (safe), 'আরামদায়ক' (comfortable), and 'সহজ' (easy) are not synonyms."
+  },
+  {
+    "id": 5,
+    "question": "What is the Bangla meaning of the word 'Transparent'?",
+    "options": {
+      "a": "অস্বচ্ছ",
+      "b": "স্বচ্ছ",
+      "c": "ঘোলা",
+      "d": "অন্ধকার"
+    },
+    "correct_answer": "b",
+    "explanation": "'Transparent' means allowing light to pass through so that objects behind can be seen clearly. The Bangla word is স্বচ্ছ (clear/translucent). 'অস্বচ্ছ' (opaque), 'ঘোলা' (cloudy/murky), and 'অন্ধকার' (dark) are opposites."
+  },
+  {
+    "id": 6,
+    "question": "Identify the Bangla meaning of the word 'Vacant'.",
+    "options": {
+      "a": "খালি",
+      "b": "পূর্ণ",
+      "c": "ব্যস্ত",
+      "d": "জনাকীর্ণ"
+    },
+    "correct_answer": "a",
+    "explanation": "'Vacant' means empty or not occupied. The Bangla equivalent is খালি (empty). 'পূর্ণ' (full), 'ব্যস্ত' (busy), and 'জনাকীর্ণ' (crowded) are all opposites."
+  },
+  {
+    "id": 7,
+    "question": "What is the Bangla meaning of the word 'Accept'?",
+    "options": {
+      "a": "গ্রহণ করা",
+      "b": "প্রত্যাখ্যান করা",
+      "c": "অগ্রাহ্য করা",
+      "d": "ফেরত দেওয়া"
+    },
+    "correct_answer": "a",
+    "explanation": "The word 'Accept' means to receive or agree to something. Its Bangla meaning is গ্রহণ করা (to receive/take). 'প্রত্যাখ্যান করা' (reject), 'অগ্রাহ্য করা' (ignore), and 'ফেরত দেওয়া' (return) are antonyms."
+  },
+  {
+    "id": 8,
+    "question": "Choose the correct Bangla meaning for 'Bravery'.",
+    "options": {
+      "a": "কাপুরুষতা",
+      "b": "সাহসিকতা",
+      "c": "ভীরুতা",
+      "d": "দুর্বলতা"
+    },
+    "correct_answer": "b",
+    "explanation": "'Bravery' is the quality of being brave. The Bangla word is সাহসিকতা (courage). 'কাপুরুষতা' (cowardice), 'ভীরুতা' (timidity), and 'দুর্বলতা' (weakness) are all antonyms."
+  },
+  {
+    "id": 9,
+    "question": "What is the Bangla meaning of the word 'Complex'?",
+    "options": {
+      "a": "সরল",
+      "b": "জটিল",
+      "c": "সহজ",
+      "d": "স্পষ্ট"
+    },
+    "correct_answer": "b",
+    "explanation": "'Complex' means consisting of many different and connected parts, and is therefore often difficult to understand. Its Bangla meaning is জটিল (complicated). 'সরল' (simple), 'সহজ' (easy), and 'স্পষ্ট' (clear) are all opposites."
+  },
+  {
+    "id": 10,
+    "question": "Identify the Bangla meaning of the word 'Diligent'.",
+    "options": {
+      "a": "অলস",
+      "b": "পরিশ্রমী",
+      "c": "ঢিলা",
+      "d": "অমনোযোগী"
+    },
+    "correct_answer": "b",
+    "explanation": "'Diligent' means having or showing care and conscientiousness in one's work or duties. The Bangla word is পরিশ্রমী (hardworking). 'অলস' (lazy), 'ঢিলা' (lax), and 'অমনোযোগী' (inattentive) are all opposites."
+  },
+  {
+    "id": 11,
+    "question": "What is the Bangla meaning of the word 'Enormous'?",
+    "options": {
+      "a": "ক্ষুদ্র",
+      "b": "বিশাল",
+      "c": "সংকীর্ণ",
+      "d": "হালকা"
+    },
+    "correct_answer": "b",
+    "explanation": "'Enormous' means very large in size, quantity, or extent. Its Bangla equivalent is বিশাল (huge/immense). 'ক্ষুদ্র' (tiny), 'সংকীর্ণ' (narrow), and 'হালকা' (light) are antonyms or unrelated."
+  },
+  {
+    "id": 12,
+    "question": "Choose the correct Bangla translation of the word 'Generous'.",
+    "options": {
+      "a": "কৃপণ",
+      "b": "স্বার্থপর",
+      "c": "দয়ালু",
+      "d": "উদার"
+    },
+    "correct_answer": "d",
+    "explanation": "'Generous' means showing a readiness to give more of something than is strictly necessary. The Bangla word is উদার (liberal/magnanimous). While 'দয়ালু' (kind) is related, 'উদার' is the most direct translation. 'কৃপণ' (miserly) and 'স্বার্থপর' (selfish) are antonyms."
+  },
+  {
+    "id": 13,
+    "question": "What is the Bangla meaning of the word 'Hostile'?",
+    "options": {
+      "a": "বন্ধুত্বপূর্ণ",
+      "b": "সৌহার্দ্যপূর্ণ",
+      "c": "প্রতিকূল",
+      "d": "সহায়ক"
+    },
+    "correct_answer": "c",
+    "explanation": "'Hostile' means unfriendly or antagonistic. Its Bangla meaning is প্রতিকূল (adverse/unfavorable). 'বন্ধুত্বপূর্ণ' (friendly), 'সৌহার্দ্যপূর্ণ' (cordial), and 'সহায়ক' (helpful) are all antonyms."
+  },
+  {
+    "id": 14,
+    "question": "Identify the Bangla meaning of the word 'Immense'.",
+    "options": {
+      "a": "সীমিত",
+      "b": "অপরিমেয়",
+      "c": "ছোট",
+      "d": "সাধারণ"
+    },
+    "correct_answer": "b",
+    "explanation": "'Immense' means extremely large or great, beyond measure. The Bangla word is অপরিমেয় (immeasurable/boundless). 'সীমিত' (limited), 'ছোট' (small), and 'সাধারণ' (ordinary) are antonyms or unrelated."
+  },
+  {
+    "id": 15,
+    "question": "What is the Bangla meaning of the word 'Jubilant'?",
+    "options": {
+      "a": "বিষণ্ণ",
+      "b": "উল্লসিত",
+      "c": "ক্লান্ত",
+      "d": "রাগান্বিত"
+    },
+    "correct_answer": "b",
+    "explanation": "'Jubilant' means feeling or expressing great happiness and triumph. The Bangla equivalent is উল্লসিত (joyful/exultant). 'বিষণ্ণ' (gloomy), 'ক্লান্ত' (tired), and 'রাগান্বিত' (angry) are all opposites."
+  },
+  {
+    "id": 16,
+    "question": "Choose the correct Bangla meaning for the word 'Keen'.",
+    "options": {
+      "a": "নিস্তেজ",
+      "b": "তীক্ষ্ণ",
+      "c": "অনিচ্ছুক",
+      "d": "ধীর"
+    },
+    "correct_answer": "b",
+    "explanation": "The word 'Keen' can mean having a sharp edge or point, or being very eager or enthusiastic. In the context of sharpness, its Bangla meaning is তীক্ষ্ণ (sharp). 'নিস্তেজ' (dull), 'অনিচ্ছুক' (unwilling), and 'ধীর' (slow) are all opposites."
+  },
+  {
+    "id": 17,
+    "question": "What is the Bangla meaning of the word 'Laborious'?",
+    "options": {
+      "a": "সহজসাধ্য",
+      "b": "কঠোর পরিশ্রমসাধ্য",
+      "c": "আরামদায়ক",
+      "d": "হালকা"
+    },
+    "correct_answer": "b",
+    "explanation": "'Laborious' means requiring considerable time and effort. The Bangla meaning is কঠোর পরিশ্রমসাধ্য (requiring hard labor). 'সহজসাধ্য' (easy to do), 'আরামদায়ক' (comfortable), and 'হালকা' (light) are all opposites."
+  },
+  {
+    "id": 18,
+    "question": "Identify the Bangla meaning of the word 'Meager'.",
+    "options": {
+      "a": "প্রচুর",
+      "b": "স্বল্প",
+      "c": "পর্যাপ্ত",
+      "d": "ঢের"
+    },
+    "correct_answer": "b",
+    "explanation": "'Meager' means lacking in quantity or quality. Its Bangla equivalent is স্বল্প (scanty/insufficient). 'প্রচুর' (abundant), 'পর্যাপ্ত' (sufficient), and 'ঢের' (a lot) are all antonyms."
+  },
+  {
+    "id": 19,
+    "question": "What is the Bangla meaning of the word 'Nourish'?",
+    "options": {
+      "a": "ক্ষুধার্ত রাখা",
+      "b": "পুষ্টি যোগানো",
+      "c": "অপুষ্ট করা",
+      "d": "শুকিয়ে ফেলা"
+    },
+    "correct_answer": "b",
+    "explanation": "The verb 'Nourish' means to provide with the food or other substances necessary for growth, health, and good condition. The Bangla meaning is পুষ্টি যোগানো (to provide nutrition). The other options mean to starve, to undernourish, and to dry out."
+  },
+  {
+    "id": 20,
+    "question": "Choose the correct Bangla translation of the word 'Obscure'.",
+    "options": {
+      "a": "সুস্পষ্ট",
+      "b": "অস্পষ্ট",
+      "c": "প্রখর",
+      "d": "উজ্জ্বল"
+    },
+    "correct_answer": "b",
+    "explanation": "'Obscure' means not discovered or known about, or not clearly understood or expressed. The Bangla word is অস্পষ্ট (unclear/vague). 'সুস্পষ্ট' (clear), 'প্রখর' (intense), and 'উজ্জ্বল' (bright) are all antonyms."
+  },
+  {
+    "id": 21,
+    "question": "What is the Bangla meaning of the word 'Pacify'?",
+    "options": {
+      "a": "শান্ত করা",
+      "b": "উত্তেজিত করা",
+      "c": "ক্রুদ্ধ করা",
+      "d": "বিরক্ত করা"
+    },
+    "correct_answer": "a",
+    "explanation": "To 'Pacify' means to quell the anger, agitation, or excitement of someone. Its Bangla meaning is শান্ত করা (to calm down). The other options, 'উত্তেজিত করা' (excite), 'ক্রুদ্ধ করা' (anger), and 'বিরক্ত করা' (annoy), are all opposites."
+  },
+  {
+    "id": 22,
+    "question": "Identify the Bangla meaning of the word 'Reluctant'.",
+    "options": {
+      "a": "ইচ্ছুক",
+      "b": "অনিচ্ছুক",
+      "c": "উৎসুক",
+      "d": "আগ্রহী"
+    },
+    "correct_answer": "b",
+    "explanation": "'Reluctant' means unwilling and hesitant. The Bangla word is অনিচ্ছুক (unwilling). 'ইচ্ছুক' (willing), 'উৎসুক' (eager), and 'আগ্রহী' (interested) are all antonyms."
+  },
+  {
+    "id": 23,
+    "question": "What is the Bangla meaning of the word 'Scarce'?",
+    "options": {
+      "a": "প্রচুর",
+      "b": "দুর্লভ",
+      "c": "সুলভ",
+      "d": "সাধারণ"
+    },
+    "correct_answer": "b",
+    "explanation": "'Scarce' means insufficient for the demand, or not easily found. Its Bangla meaning is দুর্লভ (rare/hard to get). 'প্রচুর' (abundant), 'সুলভ' (easily available), and 'সাধারণ' (common) are all antonyms."
+  },
+  {
+    "id": 24,
+    "question": "Choose the correct Bangla meaning for the word 'Tenacious'.",
+    "options": {
+      "a": "দুর্বল",
+      "b": "অটল",
+      "c": "ঢিলা",
+      "d": "চঞ্চল"
+    },
+    "correct_answer": "b",
+    "explanation": "'Tenacious' means tending to keep a firm hold of something; clinging or adhering closely, or not easily giving up. The Bangla equivalent is অটল (firm/steadfast). 'দুর্বল' (weak), 'ঢিলা' (loose), and 'চঞ্চল' (fickle) are all antonyms."
+  },
+  {
+    "id": 25,
+    "question": "What is the Bangla meaning of the word 'Utilitarian'?",
+    "options": {
+      "a": "অব্যবহারিক",
+      "b": "উপযোগবাদী",
+      "c": "অলংকারিক",
+      "d": "সৌন্দর্যমূলক"
+    },
+    "correct_answer": "b",
+    "explanation": "'Utilitarian' is an adjective describing something designed to be useful or practical rather than attractive. The Bangla term is উপযোগবাদী (related to utility). 'অব্যবহারিক' (impractical), 'অলংকারিক' (ornamental), and 'সৌন্দর্যমূলক' (aesthetic) are all opposites."
+  },
+  {
+    "id": 26,
+    "question": "Identify the Bangla meaning of the word 'Vivid'.",
+    "options": {
+      "a": "অস্পষ্ট",
+      "b": "ম্লান",
+      "c": "সজীব",
+      "d": "নিস্তেজ"
+    },
+    "correct_answer": "c",
+    "explanation": "'Vivid' means producing powerful feelings or strong, clear images in the mind. It can also mean very bright and intense in color. The Bangla word is সজীব (lively/vibrant). 'অস্পষ্ট' (vague), 'ম্লান' (faint), and 'নিস্তেজ' (dull) are all antonyms."
+  },
+  {
+    "id": 27,
+    "question": "What is the Bangla meaning of the word 'Zeal'?",
+    "options": {
+      "a": "উদাসীনতা",
+      "b": "আগ্রহ",
+      "c": "অনীহা",
+      "d": "নিরুৎসাহ"
+    },
+    "correct_answer": "b",
+    "explanation": "'Zeal' means great energy or enthusiasm in pursuit of a cause or an objective. Its Bangla meaning is আগ্রহ (eagerness/enthusiasm). 'উদাসীনতা' (apathy), 'অনীহা' (unwillingness), and 'নিরুৎসাহ' (discouragement) are all antonyms."
+  },
+  {
+    "id": 28,
+    "question": "Choose the correct Bangla translation of the word 'Wary'.",
+    "options": {
+      "a": "সতর্ক",
+      "b": "অসতর্ক",
+      "c": "বেপরোয়া",
+      "d": "নির্ভরশীল"
+    },
+    "correct_answer": "a",
+    "explanation": "'Wary' means feeling or showing caution about possible dangers or problems. The Bangla word is সতর্ক (cautious). 'অসতর্ক' (incautious), 'বেপরোয়া' (reckless), and 'নির্ভরশীল' (dependent) are not synonyms."
+  },
+  {
+    "id": 29,
+    "question": "What is the Bangla meaning of the word 'Barren'?",
+    "options": {
+      "a": "উর্বর",
+      "b": "অনুর্বর",
+      "c": "সবুজ",
+      "d": "ফলবান"
+    },
+    "correct_answer": "b",
+    "explanation": "'Barren' means (of land) too poor to produce much or any vegetation. Its Bangla equivalent is অনুর্বর (infertile). 'উর্বর' (fertile), 'সবুজ' (green), and 'ফলবান' (fruitful) are all opposites."
+  },
+  {
+    "id": 30,
+    "question": "Identify the Bangla meaning of the word 'Controversial'.",
+    "options": {
+      "a": "সন্দেহাতীত",
+      "b": "বিতর্কিত",
+      "c": "সর্বসম্মত",
+      "d": "নির্দ্বিধায়"
+    },
+    "correct_answer": "b",
+    "explanation": "'Controversial' means giving rise or likely to give rise to public disagreement. The Bangla word is বিতর্কিত (debatable/disputed). 'সন্দেহাতীত' (undoubted), 'সর্বসম্মত' (unanimous), and 'নির্দ্বিধায়' (unhesitating) are all opposites."
+  },
+  {
+    "id": 31,
+    "question": "What is the Bangla meaning of the word 'Eccentric'?",
+    "options": {
+      "a": "স্বাভাবিক",
+      "b": "অদ্ভুত",
+      "c": "সাধারণ",
+      "d": "প্রচলিত"
+    },
+    "correct_answer": "b",
+    "explanation": "'Eccentric' means (of a person or their behavior) unconventional and slightly strange. Its Bangla meaning is অদ্ভুত (odd/peculiar). 'স্বাভাবিক' (normal), 'সাধারণ' (ordinary), and 'প্রচলিত' (conventional) are all antonyms."
+  },
+  {
+    "id": 32,
+    "question": "Choose the correct Bangla meaning for the word 'Fallacy'.",
+    "options": {
+      "a": "সত্য",
+      "b": "যুক্তি",
+      "c": "ভ্রান্তি",
+      "d": "প্রমাণ"
+    },
+    "correct_answer": "c",
+    "explanation": "A 'Fallacy' is a mistaken belief, especially one based on unsound argument. The Bangla word is ভ্রান্তি (error/mistake). 'সত্য' (truth), 'যুক্তি' (logic), and 'প্রমাণ' (proof) are related but not direct meanings."
+  },
+  {
+    "id": 33,
+    "question": "What is the Bangla meaning of the word 'Gratuitous'?",
+    "options": {
+      "a": "প্রয়োজনীয়",
+      "b": "অপ্রয়োজনীয়",
+      "c": "পরিশোধিত",
+      "d": "আর্জিত"
+    },
+    "correct_answer": "b",
+    "explanation": "'Gratuitous' means given or done free of charge, or (more commonly) uncalled for; lacking good reason. In the context of being unwarranted, its Bangla meaning is অপ্রয়োজনীয় (unnecessary). 'প্রয়োজনীয়' (necessary), 'পরিশোধিত' (paid for), and 'আর্জিত' (earned) are all opposites."
+  },
+  {
+    "id": 34,
+    "question": "Identify the Bangla meaning of the word 'Haphazard'.",
+    "options": {
+      "a": "সুসংগঠিত",
+      "b": "এলোমেলো",
+      "c": "পরিকল্পিত",
+      "d": "সুশৃঙ্খল"
+    },
+    "correct_answer": "b",
+    "explanation": "'Haphazard' means lacking any obvious principle of organization. The Bangla word is এলোমেলো (disorderly/random). 'সুসংগঠিত' (well-organized), 'পরিকল্পিত' (planned), and 'সুশৃঙ্খল' (disciplined) are all antonyms."
+  },
+  {
+    "id": 35,
+    "question": "What is the Bangla meaning of the word 'Impeccable'?",
+    "options": {
+      "a": "ত্রুটিপূর্ণ",
+      "b": "নির্দোষ",
+      "c": "দোষী",
+      "d": "খারাপ"
+    },
+    "correct_answer": "b",
+    "explanation": "'Impeccable' means in accordance with the highest standards; faultless. Its Bangla meaning is নির্দোষ (faultless/flawless). 'ত্রুটিপূর্ণ' (faulty), 'দোষী' (guilty), and 'খারাপ' (bad) are all antonyms."
+  },
+  {
+    "id": 36,
+    "question": "Choose the correct Bangla translation of the word 'Lethargic'.",
+    "options": {
+      "a": "সক্রিয়",
+      "b": "অলস",
+      "c": "চটপটে",
+      "d": "উদ্যমী"
+    },
+    "correct_answer": "b",
+    "explanation": "'Lethargic' means affected by lethargy; sluggish and apathetic. The Bangla word is অলস (lazy/inactive). 'সক্রিয়' (active), 'চটপটে' (agile), and 'উদ্যমী' (energetic) are all antonyms."
+  },
+  {
+    "id": 37,
+    "question": "What is the Bangla meaning of the word 'Meticulous'?",
+    "options": {
+      "a": "অসতর্ক",
+      "b": "অসাবধান",
+      "c": "সতর্ক",
+      "d": "ঢিলা"
+    },
+    "correct_answer": "c",
+    "explanation": "'Meticulous' means showing great attention to detail; very careful and precise. Its Bangla equivalent is সতর্ক (careful/cautious), but in the sense of being पूर्ण सतर्क. 'অসতর্ক' (careless), 'অসাবধান' (inattentive), and 'ঢিলা' (lax) are all opposites."
+  },
+  {
+    "id": 38,
+    "question": "Identify the Bangla meaning of the word 'Negligent'.",
+    "options": {
+      "a": "সতর্ক",
+      "b": "যত্নশীল",
+      "c": "অসতর্ক",
+      "d": "মনোযোগী"
+    },
+    "correct_answer": "c",
+    "explanation": "'Negligent' means failing to take proper care in doing something. The Bangla word is অসতর্ক (careless). 'সতর্ক' (careful), 'যত্নশীল' (caring), and 'মনোযোগী' (attentive) are all antonyms."
+  },
+  {
+    "id": 39,
+    "question": "What is the Bangla meaning of the word 'Ominous'?",
+    "options": {
+      "a": "শুভ",
+      "b": "অশুভ",
+      "c": "মঙ্গলজনক",
+      "d": "সুচিহ্ন"
+    },
+    "correct_answer": "b",
+    "explanation": "'Ominous' means giving the worrying impression that something bad is going to happen. Its Bangla meaning is অশুভ (inauspicious/unlucky). 'শুভ' (auspicious), 'মঙ্গলজনক' (beneficial), and 'সুচিহ্ন' (good omen) are all antonyms."
+  },
+  {
+    "id": 40,
+    "question": "Choose the correct Bangla meaning for the word 'Plausible'.",
+    "options": {
+      "a": "অবিশ্বাস্য",
+      "b": "যৌক্তিক",
+      "c": "অসম্ভব",
+      "d": "অগ্রহণযোগ্য"
+    },
+    "correct_answer": "b",
+    "explanation": "'Plausible' means (of an argument or statement) seeming reasonable or probable. The Bangla word is যৌক্তিক (logical/reasonable). 'অবিশ্বাস্য' (unbelievable), 'অসম্ভব' (impossible), and 'অগ্রহণযোগ্য' (unacceptable) are all antonyms."
+  },
+  {
+    "id": 41,
+    "question": "What is the Bangla meaning of the word 'Quaint'?",
+    "options": {
+      "a": "আধুনিক",
+      "b": "অদ্ভুত",
+      "c": "নব্য",
+      "d": "সাধারণ"
+    },
+    "correct_answer": "b",
+    "explanation": "'Quaint' means attractively unusual or old-fashioned. Its Bangla meaning can be অদ্ভুত (strange) but with a charming connotation, or "পুরানো-ঢঙের" (old-style). In this set, অদ্ভুত is the closest. 'আধুনিক' (modern), 'নব্য' (new), and 'সাধারণ' (ordinary) are all opposites."
+  },
+  {
+    "id": 42,
+    "question": "Identify the Bangla meaning of the word 'Resilient'.",
+    "options": {
+      "a": "ভঙ্গুর",
+      "b": "স্থিতিস্থাপক",
+      "c": "দুর্বল",
+      "d": "নাজুক"
+    },
+    "correct_answer": "b",
+    "explanation": "'Resilient' means able to withstand or recover quickly from difficult conditions. The Bangla word is স্থিতিস্থাপক (elastic/able to bounce back). 'ভঙ্গুর' (fragile), 'দুর্বল' (weak), and 'নাজুক' (delicate) are all antonyms."
+  },
+  {
+    "id": 43,
+    "question": "What is the Bangla meaning of the word 'Skeptical'?",
+    "options": {
+      "a": "বিশ্বাসী",
+      "b": "সন্দেহপ্রবণ",
+      "c": "প্রত্যয়ী",
+      "d": "আস্থাবান"
+    },
+    "correct_answer": "b",
+    "explanation": "'Skeptical' means not easily convinced; having doubts or reservations. Its Bangla meaning is সন্দেহপ্রবণ (tending to doubt). 'বিশ্বাসী' (believing), 'প্রত্যয়ী' (convinced), and 'আস্থাবান' (trusting) are all antonyms."
+  },
+  {
+    "id": 44,
+    "question": "Choose the correct Bangla translation of the word 'Tedious'.",
+    "options": {
+      "a": "আকর্ষণীয়",
+      "b": "ক্লান্তিকর",
+      "c": "রোমাঞ্চকর",
+      "d": "উত্তেজনাপূর্ণ"
+    },
+    "correct_answer": "b",
+    "explanation": "'Tedious' means too long, slow, or dull; tiresome or monotonous. The Bangla word is ক্লান্তিকর (tiring/boring). 'আকর্ষণীয়' (attractive), 'রোমাঞ্চকর' (thrilling), and 'উত্তেজনাপূর্ণ' (exciting) are all opposites."
+  },
+  {
+    "id": 45,
+    "question": "What is the Bangla meaning of the word 'Ubiquitous'?",
+    "options": {
+      "a": "দুর্লভ",
+      "b": "সর্বব্যাপী",
+      "c": "অনুপস্থিত",
+      "d": "বিরল"
+    },
+    "correct_answer": "b",
+    "explanation": "'Ubiquitous' means present, appearing, or found everywhere. Its Bangla equivalent is সর্বব্যাপী (omnipresent). 'দুর্লভ' (rare), 'অনুপস্থিত' (absent), and 'বিরল' (rare) are all antonyms."
+  },
+  {
+    "id": 46,
+    "question": "Identify the Bangla meaning of the word 'Venerable'.",
+    "options": {
+      "a": "অসম্মানিত",
+      "b": "শ্রদ্ধেয়",
+      "c": "ঘৃণিত",
+      "d": "তুচ্ছ"
+    },
+    "correct_answer": "b",
+    "explanation": "'Venerable' means accorded a great deal of respect, especially because of age, wisdom, or character. The Bangla word is শ্রদ্ধেয় (respectable). 'অসম্মানিত' (disrespected), 'ঘৃণিত' (hated), and 'তুচ্ছ' (insignificant) are all opposites."
+  },
+  {
+    "id": 47,
+    "question": "What is the Bangla meaning of the word 'Whimsical'?",
+    "options": {
+      "a": "গম্ভীর",
+      "b": "খেয়ালী",
+      "c": "স্থির",
+      "d": "যুক্তিবাদী"
+    },
+    "correct_answer": "b",
+    "explanation": "'Whimsical' means playfully quaint or fanciful, especially in an appealing and amusing way. It can also mean acting according to whim. The Bangla meaning is খেয়ালী (capricious/fickle-minded). 'গম্ভীর' (serious), 'স্থির' (steady), and 'যুক্তিবাদী' (rational) are all opposites."
+  },
+  {
+    "id": 48,
+    "question": "Choose the correct Bangla meaning for the word 'Yearn'.",
+    "options": {
+      "a": "ঘৃণা করা",
+      "b": "ব্যাকুলভাবে কামনা করা",
+      "c": "উপেক্ষা করা",
+      "d": "ত্যাগ করা"
+    },
+    "correct_answer": "b",
+    "explanation": "To 'Yearn' means to have an intense feeling of longing for something, typically something that one has lost or been separated from. The Bangla equivalent is ব্যাকুলভাবে কামনা করা (to desire intensely/long for). The other options mean to hate, to ignore, and to abandon."
+  },
+  {
+    "id": 49,
+    "question": "What is the Bangla meaning of the word 'Zenith'?",
+    "options": {
+      "a": "নিম্নবিন্দু",
+      "b": "চরমউৎকর্ষ",
+      "c": "পতন",
+      "d": "শুরু"
+    },
+    "correct_answer": "b",
+    "explanation": "'Zenith' means the time at which something is most powerful or successful. It is the peak or climax. Its Bangla meaning is চরমউৎকর্ষ (peak of excellence). 'নিম্নবিন্দু' (nadir), 'পতন' (fall), and 'শুরু' (beginning) are all opposites."
+  },
+  {
+    "id": 50,
+    "question": "Identify the Bangla meaning of the word 'Alleviate'.",
+    "options": {
+      "a": "উপশম করা",
+      "b": "বৃদ্ধি করা",
+      "c": "জটিল করা",
+      "d": "তীব্র করা"
+    },
+    "correct_answer": "a",
+    "explanation": "To 'Alleviate' means to make (suffering, deficiency, or a problem) less severe. The Bangla word is উপশম করা (to relieve/mitigate). 'বৃদ্ধি করা' (to increase), 'জটিল করা' (to complicate), and 'তীব্র করা' (to intensify) are all antonyms."
+  },
+  {
+    "id": 51,
+    "question": "What is the Bangla meaning of the word 'Ambiguous'?",
+    "options": {
+      "a": "স্পষ্ট",
+      "b": "দ্ব্যর্থক",
+      "c": "সরল",
+      "d": "নির্দিষ্ট"
+    },
+    "correct_answer": "b",
+    "explanation": "'Ambiguous' means open to more than one interpretation; having a double meaning. Its Bangla equivalent is দ্ব্যর্থক (having double meaning). 'স্পষ্ট' (clear), 'সরল' (simple), and 'নির্দিষ্ট' (specific) are all opposites."
+  },
+  {
+    "id": 52,
+    "question": "Choose the correct Bangla translation of the word 'Benevolent'.",
+    "options": {
+      "a": "দয়ালু",
+      "b": "নিষ্ঠুর",
+      "c": "স্বার্থপর",
+      "d": "অমায়িক"
+    },
+    "correct_answer": "a",
+    "explanation": "'Benevolent' means well-meaning and kindly. The Bangla word is দয়ালু (kind/compassionate). 'নিষ্ঠুর' (cruel) and 'স্বার্থপর' (selfish) are antonyms. 'অমায়িক' (affable) is a synonym but দয়ালু is the most direct translation."
+  },
+  {
+    "id": 53,
+    "question": "What is the Bangla meaning of the word 'Candid'?",
+    "options": {
+      "a": "মিথ্যাবাদী",
+      "b": "অকপট",
+      "c": "কপট",
+      "d": "গোপনীয়"
+    },
+    "correct_answer": "b",
+    "explanation": "'Candid' means truthful and straightforward; frank. Its Bangla meaning is অকপট (frank/open-hearted). 'মিথ্যাবাদী' (liar), 'কপট' (hypocritical), and 'গোপনীয়' (secretive) are all opposites."
+  },
+  {
+    "id": 54,
+    "question": "Identify the Bangla meaning of the word 'Durable'.",
+    "options": {
+      "a": "ক্ষণস্থায়ী",
+      "b": "টেকসই",
+      "c": "ভঙ্গুর",
+      "d": "নশ্বর"
+    },
+    "correct_answer": "b",
+    "explanation": "'Durable' means able to withstand wear, pressure, or damage; long-lasting. The Bangla word is টেকসই (long-lasting/sturdy). 'ক্ষণস্থায়ী' (temporary), 'ভঙ্গুর' (fragile), and 'নশ্বর' (perishable) are all antonyms."
+  },
+  {
+    "id": 55,
+    "question": "What is the Bangla meaning of the word 'Ephemeral'?",
+    "options": {
+      "a": "স্থায়ী",
+      "b": "চিরন্তন",
+      "c": "ক্ষণস্থায়ী",
+      "d": "অমর"
+    },
+    "correct_answer": "c",
+    "explanation": "'Ephemeral' means lasting for a very short time. Its Bangla meaning is ক্ষণস্থায়ী (short-lived/transient). 'স্থায়ী' (permanent), 'চিরন্তন' (eternal), and 'অমর' (immortal) are all antonyms."
+  },
+  {
+    "id": 56,
+    "question": "Choose the correct Bangla meaning for the word 'Facilitate'.",
+    "options": {
+      "a": "বাধা দেওয়া",
+      "b": "সহজতর করা",
+      "c": "জটিল করা",
+      "d": "কঠিন করা"
+    },
+    "correct_answer": "b",
+    "explanation": "To 'Facilitate' means to make an action or process easy or easier. The Bangla word is সহজতর করা (to make easier). 'বাধা দেওয়া' (to obstruct), 'জটিল করা' (to complicate), and 'কঠিন করা' (to make difficult) are all opposites."
+  },
+  {
+    "id": 57,
+    "question": "What is the Bangla meaning of the word 'Gullible'?",
+    "options": {
+      "a": "বিশ্বাসী",
+      "b": "সন্দেহপ্রবণ",
+      "c": "সরল",
+      "d": "প্রতারক"
+    },
+    "correct_answer": "a",
+    "explanation": "'Gullible' means easily persuaded to believe something; credulous. Its Bangla meaning is বিশ্বাসী (trusting/credulous). 'সন্দেহপ্রবণ' (skeptical) is the antonym. 'সরল' (simple) is related but বিশ্বাসী is more precise. 'প্রতারক' (cheater) is opposite."
+  },
+  {
+    "id": 58,
+    "question": "Identify the Bangla meaning of the word 'Hinder'.",
+    "options": {
+      "a": "সাহায্য করা",
+      "b": "বাধা দেওয়া",
+      "c": "গতি বাড়ানো",
+      "d": "উন্নতি করা"
+    },
+    "correct_answer": "b",
+    "explanation": "To 'Hinder' means to make it difficult for someone to do something or for something to happen. The Bangla word is বাধা দেওয়া (to obstruct). 'সাহায্য করা' (to help), 'গতি বাড়ানো' (to speed up), and 'উন্নতি করা' (to improve) are all opposites."
+  },
+  {
+    "id": 59,
+    "question": "What is the Bangla meaning of the word 'Inevitable'?",
+    "options": {
+      "a": "অনিবার্য",
+      "b": "এড়ানো যায়",
+      "c": "পরিবর্তনযোগ্য",
+      "d": "ঐচ্ছিক"
+    },
+    "correct_answer": "a",
+    "explanation": "'Inevitable' means certain to happen; unavoidable. Its Bangla meaning is অনিবার্য (unavoidable). 'এড়ানো যায়' (avoidable), 'পরিবর্তনযোগ্য' (changeable), and 'ঐচ্ছিক' (optional) are all opposites."
+  },
+  {
+    "id": 60,
+    "question": "Choose the correct Bangla translation of the word 'Jeopardize'.",
+    "options": {
+      "a": "রক্ষা করা",
+      "b": "বিপদে ফেলা",
+      "c": "নিরাপদ রাখা",
+      "d": "নিশ্চিত করা"
+    },
+    "correct_answer": "b",
+    "explanation": "To 'Jeopardize' means to put someone or something into a situation in which there is a danger of loss, harm, or failure. The Bangla word is বিপদে ফেলা (to put in danger). 'রক্ষা করা' (to protect), 'নিরাপদ রাখা' (to keep safe), and 'নিশ্চিত করা' (to ensure) are all opposites."
+  },
+  {
+    "id": 61,
+    "question": "What is the Bangla meaning of the word 'Knell'?",
+    "options": {
+      "a": "শুভ সূচনা",
+      "b": "মৃত্যুর ঘণ্টা",
+      "c": "বিয়ের বাদ্য",
+      "d": "উৎসবের ধ্বনি"
+    },
+    "correct_answer": "b",
+    "explanation": "'Knell' is the sound of a bell, especially when rung solemnly for a death or funeral. Its Bangla meaning is মৃত্যুর ঘণ্টা (death bell). The other options refer to sounds of celebration or good beginnings, which are the opposite in connotation."
+  },
+  {
+    "id": 62,
+    "question": "Identify the Bangla meaning of the word 'Lucid'.",
+    "options": {
+      "a": "অস্পষ্ট",
+      "b": "স্পষ্টবাদী",
+      "c": "জটিল",
+      "d": "দুর্বোধ্য"
+    },
+    "correct_answer": "b",
+    "explanation": "'Lucid' means expressed clearly; easy to understand. The Bangla word is স্পষ্টবাদী (clear-speaking/clear). 'অস্পষ্ট' (unclear), 'জটিল' (complex), and 'দুর্বোধ্য' (incomprehensible) are all antonyms."
+  },
+  {
+    "id": 63,
+    "question": "What is the Bangla meaning of the word 'Mundane'?",
+    "options": {
+      "a": "অসাধারণ",
+      "b": "স্বাভাবিক",
+      "c": "পার্থিব",
+      "d": "অলৌকিক"
+    },
+    "correct_answer": "c",
+    "explanation": "'Mundane' means lacking interest or excitement; dull, or relating to the ordinary world. Its Bangla meaning is পার্থিব (worldly/earthly). 'অসাধারণ' (extraordinary) and 'অলৌকিক' (supernatural) are opposites. 'স্বাভাবিক' (normal) is related but পার্থিব is more specific."
+  },
+  {
+    "id": 64,
+    "question": "Choose the correct Bangla meaning for the word 'Novice'.",
+    "options": {
+      "a": "বিশেষজ্ঞ",
+      "b": "অভিজ্ঞ",
+      "c": "নবীন",
+      "d": "পুরনো"
+    },
+    "correct_answer": "c",
+    "explanation": "A 'Novice' is a person new to or inexperienced in a field or situation. The Bangla word is নবীন (beginner/newcomer). 'বিশেষজ্ঞ' (expert), 'অভিজ্ঞ' (experienced), and 'পুরনো' (old) are all opposites."
+  },
+  {
+    "id": 65,
+    "question": "What is the Bangla meaning of the word 'Obedient'?",
+    "options": {
+      "a": "অমান্যকারী",
+      "b": "বাধ্য",
+      "c": "বিদ্রোহী",
+      "d": "উচ্ছৃঙ্খল"
+    },
+    "correct_answer": "b",
+    "explanation": "'Obedient' means complying or willing to comply with an order or request; submissive to authority. Its Bangla meaning is বাধ্য (obedient). 'অমান্যকারী' (disobedient), 'বিদ্রোহী' (rebellious), and 'উচ্ছৃঙ্খল' (disorderly) are all antonyms."
+  },
+  {
+    "id": 66,
+    "question": "Identify the Bangla meaning of the word 'Pessimistic'.",
+    "options": {
+      "a": "আশাবাদী",
+      "b": "হতাশাবাদী",
+      "c": "উদ্যমী",
+      "d": "প্রফুল্ল"
+    },
+    "correct_answer": "b",
+    "explanation": "'Pessimistic' means tending to see the worst aspect of things or believe that the worst will happen. The Bangla word is হতাশাবাদী (negative/despairing). 'আশাবাদী' (optimistic), 'উদ্যমী' (energetic), and 'প্রফুল্ল' (cheerful) are all antonyms."
+  },
+  {
+    "id": 67,
+    "question": "What is the Bangla meaning of the word 'Quiescent'?",
+    "options": {
+      "a": "সক্রিয়",
+      "b": "নিস্তব্ধ",
+      "c": "উত্তেজিত",
+      "d": "ব্যস্ত"
+    },
+    "correct_answer": "b",
+    "explanation": "'Quiescent' means in a state or period of inactivity or dormancy. Its Bangla meaning is নিস্তব্ধ (still/silent/inactive). 'সক্রিয়' (active), 'উত্তেজিত' (excited), and 'ব্যস্ত' (busy) are all opposites."
+  },
+  {
+    "id": 68,
+    "question": "Choose the correct Bangla translation of the word 'Revere'.",
+    "options": {
+      "a": "অপমান করা",
+      "b": "শ্রদ্ধা করা",
+      "c": "ঘৃণা করা",
+      "d": "উপেক্ষা করা"
+    },
+    "correct_answer": "b",
+    "explanation": "To 'Revere' means to feel deep respect or admiration for something. The Bangla word is শ্রদ্ধা করা (to respect). 'অপমান করা' (to insult), 'ঘৃণা করা' (to hate), and 'উপেক্ষা করা' (to ignore) are all opposites."
+  },
+  {
+    "id": 69,
+    "question": "What is the Bangla meaning of the word 'Sullen'?",
+    "options": {
+      "a": "প্রফুল্ল",
+      "b": "বিষণ্ণ",
+      "c": "উল্লসিত",
+      "d": "বন্ধুত্বপূর্ণ"
+    },
+    "correct_answer": "b",
+    "explanation": "'Sullen' means bad-tempered and sulky; gloomy. Its Bangla meaning is বিষণ্ণ (gloomy/morose). 'প্রফুল্ল' (cheerful), 'উল্লসিত' (joyful), and 'বন্ধুত্বপূর্ণ' (friendly) are all antonyms."
+  },
+  {
+    "id": 70,
+    "question": "Identify the Bangla meaning of the word 'Taciturn'.",
+    "options": {
+      "a": "বাচাল",
+      "b": "মিতভাষী",
+      "c": "আলাপী",
+      "d": "সুরেলা"
+    },
+    "correct_answer": "b",
+    "explanation": "'Taciturn' means reserved or uncommunicative in speech; saying little. The Bangla word is মিতভাষী (speaking little). 'বাচাল' (talkative) and 'আলাপী' (conversational) are antonyms. 'সুরেলা' (melodious) is unrelated."
+  },
+  {
+    "id": 71,
+    "question": "What is the Bangla meaning of the word 'Uphold'?",
+    "options": {
+      "a": "ধ্বংস করা",
+      "b": "সমর্থন করা",
+      "c": "বিরোধিতা করা",
+      "d": "পতন ঘটানো"
+    },
+    "correct_answer": "b",
+    "explanation": "To 'Uphold' means to confirm or support something that is in accordance with a principle or law. Its Bangla meaning is সমর্থন করা (to support). 'ধ্বংস করা' (to destroy), 'বিরোধিতা করা' (to oppose), and 'পতন ঘটানো' (to cause downfall) are all opposites."
+  },
+  {
+    "id": 72,
+    "question": "Choose the correct Bangla meaning for the word 'Vex'.",
+    "options": {
+      "a": "শান্ত করা",
+      "b": "বিরক্ত করা",
+      "c": "আনন্দ দেওয়া",
+      "d": "সান্ত্বনা দেওয়া"
+    },
+    "correct_answer": "b",
+    "explanation": "To 'Vex' means to make someone feel annoyed, frustrated, or worried. The Bangla word is বিরক্ত করা (to annoy/irritate). 'শান্ত করা' (to calm), 'আনন্দ দেওয়া' (to please), and 'সান্ত্বনা দেওয়া' (to console) are all opposites."
+  },
+  {
+    "id": 73,
+    "question": "What is the Bangla meaning of the word 'Wither'?",
+    "options": {
+      "a": "ফুলে ওঠা",
+      "b": "শুকিয়ে যাওয়া",
+      "c": "বেড়ে ওঠা",
+      "d": "প্রস্ফুটিত হওয়া"
+    },
+    "correct_answer": "b",
+    "explanation": "To 'Wither' means to become dry and shriveled, especially of a plant. Its Bangla meaning is শুকিয়ে যাওয়া (to dry up/shrivel). 'ফুলে ওঠা' (to swell), 'বেড়ে ওঠা' (to grow), and 'প্রস্ফুটিত হওয়া' (to bloom) are all opposites."
+  },
+  {
+    "id": 74,
+    "question": "Identify the Bangla meaning of the word 'Yield'.",
+    "options": {
+      "a": "প্রতিরোধ করা",
+      "b": "ফল দেওয়া",
+      "c": "আটকানো",
+      "d": "থামানো"
+    },
+    "correct_answer": "b",
+    "explanation": "'Yield' has multiple meanings. One common meaning is to produce or provide (a natural, agricultural, or industrial product). In this sense, its Bangla meaning is ফল দেওয়া (to produce fruit/result). 'প্রতিরোধ করা' (to resist), 'আটকানো' (to stop), and 'থামানো' (to halt) are opposites."
+  },
+  {
+    "id": 75,
+    "question": "What is the Bangla meaning of the word 'Abandon'?",
+    "options": {
+      "a": "আশ্রয় দেওয়া",
+      "b": "পরিত্যাগ করা",
+      "c": "লালন করা",
+      "d": "যত্ন নেওয়া"
+    },
+    "correct_answer": "b",
+    "explanation": "To 'Abandon' means to leave someone or something permanently or to give up completely. Its Bangla meaning is পরিত্যাগ করা (to desert/forsake). 'আশ্রয় দেওয়া' (to shelter), 'লালন করা' (to nurture), and 'যত্ন নেওয়া' (to take care of) are all antonyms."
+  },
+  {
+    "id": 76,
+    "question": "Choose the correct Bangla translation of the word 'Barrier'.",
+    "options": {
+      "a": "পথ",
+      "b": "প্রতিবন্ধক",
+      "c": "সহায়ক",
+      "d": "দ্বার"
+    },
+    "correct_answer": "b",
+    "explanation": "A 'Barrier' is a fence or other obstacle that prevents movement or access. The Bangla word is প্রতিবন্ধক (obstacle). 'পথ' (path), 'সহায়ক' (helper), and 'দ্বার' (door) are not synonyms."
+  },
+  {
+    "id": 77,
+    "question": "What is the Bangla meaning of the word 'Cease'?",
+    "options": {
+      "a": "শুরু করা",
+      "b": "বন্ধ করা",
+      "c": "চালিয়ে যাওয়া",
+      "d": "জারি রাখা"
+    },
+    "correct_answer": "b",
+    "explanation": "To 'Cease' means to come or bring to an end. Its Bangla meaning is বন্ধ করা (to stop/end). 'শুরু করা' (to start), 'চালিয়ে যাওয়া' (to continue), and 'জারি রাখা' (to keep in force) are all opposites."
+  },
+  {
+    "id": 78,
+    "question": "Identify the Bangla meaning of the word 'Defy'.",
+    "options": {
+      "a": "মেনে চলা",
+      "b": "অমান্য করা",
+      "c": "সম্মান করা",
+      "d": "শ্রদ্ধা করা"
+    },
+    "correct_answer": "b",
+    "explanation": "To 'Defy' means to openly resist or refuse to obey. The Bangla word is অমান্য করা (to disobey). 'মেনে চলা' (to obey), 'সম্মান করা' (to respect), and 'শ্রদ্ধা করা' (to revere) are all antonyms."
+  },
+  {
+    "id": 79,
+    "question": "What is the Bangla meaning of the word 'Eager'?",
+    "options": {
+      "a": "অনিচ্ছুক",
+      "b": "উৎসুক",
+      "c": "নিরুৎসাহ",
+      "d": "অাগ্রহহীন"
+    },
+    "correct_answer": "b",
+    "explanation": "'Eager' means strongly wanting to do or have something. Its Bangla meaning is উৎসুক (keen/enthusiastic). 'অনিচ্ছুক' (unwilling), 'নিরুৎসাহ' (discouraged), and 'অাগ্রহহীন' (disinterested) are all antonyms."
+  },
+  {
+    "id": 80,
+    "question": "Choose the correct Bangla meaning for the word 'Futile'.",
+    "options": {
+      "a": "সার্থক",
+      "b": "নিষ্ফল",
+      "c": "সফল",
+      "d": "গুরুত্বপূর্ণ"
+    },
+    "correct_answer": "b",
+    "explanation": "'Futile' means incapable of producing any useful result; pointless. The Bangla word is নিষ্ফল (fruitless). 'সার্থক' (meaningful), 'সফল' (successful), and 'গুরুত্বপূর্ণ' (important) are all opposites."
+  },
+  {
+    "id": 81,
+    "question": "What is the Bangla meaning of the word 'Gloomy'?",
+    "options": {
+      "a": "উজ্জ্বল",
+      "b": "অন্ধকার",
+      "c": "আলোকিত",
+      "d": "প্রফুল্ল"
+    },
+    "correct_answer": "b",
+    "explanation": "'Gloomy' means dark or poorly lit, especially so as to appear depressing or frightening. It can also mean causing or feeling depression. Its Bangla meaning is অন্ধকার (dark) or "বিষণ্ণ" (sad). In this set, অন্ধকার is the best fit. 'উজ্জ্বল' (bright), 'আলোকিত' (lighted), and 'প্রফুল্ল' (cheerful) are antonyms."
+  },
+  {
+    "id": 82,
+    "question": "Identify the Bangla meaning of the word 'Hostility'.",
+    "options": {
+      "a": "বন্ধুত্ব",
+      "b": "শত্রুতা",
+      "c": "সৌহার্দ্য",
+      "d": "প্রীতি"
+    },
+    "correct_answer": "b",
+    "explanation": "'Hostility' means unfriendly or antagonistic behavior. The Bangla word is শত্রুতা (enmity). 'বন্ধুত্ব' (friendship), 'সৌহার্দ্য' (cordiality), and 'প্রীতি' (affection) are all antonyms."
+  },
+  {
+    "id": 83,
+    "question": "What is the Bangla meaning of the word 'Imitate'?",
+    "options": {
+      "a": "সৃষ্টি করা",
+      "b": "অনুকরণ করা",
+      "c": "উদ্ভাবন করা",
+      "d": "অনুপ্রেরণা দেওয়া"
+    },
+    "correct_answer": "b",
+    "explanation": "To 'Imitate' means to take or follow as a model; to copy. Its Bangla meaning is অনুকরণ করা (to copy). 'সৃষ্টি করা' (to create), 'উদ্ভাবন করা' (to invent), and 'অনুপ্রেরণা দেওয়া' (to inspire) are all related to originality, not imitation."
+  },
+  {
+    "id": 84,
+    "question": "Choose the correct Bangla translation of the word 'Jovial'.",
+    "options": {
+      "a": "বিষণ্ণ",
+      "b": "হাসিখুশি",
+      "c": "রাগান্বিত",
+      "d": "গম্ভীর"
+    },
+    "correct_answer": "b",
+    "explanation": "'Jovial' means cheerful and friendly. The Bangla word is হাসিখুশি (cheerful). 'বিষণ্ণ' (gloomy), 'রাগান্বিত' (angry), and 'গম্ভীর' (serious) are all antonyms."
+  },
+  {
+    "id": 85,
+    "question": "What is the Bangla meaning of the word 'Kindle'?",
+    "options": {
+      "a": "নেভানো",
+      "b": "জ্বালানো",
+      "c": "ঠান্ডা করা",
+      "d": "শান্ত করা"
+    },
+    "correct_answer": "b",
+    "explanation": "To 'Kindle' means to light or set on fire. It can also mean to arouse or inspire an emotion. Its Bangla meaning is জ্বালানো (to ignite). 'নেভানো' (to extinguish), 'ঠান্ডা করা' (to cool), and 'শান্ত করা' (to calm) are all opposites."
+  },
+  {
+    "id": 86,
+    "question": "Identify the Bangla meaning of the word 'Lament'.",
+    "options": {
+      "a": "আনন্দ করা",
+      "b": "বিলাপ করা",
+      "c": "হাসা",
+      "d": "উদযাপন করা"
+    },
+    "correct_answer": "b",
+    "explanation": "To 'Lament' means to mourn or express sorrow, regret, or disappointment about something. The Bangla word is বিলাপ করা (to mourn/wail). 'আনন্দ করা' (to rejoice), 'হাসা' (to laugh), and 'উদযাপন করা' (to celebrate) are all opposites."
+  },
+  {
+    "id": 87,
+    "question": "What is the Bangla meaning of the word 'Mollify'?",
+    "options": {
+      "a": "উত্তেজিত করা",
+      "b": "শান্ত করা",
+      "c": "ক্রুদ্ধ করা",
+      "d": "বিরক্ত করা"
+    },
+    "correct_answer": "b",
+    "explanation": "To 'Mollify' means to appease the anger or anxiety of someone. Its Bangla meaning is শান্ত করা (to calm/soothe). 'উত্তেজিত করা' (to excite), 'ক্রুদ্ধ করা' (to anger), and 'বিরক্ত করা' (to annoy) are all opposites."
+  },
+  {
+    "id": 88,
+    "question": "Choose the correct Bangla meaning for the word 'Nimble'.",
+    "options": {
+      "a": "ধীর",
+      "b": "চটপটে",
+      "c": "অলস",
+      "d": "জড়"
+    },
+    "correct_answer": "b",
+    "explanation": "'Nimble' means quick and light in movement or action. The Bangla word is চটপটে (agile/quick). 'ধীর' (slow), 'অলস' (lazy), and 'জড়' (inert) are all opposites."
+  },
+  {
+    "id": 89,
+    "question": "What is the Bangla meaning of the word 'Ostracize'?",
+    "options": {
+      "a": "স্বাগত জানানো",
+      "b": "বহিষ্কার করা",
+      "c": "অন্তর্ভুক্ত করা",
+      "d": "গ্রহণ করা"
+    },
+    "correct_answer": "b",
+    "explanation": "To 'Ostracize' means to exclude someone from a society or group. Its Bangla meaning is বহিষ্কার করা (to expel/exclude). 'স্বাগত জানানো' (to welcome), 'অন্তর্ভুক্ত করা' (to include), and 'গ্রহণ করা' (to accept) are all opposites."
+  },
+  {
+    "id": 90,
+    "question": "Identify the Bangla meaning of the word 'Pensive'.",
+    "options": {
+      "a": "চিন্তাশীল",
+      "b": "উদাসীন",
+      "c": "হালকা মেজাজের",
+      "d": "অমনােযোগী"
+    },
+    "correct_answer": "a",
+    "explanation": "'Pensive' means engaged in, involving, or reflecting deep or serious thought. The Bangla word is চিন্তাশীল (thoughtful/contemplative). 'উদাসীন' (indifferent), 'হালকা মেজাজের' (light-hearted), and 'অমনােযোগী' (inattentive) are all opposites."
+  },
+  {
+    "id": 91,
+    "question": "What is the Bangla meaning of the word 'Quell'?",
+    "options": {
+      "a": "শান্ত করা",
+      "b": "উত্তেজিত করা",
+      "c": "প্ররোচিত করা",
+      "d": "জাগানো"
+    },
+    "correct_answer": "a",
+    "explanation": "To 'Quell' means to put an end to a disorder or平息 an emotion, typically by the use of force or authority. Its Bangla meaning is শান্ত করা (to suppress/calm). 'উত্তেজিত করা' (to excite), 'প্ররোচিত করা' (to provoke), and 'জাগানো' (to awaken) are all opposites."
+  },
+  {
+    "id": 92,
+    "question": "Choose the correct Bangla translation of the word 'Rancorous'.",
+    "options": {
+      "a": "ক্ষমাশীল",
+      "b": "বিদ্বেষপূর্ণ",
+      "c": "মধুর",
+      "d": "বন্ধুত্বপূর্ণ"
+    },
+    "correct_answer": "b",
+    "explanation": "'Rancorous' means characterized by bitterness or resentfulness, especially long-standing. The Bangla word is বিদ্বেষপূর্ণ (full of malice). 'ক্ষমাশীল' (forgiving), 'মধুর' (sweet), and 'বন্ধুত্বপূর্ণ' (friendly) are all antonyms."
+  },
+  {
+    "id": 93,
+    "question": "What is the Bangla meaning of the word 'Sporadic'?",
+    "options": {
+      "a": "নিয়মিত",
+      "b": "মাঝে মাঝে",
+      "c": "অবিরাম",
+      "d": "ধারাবাহিক"
+    },
+    "correct_answer": "b",
+    "explanation": "'Sporadic' means occurring at irregular intervals or only in a few places; scattered or isolated. Its Bangla meaning is মাঝে মাঝে (occasional/intermittent). 'নিয়মিত' (regular), 'অবিরাম' (continuous), and 'ধারাবাহিক' (consistent) are all antonyms."
+  },
+  {
+    "id": 94,
+    "question": "Identify the Bangla meaning of the word 'Tranquil'.",
+    "options": {
+      "a": "অশান্ত",
+      "b": "শান্ত",
+      "c": "ক্ষুব্ধ",
+      "d": "বিক্ষুব্ধ"
+    },
+    "correct_answer": "b",
+    "explanation": "'Tranquil' means free from disturbance; calm. The Bangla word is শান্ত (peaceful/calm). 'অশান্ত' (turbulent), 'ক্ষুব্ধ' (agitated), and 'বিক্ষুব্ধ' (disturbed) are all antonyms."
+  },
+  {
+    "id": 95,
+    "question": "What is the Bangla meaning of the word 'Uncanny'?",
+    "options": {
+      "a": "স্বাভাবিক",
+      "b": "অলৌকিক",
+      "c": "সাধারণ",
+      "d": "সহজ"
+    },
+    "correct_answer": "b",
+    "explanation": "'Uncanny' means strange or mysterious, especially in an unsettling way. Its Bangla meaning is অলৌকিক (supernatural/eerie). 'স্বাভাবিক' (natural), 'সাধারণ' (ordinary), and 'সহজ' (easy) are all antonyms."
+  },
+  {
+    "id": 96,
+    "question": "Choose the correct Bangla meaning for the word 'Voracious'.",
+    "options": {
+      "a": "ক্ষুধার্ত",
+      "b": "তৃপ্ত",
+      "c": "স্বল্পাহারী",
+      "d": "নিরামিষাশী"
+    },
+    "correct_answer": "a",
+    "explanation": "'Voracious' means wanting or devouring great quantities of food. It can also mean having a very eager approach to an activity. The Bangla word is ক্ষুধার্ত (hungry) but in the sense of "অতিশয় খাদ্যত্সুক". 'তৃপ্ত' (satiated), 'স্বল্পাহারী' (one who eats little), and 'নিরামিষাশী' (vegetarian) are all unrelated or opposites."
+  },
+  {
+    "id": 97,
+    "question": "What is the Bangla meaning of the word 'Wince'?",
+    "options": {
+      "a": "স্থির থাকা",
+      "b": "সংকুচিত হওয়া",
+      "c": "হাসি দেওয়া",
+      "d": "চিৎকার করা"
+    },
+    "correct_answer": "b",
+    "explanation": "To 'Wince' means to make a slight involuntary grimace or shrinking movement of the body out of pain or distress. Its Bangla meaning is সংকুচিত হওয়া (to flinch/shrink back). 'স্থির থাকা' (to stay still), 'হাসি দেওয়া' (to smile), and 'চিৎকার করা' (to shout) are not synonyms."
+  },
+  {
+    "id": 98,
+    "question": "Identify the Bangla meaning of the word 'Xenophobia'.",
+    "options": {
+      "a": "অতিথিপরায়ণতা",
+      "b": "বিদেশীভীতি",
+      "c": "স্বদেশপ্রেম",
+      "d": "মানবপ্রেম"
+    },
+    "correct_answer": "b",
+    "explanation": "'Xenophobia' is the dislike of or prejudice against people from other countries. The Bangla term is বিদেশীভীতি (fear/hatred of foreigners). 'অতিথিপরায়ণতা' (hospitality), 'স্বদেশপ্রেম' (patriotism), and 'মানবপ্রেম' (philanthropy) are all positive and opposite in sentiment."
+  },
+  {
+    "id": 99,
+    "question": "What is the Bangla meaning of the word 'Yawn'?",
+    "options": {
+      "a": "হাই তোলা",
+      "b": "ঘুম আসা",
+      "c": "চোখ খোলা",
+      "d": "শ্বাস নেওয়া"
+    },
+    "correct_answer": "a",
+    "explanation": "To 'Yawn' means to involuntarily open one's mouth wide and inhale deeply due to tiredness or boredom. Its Bangla meaning is হাই তোলা (to yawn). The other options describe related but different actions: feeling sleepy, opening eyes, and breathing."
+  },
+  {
+  "id": 100,
+  "question": "Choose the correct Bangla translation of the word 'Zealous'.",
+  "options": {
+    "a": "উদাসীন",
+    "b": "উদ্যমী",
+    "c": "নিরুৎসাহ",
+    "d": "অনীহ"
+  },
+  "correct_answer": "b",
+  "explanation": "'Zealous' means having or showing great energy or enthusiasm in pursuit of a cause or objective. The Bangla word is উদ্যমী (enthusiastic/energetic). 'উদাসীন' means indifferent, 'নিরুৎসাহ' means discouraged, and 'অনীহ' means lack of interest."
+  },
+  {
+    "id": 101,
+    "question": "What is the Bangla meaning of the word 'Adamant'?",
+    "options": {
+      "a": "নমনীয়",
+      "b": "অনমনীয়",
+      "c": "দোলায়মান",
+      "d": "পরিবর্তনশীল"
+    },
+    "correct_answer": "b",
+    "explanation": "'Adamant' means refusing to be persuaded or to change one's mind. Its Bangla meaning is অনমনীয় (inflexible/unyielding). 'নমনীয়' (flexible), 'দোলায়মান' (wavering), and 'পরিবর্তনশীল' (changeable) are all antonyms."
+  },
+  {
+    "id": 102,
+    "question": "Identify the Bangla meaning of the word 'Belligerent'.",
+    "options": {
+      "a": "শান্তিপ্রিয়",
+      "b": "যুদ্ধপ্রিয়",
+      "c": "মিত্র",
+      "d": "সহযোগী"
+    },
+    "correct_answer": "b",
+    "explanation": "'Belligerent' means hostile and aggressive. The Bangla word is যুদ্ধপ্রিয় (warlike/aggressive). 'শান্তিপ্রিয়' (peace-loving), 'মিত্র' (ally), and 'সহযোগী' (cooperative) are all antonyms."
+  },
+  {
+    "id": 103,
+    "question": "What is the Bangla meaning of the word 'Cumbersome'?",
+    "options": {
+      "a": "হালকা",
+      "b": "বোঝাই",
+      "c": "সহজ",
+      "d": "আরামদায়ক"
+    },
+    "correct_answer": "b",
+    "explanation": "'Cumbersome' means large or heavy and therefore difficult to carry or use; unwieldy. Its Bangla meaning is বোঝাই (burdensome/heavy). 'হালকা' (light), 'সহজ' (easy), and 'আরামদায়ক' (comfortable) are all opposites."
+  },
+  {
+    "id": 104,
+    "question": "Choose the correct Bangla meaning for the word 'Devious'.",
+    "options": {
+      "a": "সৎ",
+      "b": "কুটিল",
+      "c": "সরল",
+      "d": "খোলামেলা"
+    },
+    "correct_answer": "b",
+    "explanation": "'Devious' means showing a skillful use of underhanded tactics to achieve goals. The Bangla word is কুটিল (cunning/dishonest). 'সৎ' (honest), 'সরল' (simple/straightforward), and 'খোলামেলা' (open) are all antonyms."
+  },
+  {
+    "id": 105,
+    "question": "What is the Bangla meaning of the word 'Exuberant'?",
+    "options": {
+      "a": "নিস্তেজ",
+      "b": "উচ্ছল",
+      "c": "হতাশ",
+      "d": "ক্লান্ত"
+    },
+    "correct_answer": "b",
+    "explanation": "'Exuberant' means filled with or characterized by a lively energy and excitement. Its Bangla meaning is উচ্ছল (ebullient/cheerful). 'নিস্তেজ' (dull), 'হতাশ' (disappointed), and 'ক্লান্ত' (tired) are all opposites."
+  },
+  {
+    "id": 106,
+    "question": "Identify the Bangla meaning of the word 'Ferocious'.",
+    "options": {
+      "a": "মৃদু",
+      "b": "হিংস্র",
+      "c": "ভদ্র",
+      "d": "শান্ত"
+    },
+    "correct_answer": "b",
+    "explanation": "'Ferocious' means savagely fierce, cruel, or violent. The Bangla word is হিংস্র (savage/violent). 'মৃদু' (mild), 'ভদ্র' (gentle), and 'শান্ত' (calm) are all antonyms."
+  },
+  {
+    "id": 107,
+    "question": "What is the Bangla meaning of the word 'Gregarious'?",
+    "options": {
+      "a": "একাকী",
+      "b": "সামাজিক",
+      "c": "নির্জনপ্রিয়",
+      "d": "লাজুক"
+    },
+    "correct_answer": "b",
+    "explanation": "'Gregarious' means fond of company; sociable. Its Bangla meaning is সামাজিক (sociable/outgoing). 'একাকী' (lonely), 'নির্জনপ্রিয়' (loving solitude), and 'লাজুক' (shy) are all opposites."
+  },
+  {
+    "id": 108,
+    "question": "Choose the correct Bangla translation of the word 'Haughty'.",
+    "options": {
+      "a": "নম্র",
+      "b": "অহংকারী",
+      "c": "বিনয়ী",
+      "d": "সরল"
+    },
+    "correct_answer": "b",
+    "explanation": "'Haughty' means arrogantly superior and disdainful. The Bangla word is অহংকারী (arrogant/proud). 'নম্র' (humble), 'বিনয়ী' (modest), and 'সরল' (simple) are all antonyms."
+  },
+  {
+    "id": 109,
+    "question": "What is the Bangla meaning of the word 'Incessant'?",
+    "options": {
+      "a": "অবিরাম",
+      "b": "মাঝে মাঝে",
+      "c": "ক্ষণস্থায়ী",
+      "d": "বিরল"
+    },
+    "correct_answer": "a",
+    "explanation": "'Incessant' means continuing without pause or interruption. Its Bangla meaning is অবিরাম (continuous/unceasing). 'মাঝে মাঝে' (occasional), 'ক্ষণস্থায়ী' (temporary), and 'বিরল' (rare) are all opposites."
+  },
+  {
+    "id": 110,
+    "question": "Identify the Bangla meaning of the word 'Jaded'.",
+    "options": {
+      "a": "সতেজ",
+      "b": "ক্লান্ত",
+      "c": "উদ্যোগী",
+      "d": "উৎসাহী"
+    },
+    "correct_answer": "b",
+    "explanation": "'Jaded' means tired, bored, or lacking enthusiasm, typically after having had too much of something. The Bangla word is ক্লান্ত (tired/wearied). 'সতেজ' (fresh), 'উদ্যোগী' (enterprising), and 'উৎসাহী' (enthusiastic) are all opposites."
+  },
+  {
+    "id": 111,
+    "question": "What is the Bangla meaning of the word 'Keen' (as in eager)?",
+    "options": {
+      "a": "অনাগ্রহী",
+      "b": "আগ্রহী",
+      "c": "উদাসীন",
+      "d": "নিরুৎসাহ"
+    },
+    "correct_answer": "b",
+    "explanation": "When 'Keen' means eager or enthusiastic, its Bangla meaning is আগ্রহী (eager/interested). 'অনাগ্রহী' (disinterested), 'উদাসীন' (apathetic), and 'নিরুৎসাহ' (discouraged) are all opposites."
+  },
+  {
+    "id": 112,
+    "question": "Choose the correct Bangla meaning for the word 'Languid'.",
+    "options": {
+      "a": "সক্রিয়",
+      "b": "অলস",
+      "c": "চটপটে",
+      "d": "উদ্যমী"
+    },
+    "correct_answer": "b",
+    "explanation": "'Languid' means displaying or having a disinclination for physical exertion or effort; slow and relaxed. The Bangla word is অলস (lazy/sluggish). 'সক্রিয়' (active), 'চটপটে' (agile), and 'উদ্যমী' (energetic) are all antonyms."
+  },
+  {
+    "id": 113,
+    "question": "What is the Bangla meaning of the word 'Malleable'?",
+    "options": {
+      "a": "নমনীয়",
+      "b": "কঠিন",
+      "c": "শক্ত",
+      "d": "ভঙ্গুর"
+    },
+    "correct_answer": "a",
+    "explanation": "'Malleable' means easily influenced; pliable, or capable of being shaped by hammering or pressure. Its Bangla meaning is নমনীয় (flexible/pliable). 'কঠিন' (hard), 'শক্ত' (stiff), and 'ভঙ্গুর' (brittle) are all opposites."
+  },
+  {
+    "id": 114,
+    "question": "Identify the Bangla meaning of the word 'Nostalgia'.",
+    "options": {
+      "a": "বিরক্তি",
+      "b": "স্মৃতিকাতরতা",
+      "c": "উদাসীনতা",
+      "d": "ঘৃণা"
+    },
+    "correct_answer": "b",
+    "explanation": "'Nostalgia' is a sentimental longing or wistful affection for the past. The Bangla word is স্মৃতিকাতরতা (sentimental longing for the past). 'বিরক্তি' (annoyance), 'উদাসীনতা' (apathy), and 'ঘৃণা' (hatred) are not related."
+  },
+  {
+    "id": 115,
+    "question": "What is the Bangla meaning of the word 'Oblivious'?",
+    "options": {
+      "a": "সচেতন",
+      "b": "অবগত",
+      "c": "অজ্ঞাত",
+      "d": "জ্ঞাত"
+    },
+    "correct_answer": "c",
+    "explanation": "'Oblivious' means not aware of or not concerned about what is happening around one. Its Bangla meaning is অজ্ঞাত (unaware). 'সচেতন' (conscious), 'অবগত' (informed), and 'জ্ঞাত' (known/aware) are all opposites."
+  },
+  {
+    "id": 116,
+    "question": "Choose the correct Bangla translation of the word 'Pristine'.",
+    "options": {
+      "a": "নোংরা",
+      "b": "নির্মল",
+      "c": "দূষিত",
+      "d": "পুরাতন"
+    },
+    "correct_answer": "b",
+    "explanation": "'Pristine' means in its original condition; unspoiled. The Bangla word is নির্মল (pure/untouched). 'নোংরা' (dirty), 'দূষিত' (polluted), and 'পুরাতন' (old) are all opposites or unrelated."
+  },
+  {
+    "id": 117,
+    "question": "What is the Bangla meaning of the word 'Querulous'?",
+    "options": {
+      "a": "সন্তুষ্ট",
+      "b": "অভিযোগকারী",
+      "c": "প্রফুল্ল",
+      "d": "শান্ত"
+    },
+    "correct_answer": "b",
+    "explanation": "'Querulous' means complaining in a petulant or whining manner. Its Bangla meaning is অভিযোগকারী (complaining). 'সন্তুষ্ট' (satisfied), 'প্রফুল্ল' (cheerful), and 'শান্ত' (calm) are all opposites."
+  },
+  {
+    "id": 118,
+    "question": "Identify the Bangla meaning of the word 'Reticent'.",
+    "options": {
+      "a": "মুখর",
+      "b": "স্বল্পভাষী",
+      "c": "বাচাল",
+      "d": "আলাপী"
+    },
+    "correct_answer": "b",
+    "explanation": "'Reticent' means not revealing one's thoughts or feelings readily; reserved. The Bangla word is স্বল্পভাষী (of few words/reserved). 'মুখর' (talkative), 'বাচাল' (garrulous), and 'আলাপী' (conversational) are all antonyms."
+  },
+  {
+    "id": 119,
+    "question": "What is the Bangla meaning of the word 'Savor'?",
+    "options": {
+      "a": "ঘৃণা করা",
+      "b": "উপভোগ করা",
+      "c": "ত্যাগ করা",
+      "d": "অগ্রাহ্য করা"
+    },
+    "correct_answer": "b",
+    "explanation": "To 'Savor' means to enjoy or appreciate something completely, especially by dwelling on it. Its Bangla meaning is উপভোগ করা (to enjoy/relish). 'ঘৃণা করা' (to hate), 'ত্যাগ করা' (to abandon), and 'অগ্রাহ্য করা' (to ignore) are all opposites."
+  },
+  {
+    "id": 120,
+    "question": "Choose the correct Bangla meaning for the word 'Tentative'.",
+    "options": {
+      "a": "চূড়ান্ত",
+      "b": "অস্থায়ী",
+      "c": "নিশ্চিত",
+      "d": "পাকা"
+    },
+    "correct_answer": "b",
+    "explanation": "'Tentative' means not certain or fixed; provisional. The Bangla word is অস্থায়ী (temporary/provisional). 'চূড়ান্ত' (final), 'নিশ্চিত' (certain), and 'পাকা' (permanent) are all antonyms."
+  },
+  {
+    "id": 121,
+    "question": "What is the Bangla meaning of the word 'Unruly'?",
+    "options": {
+      "a": "শান্ত",
+      "b": "অশান্ত",
+      "c": "বাধ্য",
+      "d": "নম্র"
+    },
+    "correct_answer": "b",
+    "explanation": "'Unruly' means disorderly and disruptive and not amenable to discipline or control. Its Bangla meaning is অশান্ত (turbulent/disobedient). 'শান্ত' (calm), 'বাধ্য' (obedient), and 'নম্র' (gentle) are all opposites."
+  },
+  {
+    "id": 122,
+    "question": "Identify the Bangla meaning of the word 'Vindictive'.",
+    "options": {
+      "a": "ক্ষমাশীল",
+      "b": "প্রতিহিংসাপরায়ণ",
+      "c": "দয়ালু",
+      "d": "সহানুভূতিশীল"
+    },
+    "correct_answer": "b",
+    "explanation": "'Vindictive' means having or showing a strong or unreasoning desire for revenge. The Bangla word is প্রতিহিংসাপরায়ণ (vengeful). 'ক্ষমাশীল' (forgiving), 'দয়ালু' (kind), and 'সহানুভূতিশীল' (sympathetic) are all antonyms."
+  },
+  {
+    "id": 123,
+    "question": "What is the Bangla meaning of the word 'Wistful'?",
+    "options": {
+      "a": "প্রফুল্ল",
+      "b": "বিরহী",
+      "c": "উল্লসিত",
+      "d": "তৃপ্ত"
+    },
+    "correct_answer": "b",
+    "explanation": "'Wistful' means having or showing a feeling of vague or regretful longing. Its Bangla meaning is বিরহী (pensive/yearning). 'প্রফুল্ল' (cheerful), 'উল্লসিত' (joyful), and 'তৃপ্ত' (satisfied) are all opposites."
+  },
+  {
+    "id": 124,
+    "question": "Choose the correct Bangla translation of the word 'Xeric'.",
+    "options": {
+      "a": "আর্দ্র",
+      "b": "শুষ্ক",
+      "c": "জলাবদ্ধ",
+      "d": "স্যাঁতসেঁতে"
+    },
+    "correct_answer": "b",
+    "explanation": "'Xeric' is an adjective meaning containing or characterized by a dry environment. The Bangla word is শুষ্ক (dry/arid). 'আর্দ্র' (humid), 'জলাবদ্ধ' (waterlogged), and 'স্যাঁতসেঁতে' (damp) are all opposites."
+  },
+  {
+    "id": 125,
+    "question": "What is the Bangla meaning of the word 'Yearning'?",
+    "options": {
+      "a": "ঘৃণা",
+      "b": "বিরক্তি",
+      "c": "বাসনা",
+      "d": "উদাসীনতা"
+    },
+    "correct_answer": "c",
+    "explanation": "'Yearning' is a feeling of intense longing for something. Its Bangla meaning is বাসনা (desire/longing). 'ঘৃণা' (hate), 'বিরক্তি' (annoyance), and 'উদাসীনতা' (apathy) are all opposites."
+  },
+  {
+    "id": 126,
+    "question": "Identify the Bangla meaning of the word 'Affable'.",
+    "options": {
+      "a": "রুক্ষ",
+      "b": "মৃদুভাষী",
+      "c": "অভদ্র",
+      "d": "উগ্র"
+    },
+    "correct_answer": "b",
+    "explanation": "'Affable' means friendly, good-natured, and easy to talk to. The Bangla word is মৃদুভাষী (gentle-spoken/amiable). 'রুক্ষ' (rough), 'অভদ্র' (rude), and 'উগ্র' (aggressive) are all antonyms."
+  },
+  {
+    "id": 127,
+    "question": "What is the Bangla meaning of the word 'Blatant'?",
+    "options": {
+      "a": "গোপন",
+      "b": "নির্লজ্জ",
+      "c": "সুপ্ত",
+      "d": "লুক্কায়িত"
+    },
+    "correct_answer": "b",
+    "explanation": "'Blatant' means done openly and unashamedly. Its Bangla meaning is নির্লজ্জ (shameless/flagrant). 'গোপন' (secret), 'সুপ্ত' (dormant), and 'লুক্কায়িত' (hidden) are all opposites."
+  },
+  {
+    "id": 128,
+    "question": "Choose the correct Bangla meaning for the word 'Covert'.",
+    "options": {
+      "a": "প্রকাশ্য",
+      "b": "গুপ্ত",
+      "c": "খোলামেলা",
+      "d": "স্পষ্ট"
+    },
+    "correct_answer": "b",
+    "explanation": "'Covert' means not openly acknowledged or displayed; secret. The Bangla word is গুপ্ত (hidden/secret). 'প্রকাশ্য' (open), 'খোলামেলা' (overt), and 'স্পষ্ট' (clear) are all antonyms."
+  },
+  {
+    "id": 129,
+    "question": "What is the Bangla meaning of the word 'Dearth'?",
+    "options": {
+      "a": "প্রাচুর্য",
+      "b": "স্বল্পতা",
+      "c": "ঢের",
+      "d": "পর্যাপ্তি"
+    },
+    "correct_answer": "b",
+    "explanation": "'Dearth' means a scarcity or lack of something. Its Bangla meaning is স্বল্পতা (scarcity). 'প্রাচুর্য' (abundance), 'ঢের' (plenty), and 'পর্যাপ্তি' (sufficiency) are all antonyms."
+  },
+  {
+    "id": 130,
+    "question": "Identify the Bangla meaning of the word 'Ebullient'.",
+    "options": {
+      "a": "উদ্দীপ্ত",
+      "b": "নিস্তেজ",
+      "c": "হতাশ",
+      "d": "বিষণ্ণ"
+    },
+    "correct_answer": "a",
+    "explanation": "'Ebullient' means cheerful and full of energy. The Bangla word is উদ্দীপ্ত (enthusiastic/exuberant). 'নিস্তেজ' (dull), 'হতাশ' (depressed), and 'বিষণ্ণ' (gloomy) are all antonyms."
+  },
+  {
+    "id": 131,
+    "question": "What is the Bangla meaning of the word 'Fickle'?",
+    "options": {
+      "a": "স্থির",
+      "b": "চঞ্চল",
+      "c": "অটল",
+      "d": "ধ্রুব"
+    },
+    "correct_answer": "b",
+    "explanation": "'Fickle' means changing frequently, especially as regards one's loyalties or affections. Its Bangla meaning is চঞ্চল (unstable/changeable). 'স্থির' (steady), 'অটল' (firm), and 'ধ্রুব' (constant) are all antonyms."
+  },
+  {
+    "id": 132,
+    "question": "Choose the correct Bangla translation of the word 'Garrulous'.",
+    "options": {
+      "a": "মিতভাষী",
+      "b": "বাচাল",
+      "c": "চুপচাপ",
+      "d": "নীরব"
+    },
+    "correct_answer": "b",
+    "explanation": "'Garrulous' means excessively talkative, especially on trivial matters. The Bangla word is বাচাল (talkative/loquacious). 'মিতভাষী' (taciturn), 'চুপচাপ' (quiet), and 'নীরব' (silent) are all antonyms."
+  },
+  {
+    "id": 133,
+    "question": "What is the Bangla meaning of the word 'Hackneyed'?",
+    "options": {
+      "a": "মৌলিক",
+      "b": "ঘরোয়া",
+      "c": "নতুন",
+      "d": "সৃজনশীল"
+    },
+    "correct_answer": "b",
+    "explanation": "'Hackneyed' means (of a phrase or idea) lacking significance through having been overused; unoriginal and trite. Its Bangla meaning is ঘরোয়া (commonplace/banal). 'মৌলিক' (original), 'নতুন' (new), and 'সৃজনশীল' (creative) are all opposites."
+  },
+  {
+    "id": 134,
+    "question": "Identify the Bangla meaning of the word 'Indolent'.",
+    "options": {
+      "a": "পরিশ্রমী",
+      "b": "অলস",
+      "c": "সক্রিয়",
+      "d": "উদ্যোগী"
+    },
+    "correct_answer": "b",
+    "explanation": "'Indolent' means wanting to avoid activity or exertion; lazy. The Bangla word is অলস (lazy). 'পরিশ্রমী' (hardworking), 'সক্রিয়' (active), and 'উদ্যোগী' (enterprising) are all antonyms."
+  },
+  {
+    "id": 135,
+    "question": "What is the Bangla meaning of the word 'Jaunty'?",
+    "options": {
+      "a": "বিষণ্ণ",
+      "b": "চটুল",
+      "c": "গম্ভীর",
+      "d": "ক্লান্ত"
+    },
+    "correct_answer": "b",
+    "explanation": "'Jaunty' means having or expressing a lively, cheerful, and self-confident manner. Its Bangla meaning is চটুল (lively/sprightly). 'বিষণ্ণ' (gloomy), 'গম্ভীর' (serious), and 'ক্লান্ত' (tired) are all antonyms."
+  },
+  {
+    "id": 136,
+    "question": "Choose the correct Bangla meaning for the word 'Knotty'.",
+    "options": {
+      "a": "সহজ",
+      "b": "জটিল",
+      "c": "সরল",
+      "d": "স্পষ্ট"
+    },
+    "correct_answer": "b",
+    "explanation": "'Knotty' means full of knots, or (of a problem) extremely difficult to solve. The Bangla word is জটিল (complicated). 'সহজ' (easy), 'সরল' (simple), and 'স্পষ্ট' (clear) are all opposites."
+  },
+  {
+    "id": 137,
+    "question": "What is the Bangla meaning of the word 'Lurid'?",
+    "options": {
+      "a": "মৃদু",
+      "b": "ভয়াল",
+      "c": "সুন্দর",
+      "d": "শান্ত"
+    },
+    "correct_answer": "b",
+    "explanation": "'Lurid' means very vivid in color, especially so as to create an unpleasantly harsh or unnatural effect, or presented in vividly shocking or sensational terms. Its Bangla meaning is ভয়াল (ghastly/gruesome). 'মৃদু' (mild), 'সুন্দর' (beautiful), and 'শান্ত' (calm) are all opposites."
+  },
+  {
+    "id": 138,
+    "question": "Identify the Bangla meaning of the word 'Munificent'.",
+    "options": {
+      "a": "কৃপণ",
+      "b": "দরাজ",
+      "c": "স্বার্থপর",
+      "d": "সংকীর্ণ"
+    },
+    "correct_answer": "b",
+    "explanation": "'Munificent' means characterized by or displaying great generosity. The Bangla word is দরাজ (generous/bountiful). 'কৃপণ' (miserly), 'স্বার্থপর' (selfish), and 'সংকীর্ণ' (narrow-minded) are all antonyms."
+  },
+  {
+    "id": 139,
+    "question": "What is the Bangla meaning of the word 'Nonchalant'?",
+    "options": {
+      "a": "উদ্বিগ্ন",
+      "b": "উদাসীন",
+      "c": "আগ্রহী",
+      "d": "সচেতন"
+    },
+    "correct_answer": "b",
+    "explanation": "'Nonchalant' means feeling or appearing casually calm and relaxed; not displaying anxiety, interest, or enthusiasm. Its Bangla meaning is উদাসীন (apathetic/casual). 'উদ্বিগ্ন' (anxious), 'আগ্রহী' (eager), and 'সচেতন' (aware) are all opposites."
+  },
+  {
+    "id": 140,
+    "question": "Choose the correct Bangla translation of the word 'Obfuscate'.",
+    "options": {
+      "a": "স্পষ্ট করা",
+      "b": "জটিল করা",
+      "c": "সহজ করা",
+      "d": "আলোকিত করা"
+    },
+    "correct_answer": "b",
+    "explanation": "To 'Obfuscate' means to render obscure, unclear, or unintelligible. The Bangla word is জটিল করা (to complicate/confuse). 'স্পষ্ট করা' (to clarify), 'সহজ করা' (to simplify), and 'আলোকিত করা' (to enlighten) are all opposites."
+  },
+  {
+    "id": 141,
+    "question": "What is the Bangla meaning of the word 'Pragmatic'?",
+    "options": {
+      "a": "আদর্শবাদী",
+      "b": "বাস্তববাদী",
+      "c": "কল্পনাপ্রবণ",
+      "d": "স্বপ্নবিলাসী"
+    },
+    "correct_answer": "b",
+    "explanation": "'Pragmatic' means dealing with things sensibly and realistically in a way that is based on practical rather than theoretical considerations. Its Bangla meaning is বাস্তববাদী (realistic/practical). 'আদর্শবাদী' (idealistic), 'কল্পনাপ্রবণ' (imaginative), and 'স্বপ্নবিলাসী' (dreamy) are all opposites."
+  },
+  {
+    "id": 142,
+    "question": "Identify the Bangla meaning of the word 'Quixotic'.",
+    "options": {
+      "a": "বাস্তববাদী",
+      "b": "আদর্শবাদী",
+      "c": "ব্যবহারিক",
+      "d": "যুক্তিবাদী"
+    },
+    "correct_answer": "b",
+    "explanation": "'Quixotic' means exceedingly idealistic; unrealistic and impractical. The Bangla word is আদর্শবাদী (idealistic) but with a connotation of being impractical. 'বাস্তববাদী' (pragmatic), 'ব্যবহারিক' (practical), and 'যুক্তিবাদী' (rational) are all opposites."
+  },
+  {
+    "id": 143,
+    "question": "What is the Bangla meaning of the word 'Rue'?",
+    "options": {
+      "a": "আনন্দ করা",
+      "b": "অনুতাপ করা",
+      "c": "উদযাপন করা",
+      "d": "ভুলে যাওয়া"
+    },
+    "correct_answer": "b",
+    "explanation": "To 'Rue' means to bitterly regret something one has done or allowed to happen. Its Bangla meaning is অনুতাপ করা (to repent/regret). 'আনন্দ করা' (to rejoice), 'উদযাপন করা' (to celebrate), and 'ভুলে যাওয়া' (to forget) are all unrelated or opposites."
+  },
+  {
+    "id": 144,
+    "question": "Choose the correct Bangla meaning for the word 'Sagacious'.",
+    "options": {
+      "a": "মূর্খ",
+      "b": "বিচক্ষণ",
+      "c": "বোকা",
+      "d": "নির্বোধ"
+    },
+    "correct_answer": "b",
+    "explanation": "'Sagacious' means having or showing keen mental discernment and good judgment; wise. The Bangla word is বিচক্ষণ (wise/shrewd). 'মূর্খ' (foolish), 'বোকা' (stupid), and 'নির্বোধ' (idiotic) are all antonyms."
+  },
+  {
+    "id": 145,
+    "question": "What is the Bangla meaning of the word 'Terse'?",
+    "options": {
+      "a": "দীর্ঘায়িত",
+      "b": "সংক্ষিপ্ত",
+      "c": "বিস্তারিত",
+      "d": "আলঙ্কারিক"
+    },
+    "correct_answer": "b",
+    "explanation": "'Terse' means sparing in the use of words; abrupt. Its Bangla meaning is সংক্ষিপ্ত (brief/concise). 'দীর্ঘায়িত' (lengthy), 'বিস্তারিত' (detailed), and 'আলঙ্কারিক' (ornate) are all opposites."
+  },
+  {
+    "id": 146,
+    "question": "Identify the Bangla meaning of the word 'Ubiquitous'.",
+    "options": {
+      "a": "দুর্লভ",
+      "b": "সর্বব্যাপী",
+      "c": "বিরল",
+      "d": "অনুপস্থিত"
+    },
+    "correct_answer": "b",
+    "explanation": "'Ubiquitous' means present, appearing, or found everywhere. The Bangla word is সর্বব্যাপী (omnipresent). 'দুর্লভ' (rare), 'বিরল' (rare), and 'অনুপস্থিত' (absent) are all antonyms."
+  },
+  {
+    "id": 147,
+    "question": "What is the Bangla meaning of the word 'Vexatious'?",
+    "options": {
+      "a": "শান্তিদায়ক",
+      "b": "বিরক্তিকর",
+      "c": "আনন্দদায়ক",
+      "d": "সুখকর"
+    },
+    "correct_answer": "b",
+    "explanation": "'Vexatious' means causing or tending to cause annoyance, distress, or worry. Its Bangla meaning is বিরক্তিকর (annoying). 'শান্তিদায়ক' (soothing), 'আনন্দদায়ক' (pleasing), and 'সুখকর' (pleasant) are all opposites."
+  },
+  {
+    "id": 148,
+    "question": "Choose the correct Bangla translation of the word 'Wanton'.",
+    "options": {
+      "a": "নিয়ন্ত্রিত",
+      "b": "স্বেচ্ছাচারী",
+      "c": "শান্ত",
+      "d": "সংযত"
+    },
+    "correct_answer": "b",
+    "explanation": "'Wanton' means (of a cruel or violent action) deliberate and unprovoked, or sexually unrestrained. The Bangla word is স্বেচ্ছাচারী (capricious/unrestrained). 'নিয়ন্ত্রিত' (controlled), 'শান্ত' (calm), and 'সংযত' (restrained) are all opposites."
+  },
+  {
+    "id": 149,
+    "question": "What is the Bangla meaning of the word 'Yielding'?",
+    "options": {
+      "a": "অনমনীয়",
+      "b": "নমনীয়",
+      "c": "শক্ত",
+      "d": "দৃঢ়"
+    },
+    "correct_answer": "b",
+    "explanation": "'Yielding' means (of a person) complying with the requests or desires of others, or (of a substance) able to bend easily. Its Bangla meaning is নমনীয় (flexible/submissive). 'অনমনীয়' (inflexible), 'শক্ত' (hard), and 'দৃঢ়' (firm) are all antonyms."
+  },
+  {
+    "id": 150,
+    "question": "Identify the Bangla meaning of the word 'Zany'.",
+    "options": {
+      "a": "গম্ভীর",
+      "b": "পাগলাটে",
+      "c": "স্থির",
+      "d": "শান্ত"
+    },
+    "correct_answer": "b",
+    "explanation": "'Zany' means amusingly unconventional and idiosyncratic. The Bangla word is পাগলাটে (crazy/wacky in a funny way). 'গম্ভীর' (serious), 'স্থির' (steady), and 'শান্ত' (calm) are all opposites."
+  },
+  {
+    "id": 151,
+    "question": "What is the Bangla meaning of the word 'Abrasive'?",
+    "options": {
+      "a": "মসৃণ",
+      "b": "রুক্ষ",
+      "c": "নরম",
+      "d": "কোমল"
+    },
+    "correct_answer": "b",
+    "explanation": "'Abrasive' means capable of polishing or cleaning a hard surface by rubbing or grinding, or (of a person or manner) showing little concern for the feelings of others; harsh. Its Bangla meaning is রুক্ষ (rough/harsh). 'মসৃণ' (smooth), 'নরম' (soft), and 'কোমল' (tender) are all antonyms."
+  },
+  {
+    "id": 152,
+    "question": "Choose the correct Bangla meaning for the word 'Brusque'.",
+    "options": {
+      "a": "মৃদু",
+      "b": "রুক্ষ",
+      "c": "ভদ্র",
+      "d": "নম্র"
+    },
+    "correct_answer": "b",
+    "explanation": "'Brusque' means abrupt or offhand in speech or manner. The Bangla word is রুক্ষ (blunt/curt). 'মৃদু' (gentle), 'ভদ্র' (polite), and 'নম্র' (humble) are all antonyms."
+  },
+  {
+    "id": 153,
+    "question": "What is the Bangla meaning of the word 'Cogent'?",
+    "options": {
+      "a": "দুর্বল",
+      "b": "যুক্তিগ্রাহ্য",
+      "c": "অবিশ্বাস্য",
+      "d": "অগ্রহণযোগ্য"
+    },
+    "correct_answer": "b",
+    "explanation": "'Cogent' means (of an argument or case) clear, logical, and convincing. Its Bangla meaning is যুক্তিগ্রাহ্য (convincing/plausible). 'দুর্বল' (weak), 'অবিশ্বাস্য' (unbelievable), and 'অগ্রহণযোগ্য' (unacceptable) are all antonyms."
+  },
+  {
+    "id": 154,
+    "question": "Identify the Bangla meaning of the word 'Dearth'.",
+    "options": {
+      "a": "প্রাচুর্য",
+      "b": "স্বল্পতা",
+      "c": "পর্যাপ্তি",
+      "d": "আধিক্য"
+    },
+    "correct_answer": "b",
+    "explanation": "'Dearth' means a scarcity or lack of something. The Bangla word is স্বল্পতা (scarcity). 'প্রাচুর্য' (abundance), 'পর্যাপ্তি' (sufficiency), and 'আধিক্য' (excess) are all antonyms."
+  },
+  {
+    "id": 155,
+    "question": "What is the Bangla meaning of the word 'Equivocal'?",
+    "options": {
+      "a": "সুস্পষ্ট",
+      "b": "দ্ব্যর্থক",
+      "c": "সরল",
+      "d": "নির্দিষ্ট"
+    },
+    "correct_answer": "b",
+    "explanation": "'Equivocal' means open to more than one interpretation; ambiguous. Its Bangla meaning is দ্ব্যর্থক (ambiguous). 'সুস্পষ্ট' (clear), 'সরল' (simple), and 'নির্দিষ্ট' (specific) are all antonyms."
+  },
+  {
+    "id": 156,
+    "question": "Choose the correct Bangla translation of the word 'Fervent'.",
+    "options": {
+      "a": "উদাসীন",
+      "b": "উত্সাহী",
+      "c": "শীতল",
+      "d": "নিরুৎসাহ"
+    },
+    "correct_answer": "b",
+    "explanation": "'Fervent' means having or displaying a passionate intensity. The Bangla word is উত্সাহী (enthusiastic/ardent). 'উদাসীন' (apathetic), 'শীতল' (cold), and 'নিরুৎসাহ' (discouraged) are all antonyms."
+  },
+  {
+    "id": 157,
+    "question": "What is the Bangla meaning of the word 'Glib'?",
+    "options": {
+      "a": "অকপট",
+      "b": "চটুল",
+      "c": "সৎ",
+      "d": "সরল"
+    },
+    "correct_answer": "b",
+    "explanation": "'Glib' means (of words or a speaker) fluent but insincere and shallow. Its Bangla meaning is চটুল (fluent but superficial). 'অকপট' (frank), 'সৎ' (honest), and 'সরল' (simple) are all antonyms."
+  },
+  {
+    "id": 158,
+    "question": "Identify the Bangla meaning of the word 'Hubris'.",
+    "options": {
+      "a": "নম্রতা",
+      "b": "দর্প",
+      "c": "বিনয়",
+      "d": "সরলতা"
+    },
+    "correct_answer": "b",
+    "explanation": "'Hubris' means excessive pride or self-confidence. The Bangla word is দর্প (arrogance/conceit). 'নম্রতা' (humility), 'বিনয়' (modesty), and 'সরলতা' (simplicity) are all antonyms."
+  },
+  {
+    "id": 159,
+    "question": "What is the Bangla meaning of the word 'Iconoclast'?",
+    "options": {
+      "a": "অনুসারী",
+      "b": "মতভঞ্জক",
+      "c": "ভক্ত",
+      "d": "শিষ্য"
+    },
+    "correct_answer": "b",
+    "explanation": "An 'Iconoclast' is a person who attacks or criticizes cherished beliefs or institutions. Its Bangla meaning is মতভঞ্জক (one who breaks established beliefs). 'অনুসারী' (follower), 'ভক্ত' (devotee), and 'শিষ্য' (disciple) are all antonyms."
+  },
+  {
+    "id": 160,
+    "question": "Choose the correct Bangla meaning for the word 'Juxtapose'.",
+    "options": {
+      "a": "পৃথক করা",
+      "b": "পাশাপাশি রাখা",
+      "c": "দূরে সরানো",
+      "d": "মিশ্রিত করা"
+    },
+    "correct_answer": "b",
+    "explanation": "To 'Juxtapose' means to place or deal with close together for contrasting effect. The Bangla word is পাশাপাশি রাখা (to place side by side). 'পৃথক করা' (to separate) and 'দূরে সরানো' (to move away) are antonyms. 'মিশ্রিত করা' (to mix) is different."
+  },
+  {
+    "id": 161,
+    "question": "What is the Bangla meaning of the word 'Kowtow'?",
+    "options": {
+      "a": "বিদ্রোহ করা",
+      "b": "মাথা নত করা",
+      "c": "অমান্য করা",
+      "d": "প্রতিবাদ করা"
+    },
+    "correct_answer": "b",
+    "explanation": "To 'Kowtow' means to act in an excessively subservient manner, or historically, to kneel and touch the ground with the forehead in submission. Its Bangla meaning is মাথা নত করা (to bow down). 'বিদ্রোহ করা' (to rebel), 'অমান্য করা' (to disobey), and 'প্রতিবাদ করা' (to protest) are all opposites."
+  },
+  {
+    "id": 162,
+    "question": "Identify the Bangla meaning of the word 'Laconic'.",
+    "options": {
+      "a": "বাচাল",
+      "b": "মিতভাষী",
+      "c": "আলাপী",
+      "d": "মুখর"
+    },
+    "correct_answer": "b",
+    "explanation": "'Laconic' means using very few words. The Bangla word is মিতভাষী (terse/taciturn). 'বাচাল' (talkative), 'আলাপী' (conversational), and 'মুখর' (loquacious) are all antonyms."
+  },
+  {
+    "id": 163,
+    "question": "What is the Bangla meaning of the word 'Mendacious'?",
+    "options": {
+      "a": "সত্যবাদী",
+      "b": "মিথ্যাবাদী",
+      "c": "সরল",
+      "d": "নির্দোষ"
+    },
+    "correct_answer": "b",
+    "explanation": "'Mendacious' means not telling the truth; lying. Its Bangla meaning is মিথ্যাবাদী (liar/untruthful). 'সত্যবাদী' (truthful), 'সরল' (honest), and 'নির্দোষ' (innocent) are all antonyms."
+  },
+  {
+    "id": 164,
+    "question": "Choose the correct Bangla translation of the word 'Nefarious'.",
+    "options": {
+      "a": "সৎ",
+      "b": "দুস্কৃতিকারী",
+      "c": "ধার্মিক",
+      "d": "মহৎ"
+    },
+    "correct_answer": "b",
+    "explanation": "'Nefarious' means typically villainous; wicked. The Bangla word is দুস্কৃতিকারী (wicked/evil-doing). 'সৎ' (honest), 'ধার্মিক' (pious), and 'মহৎ' (noble) are all antonyms."
+  },
+  {
+    "id": 165,
+    "question": "What is the Bangla meaning of the word 'Obsequious'?",
+    "options": {
+      "a": "অহংকারী",
+      "b": "তোষামোদকারী",
+      "c": "উদ্ধত",
+      "d": "গর্বিত"
+    },
+    "correct_answer": "b",
+    "explanation": "'Obsequious' means obedient or attentive to an excessive or servile degree. Its Bangla meaning is তোষামোদকারী (sycophantic/flattering). 'অহংকারী' (arrogant), 'উদ্ধত' (haughty), and 'গর্বিত' (proud) are all antonyms."
+  },
+  {
+    "id": 166,
+    "question": "Identify the Bangla meaning of the word 'Pernicious'.",
+    "options": {
+      "a": "লাভজনক",
+      "b": "ক্ষতিকর",
+      "c": "উপকারী",
+      "d": "পোষক"
+    },
+    "correct_answer": "b",
+    "explanation": "'Pernicious' means having a harmful effect, especially in a gradual or subtle way. The Bangla word is ক্ষতিকর (harmful/destructive). 'লাভজনক' (profitable), 'উপকারী' (beneficial), and 'পোষক' (nutritious) are all antonyms."
+  },
+  {
+    "id": 167,
+    "question": "What is the Bangla meaning of the word 'Quagmire'?",
+    "options": {
+      "a": "মরুভূমি",
+      "b": "কর্দমাক্ত স্থান",
+      "c": "পাহাড়",
+      "d": "মাঠ"
+    },
+    "correct_answer": "b",
+    "explanation": "A 'Quagmire' is a soft boggy area of land that gives way underfoot, or a complex or difficult situation. Its Bangla meaning is কর্দমাক্ত স্থান (muddy place). 'মরুভূমি' (desert), 'পাহাড়' (mountain), and 'মাঠ' (field) are all firm, dry land in comparison."
+  },
+  {
+    "id": 168,
+    "question": "Choose the correct Bangla meaning for the word 'Recalcitrant'.",
+    "options": {
+      "a": "বাধ্য",
+      "b": "অবাধ্য",
+      "c": "নম্র",
+      "d": "আজ্ঞাবহ"
+    },
+    "correct_answer": "b",
+    "explanation": "'Recalcitrant' means having an obstinately uncooperative attitude toward authority or discipline. The Bangla word is অবাধ্য (disobedient/defiant). 'বাধ্য' (obedient), 'নম্র' (gentle), and 'আজ্ঞাবহ' (compliant) are all antonyms."
+  },
+  {
+    "id": 169,
+    "question": "What is the Bangla meaning of the word 'Salient'?",
+    "options": {
+      "a": "গৌণ",
+      "b": "প্রধান",
+      "c": "অপ্রধান",
+      "d": "তুচ্ছ"
+    },
+    "correct_answer": "b",
+    "explanation": "'Salient' means most noticeable or important. Its Bangla meaning is প্রধান (main/prominent). 'গৌণ' (minor), 'অপ্রধান' (unimportant), and 'তুচ্ছ' (trivial) are all antonyms."
+  },
+  {
+    "id": 170,
+    "question": "Identify the Bangla meaning of the word 'Tangible'.",
+    "options": {
+      "a": "অস্পষ্ট",
+      "b": "স্পর্শগোচর",
+      "c": "অবাস্তব",
+      "d": "কাল্পনিক"
+    },
+    "correct_answer": "b",
+    "explanation": "'Tangible' means perceptible by touch, or clear and definite; real. The Bangla word is স্পর্শগোচর (touchable/material). 'অস্পষ্ট' (vague), 'অবাস্তব' (unreal), and 'কাল্পনিক' (imaginary) are all antonyms."
+  },
+  {
+    "id": 171,
+    "question": "What is the Bangla meaning of the word 'Ubiquitous'?",
+    "options": {
+      "a": "দুর্লভ",
+      "b": "সর্বব্যাপী",
+      "c": "অনুপস্থিত",
+      "d": "বিরল"
+    },
+    "correct_answer": "b",
+    "explanation": "'Ubiquitous' means present, appearing, or found everywhere. Its Bangla meaning is সর্বব্যাপী (omnipresent). 'দুর্লভ' (rare), 'অনুপস্থিত' (absent), and 'বিরল' (rare) are all antonyms."
+  },
+  {
+    "id": 172,
+    "question": "Choose the correct Bangla translation of the word 'Vapid'.",
+    "options": {
+      "a": "সারবান",
+      "b": "নীরস",
+      "c": "মজাদার",
+      "d": "আকর্ষণীয়"
+    },
+    "correct_answer": "b",
+    "explanation": "'Vapid' means offering nothing that is stimulating or challenging; bland. The Bangla word is নীরস (dull/uninteresting). 'সারবান' (meaningful), 'মজাদার' (fun), and 'আকর্ষণীয়' (attractive) are all antonyms."
+  },
+  {
+    "id": 173,
+    "question": "What is the Bangla meaning of the word 'Wheedle'?",
+    "options": {
+      "a": "তোষামোদ করে আদায় করা",
+      "b": "জোর করে নেওয়া",
+      "c": "চুরি করা",
+      "d": "দান করা"
+    },
+    "correct_answer": "a",
+    "explanation": "To 'Wheedle' means to employ endearing or flattering influences to persuade someone to do something or give one something. Its Bangla meaning is তোষামোদ করে আদায় করা (to coax/obtain by flattery). 'জোর করে নেওয়া' (to take by force), 'চুরি করা' (to steal), and 'দান করা' (to donate) are all different methods."
+  },
+  {
+    "id": 174,
+    "question": "Identify the Bangla meaning of the word 'Xenophile'.",
+    "options": {
+      "a": "বিদেশীভীত",
+      "b": "বিদেশীপ্রেমী",
+      "c": "স্বদেশপ্রেমী",
+      "d": "জাতীয়তাবাদী"
+    },
+    "correct_answer": "b",
+    "explanation": "A 'Xenophile' is an individual who is attracted to foreign peoples, cultures, or customs. The Bangla word is বিদেশীপ্রেমী (lover of foreigners/foreign things). 'বিদেশীভীত' (xenophobe), 'স্বদেশপ্রেমী' (patriot), and 'জাতীয়তাবাদী' (nationalist) are all opposite in sentiment."
+  },
+  {
+    "id": 175,
+    "question": "What is the Bangla meaning of the word 'Yoke'?",
+    "options": {
+      "a": "মুক্তি",
+      "b": "জোয়াল",
+      "c": "স্বাধীনতা",
+      "d": "আজাদী"
+    },
+    "correct_answer": "b",
+    "explanation": "A 'Yoke' is a wooden crosspiece fastened over the necks of two animals and attached to a plow or cart. It is often used metaphorically to mean something that is a burden or form of bondage. Its Bangla meaning is জোয়াল (yoke). 'মুক্তি' (liberation), 'স্বাধীনতা' (freedom), and 'আজাদী' (independence) are all opposites of the metaphorical meaning."
+  },
+  {
+    "id": 176,
+    "question": "Choose the correct Bangla meaning for the word 'Zealot'.",
+    "options": {
+      "a": "উদাসীন ব্যক্তি",
+      "b": "গোঁড়া ব্যক্তি",
+      "c": "নিরপেক্ষ ব্যক্তি",
+      "d": "শান্ত ব্যক্তি"
+    },
+    "correct_answer": "b",
+    "explanation": "A 'Zealot' is a person who is fanatical and uncompromising in pursuit of their religious, political, or other beliefs. The Bangla word is গোঁড়া ব্যক্তি (fanatic/orthodox person). 'উদাসীন ব্যক্তি' (apathetic person), 'নিরপেক্ষ ব্যক্তি' (neutral person), and 'শান্ত ব্যক্তি' (calm person) are all opposites."
+  },
+  {
+    "id": 177,
+    "question": "What is the Bangla meaning of the word 'Abrogate'?",
+    "options": {
+      "a": "প্রবর্তন করা",
+      "b": "বাতিল করা",
+      "c": "স্থাপন করা",
+      "d": "প্রতিষ্ঠা করা"
+    },
+    "correct_answer": "b",
+    "explanation": "To 'Abrogate' means to repeal or do away with (a law, right, or formal agreement). Its Bangla meaning is বাতিল করা (to cancel/annul). 'প্রবর্তন করা' (to introduce), 'স্থাপন করা' (to establish), and 'প্রতিষ্ঠা করা' (to set up) are all antonyms."
+  },
+  {
+    "id": 178,
+    "question": "Identify the Bangla meaning of the word 'Bombastic'.",
+    "options": {
+      "a": "সরল",
+      "b": "আড়ম্বরপূর্ণ",
+      "c": "সাদাসিধা",
+      "d": "নম্র"
+    },
+    "correct_answer": "b",
+    "explanation": "'Bombastic' means high-sounding but with little meaning; inflated. The Bangla word is আড়ম্বরপূর্ণ (pompous/grandiose). 'সরল' (simple), 'সাদাসিধা' (plain), and 'নম্র' (humble) are all antonyms."
+  },
+  {
+    "id": 179,
+    "question": "What is the Bangla meaning of the word 'Capitulate'?",
+    "options": {
+      "a": "প্রতিরোধ করা",
+      "b": "আত্মসমর্পণ করা",
+      "c": "যুদ্ধ করা",
+      "d": "লড়াই করা"
+    },
+    "correct_answer": "b",
+    "explanation": "To 'Capitulate' means to cease to resist an opponent or an unwelcome demand; to surrender. Its Bangla meaning is আত্মসমর্পণ করা (to surrender). 'প্রতিরোধ করা' (to resist), 'যুদ্ধ করা' (to fight), and 'লড়াই করা' (to struggle) are all antonyms."
+  },
+  {
+    "id": 180,
+    "question": "Choose the correct Bangla translation of the word 'Denigrate'.",
+    "options": {
+      "a": "প্রশংসা করা",
+      "b": "নিন্দা করা",
+      "c": "মহিমান্বিত করা",
+      "d": "সমর্থন করা"
+    },
+    "correct_answer": "b",
+    "explanation": "To 'Denigrate' means to criticize unfairly; to disparage. The Bangla word is নিন্দা করা (to criticize/defame). 'প্রশংসা করা' (to praise), 'মহিমান্বিত করা' (to glorify), and 'সমর্থন করা' (to support) are all antonyms."
+  },
+  {
+    "id": 181,
+    "question": "What is the Bangla meaning of the word 'Enervate'?",
+    "options": {
+      "a": "শক্তিশালী করা",
+      "b": "দুর্বল করা",
+      "c": "সক্রিয় করা",
+      "d": "উদ্দীপিত করা"
+    },
+    "correct_answer": "b",
+    "explanation": "To 'Enervate' means to cause someone to feel drained of energy or vitality; to weaken. Its Bangla meaning is দুর্বল করা (to weaken). 'শক্তিশালী করা' (to strengthen), 'সক্রিয় করা' (to activate), and 'উদ্দীপিত করা' (to stimulate) are all antonyms."
+  },
+  {
+    "id": 182,
+    "question": "Identify the Bangla meaning of the word 'Fatuous'.",
+    "options": {
+      "a": "বুদ্ধিমান",
+      "b": "বোকা",
+      "c": "জ্ঞানী",
+      "d": "পণ্ডিত"
+    },
+    "correct_answer": "b",
+    "explanation": "'Fatuous' means silly and pointless. The Bangla word is বোকা (foolish). 'বুদ্ধিমান' (intelligent), 'জ্ঞানী' (wise), and 'পণ্ডিত' (learned) are all antonyms."
+  },
+  {
+    "id": 183,
+    "question": "What is the Bangla meaning of the word 'Gratuitous'?",
+    "options": {
+      "a": "প্রয়োজনীয়",
+      "b": "অপ্রয়োজনীয়",
+      "c": "মূল্যবান",
+      "d": "দামী"
+    },
+    "correct_answer": "b",
+    "explanation": "'Gratuitous' means given or done free of charge, or (more commonly) uncalled for; lacking good reason. In its common usage, its Bangla meaning is অপ্রয়োজনীয় (unnecessary). 'প্রয়োজনীয়' (necessary), 'মূল্যবান' (valuable), and 'দামী' (costly) are all opposites."
+  },
+  {
+    "id": 184,
+    "question": "Choose the correct Bangla meaning for the word 'Histrionic'.",
+    "options": {
+      "a": "স্বাভাবিক",
+      "b": "নাটুকে",
+      "c": "সহজ",
+      "d": "সরল"
+    },
+    "correct_answer": "b",
+    "explanation": "'Histrionic' means overly theatrical or dramatic in behavior or speech. The Bangla word is নাটুকে (theatrical/melodramatic). 'স্বাভাবিক' (natural), 'সহজ' (simple), and 'সরল' (straightforward) are all antonyms."
+  },
+  {
+    "id": 185,
+    "question": "What is the Bangla meaning of the word 'Insipid'?",
+    "options": {
+      "a": "স্বাদু",
+      "b": "বিরস",
+      "c": "মজাদার",
+      "d": "সুস্বাদু"
+    },
+    "correct_answer": "b",
+    "explanation": "'Insipid' means lacking flavor; tasteless, or lacking vigor or interest. Its Bangla meaning is বিরস (tasteless/dull). 'স্বাদু' (tasty), 'মজাদার' (delicious), and 'সুস্বাদু' (flavorful) are all antonyms."
+  },
+  {
+    "id": 186,
+    "question": "Identify the Bangla meaning of the word 'Jingoistic'.",
+    "options": {
+      "a": "শান্তিকামী",
+      "b": "আগ্রাসী জাতীয়তাবাদী",
+      "c": "আন্তর্জাতিক",
+      "d": "বিশ্বপ্রেমিক"
+    },
+    "correct_answer": "b",
+    "explanation": "'Jingoistic' means characterized by extreme patriotism, especially in the form of aggressive or warlike foreign policy. The Bangla phrase is আগ্রাসী জাতীয়তাবাদী (aggressive nationalist). 'শান্তিকামী' (peace-loving), 'আন্তর্জাতিক' (internationalist), and 'বিশ্বপ্রেমিক' (cosmopolitan) are all opposites."
+  },
+  {
+    "id": 187,
+    "question": "What is the Bangla meaning of the word 'Kleptomania'?",
+    "options": {
+      "a": "দানশীলতা",
+      "b": "চুরির রোগ",
+      "c": "নির্লোভিতা",
+      "d": "ত্যাগ"
+    },
+    "correct_answer": "b",
+    "explanation": "'Kleptomania' is a recurrent urge to steal, typically without regard for need or profit. Its Bangla meaning is চুরির রোগ (compulsive stealing disorder). 'দানশীলতা' (generosity), 'নির্লোভিতা' (non-greed), and 'ত্যাগ' (renunciation) are all opposites in behavior."
+  },
+  {
+    "id": 188,
+    "question": "Choose the correct Bangla translation of the word 'Lugubrious'.",
+    "options": {
+      "a": "প্রফুল্ল",
+      "b": "বিষণ্ণ",
+      "c": "হাসিখুশি",
+      "d": "আনন্দিত"
+    },
+    "correct_answer": "b",
+    "explanation": "'Lugubrious' means looking or sounding sad and dismal. The Bangla word is বিষণ্ণ (mournful/doleful). 'প্রফুল্ল' (cheerful), 'হাসিখুশি' (happy), and 'আনন্দিত' (joyful) are all antonyms."
+  },
+  {
+    "id": 189,
+    "question": "What is the Bangla meaning of the word 'Mercurial'?",
+    "options": {
+      "a": "স্থির",
+      "b": "চঞ্চল",
+      "c": "স্থির",
+      "d": "অপরিবর্তনীয়"
+    },
+    "correct_answer": "b",
+    "explanation": "'Mercurial' means subject to sudden or unpredictable changes of mood or mind. Its Bangla meaning is চঞ্চল (volatile/fickle). 'স্থির' (steady), 'স্থির' (stable), and 'অপরিবর্তনীয়' (unchanging) are all antonyms."
+  },
+  {
+    "id": 190,
+    "question": "Identify the Bangla meaning of the word 'Nascent'.",
+    "options": {
+      "a": "পতনোন্মুখ",
+      "b": "উন্নয়নশীল",
+      "c": "মৃতপ্রায়",
+      "d": "ধ্বংসপ্রাপ্ত"
+    },
+    "correct_answer": "b",
+    "explanation": "'Nascent' means just coming into existence and beginning to display signs of future potential. The Bangla word is উন্নয়নশীল (developing/emerging). 'পতনোন্মুখ' (declining), 'মৃতপ্রায়' (dying), and 'ধ্বংসপ্রাপ্ত' (destroyed) are all antonyms."
+  },
+  {
+    "id": 191,
+    "question": "What is the Bangla meaning of the word 'Onerous'?",
+    "options": {
+      "a": "সহজ",
+      "b": "ভারী",
+      "c": "হালকা",
+      "d": "আরামদায়ক"
+    },
+    "correct_answer": "b",
+    "explanation": "'Onerous' means involving a great deal of effort, trouble, or difficulty; burdensome. Its Bangla meaning is ভারী (heavy/burdensome). 'সহজ' (easy), 'হালকা' (light), and 'আরামদায়ক' (comfortable) are all antonyms."
+  },
+  {
+    "id": 192,
+    "question": "Choose the correct Bangla meaning for the word 'Puerile'.",
+    "options": {
+      "a": "পরিণত",
+      "b": "বাচ্চাসুলভ",
+      "c": "প্রাপ্তবয়স্ক",
+      "d": "জ্ঞানী"
+    },
+    "correct_answer": "b",
+    "explanation": "'Puerile' means childishly silly and trivial. The Bangla word is বাচ্চাসুলভ (childish/immature). 'পরিণত' (mature), 'প্রাপ্তবয়স্ক' (adult), and 'জ্ঞানী' (wise) are all antonyms."
+  },
+  {
+    "id": 193,
+    "question": "What is the Bangla meaning of the word 'Quixotic'?",
+    "options": {
+      "a": "বাস্তববাদী",
+      "b": "আদর্শবাদী",
+      "c": "ব্যবহারিক",
+      "d": "যুক্তিবাদী"
+    },
+    "correct_answer": "b",
+    "explanation": "'Quixotic' means exceedingly idealistic; unrealistic and impractical. Its Bangla meaning is আদর্শবাদী (idealistic) but with a connotation of being impractical. 'বাস্তববাদী' (pragmatic), 'ব্যবহারিক' (practical), and 'যুক্তিবাদী' (rational) are all opposites."
+  },
+  {
+    "id": 194,
+    "question": "Identify the Bangla meaning of the word 'Ribald'.",
+    "options": {
+      "a": "শালীন",
+      "b": "অশ্লীল",
+      "c": "ভদ্র",
+      "d": "মর্যাদাপূর্ণ"
+    },
+    "correct_answer": "b",
+    "explanation": "'Ribald' means referring to sexual matters in an amusingly coarse or irreverent way. The Bangla word is অশ্লীল (obscene/vulgar). 'শালীন' (decent), 'ভদ্র' (polite), and 'মর্যাদাপূর্ণ' (dignified) are all antonyms."
+  },
+  {
+    "id": 195,
+    "question": "What is the Bangla meaning of the word 'Sardonic'?",
+    "options": {
+      "a": "সৌম্য",
+      "b": "বিদ্রূপাত্মক",
+      "c": "মধুর",
+      "d": "সরল"
+    },
+    "correct_answer": "b",
+    "explanation": "'Sardonic' means grimly mocking or cynical. Its Bangla meaning is বিদ্রূপাত্মক (mocking/sarcastic). 'সৌম্য' (gentle), 'মধুর' (sweet), and 'সরল' (simple) are all antonyms."
+  },
+  {
+    "id": 196,
+    "question": "Choose the correct Bangla translation of the word 'Truculent'.",
+    "options": {
+      "a": "শান্ত",
+      "b": "প্রচন্ড",
+      "c": "বিনয়ী",
+      "d": "নম্র"
+    },
+    "correct_answer": "b",
+    "explanation": "'Truculent' means eager or quick to argue or fight; aggressively defiant. The Bangla word is প্রচন্ড (fierce/aggressive). 'শান্ত' (calm), 'বিনয়ী' (modest), and 'নম্র' (gentle) are all antonyms."
+  },
+  {
+    "id": 197,
+    "question": "What is the Bangla meaning of the word 'Uncouth'?",
+    "options": {
+      "a": "ভদ্র",
+      "b": "অমার্জিত",
+      "c": "শিক্ষিত",
+      "d": "সভ্য"
+    },
+    "correct_answer": "b",
+    "explanation": "'Uncouth' means lacking good manners, refinement, or grace. Its Bangla meaning is অমার্জিত (unrefined/rude). 'ভদ্র' (gentle), 'শিক্ষিত' (educated), and 'সভ্য' (civilized) are all antonyms."
+  },
+  {
+    "id": 198,
+    "question": "Identify the Bangla meaning of the word 'Vituperate'.",
+    "options": {
+      "a": "প্রশংসা করা",
+      "b": "গালি দেওয়া",
+      "c": "সম্মান করা",
+      "d": "পূজা করা"
+    },
+    "correct_answer": "b",
+    "explanation": "To 'Vituperate' means to blame or insult someone in strong or violent language. The Bangla word is গালি দেওয়া (to abuse/revile). 'প্রশংসা করা' (to praise), 'সম্মান করা' (to respect), and 'পূজা করা' (to worship) are all antonyms."
+  },
+  {
+    "id": 199,
+    "question": "What is the Bangla meaning of the word 'Wily'?",
+    "options": {
+      "a": "সরল",
+      "b": "ধূর্ত",
+      "c": "অকপট",
+      "d": "নিরীহ"
+    },
+    "correct_answer": "b",
+    "explanation": "'Wily' means skilled at gaining an advantage, especially deceitfully. Its Bangla meaning is ধূর্ত (cunning/sly). 'সরল' (simple), 'অকপট' (frank), and 'নিরীহ' (innocent) are all antonyms."
+  },
+  {
+    "id": 200,
+    "question": "Choose the correct Bangla meaning for the word 'Yare'.",
+    "options": {
+      "a": "ধীর",
+      "b": "চটপটে",
+      "c": "অলস",
+      "d": "স্থির"
+    },
+    "correct_answer": "b",
+    "explanation": "'Yare' is an old-fashioned word meaning quick; lively. The Bangla word is চটপটে (nimble/agile). 'ধীর' (slow), 'অলস' (lazy), and 'স্থির' (still) are all antonyms."
+  },
+  {
+    "id": 201,
+    "question": "What is the Bangla meaning of the word 'Aberration'?",
+    "options": {
+      "a": "স্বাভাবিকতা",
+      "b": "বিচ্যুতি",
+      "c": "নিয়মিততা",
+      "d": "সাধারণতা"
+    },
+    "correct_answer": "b",
+    "explanation": "'Aberration' means a departure from what is normal, usual, or expected. Its Bangla meaning is বিচ্যুতি (deviation). 'স্বাভাবিকতা' (normality), 'নিয়মিততা' (regularity), and 'সাধারণতা' (commonness) are all antonyms."
+  },
+  {
+    "id": 202,
+    "question": "Identify the Bangla meaning of the word 'Bilk'.",
+    "options": {
+      "a": "প্রতারণা করা",
+      "b": "সাহায্য করা",
+      "c": "দেওয়া",
+      "d": "সম্মান করা"
+    },
+    "correct_answer": "a",
+    "explanation": "To 'Bilk' means to obtain or withhold money from someone by deceit or without justification; to cheat or defraud. The Bangla word is প্রতারণা করা (to cheat/swindle). 'সাহায্য করা' (to help), 'দেওয়া' (to give), and 'সম্মান করা' (to respect) are all opposites."
+  },
+  {
+    "id": 203,
+    "question": "What is the Bangla meaning of the word 'Cacophony'?",
+    "options": {
+      "a": "সুরেলা ধ্বনি",
+      "b": "কর্কশ শব্দ",
+      "c": "মধুর গান",
+      "d": "শান্ত পরিবেশ"
+    },
+    "correct_answer": "b",
+    "explanation": "'Cacophony' means a harsh, discordant mixture of sounds. Its Bangla meaning is কর্কশ শব্দ (harsh sound). 'সুরেলা ধ্বনি' (melodious sound), 'মধুর গান' (sweet song), and 'শান্ত পরিবেশ' (calm environment) are all opposites."
+  },
+  {
+    "id": 204,
+    "question": "Choose the correct Bangla translation of the word 'Dearth'.",
+    "options": {
+      "a": "প্রাচুর্য",
+      "b": "স্বল্পতা",
+      "c": "ঢের",
+      "d": "পর্যাপ্তি"
+    },
+    "correct_answer": "b",
+    "explanation": "'Dearth' means a scarcity or lack of something. The Bangla word is স্বল্পতা (scarcity). 'প্রাচুর্য' (abundance), 'ঢের' (plenty), and 'পর্যাপ্তি' (sufficiency) are all antonyms."
+  },
+  {
+    "id": 205,
+    "question": "What is the Bangla meaning of the word 'Eclectic'?",
+    "options": {
+      "a": "একমাত্রিক",
+      "b": "বহুমাত্রিক",
+      "c": "সীমিত",
+      "d": "সংকীর্ণ"
+    },
+    "correct_answer": "b",
+    "explanation": "'Eclectic' means deriving ideas, style, or taste from a broad and diverse range of sources. Its Bangla meaning is বহুমাত্রিক (multifaceted/diverse). 'একমাত্রিক' (one-dimensional), 'সীমিত' (limited), and 'সংকীর্ণ' (narrow) are all antonyms."
+  },
+  {
+    "id": 206,
+    "question": "Identify the Bangla meaning of the word 'Fabricate'.",
+    "options": {
+      "a": "ধ্বংস করা",
+      "b": "নির্মাণ করা",
+      "c": "ভাঙ্গা",
+      "d": "ছিঁড়া"
+    },
+    "correct_answer": "b",
+    "explanation": "To 'Fabricate' means to invent or concoct something, typically with deceitful intent, or to construct or manufacture something. Its Bangla meaning is নির্মাণ করা (to build/construct). 'ধ্বংস করা' (to destroy), 'ভাঙ্গা' (to break), and 'ছিঁড়া' (to tear) are all antonyms."
+  },
+  {
+    "id": 207,
+    "question": "What is the Bangla meaning of the word 'Gainsay'?",
+    "options": {
+      "a": "স্বীকার করা",
+      "b": "অস্বীকার করা",
+      "c": "মেনে নেওয়া",
+      "d": "সমর্থন করা"
+    },
+    "correct_answer": "b",
+    "explanation": "To 'Gainsay' means to deny or contradict a fact or statement. Its Bangla meaning is অস্বীকার করা (to deny/contradict). 'স্বীকার করা' (to admit), 'মেনে নেওয়া' (to accept), and 'সমর্থন করা' (to support) are all antonyms."
+  },
+  {
+    "id": 208,
+    "question": "Choose the correct Bangla meaning for the word 'Harangue'.",
+    "options": {
+      "a": "নীরবতা",
+      "b": "বক্তৃতা",
+      "c": "ফিসফিস",
+      "d": "শান্ত আলাপ"
+    },
+    "correct_answer": "b",
+    "explanation": "A 'Harangue' is a lengthy and aggressive speech. The Bangla word is বক্তৃতা (speech) but with a connotation of a tirade. 'নীরবতা' (silence), 'ফিসফিস' (whisper), and 'শান্ত আলাপ' (calm talk) are all opposites."
+  },
+  {
+    "id": 209,
+    "question": "What is the Bangla meaning of the word 'Iconic'?",
+    "options": {
+      "a": "অপরিচিত",
+      "b": "প্রতীকী",
+      "c": "সাধারণ",
+      "d": "অখ্যাত"
+    },
+    "correct_answer": "b",
+    "explanation": "'Iconic' means relating to or of the nature of an icon; widely recognized and well-established. Its Bangla meaning is প্রতীকী (symbolic/emblematic). 'অপরিচিত' (unknown), 'সাধারণ' (ordinary), and 'অখ্যাত' (unfamous) are all antonyms."
+  },
+  {
+    "id": 210,
+    "question": "Identify the Bangla meaning of the word 'Juvenile'.",
+    "options": {
+      "a": "প্রাপ্তবয়স্ক",
+      "b": "কিশোর",
+      "c": "বয়স্ক",
+      "d": "পরিণত"
+    },
+    "correct_answer": "b",
+    "explanation": "'Juvenile' means relating to young people, or childish; immature. The Bangla word is কিশোর (adolescent/youthful). 'প্রাপ্তবয়স্ক' (adult), 'বয়স্ক' (elderly), and 'পরিণত' (mature) are all antonyms."
+  },
+  {
+    "id": 211,
+    "question": "What is the Bangla meaning of the word 'Kaleidoscopic'?",
+    "options": {
+      "a": "একঘেয়ে",
+      "b": "বর্ণাঢ্য",
+      "c": "নীরস",
+      "d": "সাদামাটা"
+    },
+    "correct_answer": "b",
+    "explanation": "'Kaleidoscopic' means having complex patterns of colors; or constantly changing in composition or significance. Its Bangla meaning is বর্ণাঢ্য (colorful/varied). 'একঘেয়ে' (monotonous), 'নীরস' (dull), and 'সাদামাটা' (plain) are all antonyms."
+  },
+  {
+    "id": 212,
+    "question": "Choose the correct Bangla translation of the word 'Labyrinth'.",
+    "options": {
+      "a": "সরল পথ",
+      "b": "গোলকধাঁধা",
+      "c": "মুক্ত পথ",
+      "d": "সোজা রাস্তা"
+    },
+    "correct_answer": "b",
+    "explanation": "A 'Labyrinth' is a complicated irregular network of passages or paths in which it is difficult to find one's way; a maze. The Bangla word is গোলকধাঁধা (maze). 'সরল পথ' (simple path), 'মুক্ত পথ' (open path), and 'সোজা রাস্তা' (straight road) are all opposites."
+  },
+  {
+    "id": 213,
+    "question": "What is the Bangla meaning of the word 'Maelstrom'?",
+    "options": {
+      "a": "শান্ত সাগর",
+      "b": "ঘূর্ণিপাক",
+      "c": "স্থির জল",
+      "d": "নিরিবিলি স্থান"
+    },
+    "correct_answer": "b",
+    "explanation": "A 'Maelstrom' is a powerful whirlpool in the sea or a river, or a situation or state of confused movement or violent turmoil. Its Bangla meaning is ঘূর্ণিপাক (whirlpool/turmoil). 'শান্ত সাগর' (calm sea), 'স্থির জল' (still water), and 'নিরিবিলি স্থান' (quiet place) are all opposites."
+  },
+  {
+    "id": 214,
+    "question": "Identify the Bangla meaning of the word 'Nadir'.",
+    "options": {
+      "a": "চরম উৎকর্ষ",
+      "b": "নিম্নতম বিন্দু",
+      "c": "শীর্ষবিন্দু",
+      "d": "সর্বোচ্চ অবস্থা"
+    },
+    "correct_answer": "b",
+    "explanation": "The 'Nadir' is the lowest point in the fortunes of a person or organization. The Bangla word is নিম্নতম বিন্দু (lowest point). 'চরম উৎকর্ষ' (zenith), 'শীর্ষবিন্দু' (peak), and 'সর্বোচ্চ অবস্থা' (highest state) are all antonyms."
+  },
+  {
+    "id": 215,
+    "question": "What is the Bangla meaning of the word 'Obfuscate'?",
+    "options": {
+      "a": "স্পষ্ট করা",
+      "b": "জটিল করা",
+      "c": "সহজ করা",
+      "d": "আলোকিত করা"
+    },
+    "correct_answer": "b",
+    "explanation": "To 'Obfuscate' means to render obscure, unclear, or unintelligible. Its Bangla meaning is জটিল করা (to complicate). 'স্পষ্ট করা' (to clarify), 'সহজ করা' (to simplify), and 'আলোকিত করা' (to enlighten) are all antonyms."
+  },
+  {
+    "id": 216,
+    "question": "Choose the correct Bangla meaning for the word 'Pandemonium'.",
+    "options": {
+      "a": "শান্তি",
+      "b": "হৈচৈ",
+      "c": "নিরবতা",
+      "d": "শৃঙ্খলা"
+    },
+    "correct_answer": "b",
+    "explanation": "'Pandemonium' means wild and noisy disorder or confusion; uproar. The Bangla word is হৈচৈ (uproar/chaos). 'শান্তি' (peace), 'নিরবতা' (silence), and 'শৃঙ্খলা' (discipline) are all antonyms."
+  },
+  {
+    "id": 217,
+    "question": "What is the Bangla meaning of the word 'Quandary'?",
+    "options": {
+      "a": "সমাধান",
+      "b": "উভয়সঙ্কট",
+      "c": "নিশ্চয়তা",
+      "d": "সহজ পথ"
+    },
+    "correct_answer": "b",
+    "explanation": "A 'Quandary' is a state of perplexity or uncertainty over what to do in a difficult situation. Its Bangla meaning is উভয়সঙ্কট (dilemma). 'সমাধান' (solution), 'নিশ্চয়তা' (certainty), and 'সহজ পথ' (easy path) are all opposites."
+  },
+  {
+    "id": 218,
+    "question": "Identify the Bangla meaning of the word 'Ravenous'.",
+    "options": {
+      "a": "তৃপ্ত",
+      "b": "ক্ষুধার্ত",
+      "c": "পরিতৃপ্ত",
+      "d": "পেট ভরা"
+    },
+    "correct_answer": "b",
+    "explanation": "'Ravenous' means extremely hungry. The Bangla word is ক্ষুধার্ত (very hungry). 'তৃপ্ত' (satiated), 'পরিতৃপ্ত' (satisfied), and 'পেট ভরা' (full stomach) are all antonyms."
+  },
+  {
+    "id": 219,
+    "question": "What is the Bangla meaning of the word 'Sinuous'?",
+    "options": {
+      "a": "সরল",
+      "b": "আঁকাবাঁকা",
+      "c": "সোজা",
+      "d": "টলমলে"
+    },
+    "correct_answer": "b",
+    "explanation": "'Sinuous' means having many curves and turns. Its Bangla meaning is আঁকাবাঁকা (winding/curvy). 'সরল' (straight), 'সোজা' (direct), and 'টলমলে' (unsteady) are not synonyms."
+  },
+  {
+    "id": 220,
+    "question": "Choose the correct Bangla translation of the word 'Tacit'.",
+    "options": {
+      "a": "প্রকাশ্য",
+      "b": "নিহিতার্থ",
+      "c": "স্পষ্ট",
+      "d": "মৌখিক"
+    },
+    "correct_answer": "b",
+    "explanation": "'Tacit' means understood or implied without being stated. The Bangla word is নিহিতার্থ (implied/unspoken). 'প্রকাশ্য' (explicit), 'স্পষ্ট' (clear), and 'মৌখিক' (verbal) are all antonyms."
+  },
+  {
+    "id": 221,
+    "question": "What is the Bangla meaning of the word 'Ubiquitous'?",
+    "options": {
+      "a": "দুর্লভ",
+      "b": "সর্বব্যাপী",
+      "c": "বিরল",
+      "d": "অনুপস্থিত"
+    },
+    "correct_answer": "b",
+    "explanation": "'Ubiquitous' means present, appearing, or found everywhere. Its Bangla meaning is সর্বব্যাপী (omnipresent). 'দুর্লভ' (rare), 'বিরল' (rare), and 'অনুপস্থিত' (absent) are all antonyms."
+  },
+  {
+    "id": 222,
+    "question": "Identify the Bangla meaning of the word 'Vacillate'.",
+    "options": {
+      "a": "স্থির থাকা",
+      "b": "দ্বিধা করা",
+      "c": "নিশ্চিত হওয়া",
+      "d": "অটল থাকা"
+    },
+    "correct_answer": "b",
+    "explanation": "To 'Vacillate' means to waver between different opinions or actions; to be indecisive. The Bangla word is দ্বিধা করা (to hesitate/waver). 'স্থির থাকা' (to be firm), 'নিশ্চিত হওয়া' (to be certain), and 'অটল থাকা' (to be steadfast) are all antonyms."
+  },
+  {
+    "id": 223,
+    "question": "What is the Bangla meaning of the word 'Wane'?",
+    "options": {
+      "a": "বৃদ্ধি পাওয়া",
+      "b": "ক্ষীণ হওয়া",
+      "c": "বেড়ে ওঠা",
+      "d": "সমৃদ্ধ হওয়া"
+    },
+    "correct_answer": "b",
+    "explanation": "To 'Wane' means to decrease in vigor, power, or extent; to become weaker. Its Bangla meaning is ক্ষীণ হওয়া (to diminish/decline). 'বৃদ্ধি পাওয়া' (to increase), 'বেড়ে ওঠা' (to grow), and 'সমৃদ্ধ হওয়া' (to prosper) are all antonyms."
+  },
+  {
+    "id": 224,
+    "question": "Choose the correct Bangla meaning for the word 'Xenophobe'.",
+    "options": {
+      "a": "বিদেশীপ্রেমী",
+      "b": "বিদেশীভীত",
+      "c": "স্বদেশপ্রেমী",
+      "d": "আন্তর্জাতিক"
+    },
+    "correct_answer": "b",
+    "explanation": "A 'Xenophobe' is a person who dislikes or fears people from other countries. The Bangla word is বিদেশীভীত (one who fears foreigners). 'বিদেশীপ্রেমী' (xenophile), 'স্বদেশপ্রেমী' (patriot), and 'আন্তর্জাতিক' (internationalist) are all opposite in sentiment."
+  },
+  {
+    "id": 225,
+    "question": "What is the Bangla meaning of the word 'Yearn'?",
+    "options": {
+      "a": "ঘৃণা করা",
+      "b": "ব্যাকুলভাবে কামনা করা",
+      "c": "উপেক্ষা করা",
+      "d": "ত্যাগ করা"
+    },
+    "correct_answer": "b",
+    "explanation": "To 'Yearn' means to have an intense feeling of longing for something, typically something that one has lost or been separated from. Its Bangla meaning is ব্যাকুলভাবে কামনা করা (to long for). 'ঘৃণা করা' (to hate), 'উপেক্ষা করা' (to ignore), and 'ত্যাগ করা' (to abandon) are all opposites."
+  },
+  {
+    "id": 226,
+    "question": "Identify the Bangla meaning of the word 'Zephyr'.",
+    "options": {
+      "a": "ঝড়",
+      "b": "মৃদুমন্দ বাতাস",
+      "c": "ঘূর্ণিঝড়",
+      "d": "প্রবল বায়ু"
+    },
+    "correct_answer": "b",
+    "explanation": "A 'Zephyr' is a soft, gentle breeze. The Bangla phrase is মৃদুমন্দ বাতাস (gentle breeze). 'ঝড়' (storm), 'ঘূর্ণিঝড়' (cyclone), and 'প্রবল বায়ু' (strong wind) are all opposites."
+  },
+  {
+    "id": 227,
+    "question": "What is the Bangla meaning of the word 'Aberrant'?",
+    "options": {
+      "a": "স্বাভাবিক",
+      "b": "অস্বাভাবিক",
+      "c": "নিয়মিত",
+      "d": "সাধারণ"
+    },
+    "correct_answer": "b",
+    "explanation": "'Aberrant' means departing from an accepted standard. Its Bangla meaning is অস্বাভাবিক (abnormal/deviant). 'স্বাভাবিক' (normal), 'নিয়মিত' (regular), and 'সাধারণ' (ordinary) are all antonyms."
+  },
+  {
+    "id": 228,
+    "question": "Choose the correct Bangla translation of the word 'Banal'.",
+    "options": {
+      "a": "মৌলিক",
+      "b": "ঘরোয়া",
+      "c": "সৃজনশীল",
+      "d": "নতুন"
+    },
+    "correct_answer": "b",
+    "explanation": "'Banal' means so lacking in originality as to be obvious and boring. The Bangla word is ঘরোয়া (commonplace/trite). 'মৌলিক' (original), 'সৃজনশীল' (creative), and 'নতুন' (new) are all antonyms."
+  },
+  {
+    "id": 229,
+    "question": "What is the Bangla meaning of the word 'Cacophonous'?",
+    "options": {
+      "a": "সুমধুর",
+      "b": "কর্কশ",
+      "c": "সুরেলা",
+      "d": "মধুর"
+    },
+    "correct_answer": "b",
+    "explanation": "'Cacophonous' means involving or producing a harsh, discordant mixture of sounds. Its Bangla meaning is কর্কশ (harsh/grating). 'সুমধুর' (sweet), 'সুরেলা' (melodious), and 'মধুর' (sweet) are all antonyms."
+  },
+  {
+    "id": 230,
+    "question": "Identify the Bangla meaning of the word 'Debilitate'.",
+    "options": {
+      "a": "শক্তিশালী করা",
+      "b": "দুর্বল করা",
+      "c": "সুস্থ করা",
+      "d": "সক্রিয় করা"
+    },
+    "correct_answer": "b",
+    "explanation": "To 'Debilitate' means to make someone weak and infirm. The Bangla word is দুর্বল করা (to weaken). 'শক্তিশালী করা' (to strengthen), 'সুস্থ করা' (to heal), and 'সক্রিয় করা' (to activate) are all antonyms."
+  },
+  {
+    "id": 231,
+    "question": "What is the Bangla meaning of the word 'Ebullient'?",
+    "options": {
+      "a": "নিস্তেজ",
+      "b": "উদ্দীপ্ত",
+      "c": "হতাশ",
+      "d": "বিষণ্ণ"
+    },
+    "correct_answer": "b",
+    "explanation": "'Ebullient' means cheerful and full of energy. Its Bangla meaning is উদ্দীপ্ত (enthusiastic/exuberant). 'নিস্তেজ' (dull), 'হতাশ' (depressed), and 'বিষণ্ণ' (gloomy) are all antonyms."
+  },
+  {
+    "id": 232,
+    "question": "Choose the correct Bangla meaning for the word 'Facetious'.",
+    "options": {
+      "a": "গম্ভীর",
+      "b": "রসিকতাপূর্ণ",
+      "c": "ভারী",
+      "d": "গুরুতর"
+    },
+    "correct_answer": "b",
+    "explanation": "'Facetious' means treating serious issues with deliberately inappropriate humor; flippant. The Bangla word is রসিকতাপূর্ণ (joking/frivolous). 'গম্ভীর' (serious), 'ভারী' (heavy), and 'গুরুতর' (grave) are all antonyms."
+  },
+  {
+    "id": 233,
+    "question": "What is the Bangla meaning of the word 'Gauche'?",
+    "options": {
+      "a": "মার্জিত",
+      "b": "অমার্জিত",
+      "c": "ভদ্র",
+      "d": "শালীন"
+    },
+    "correct_answer": "b",
+    "explanation": "'Gauche' means unsophisticated and socially awkward. Its Bangla meaning is অমার্জিত (unrefined/awkward). 'মার্জিত' (refined), 'ভদ্র' (polite), and 'শালীন' (decent) are all antonyms."
+  },
+  {
+    "id": 234,
+    "question": "Identify the Bangla meaning of the word 'Heterogeneous'.",
+    "options": {
+      "a": "সমজাতীয়",
+      "b": "বিজাতীয়",
+      "c": "একই রকম",
+      "d": "সদৃশ"
+    },
+    "correct_answer": "b",
+    "explanation": "'Heterogeneous' means diverse in character or content. The Bangla word is বিজাতীয় (diverse/different in kind). 'সমজাতীয়' (homogeneous), 'একই রকম' (similar), and 'সদৃশ' (alike) are all antonyms."
+  },
+  {
+    "id": 235,
+    "question": "What is the Bangla meaning of the word 'Iconoclast'?",
+    "options": {
+      "a": "অনুসারী",
+      "b": "মতভঞ্জক",
+      "c": "ভক্ত",
+      "d": "শিষ্য"
+    },
+    "correct_answer": "b",
+    "explanation": "An 'Iconoclast' is a person who attacks or criticizes cherished beliefs or institutions. Its Bangla meaning is মতভঞ্জক (one who breaks established beliefs). 'অনুসারী' (follower), 'ভক্ত' (devotee), and 'শিষ্য' (disciple) are all antonyms."
+  },
+  {
+    "id": 236,
+    "question": "Choose the correct Bangla translation of the word 'Juxtaposition'.",
+    "options": {
+      "a": "দূরত্ব",
+      "b": "পাশাপাশি অবস্থান",
+      "c": "বিচ্ছিন্নতা",
+      "d": "পৃথকীকরণ"
+    },
+    "correct_answer": "b",
+    "explanation": "'Juxtaposition' is the fact of two things being seen or placed close together with contrasting effect. The Bangla phrase is পাশাপাশি অবস্থান (placement side by side). 'দূরত্ব' (distance), 'বিচ্ছিন্নতা' (isolation), and 'পৃথকীকরণ' (separation) are all antonyms."
+  },
+  {
+    "id": 237,
+    "question": "What is the Bangla meaning of the word 'Kudos'?",
+    "options": {
+      "a": "অপমান",
+      "b": "প্রশংসা",
+      "c": "নিন্দা",
+      "d": "গালি"
+    },
+    "correct_answer": "b",
+    "explanation": "'Kudos' means praise and honor received for an achievement. Its Bangla meaning is প্রশংসা (praise). 'অপমান' (insult), 'নিন্দা' (criticism), and 'গালি' (abuse) are all antonyms."
+  },
+  {
+    "id": 238,
+    "question": "Identify the Bangla meaning of the word 'Lethargy'.",
+    "options": {
+      "a": "সক্রিয়তা",
+      "b": "অলসতা",
+      "c": "উদ্যম",
+      "d": "উৎসাহ"
+    },
+    "correct_answer": "b",
+    "explanation": "'Lethargy' means a lack of energy and enthusiasm. The Bangla word is অলসতা (sluggishness). 'সক্রিয়তা' (activity), 'উদ্যম' (energy), and 'উৎসাহ' (enthusiasm) are all antonyms."
+  },
+  {
+    "id": 239,
+    "question": "What is the Bangla meaning of the word 'Meticulous'?",
+    "options": {
+      "a": "অসাবধান",
+      "b": "সতর্ক",
+      "c": "অসতর্ক",
+      "d": "ঢিলা"
+    },
+    "correct_answer": "b",
+    "explanation": "'Meticulous' means showing great attention to detail; very careful and precise. Its Bangla meaning is সতর্ক (careful). 'অসাবধান' (careless), 'অসতর্ক' (incautious), and 'ঢিলা' (lax) are all antonyms."
+  },
+  {
+    "id": 240,
+    "question": "Choose the correct Bangla meaning for the word 'Nostalgia'.",
+    "options": {
+      "a": "বিরক্তি",
+      "b": "স্মৃতিকাতরতা",
+      "c": "উদাসীনতা",
+      "d": "ঘৃণা"
+    },
+    "correct_answer": "b",
+    "explanation": "'Nostalgia' is a sentimental longing or wistful affection for the past. The Bangla word is স্মৃতিকাতরতা (sentimental longing for the past). 'বিরক্তি' (annoyance), 'উদাসীনতা' (apathy), and 'ঘৃণা' (hatred) are not related."
+  },
+  {
+    "id": 241,
+    "question": "What is the Bangla meaning of the word 'Ominous'?",
+    "options": {
+      "a": "শুভ",
+      "b": "অশুভ",
+      "c": "মঙ্গলজনক",
+      "d": "সুচিহ্ন"
+    },
+    "correct_answer": "b",
+    "explanation": "'Ominous' means giving the worrying impression that something bad is going to happen. Its Bangla meaning is অশুভ (inauspicious). 'শুভ' (auspicious), 'মঙ্গলজনক' (beneficial), and 'সুচিহ্ন' (good omen) are all antonyms."
+  },
+  {
+    "id": 242,
+    "question": "Identify the Bangla meaning of the word 'Pristine'.",
+    "options": {
+      "a": "নোংরা",
+      "b": "নির্মল",
+      "c": "দূষিত",
+      "d": "পুরাতন"
+    },
+    "correct_answer": "b",
+    "explanation": "'Pristine' means in its original condition; unspoiled. The Bangla word is নির্মল (pure/untouched). 'নোংরা' (dirty), 'দূষিত' (polluted), and 'পুরাতন' (old) are all opposites or unrelated."
+  },
+  {
+    "id": 243,
+    "question": "What is the Bangla meaning of the word 'Quaint'?",
+    "options": {
+      "a": "আধুনিক",
+      "b": "অদ্ভুত",
+      "c": "নব্য",
+      "d": "সাধারণ"
+    },
+    "correct_answer": "b",
+    "explanation": "'Quaint' means attractively unusual or old-fashioned. Its Bangla meaning can be অদ্ভুত (strange but charming). 'আধুনিক' (modern), 'নব্য' (new), and 'সাধারণ' (ordinary) are all opposites."
+  },
+  {
+    "id": 244,
+    "question": "Choose the correct Bangla translation of the word 'Resilient'.",
+    "options": {
+      "a": "ভঙ্গুর",
+      "b": "স্থিতিস্থাপক",
+      "c": "দুর্বল",
+      "d": "নাজুক"
+    },
+    "correct_answer": "b",
+    "explanation": "'Resilient' means able to withstand or recover quickly from difficult conditions. The Bangla word is স্থিতিস্থাপক (elastic/able to bounce back). 'ভঙ্গুর' (fragile), 'দুর্বল' (weak), and 'নাজুক' (delicate) are all antonyms."
+  },
+  {
+    "id": 245,
+    "question": "What is the Bangla meaning of the word 'Skeptical'?",
+    "options": {
+      "a": "বিশ্বাসী",
+      "b": "সন্দেহপ্রবণ",
+      "c": "প্রত্যয়ী",
+      "d": "আস্থাবান"
+    },
+    "correct_answer": "b",
+    "explanation": "'Skeptical' means not easily convinced; having doubts or reservations. Its Bangla meaning is সন্দেহপ্রবণ (tending to doubt). 'বিশ্বাসী' (believing), 'প্রত্যয়ী' (convinced), and 'আস্থাবান' (trusting) are all antonyms."
+  },
+  {
+    "id": 246,
+    "question": "Identify the Bangla meaning of the word 'Taciturn'.",
+    "options": {
+      "a": "বাচাল",
+      "b": "মিতভাষী",
+      "c": "আলাপী",
+      "d": "সুরেলা"
+    },
+    "correct_answer": "b",
+    "explanation": "'Taciturn' means reserved or uncommunicative in speech; saying little. The Bangla word is মিতভাষী (speaking little). 'বাচাল' (talkative) and 'আলাপী' (conversational) are antonyms. 'সুরেলা' (melodious) is unrelated."
+  },
+  {
+    "id": 247,
+    "question": "What is the Bangla meaning of the word 'Ubiquitous'?",
+    "options": {
+      "a": "দুর্লভ",
+      "b": "সর্বব্যাপী",
+      "c": "বিরল",
+      "d": "অনুপস্থিত"
+    },
+    "correct_answer": "b",
+    "explanation": "'Ubiquitous' means present, appearing, or found everywhere. Its Bangla meaning is সর্বব্যাপী (omnipresent). 'দুর্লভ' (rare), 'বিরল' (rare), and 'অনুপস্থিত' (absent) are all antonyms."
+  },
+  {
+    "id": 248,
+    "question": "Choose the correct Bangla meaning for the word 'Venerable'.",
+    "options": {
+      "a": "অসম্মানিত",
+      "b": "শ্রদ্ধেয়",
+      "c": "ঘৃণিত",
+      "d": "তুচ্ছ"
+    },
+    "correct_answer": "b",
+    "explanation": "'Venerable' means accorded a great deal of respect, especially because of age, wisdom, or character. The Bangla word is শ্রদ্ধেয় (respectable). 'অসম্মানিত' (disrespected), 'ঘৃণিত' (hated), and 'তুচ্ছ' (insignificant) are all opposites."
+  },
+  {
+    "id": 249,
+    "question": "What is the Bangla meaning of the word 'Wistful'?",
+    "options": {
+      "a": "প্রফুল্ল",
+      "b": "বিরহী",
+      "c": "উল্লসিত",
+      "d": "তৃপ্ত"
+    },
+    "correct_answer": "b",
+    "explanation": "'Wistful' means having or showing a feeling of vague or regretful longing. Its Bangla meaning is বিরহী (pensive/yearning). 'প্রফুল্ল' (cheerful), 'উল্লসিত' (joyful), and 'তৃপ্ত' (satisfied) are all opposites."
+  },
+  {
+    "id": 250,
+    "question": "Identify the Bangla meaning of the word 'Xeric'.",
+    "options": {
+      "a": "আর্দ্র",
+      "b": "শুষ্ক",
+      "c": "জলাবদ্ধ",
+      "d": "স্যাঁতসেঁতে"
+    },
+    "correct_answer": "b",
+    "explanation": "'Xeric' is an adjective meaning containing or characterized by a dry environment. The Bangla word is শুষ্ক (dry/arid). 'আর্দ্র' (humid), 'জলাবদ্ধ' (waterlogged), and 'স্যাঁতসেঁতে' (damp) are all opposites."
+  }
+
+
+
+
+]

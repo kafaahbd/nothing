@@ -1,0 +1,3606 @@
+[
+  {
+    "id": 1,
+    "question": "Which of the following is the most appropriate synonym for the word 'Abhor'?",
+    "options": {
+      "a": "Love",
+      "b": "Hate",
+      "c": "Admire",
+      "d": "Enjoy"
+    },
+    "correct_answer": "b",
+    "explanation": "'Abhor' (ঘৃণা করা) means to hate something intensely. Its synonyms are detest (ঘৃণা করা), loathe (ঘৃণা করা), despise (অবজ্ঞা করা), and abominate (ঘৃণা করা). Antonyms are love (ভালোবাসা), admire (প্রশংসা করা), adore (পূজা করা), and cherish (লালন করা)."
+  },
+  {
+    "id": 2,
+    "question": "What is the synonym of 'Benevolent'?",
+    "options": {
+      "a": "Cruel",
+      "b": "Kind",
+      "c": "Mean",
+      "d": "Strict"
+    },
+    "correct_answer": "b",
+    "explanation": "'Benevolent' (সদাশয়) means well-meaning and kindly. Its synonyms are kind (সদয়), generous (উদার), compassionate (দয়ালু), and humane (মানবিক). Antonyms are cruel (নিষ্ঠুর), malevolent (বিদ্বেষপরায়ণ), unkind (অদয়ালু), and harsh (কঠোর)."
+  },
+  {
+    "id": 3,
+    "question": "The antonym of 'Broad' is:",
+    "options": {
+      "a": "Wide",
+      "b": "Narrow",
+      "c": "Extensive",
+      "d": "Large"
+    },
+    "correct_answer": "b",
+    "explanation": "'Broad' (প্রশস্ত) means wide or large. Its synonyms are wide (প্রশস্ত), expansive (বিস্তৃত), vast (বিশাল), and extensive (ব্যাপক). Its antonyms are narrow (সংকীর্ণ), limited (সীমিত), restricted (সীমাবদ্ধ), and slender (ক্ষীণ)."
+  },
+  {
+    "id": 4,
+    "question": "What is the synonym of 'Candid'?",
+    "options": {
+      "a": "Secretive",
+      "b": "Reserved",
+      "c": "Outspoken",
+      "d": "Deceptive"
+    },
+    "correct_answer": "c",
+    "explanation": "'Candid' (অকপট/মনখোলা) means truthful and straightforward. Its synonyms are outspoken (অকপট), frank (স্পষ্টবাদী), honest (সৎ), and blunt (সরাসরি). Antonyms are secretive (গোপনীয়), reserved (সংযত), deceitful (প্রতারক), and insincere (অকৃত্রিম নয় এমন)."
+  },
+  {
+    "id": 5,
+    "question": "Which word is the antonym of 'Accept'?",
+    "options": {
+      "a": "Receive",
+      "b": "Reject",
+      "c": "Agree",
+      "d": "Admit"
+    },
+    "correct_answer": "b",
+    "explanation": "'Accept' (গ্রহণ করা) means to agree to receive something. Its synonyms are receive (গ্রহণ করা), agree (সম্মত হওয়া), admit (স্বীকার করা), and embrace (অংশীদার করা). Its antonyms are reject (প্রত্যাখ্যান করা), refuse (অস্বীকার করা), decline (বাতিল করা), and deny (অস্বীকার করা)."
+  },
+  {
+    "id": 6,
+    "question": "The synonym of 'Significant' is:",
+    "options": {
+      "a": "Minor",
+      "b": "Trivial",
+      "c": "Important",
+      "d": "Insignificant"
+    },
+    "correct_answer": "c",
+    "explanation": "'Significant' (গুরুত্বপূর্ণ) means sufficiently great or important. Its synonyms are important (গুরুত্বপূর্ণ), major (প্রধান), meaningful (অর্থপূর্ণ), and considerable (উল্লেখযোগ্য). Antonyms are insignificant (নগণ্য), minor (গৌণ), trivial (তুচ্ছ), and unimportant (অগুরুত্বপূর্ণ)."
+  },
+  {
+    "id": 7,
+    "question": "What is the antonym of 'Precious'?",
+    "options": {
+      "a": "Valuable",
+      "b": "Costly",
+      "c": "Valueless",
+      "d": "Dear"
+    },
+    "correct_answer": "c",
+    "explanation": "'Precious' (মূল্যবান) means of great value. Its synonyms are valuable (মূল্যবান), costly (ব্যয়বহুল), dear (প্রিয়), and prized (মূল্যবান). Its antonyms are valueless (মূল্যহীন), worthless (অকিঞ্চিতকর), cheap (সস্তা), and insignificant (নগণ্য)."
+  },
+  {
+    "id": 8,
+    "question": "The synonym of 'Alleviate' is:",
+    "options": {
+      "a": "Aggravate",
+      "b": "Worsen",
+      "c": "Abate",
+      "d": "Intensify"
+    },
+    "correct_answer": "c",
+    "explanation": "'Alleviate' (উপশম করা) means to make suffering less severe. Its synonyms are abate (কমানো), relieve (উপশম করা), lessen (হ্রাস করা), and mitigate (লাঘব করা). Antonyms are aggravate (বাড়িয়ে তোলা), worsen (খারাপ করা), intensify (তীব্র করা), and increase (বৃদ্ধি করা)."
+  },
+  {
+    "id": 9,
+    "question": "Which is the antonym of 'Major'?",
+    "options": {
+      "a": "Main",
+      "b": "Important",
+      "c": "Minor",
+      "d": "Greater"
+    },
+    "correct_answer": "c",
+    "explanation": "'Major' (প্রধান) means important or serious. Its synonyms are main (প্রধান), important (গুরুত্বপূর্ণ), significant (গুরুত্বপূর্ণ), and chief (প্রধান). Its antonyms are minor (গৌণ), unimportant (অগুরুত্বপূর্ণ), insignificant (নগণ্য), and lesser (কম গুরুত্বপূর্ণ)."
+  },
+  {
+    "id": 10,
+    "question": "What is the synonym of 'Articulate'?",
+    "options": {
+      "a": "Unclear",
+      "b": "Mumbled",
+      "c": "Intelligible",
+      "d": "Vague"
+    },
+    "correct_answer": "c",
+    "explanation": "'Articulate' (স্পষ্ট) means able to express thoughts clearly. Its synonyms are intelligible (স্পষ্ট), eloquent (বাকপটু), fluent (সাবলীল), and coherent (সুসংহত). Antonyms are unclear (অস্পষ্ট), mumbled (বিড়বিড় করা), vague (অস্পষ্ট), and unintelligible (অবোধ্য)."
+  },
+  {
+    "id": 11,
+    "question": "The antonym of 'Include' is:",
+    "options": {
+      "a": "Contain",
+      "b": "Comprise",
+      "c": "Exclude",
+      "d": "Involve"
+    },
+    "correct_answer": "c",
+    "explanation": "'Include' (অন্তর্ভুক্ত করা) means to comprise as part of a whole. Its synonyms are contain (ধারণ করা), comprise (গঠিত হওয়া), involve (জড়িত করা), and encompass (বেষ্টন করা). Its antonyms are exclude (বাদ দেওয়া), omit (বর্জন করা), leave out (বাদ দেওয়া), and eliminate (বাদ দেওয়া)."
+  },
+  {
+    "id": 12,
+    "question": "Which word is the synonym of 'Genuine'?",
+    "options": {
+      "a": "Fake",
+      "b": "Artificial",
+      "c": "Authentic",
+      "d": "Counterfeit"
+    },
+    "correct_answer": "c",
+    "explanation": "'Genuine' (খাঁটি) means truly what it is said to be. Its synonyms are authentic (প্রকৃত), real (বাস্তব), true (সত্য), and legitimate (বৈধ). Antonyms are fake (নকল), artificial (কৃত্রিম), counterfeit (জাল), and false (মিথ্যা)."
+  },
+  {
+    "id": 13,
+    "question": "The antonym of 'Succeed' is:",
+    "options": {
+      "a": "Prosper",
+      "b": "Triumph",
+      "c": "Fail",
+      "d": "Achieve"
+    },
+    "correct_answer": "c",
+    "explanation": "'Succeed' (সফল হওয়া) means to achieve a goal. Its synonyms are prosper (উন্নতি করা), triumph (জয়লাভ করা), achieve (অর্জন করা), and flourish (বৃদ্ধি পাওয়া). Its antonyms are fail (ব্যর্থ হওয়া), lose (হারা), fall short (অকৃতকার্য হওয়া), and miss (ব্যর্থ হওয়া)."
+  },
+  {
+    "id": 14,
+    "question": "What is the synonym of 'Ambiguous'?",
+    "options": {
+      "a": "Clear",
+      "b": "Unclear",
+      "c": "Obvious",
+      "d": "Definite"
+    },
+    "correct_answer": "b",
+    "explanation": "'Ambiguous' (অস্পষ্ট) means open to more than one interpretation. Its synonyms are unclear (অস্পষ্ট), vague (অস্পষ্ট), doubtful (সন্দেহজনক), and equivocal (দ্ব্যর্থক). Antonyms are clear (পরিষ্কার), obvious (সুস্পষ্ট), definite (নির্দিষ্ট), and explicit (স্পষ্ট)."
+  },
+  {
+    "id": 15,
+    "question": "The antonym of 'Narrow' is:",
+    "options": {
+      "a": "Slender",
+      "b": "Limited",
+      "c": "Broad",
+      "d": "Tight"
+    },
+    "correct_answer": "c",
+    "explanation": "'Narrow' (সংকীর্ণ) means of small width. Its synonyms are slender (ক্ষীণ), limited (সীমিত), tight (আঁটসাঁট), and confined (সীমাবদ্ধ). Its antonyms are broad (প্রশস্ত), wide (প্রশস্ত), expansive (বিস্তৃত), and spacious (বিশাল)."
+  },
+  {
+    "id": 16,
+    "question": "Which is the synonym of 'Frustrate'?",
+    "options": {
+      "a": "Aid",
+      "b": "Assist",
+      "c": "Thwart",
+      "d": "Encourage"
+    },
+    "correct_answer": "c",
+    "explanation": "'Frustrate' (বিফল করা) means to prevent from achieving a goal. Its synonyms are thwart (বিফল করা), foil (ব্যর্থ করা), hinder (বাধা দেওয়া), and baffle (ব্যাহত করা). Antonyms are aid (সাহায্য করা), assist (সহায়তা করা), encourage (উৎসাহিত করা), and support (সমর্থন করা)."
+  },
+  {
+    "id": 17,
+    "question": "The antonym of 'Ancient' is:",
+    "options": {
+      "a": "Old",
+      "b": "Aged",
+      "c": "Modern",
+      "d": "Antique"
+    },
+    "correct_answer": "c",
+    "explanation": "'Ancient' (প্রাচীন) means belonging to the very distant past. Its synonyms are old (পুরাতন), aged (বৃদ্ধ), antique (প্রাচীন), and archaic (প্রাচীন). Its antonyms are modern (আধুনিক), new (নতুন), recent (সাম্প্রতিক), and contemporary (সমসাময়িক)."
+  },
+  {
+    "id": 18,
+    "question": "What is the synonym of 'Aboriginal'?",
+    "options": {
+      "a": "Foreign",
+      "b": "Immigrant",
+      "c": "Native",
+      "d": "Modern"
+    },
+    "correct_answer": "c",
+    "explanation": "'Aboriginal' (আদিম/আদিবাসী) means inhabiting or existing in a land from the earliest times. Its synonyms are native (স্থানীয়), indigenous (আদিবাসী), primitive (আদিম), and original (আদি). Antonyms are foreign (বিদেশী), immigrant (অভিবাসী), alien (বিদেশী), and modern (আধুনিক)."
+  },
+  {
+    "id": 19,
+    "question": "The synonym of 'Barren' is:",
+    "options": {
+      "a": "Fertile",
+      "b": "Productive",
+      "c": "Sterile",
+      "d": "Rich"
+    },
+    "correct_answer": "c",
+    "explanation": "'Barren' (অনুর্বর) means too poor to produce much vegetation. Its synonyms are sterile (অনুর্বর), infertile (অনুর্বর), unproductive (অফলপ্রসূ), and arid (শুষ্ক). Antonyms are fertile (উর্বর), productive (উৎপাদনশীল), rich (সমৃদ্ধ), and fruitful (ফলপ্রসূ)."
+  },
+  {
+    "id": 20,
+    "question": "What is the antonym of 'Expand'?",
+    "options": {
+      "a": "Enlarge",
+      "b": "Increase",
+      "c": "Contract",
+      "d": "Extend"
+    },
+    "correct_answer": "c",
+    "explanation": "'Expand' (বিস্তৃত করা) means to become or make larger. Its synonyms are enlarge (বড় করা), increase (বৃদ্ধি করা), extend (প্রসারিত করা), and swell (ফুলে ওঠা). Its antonyms are contract (সংকুচিত করা), shrink (সঙ্কুচিত হওয়া), compress (চাপ দেওয়া), and condense (সংক্ষিপ্ত করা)."
+  },
+  {
+    "id": 21,
+    "question": "Which word is the synonym of 'Hostile'?",
+    "options": {
+      "a": "Friendly",
+      "b": "Unfriendly",
+      "c": "Kind",
+      "d": "Warm"
+    },
+    "correct_answer": "b",
+    "explanation": "'Hostile' (বিরোধী) means unfriendly or antagonistic. Its synonyms are unfriendly (অবন্ধুসুলভ), antagonistic (বিরোধী), aggressive (আক্রমণাত্মক), and belligerent (যুদ্ধপ্রিয়). Antonyms are friendly (বন্ধুত্বপূর্ণ), kind (সদয়), warm (উষ্ণ), and amicable (সৌহার্দ্যপূর্ণ)."
+  },
+  {
+    "id": 22,
+    "question": "The antonym of 'Polite' is:",
+    "options": {
+      "a": "Courteous",
+      "b": "Respectful",
+      "c": "Rude",
+      "d": "Mannerly"
+    },
+    "correct_answer": "c",
+    "explanation": "'Polite' (ভদ্র) means having good manners. Its synonyms are courteous (বিনয়ী), respectful (শ্রদ্ধাশীল), mannerly (সভ্য), and gracious (সদয়). Its antonyms are rude (অভদ্র), impolite (অভদ্র), discourteous (অবিনয়ী), and disrespectful (অশ্রদ্ধাশীল)."
+  },
+  {
+    "id": 23,
+    "question": "What is the synonym of 'Courageous'?",
+    "options": {
+      "a": "Cowardly",
+      "b": "Fearful",
+      "c": "Brave",
+      "d": "Timid"
+    },
+    "correct_answer": "c",
+    "explanation": "'Courageous' (সাহসী) means not deterred by danger or pain. Its synonyms are brave (সাহসী), fearless (নির্ভীক), valiant (বীর), and daring (সাহসিক). Antonyms are cowardly (কাপুরুষ), fearful (ভীত), timid (ভীরু), and weak (দুর্বল)."
+  },
+  {
+    "id": 24,
+    "question": "The antonym of 'Famous' is:",
+    "options": {
+      "a": "Renowned",
+      "b": "Celebrated",
+      "c": "Unknown",
+      "d": "Prominent"
+    },
+    "correct_answer": "c",
+    "explanation": "'Famous' (বিখ্যাত) means known about by many people. Its synonyms are renowned (সুপ্রসিদ্ধ), celebrated (প্রখ্যাত), prominent (প্রধান), and eminent (বিশিষ্ট). Its antonyms are unknown (অজানা), obscure (অস্পষ্ট/অখ্যাত), anonymous (নামহীন), and nameless (নামবিহীন)."
+  },
+  {
+    "id": 25,
+    "question": "Which word is the synonym of 'Tranquil'?",
+    "options": {
+      "a": "Agitated",
+      "b": "Restless",
+      "c": "Calm",
+      "d": "Disturbed"
+    },
+    "correct_answer": "c",
+    "explanation": "'Tranquil' (শান্ত) means free from disturbance. Its synonyms are calm (শান্ত), peaceful (শান্তিপূর্ণ), serene (নিশ্চিন্ত), and quiet (নীরব). Antonyms are agitated (উত্তেজিত), restless (অস্থির), disturbed (বিক্ষুব্ধ), and chaotic (বিশৃঙ্খল)."
+  },
+  {
+    "id": 26,
+    "question": "The antonym of 'Artificial' is:",
+    "options": {
+      "a": "Synthetic",
+      "b": "Fake",
+      "c": "Natural",
+      "d": "Manufactured"
+    },
+    "correct_answer": "c",
+    "explanation": "'Artificial' (কৃত্রিম) means made or produced by human beings. Its synonyms are synthetic (কৃত্রিম), fake (নকল), man-made (মানবসৃষ্ট), and false (মিথ্যা). Its antonyms are natural (প্রাকৃতিক), real (বাস্তব), genuine (খাঁটি), and authentic (প্রকৃত)."
+  },
+  {
+    "id": 27,
+    "question": "What is the synonym of 'Abundant'?",
+    "options": {
+      "a": "Scarce",
+      "b": "Plentiful",
+      "c": "Rare",
+      "d": "Limited"
+    },
+    "correct_answer": "b",
+    "explanation": "'Abundant' (প্রচুর) means existing in large quantities. Its synonyms are plentiful (প্রচুর), ample (যথেষ্ট), copious (প্রচুর), and lavish (উদার). Antonyms are scarce (দুর্লভ), rare (বিরল), limited (সীমিত), and insufficient (অপর্যাপ্ত)."
+  },
+  {
+    "id": 28,
+    "question": "The antonym of 'Ascend' is:",
+    "options": {
+      "a": "Rise",
+      "b": "Climb",
+      "c": "Descend",
+      "d": "Soar"
+    },
+    "correct_answer": "c",
+    "explanation": "'Ascend' (আরোহণ করা) means to go up or climb. Its synonyms are rise (ওঠা), climb (ওঠা), mount (আরোহণ করা), and soar (উড়া). Its antonyms are descend (নামা), drop (পড়া), fall (পতন), and decline (হ্রাস পাওয়া)."
+  },
+  {
+    "id": 29,
+    "question": "Which word is the synonym of 'Brief'?",
+    "options": {
+      "a": "Long",
+      "b": "Extended",
+      "c": "Short",
+      "d": "Prolonged"
+    },
+    "correct_answer": "c",
+    "explanation": "'Brief' (সংক্ষিপ্ত) means of short duration. Its synonyms are short (সংক্ষিপ্ত), concise (সংক্ষিপ্ত), succinct (সংক্ষিপ্ত), and terse (সংক্ষিপ্ত). Antonyms are long (দীর্ঘ), extended (বর্ধিত), prolonged (দীর্ঘায়িত), and lengthy (দীর্ঘ)."
+  },
+  {
+    "id": 30,
+    "question": "The antonym of 'Bold' is:",
+    "options": {
+      "a": "Fearless",
+      "b": "Brave",
+      "c": "Timid",
+      "d": "Daring"
+    },
+    "correct_answer": "c",
+    "explanation": "'Bold' (সাহসী) means showing courage. Its synonyms are fearless (নির্ভীক), brave (সাহসী), daring (সাহসিক), and audacious (দুঃসাহসী). Its antonyms are timid (ভীরু), cowardly (কাপুরুষ), shy (লাজুক), and meek (নম্র)."
+  },
+  {
+    "id": 31,
+    "question": "What is the synonym of 'Captivate'?",
+    "options": {
+      "a": "Repel",
+      "b": "Charm",
+      "c": "Disgust",
+      "d": "Offend"
+    },
+    "correct_answer": "b",
+    "explanation": "'Captivate' (মোহিত করা) means to attract and hold interest. Its synonyms are charm (মুগ্ধ করা), fascinate (মোহিত করা), enchant (মন্ত্রমুগ্ধ করা), and allure (প্রলুব্ধ করা). Antonyms are repel (বিতাড়িত করা), disgust (বিরক্তি সৃষ্টি করা), offend (অপমান করা), and revolt (বিদ্রোহ করা)."
+  },
+  {
+    "id": 32,
+    "question": "The antonym of 'Complex' is:",
+    "options": {
+      "a": "Complicated",
+      "b": "Simple",
+      "c": "Intricate",
+      "d": "Difficult"
+    },
+    "correct_answer": "b",
+    "explanation": "'Complex' (জটিল) means consisting of many different parts. Its synonyms are complicated (জটিল), intricate (জটিল), involved (জড়িত), and elaborate (বিস্তারিত). Its antonyms are simple (সরল), easy (সহজ), straightforward (সরাসরি), and uncomplicated (অজটিল)."
+  },
+  {
+    "id": 33,
+    "question": "Which word is the synonym of 'Diligent'?",
+    "options": {
+      "a": "Lazy",
+      "b": "Hardworking",
+      "c": "Idle",
+      "d": "Inactive"
+    },
+    "correct_answer": "b",
+    "explanation": "'Diligent' (পরিশ্রমী) means showing care and effort. Its synonyms are hardworking (পরিশ্রমী), industrious (শ্রমশীল), assiduous (অধ্যবসায়ী), and meticulous (সতর্ক). Antonyms are lazy (অলস), idle (অলস), inactive (নিষ্ক্রিয়), and negligent (অবহেলাকারী)."
+  },
+  {
+    "id": 34,
+    "question": "The antonym of 'Emigrate' is:",
+    "options": {
+      "a": "Leave",
+      "b": "Depart",
+      "c": "Immigrate",
+      "d": "Abandon"
+    },
+    "correct_answer": "c",
+    "explanation": "'Emigrate' (অভিবাসন করা - নিজ দেশ ত্যাগ করা) means to leave one's country to settle in another. Its synonyms are migrate (স্থানান্তরিত হওয়া), relocate (পুনর্বাসিত হওয়া), and move abroad (বিদেশে চলে যাওয়া). Its antonym is immigrate (অভিবাসন করা - অন্য দেশে বসবাস করতে আসা). Related terms: leave (ত্যাগ করা) and depart (চলে যাওয়া) are not direct antonyms."
+  },
+  {
+    "id": 35,
+    "question": "What is the synonym of 'Fragile'?",
+    "options": {
+      "a": "Strong",
+      "b": "Delicate",
+      "c": "Tough",
+      "d": "Sturdy"
+    },
+    "correct_answer": "b",
+    "explanation": "'Fragile' (ভঙ্গুর) means easily broken or damaged. Its synonyms are delicate (সূক্ষ্ম/ভঙ্গুর), breakable (ভাঙনযোগ্য), brittle (ভঙ্গুর), and weak (দুর্বল). Antonyms are strong (শক্তিশালী), tough (কঠিন), sturdy (মজবুত), and durable (টেকসই)."
+  },
+  {
+    "id": 36,
+    "question": "The antonym of 'Gloomy' is:",
+    "options": {
+      "a": "Dark",
+      "b": "Cheerful",
+      "c": "Sad",
+      "d": "Dismal"
+    },
+    "correct_answer": "b",
+    "explanation": "'Gloomy' (অন্ধকার/বিষণ্ণ) means dark or sad. Its synonyms are dark (অন্ধকার), dismal (বিষণ্ণ), sad (দুঃখিত), and depressing (হতাশাজনক). Antonyms are cheerful (প্রফুল্ল), bright (উজ্জ্বল), happy (খুশি), and joyous (আনন্দিত)."
+  },
+  {
+    "id": 37,
+    "question": "Which word is the synonym of 'Hinder'?",
+    "options": {
+      "a": "Aid",
+      "b": "Obstruct",
+      "c": "Assist",
+      "d": "Facilitate"
+    },
+    "correct_answer": "b",
+    "explanation": "'Hinder' (বাধা দেওয়া) means to make it difficult for something to happen. Its synonyms are obstruct (বাধা দেওয়া), impede (বাধা দেওয়া), prevent (প্রতিরোধ করা), and block (অবরোধ করা). Antonyms are aid (সাহায্য করা), assist (সহায়তা করা), facilitate (সহজতর করা), and help (সাহায্য করা)."
+  },
+  {
+    "id": 38,
+    "question": "The antonym of 'Import' is:",
+    "options": {
+      "a": "Bring in",
+      "b": "Introduce",
+      "c": "Export",
+      "d": "Land"
+    },
+    "correct_answer": "c",
+    "explanation": "'Import' (আমদানি করা) means to bring goods into a country. Its synonyms are bring in (আনা), introduce (প্রবর্তন করা), and land (আনা). Its antonyms are export (রপ্তানি করা), send out (পাঠানো), and sell abroad (বিদেশে বিক্রি করা)."
+  },
+  {
+    "id": 39,
+    "question": "What is the synonym of 'Jubilant'?",
+    "options": {
+      "a": "Sad",
+      "b": "Joyful",
+      "c": "Mournful",
+      "d": "Gloomy"
+    },
+    "correct_answer": "b",
+    "explanation": "'Jubilant' (আনন্দিত) means feeling great happiness. Its synonyms are joyful (আনন্দিত), overjoyed (অতিশয় আনন্দিত), elated (উল্লসিত), and ecstatic (পরমানন্দিত). Antonyms are sad (দুঃখিত), mournful (শোকাহত), gloomy (বিষণ্ণ), and depressed (হতাশ)."
+  },
+  {
+    "id": 40,
+    "question": "The antonym of 'Knowledge' is:",
+    "options": {
+      "a": "Wisdom",
+      "b": "Ignorance",
+      "c": "Understanding",
+      "d": "Awareness"
+    },
+    "correct_answer": "b",
+    "explanation": "'Knowledge' (জ্ঞান) means facts, information, and skills acquired. Its synonyms are wisdom (প্রজ্ঞা), understanding (বোধগম্যতা), awareness (সচেতনতা), and erudition (পাণ্ডিত্য). Its antonyms are ignorance (অজ্ঞতা), illiteracy (নিরক্ষরতা), and unawareness (অজ্ঞানতা)."
+  },
+  {
+    "id": 41,
+    "question": "Which word is the synonym of 'Lethal'?",
+    "options": {
+      "a": "Harmless",
+      "b": "Deadly",
+      "c": "Safe",
+      "d": "Beneficial"
+    },
+    "correct_answer": "b",
+    "explanation": "'Lethal' (মারাত্মক) means sufficient to cause death. Its synonyms are deadly (মারাত্মক), fatal (প্রাণঘাতী), mortal (নশ্বর), and poisonous (বিষাক্ত). Antonyms are harmless (ক্ষতিকর নয়), safe (নিরাপদ), beneficial (উপকারী), and wholesome (স্বাস্থ্যকর)."
+  },
+  {
+    "id": 42,
+    "question": "The antonym of 'Mature' is:",
+    "options": {
+      "a": "Adult",
+      "b": "Ripe",
+      "c": "Immature",
+      "d": "Grown"
+    },
+    "correct_answer": "c",
+    "explanation": "'Mature' (পরিপক্ক) means fully developed. Its synonyms are adult (প্রাপ্তবয়স্ক), grown (বড় হওয়া), ripe (পাকা), and seasoned (অভিজ্ঞ). Its antonyms are immature (অপরিপক্ক), childish (শিশুসুলভ), inexperienced (অনভিজ্ঞ), and young (তরুণ)."
+  },
+  {
+    "id": 43,
+    "question": "What is the synonym of 'Notify'?",
+    "options": {
+      "a": "Hide",
+      "b": "Inform",
+      "c": "Conceal",
+      "d": "Suppress"
+    },
+    "correct_answer": "b",
+    "explanation": "'Notify' (জানানো) means to inform someone. Its synonyms are inform (জানানো), tell (বলা), advise (পরামর্শ দেওয়া), and alert (সতর্ক করা). Antonyms are hide (লুকানো), conceal (গোপন করা), suppress (চাপা দেওয়া), and withhold (আটকে রাখা)."
+  },
+  {
+    "id": 44,
+    "question": "The antonym of 'Optimistic' is:",
+    "options": {
+      "a": "Hopeful",
+      "b": "Positive",
+      "c": "Pessimistic",
+      "d": "Confident"
+    },
+    "correct_answer": "c",
+    "explanation": "'Optimistic' (আশাবাদী) means hopeful about the future. Its synonyms are hopeful (আশাবাদী), positive (ইতিবাচক), confident (আত্মবিশ্বাসী), and cheerful (প্রফুল্ল). Its antonyms are pessimistic (হতাশাবাদী), negative (নেতিবাচক), gloomy (বিষণ্ণ), and despairing (হতাশ)."
+  },
+  {
+    "id": 45,
+    "question": "Which word is the synonym of 'Permanent'?",
+    "options": {
+      "a": "Temporary",
+      "b": "Everlasting",
+      "c": "Short-lived",
+      "d": "Momentary"
+    },
+    "correct_answer": "b",
+    "explanation": "'Permanent' (স্থায়ী) means lasting for a long time. Its synonyms are everlasting (চিরস্থায়ী), perpetual (অবিরাম), enduring (টেকসই), and constant (অপরিবর্তনীয়). Antonyms are temporary (অস্থায়ী), short-lived (স্বল্পস্থায়ী), momentary (ক্ষণস্থায়ী), and transient (অস্থায়ী)."
+  },
+  {
+    "id": 46,
+    "question": "The antonym of 'Quiet' is:",
+    "options": {
+      "a": "Silent",
+      "b": "Calm",
+      "c": "Noisy",
+      "d": "Peaceful"
+    },
+    "correct_answer": "c",
+    "explanation": "'Quiet' (শান্ত/নীরব) means making little or no noise. Its synonyms are silent (নীরব), calm (শান্ত), peaceful (শান্তিপূর্ণ), and still (স্থির). Its antonyms are noisy (কোলাহলপূর্ণ), loud (উচ্চৈঃস্বরে), boisterous (উদ্বেল), and turbulent (অস্থির)."
+  },
+  {
+    "id": 47,
+    "question": "What is the synonym of 'Reluctant'?",
+    "options": {
+      "a": "Willing",
+      "b": "Eager",
+      "c": "Unwilling",
+      "d": "Ready"
+    },
+    "correct_answer": "c",
+    "explanation": "'Reluctant' (অনিচ্ছুক) means unwilling and hesitant. Its synonyms are unwilling (অনিচ্ছুক), hesitant (দ্বিধাগ্রস্ত), disinclined (অপ্রবৃত্ত), and averse (বিমুখ). Antonyms are willing (ইচ্ছুক), eager (আগ্রহী), ready (প্রস্তুত), and keen (আগ্রহী)."
+  },
+  {
+    "id": 48,
+    "question": "The antonym of 'Stable' is:",
+    "options": {
+      "a": "Steady",
+      "b": "Unstable",
+      "c": "Fixed",
+      "d": "Secure"
+    },
+    "correct_answer": "b",
+    "explanation": "'Stable' (স্থিতিশীল) means firmly fixed and not likely to change. Its synonyms are steady (স্থির), fixed (স্থির), secure (নিরাপদ), and balanced (সুষম). Its antonyms are unstable (অস্থিতিশীল), unsteady (অস্থির), wobbly (টলোমলো), and shaky (কাঁপুনি)."
+  },
+  {
+    "id": 49,
+    "question": "Which word is the synonym of 'Transparent'?",
+    "options": {
+      "a": "Opaque",
+      "b": "Clear",
+      "c": "Cloudy",
+      "d": "Murky"
+    },
+    "correct_answer": "b",
+    "explanation": "'Transparent' (স্বচ্ছ) means allowing light to pass through. Its synonyms are clear (পরিষ্কার), see-through (স্বচ্ছ), translucent (আলোক প্রেরক), and crystalline (স্ফটিকের মত). Antonyms are opaque (অস্বচ্ছ), cloudy (মেঘলা), murky (অন্ধকার), and hazy (কুয়াশাচ্ছন্ন)."
+  },
+  {
+    "id": 50,
+    "question": "The antonym of 'Unity' is:",
+    "options": {
+      "a": "Harmony",
+      "b": "Division",
+      "c": "Oneness",
+      "d": "Union"
+    },
+    "correct_answer": "b",
+    "explanation": "'Unity' (ঐক্য) means the state of being joined together. Its synonyms are harmony (সম্প্রীতি), oneness (একতা), union (মিলন), and solidarity (সংহতি). Its antonyms are division (বিভাজন), disunity (অনৈক্য), separation (পৃথকীকরণ), and conflict (দ্বন্দ্ব)."
+  },
+  {
+    "id": 51,
+    "question": "What is the synonym of 'Vacant'?",
+    "options": {
+      "a": "Occupied",
+      "b": "Empty",
+      "c": "Filled",
+      "d": "Crowded"
+    },
+    "correct_answer": "b",
+    "explanation": "'Vacant' (খালি) means not occupied. Its synonyms are empty (খালি), unoccupied (অধিকৃত নয়), void (শূন্য), and unfilled (অপূর্ণ). Antonyms are occupied (অধিকৃত), filled (পূর্ণ), crowded (ভিড়), and engaged (ব্যবহৃত)."
+  },
+  {
+    "id": 52,
+    "question": "The antonym of 'Wealthy' is:",
+    "options": {
+      "a": "Rich",
+      "b": "Affluent",
+      "c": "Poor",
+      "d": "Prosperous"
+    },
+    "correct_answer": "c",
+    "explanation": "'Wealthy' (ধনী) means having great wealth. Its synonyms are rich (ধনী), affluent (সমৃদ্ধ), prosperous (উন্নতিশীল), and well-off (স্বচ্ছল). Its antonyms are poor (দরিদ্র), impoverished (নিঃস্ব), needy (অভাবী), and destitute (নিঃস্ব)."
+  },
+  {
+    "id": 53,
+    "question": "Which word is the synonym of 'Yield'?",
+    "options": {
+      "a": "Resist",
+      "b": "Surrender",
+      "c": "Oppose",
+      "d": "Withstand"
+    },
+    "correct_answer": "b",
+    "explanation": "'Yield' (আত্মসমর্পণ করা/উৎপাদন করা) can mean to surrender or produce. Its synonyms for surrender are surrender (আত্মসমর্পণ করা), submit (বশ্যতা স্বীকার করা), give in (হার মানা), and succumb (পরাস্ত হওয়া). Antonyms are resist (প্রতিরোধ করা), oppose (বিরোধিতা করা), withstand (সহ্য করা), and fight (লড়াই করা)."
+  },
+  {
+    "id": 54,
+    "question": "The antonym of 'Zenith' is:",
+    "options": {
+      "a": "Peak",
+      "b": "Summit",
+      "c": "Nadir",
+      "d": "Apex"
+    },
+    "correct_answer": "c",
+    "explanation": "'Zenith' (চরম শিখর) means the highest point. Its synonyms are peak (শিখর), summit (চূড়া), apex (অগ্রভাগ), and climax (চরম বিন্দু). Its antonym is nadir (নিম্নতম বিন্দু), meaning the lowest point."
+  },
+  {
+    "id": 55,
+    "question": "What is the synonym of 'Absolve'?",
+    "options": {
+      "a": "Blame",
+      "b": "Forgive",
+      "c": "Accuse",
+      "d": "Condemn"
+    },
+    "correct_answer": "b",
+    "explanation": "'Absolve' (মুক্তি দেওয়া) means to declare free from guilt. Its synonyms are forgive (ক্ষমা করা), pardon (মাফ করা), exonerate (নির্দোষ প্রমাণ করা), and acquit (খালাস দেওয়া). Antonyms are blame (দোষারোপ করা), accuse (অভিযুক্ত করা), condemn (দোষী সাব্যস্ত করা), and convict (দোষী সাব্যস্ত করা)."
+  },
+  {
+    "id": 56,
+    "question": "The antonym of 'Boast' is:",
+    "options": {
+      "a": "Brag",
+      "b": "Show off",
+      "c": "Belittle",
+      "d": "Vaunt"
+    },
+    "correct_answer": "c",
+    "explanation": "'Boast' (অহংকার করা) means to talk with pride. Its synonyms are brag (অহংকার করা), show off (দেখানো), vaunt (প্রশংসা করা), and crow (গর্ব করা). Its antonyms are belittle (ছোট করা), deprecate (অবমূল্যায়ন করা), disparage (অপমান করা), and underrate (অবমূল্যায়ন করা)."
+  },
+  {
+    "id": 57,
+    "question": "Which word is the synonym of 'Captivity'?",
+    "options": {
+      "a": "Freedom",
+      "b": "Liberty",
+      "c": "Imprisonment",
+      "d": "Independence"
+    },
+    "correct_answer": "c",
+    "explanation": "'Captivity' (বন্দীত্ব) means the condition of being imprisoned. Its synonyms are imprisonment (কারাবাস), confinement (আটক), incarceration (কারারুদ্ধকরণ), and custody (হেফাজত). Antonyms are freedom (স্বাধীনতা), liberty (স্বাধীনতা), independence (স্বাধীনতা), and release (মুক্তি)."
+  },
+  {
+    "id": 58,
+    "question": "The antonym of 'Deficit' is:",
+    "options": {
+      "a": "Shortage",
+      "b": "Lack",
+      "c": "Surplus",
+      "d": "Dearth"
+    },
+    "correct_answer": "c",
+    "explanation": "'Deficit' (ঘাটতি) means the amount by which something is too small. Its synonyms are shortage (ঘাটতি), lack (অভাব), dearth (স্বল্পতা), and insufficiency (অপ্রতুলতা). Its antonyms are surplus (উদ্বৃত্ত), excess (অতিরিক্ত), abundance (প্রাচুর্য), and plenty (প্রচুরতা)."
+  },
+  {
+    "id": 59,
+    "question": "What is the synonym of 'Eager'?",
+    "options": {
+      "a": "Reluctant",
+      "b": "Unwilling",
+      "c": "Keen",
+      "d": "Apathetic"
+    },
+    "correct_answer": "c",
+    "explanation": "'Eager' (আগ্রহী) means strongly wanting to do something. Its synonyms are keen (আগ্রহী), enthusiastic (উৎসাহী), avid (আগ্রহী), and zealous (সোৎসাহী). Antonyms are reluctant (অনিচ্ছুক), unwilling (অনিচ্ছুক), apathetic (উদাসীন), and indifferent (নিরপেক্ষ)."
+  },
+  {
+    "id": 60,
+    "question": "The antonym of 'Formal' is:",
+    "options": {
+      "a": "Official",
+      "b": "Ceremonial",
+      "c": "Informal",
+      "d": "Conventional"
+    },
+    "correct_answer": "c",
+    "explanation": "'Formal' (আনুষ্ঠানিক) means done in accordance with rules. Its synonyms are official (সরকারী), ceremonial (আনুষ্ঠানিক), conventional (প্রচলিত), and proper (যথাযথ). Its antonyms are informal (অনানুষ্ঠানিক), casual (নৈমিত্তিক), relaxed (শিথিল), and unofficial (অননুমোদিত)."
+  },
+  {
+    "id": 61,
+    "question": "Which word is the synonym of 'Gather'?",
+    "options": {
+      "a": "Scatter",
+      "b": "Disperse",
+      "c": "Collect",
+      "d": "Separate"
+    },
+    "correct_answer": "c",
+    "explanation": "'Gather' (একত্র করা) means to bring together. Its synonyms are collect (সংগ্রহ করা), assemble (একত্রিত করা), accumulate (পুঞ্জীভূত করা), and congregate (সমবেত হওয়া). Antonyms are scatter (ছড়িয়ে দেওয়া), disperse (বিচ্ছুরিত করা), separate (পৃথক করা), and distribute (বিতরণ করা)."
+  },
+  {
+    "id": 62,
+    "question": "The antonym of 'Honor' is:",
+    "options": {
+      "a": "Respect",
+      "b": "Esteem",
+      "c": "Disgrace",
+      "d": "Revere"
+    },
+    "correct_answer": "c",
+    "explanation": "'Honor' (সম্মান) means high respect. Its synonyms are respect (সম্মান), esteem (শ্রদ্ধা), reverence (গভীর শ্রদ্ধা), and admiration (প্রশংসা). Its antonyms are disgrace (অপমান), dishonor (অসম্মান), shame (লজ্জা), and contempt (অবজ্ঞা)."
+  },
+  {
+    "id": 63,
+    "question": "What is the synonym of 'Immense'?",
+    "options": {
+      "a": "Tiny",
+      "b": "Huge",
+      "c": "Small",
+      "d": "Minute"
+    },
+    "correct_answer": "b",
+    "explanation": "'Immense' (বিশাল) means extremely large. Its synonyms are huge (বিশাল), enormous (প্রচণ্ড), gigantic (দৈত্যাকার), and vast (বিস্তীর্ণ). Antonyms are tiny (ক্ষুদ্র), small (ছোট), minute (অতি ক্ষুদ্র), and microscopic (অণুবীক্ষণিক)."
+  },
+  {
+    "id": 64,
+    "question": "The antonym of 'Junior' is:",
+    "options": {
+      "a": "Younger",
+      "b": "Inferior",
+      "c": "Senior",
+      "d": "Subordinate"
+    },
+    "correct_answer": "c",
+    "explanation": "'Junior' (কনিষ্ঠ) means younger or lower in rank. Its synonyms are younger (তরুণ), inferior (নিম্নতর), subordinate (অধস্তন), and lesser (কম). Its antonyms are senior (বরিষ্ঠ), older (বয়স্ক), superior (উর্ধ্বতন), and major (প্রধান)."
+  },
+  {
+    "id": 65,
+    "question": "Which word is the synonym of 'Kindle'?",
+    "options": {
+      "a": "Extinguish",
+      "b": "Quench",
+      "c": "Ignite",
+      "d": "Douse"
+    },
+    "correct_answer": "c",
+    "explanation": "'Kindle' (জ্বালানো) means to light or set on fire. Its synonyms are ignite (জ্বালানো), light (আলো দেওয়া), inflame (জ্বালানো), and arouse (উদ্দীপ্ত করা). Antonyms are extinguish (নিভানো), quench (নির্বাপিত করা), douse (জল দেওয়া), and smother (চাপা দেওয়া)."
+  },
+  {
+    "id": 66,
+    "question": "The antonym of 'Lengthen' is:",
+    "options": {
+      "a": "Extend",
+      "b": "Prolong",
+      "c": "Shorten",
+      "d": "Elongate"
+    },
+    "correct_answer": "c",
+    "explanation": "'Lengthen' (দীর্ঘ করা) means to make longer. Its synonyms are extend (বাড়ানো), prolong (দীর্ঘায়িত করা), elongate (প্রলম্বিত করা), and stretch (প্রসারিত করা). Its antonyms are shorten (ছোট করা), curtail (কমানো), abbreviate (সংক্ষিপ্ত করা), and truncate (কেটে ফেলা)."
+  },
+  {
+    "id": 67,
+    "question": "What is the synonym of 'Mend'?",
+    "options": {
+      "a": "Break",
+      "b": "Repair",
+      "c": "Damage",
+      "d": "Ruin"
+    },
+    "correct_answer": "b",
+    "explanation": "'Mend' (মেরামত করা) means to repair something. Its synonyms are repair (মেরামত করা), fix (ঠিক করা), restore (পুনরুদ্ধার করা), and patch (জোড়া দেওয়া). Antonyms are break (ভাঙ্গা), damage (ক্ষতি করা), ruin (ধ্বংস করা), and destroy (বিনষ্ট করা)."
+  },
+  {
+    "id": 68,
+    "question": "The antonym of 'Native' is:",
+    "options": {
+      "a": "Indigenous",
+      "b": "Domestic",
+      "c": "Foreign",
+      "d": "Local"
+    },
+    "correct_answer": "c",
+    "explanation": "'Native' (স্থানীয়) means associated with the place of one's birth. Its synonyms are indigenous (আদিবাসী), local (স্থানীয়), domestic (দেশীয়), and original (আদি). Its antonyms are foreign (বিদেশী), alien (বিদেশী), immigrant (অভিবাসী), and exotic (বিদেশী)."
+  },
+  {
+    "id": 69,
+    "question": "Which word is the synonym of 'Obvious'?",
+    "options": {
+      "a": "Hidden",
+      "b": "Clear",
+      "c": "Concealed",
+      "d": "Vague"
+    },
+    "correct_answer": "b",
+    "explanation": "'Obvious' (সুস্পষ্ট) means easily perceived. Its synonyms are clear (পরিষ্কার), evident (স্পষ্ট), apparent (প্রকাশ্য), and distinct (স্বতন্ত্র). Antonyms are hidden (লুকানো), concealed (গোপন), vague (অস্পষ্ট), and obscure (অস্পষ্ট)."
+  },
+  {
+    "id": 70,
+    "question": "The antonym of 'Public' is:",
+    "options": {
+      "a": "Open",
+      "b": "Private",
+      "c": "General",
+      "d": "Common"
+    },
+    "correct_answer": "b",
+    "explanation": "'Public' (সর্বজনীন) means open to everyone. Its synonyms are open (খোলা), general (সাধারণ), common (সাধারণ), and communal (গণ-). Its antonyms are private (ব্যক্তিগত), personal (ব্যক্তিগত), confidential (গোপনীয়), and secret (গোপন)."
+  },
+  {
+    "id": 71,
+    "question": "What is the synonym of 'Question'?",
+    "options": {
+      "a": "Answer",
+      "b": "Interrogate",
+      "c": "Reply",
+      "d": "Respond"
+    },
+    "correct_answer": "b",
+    "explanation": "'Question' (প্রশ্ন করা) means to ask. Its synonyms are interrogate (জিজ্ঞাসাবাদ করা), inquire (জিজ্ঞাসা করা), query (প্রশ্ন করা), and quiz (পরীক্ষা করা). Antonyms are answer (উত্তর দেওয়া), reply (জবাব দেওয়া), respond (সাড়া দেওয়া), and rejoin (প্রত্যুত্তর দেওয়া)."
+  },
+  {
+    "id": 72,
+    "question": "The antonym of 'Rapid' is:",
+    "options": {
+      "a": "Fast",
+      "b": "Quick",
+      "c": "Slow",
+      "d": "Swift"
+    },
+    "correct_answer": "c",
+    "explanation": "'Rapid' (দ্রুত) means happening quickly. Its synonyms are fast (দ্রুত), quick (দ্রুত), swift (দ্রুত), and speedy (শীঘ্র). Its antonyms are slow (ধীর), sluggish (মন্থর), leisurely (আরামদায়ক), and gradual (ধীরে ধীরে)."
+  },
+  {
+    "id": 73,
+    "question": "Which word is the synonym of 'Secure'?",
+    "options": {
+      "a": "Safe",
+      "b": "Unsafe",
+      "c": "Vulnerable",
+      "d": "Risky"
+    },
+    "correct_answer": "a",
+    "explanation": "'Secure' (নিরাপদ) means safe from danger. Its synonyms are safe (নিরাপদ), protected (সুরক্ষিত), guarded (রক্ষিত), and sheltered (আশ্রিত). Antonyms are unsafe (অনিরাপদ), vulnerable (অরক্ষিত), risky (ঝুঁকিপূর্ণ), and exposed (উন্মুক্ত)."
+  },
+  {
+    "id": 74,
+    "question": "The antonym of 'Truth' is:",
+    "options": {
+      "a": "Fact",
+      "b": "Reality",
+      "c": "Lie",
+      "d": "Verity"
+    },
+    "correct_answer": "c",
+    "explanation": "'Truth' (সত্য) means that which is true. Its synonyms are fact (সত্য), reality (বাস্তবতা), verity (সত্যতা), and accuracy (নির্ভুলতা). Its antonyms are lie (মিথ্যা), falsehood (মিথ্যা), untruth (অসত্য), and deception (প্রতারণা)."
+  },
+  {
+    "id": 75,
+    "question": "What is the synonym of 'Under'?",
+    "options": {
+      "a": "Above",
+      "b": "Below",
+      "c": "Over",
+      "d": "Upon"
+    },
+    "correct_answer": "b",
+    "explanation": "'Under' (নীচে) means extending directly below. Its synonyms are below (নীচে), beneath (নিম্নে), underneath (নিচে), and lower (নিম্নতর). Antonyms are above (উপরে), over (উপরে), higher (উচ্চতর), and beyond (বাইরে)."
+  },
+  {
+    "id": 76,
+    "question": "The antonym of 'Victory' is:",
+    "options": {
+      "a": "Triumph",
+      "b": "Conquest",
+      "c": "Defeat",
+      "d": "Success"
+    },
+    "correct_answer": "c",
+    "explanation": "'Victory' (জয়) means success in a contest. Its synonyms are triumph (জয়), conquest (বিজয়), success (সাফল্য), and win (জয়). Its antonyms are defeat (পরাজয়), loss (ক্ষতি), failure (ব্যর্থতা), and downfall (পতন)."
+  },
+  {
+    "id": 77,
+    "question": "Which word is the synonym of 'Whole'?",
+    "options": {
+      "a": "Part",
+      "b": "Entire",
+      "c": "Partial",
+      "d": "Fraction"
+    },
+    "correct_answer": "b",
+    "explanation": "'Whole' (সমগ্র) means all of something. Its synonyms are entire (সম্পূর্ণ), total (মোট), full (পূর্ণ), and complete (সম্পূর্ণ). Antonyms are part (অংশ), partial (আংশিক), fraction (ভগ্নাংশ), and segment (খণ্ড)."
+  },
+  {
+    "id": 78,
+    "question": "The antonym of 'Young' is:",
+    "options": {
+      "a": "Youthful",
+      "b": "Old",
+      "c": "Juvenile",
+      "d": "Immature"
+    },
+    "correct_answer": "b",
+    "explanation": "'Young' (তরুণ) means having lived for a short time. Its synonyms are youthful (তরুণ), juvenile (কিশোর), immature (অপরিণত), and adolescent (কৈশোরের). Its antonyms are old (বৃদ্ধ), aged (বয়স্ক), elderly (প্রবীণ), and ancient (প্রাচীন)."
+  },
+  {
+    "id": 79,
+    "question": "What is the synonym of 'Zeal'?",
+    "options": {
+      "a": "Apathy",
+      "b": "Enthusiasm",
+      "c": "Indifference",
+      "d": "Lethargy"
+    },
+    "correct_answer": "b",
+    "explanation": "'Zeal' (আগ্রহ/উদ্দীপনা) means great energy in pursuit of a cause. Its synonyms are enthusiasm (উৎসাহ), passion (আবেগ), fervor (উদ্দীপনা), and ardor (প্রবল ইচ্ছা). Antonyms are apathy (উদাসীনতা), indifference (নিরপেক্ষতা), lethargy (অলসতা), and sluggishness (মন্থরতা)."
+  },
+  {
+    "id": 80,
+    "question": "The antonym of 'Active' is:",
+    "options": {
+      "a": "Energetic",
+      "b": "Lively",
+      "c": "Inactive",
+      "d": "Vigorous"
+    },
+    "correct_answer": "c",
+    "explanation": "'Active' (সক্রিয়) means engaging in action. Its synonyms are energetic (উদ্যমী), lively (প্রাণবন্ত), vigorous (সবল), and dynamic (গতিশীল). Its antonyms are inactive (নিষ্ক্রিয়), idle (অলস), passive (প্যাসিভ), and dormant (সুপ্ত)."
+  },
+  {
+    "id": 81,
+    "question": "Which word is the synonym of 'Blend'?",
+    "options": {
+      "a": "Separate",
+      "b": "Mix",
+      "c": "Divide",
+      "d": "Part"
+    },
+    "correct_answer": "b",
+    "explanation": "'Blend' (মিশ্রিত করা) means to mix together. Its synonyms are mix (মেশানো), combine (একত্র করা), merge (একীভূত করা), and fuse (সংযুক্ত করা). Antonyms are separate (পৃথক করা), divide (ভাগ করা), part (আলাদা করা), and split (ভাগ করা)."
+  },
+  {
+    "id": 82,
+    "question": "The antonym of 'Careful' is:",
+    "options": {
+      "a": "Cautious",
+      "b": "Watchful",
+      "c": "Careless",
+      "d": "Attentive"
+    },
+    "correct_answer": "c",
+    "explanation": "'Careful' (সতর্ক) means taking care to avoid harm. Its synonyms are cautious (সতর্ক), watchful (সতর্ক), attentive (মনোযোগী), and prudent (বিবেচক). Its antonyms are careless (অসতর্ক), reckless (বেপরোয়া), negligent (অবহেলাকারী), and heedless (অমনোযোগী)."
+  },
+  {
+    "id": 83,
+    "question": "What is the synonym of 'Danger'?",
+    "options": {
+      "a": "Safety",
+      "b": "Risk",
+      "c": "Security",
+      "d": "Protection"
+    },
+    "correct_answer": "b",
+    "explanation": "'Danger' (বিপদ) means the possibility of harm. Its synonyms are risk (ঝুঁকি), peril (সংকট), hazard (বিপত্তি), and threat (হুমকি). Antonyms are safety (নিরাপত্তা), security (নিরাপত্তা), protection (সুরক্ষা), and certainty (নিশ্চয়তা)."
+  },
+  {
+    "id": 84,
+    "question": "The antonym of 'Easy' is:",
+    "options": {
+      "a": "Simple",
+      "b": "Difficult",
+      "c": "Effortless",
+      "d": "Light"
+    },
+    "correct_answer": "b",
+    "explanation": "'Easy' (সহজ) means achieved without great effort. Its synonyms are simple (সরল), effortless (অনায়াস), light (হালকা), and uncomplicated (অজটিল). Its antonyms are difficult (কঠিন), hard (কঠিন), challenging (চ্যালেঞ্জিং), and arduous (দুরূহ)."
+  },
+  {
+    "id": 85,
+    "question": "Which word is the synonym of 'Foolish'?",
+    "options": {
+      "a": "Wise",
+      "b": "Silly",
+      "c": "Intelligent",
+      "d": "Clever"
+    },
+    "correct_answer": "b",
+    "explanation": "'Foolish' (মূর্খ) means lacking good sense. Its synonyms are silly (বোকা), stupid (মূর্খ), unwise (অবিবেচক), and absurd (অযৌক্তিক). Antonyms are wise (জ্ঞানী), intelligent (বুদ্ধিমান), clever (চতুর), and smart (চালাক)."
+  },
+  {
+    "id": 86,
+    "question": "The antonym of 'Generous' is:",
+    "options": {
+      "a": "Charitable",
+      "b": "Benevolent",
+      "c": "Stingy",
+      "d": "Magnanimous"
+    },
+    "correct_answer": "c",
+    "explanation": "'Generous' (উদার) means showing readiness to give. Its synonyms are charitable (দানশীল), benevolent (সদাশয়), magnanimous (মহানুভব), and liberal (উদার). Its antonyms are stingy (কৃপণ), miserly (কৃপণ), selfish (স্বার্থপর), and greedy (লোভী)."
+  },
+  {
+    "id": 87,
+    "question": "What is the synonym of 'Hungry'?",
+    "options": {
+      "a": "Full",
+      "b": "Starving",
+      "c": "Satisfied",
+      "d": "Stuffed"
+    },
+    "correct_answer": "b",
+    "explanation": "'Hungry' (ক্ষুধার্ত) means feeling a need to eat. Its synonyms are starving (ক্ষুধার্ত), famished (ক্ষুধার্ত), ravenous (খিদে পাওয়া), and empty (খালি). Antonyms are full (ভরা), satisfied (সন্তুষ্ট), stuffed (ঠাসা), and sated (পরিতৃপ্ত)."
+  },
+  {
+    "id": 88,
+    "question": "The antonym of 'Interesting' is:",
+    "options": {
+      "a": "Engaging",
+      "b": "Fascinating",
+      "c": "Boring",
+      "d": "Captivating"
+    },
+    "correct_answer": "c",
+    "explanation": "'Interesting' (আকর্ষণীয়) means arousing curiosity. Its synonyms are engaging (মনোরম), fascinating (মুগ্ধকর), captivating (চিত্তাকর্ষক), and intriguing (কৌতূহলোদ্দীপক). Its antonyms are boring (বিরক্তিকর), dull (নীরস), uninteresting (অরুচিকর), and tedious (ক্লান্তিকর)."
+  },
+  {
+    "id": 89,
+    "question": "Which word is the synonym of 'Join'?",
+    "options": {
+      "a": "Separate",
+      "b": "Connect",
+      "c": "Detach",
+      "d": "Divide"
+    },
+    "correct_answer": "b",
+    "explanation": "'Join' (যোগদান করা) means to connect or link. Its synonyms are connect (সংযোগ করা), link (যুক্ত করা), attach (সংযুক্ত করা), and unite (একত্র করা). Antonyms are separate (পৃথক করা), detach (আলাদা করা), divide (ভাগ করা), and disconnect (সংযোগ বিচ্ছিন্ন করা)."
+  },
+  {
+    "id": 90,
+    "question": "The antonym of 'Kind' is:",
+    "options": {
+      "a": "Compassionate",
+      "b": "Cruel",
+      "c": "Gentle",
+      "d": "Tender"
+    },
+    "correct_answer": "b",
+    "explanation": "'Kind' (সদয়) means having a friendly nature. Its synonyms are compassionate (দয়ালু), gentle (মৃদু), tender (কোমল), and benevolent (সদাশয়). Its antonyms are cruel (নিষ্ঠুর), unkind (অদয়ালু), harsh (কঠোর), and mean (অর্থপূর্ণ)."
+  },
+  {
+    "id": 91,
+    "question": "What is the synonym of 'Legal'?",
+    "options": {
+      "a": "Illegal",
+      "b": "Lawful",
+      "c": "Unlawful",
+      "d": "Criminal"
+    },
+    "correct_answer": "b",
+    "explanation": "'Legal' (আইনি) means permitted by law. Its synonyms are lawful (বৈধ), legitimate (বৈধ), permissible (অনুমোদিত), and authorized (অনুমোদিত). Antonyms are illegal (অবৈধ), unlawful (অবৈধ), criminal (অপরাধী), and prohibited (নিষিদ্ধ)."
+  },
+  {
+    "id": 92,
+    "question": "The antonym of 'Maximum' is:",
+    "options": {
+      "a": "Greatest",
+      "b": "Minimum",
+      "c": "Supreme",
+      "d": "Utmost"
+    },
+    "correct_answer": "b",
+    "explanation": "'Maximum' (সর্বোচ্চ) means the greatest possible. Its synonyms are greatest (সর্বশ্রেষ্ঠ), supreme (সর্বোচ্চ), utmost (চরম), and topmost (সর্বোচ্চ). Its antonyms are minimum (সর্বনিম্ন), least (সর্বনিম্ন), lowest (সর্বনিম্ন), and smallest (ছোট)."
+  },
+  {
+    "id": 93,
+    "question": "Which word is the synonym of 'Necessary'?",
+    "options": {
+      "a": "Optional",
+      "b": "Essential",
+      "c": "Unimportant",
+      "d": "Voluntary"
+    },
+    "correct_answer": "b",
+    "explanation": "'Necessary' (প্রয়োজনীয়) means required. Its synonyms are essential (অপরিহার্য), vital (অত্যাবশ্যক), indispensable (অনিবার্য), and required (প্রয়োজনীয়). Antonyms are optional (ঐচ্ছিক), unnecessary (অপ্রয়োজনীয়), unimportant (অগুরুত্বপূর্ণ), and voluntary (স্বেচ্ছায়)."
+  },
+  {
+    "id": 94,
+    "question": "The antonym of 'Often' is:",
+    "options": {
+      "a": "Frequently",
+      "b": "Seldom",
+      "c": "Regularly",
+      "d": "Usually"
+    },
+    "correct_answer": "b",
+    "explanation": "'Often' (প্রায়ই) means frequently. Its synonyms are frequently (ঘন ঘন), regularly (নিয়মিত), usually (সাধারণত), and repeatedly (পুনঃপুন)। Its antonyms are seldom (কদাচিৎ), rarely (বিরল), occasionally (মাঝে মধ্যে), and infrequently (অস্বাভাবিকভাবে)."
+  },
+  {
+    "id": 95,
+    "question": "What is the synonym of 'Power'?",
+    "options": {
+      "a": "Weakness",
+      "b": "Strength",
+      "c": "Impotence",
+      "d": "Inability"
+    },
+    "correct_answer": "b",
+    "explanation": "'Power' (ক্ষমতা) means ability to do something. Its synonyms are strength (শক্তি), force (বল), energy (শক্তি), and might (পরাক্রম). Antonyms are weakness (দুর্বলতা), impotence (অক্ষমতা), inability (অক্ষমতা), and powerlessness (ক্ষমতাহীনতা)."
+  },
+  {
+    "id": 96,
+    "question": "The antonym of 'Quality' is:",
+    "options": {
+      "a": "Standard",
+      "b": "Defect",
+      "c": "Merit",
+      "d": "Virtue"
+    },
+    "correct_answer": "b",
+    "explanation": "'Quality' (গুণ) means a distinctive attribute. Its synonyms are standard (মান), merit (যোগ্যতা), virtue (সদগুণ), and excellence (উৎকর্ষ). Its antonyms are defect (ত্রুটি), flaw (খুঁত), fault (দোষ), and imperfection (অসম্পূর্ণতা)."
+  },
+  {
+    "id": 97,
+    "question": "Which word is the synonym of 'Rich'?",
+    "options": {
+      "a": "Poor",
+      "b": "Affluent",
+      "c": "Needy",
+      "d": "Destitute"
+    },
+    "correct_answer": "b",
+    "explanation": "'Rich' (ধনী) means having great wealth. Its synonyms are affluent (সমৃদ্ধ), wealthy (ধনী), prosperous (উন্নতিশীল), and opulent (বিলাসবহুল). Antonyms are poor (দরিদ্র), needy (অভাবী), destitute (নিঃস্ব), and impoverished (দরিদ্র)."
+  },
+  {
+    "id": 98,
+    "question": "The antonym of 'Sorrow' is:",
+    "options": {
+      "a": "Grief",
+      "b": "Joy",
+      "c": "Sadness",
+      "d": "Misery"
+    },
+    "correct_answer": "b",
+    "explanation": "'Sorrow' (দুঃখ) means deep distress. Its synonyms are grief (শোক), sadness (দুঃখ), misery (দুর্দশা), and woe (শোক). Its antonyms are joy (আনন্দ), happiness (সুখ), delight (পরমানন্দ), and pleasure (আনন্দ)."
+  },
+  {
+    "id": 99,
+    "question": "What is the synonym of 'Tired'?",
+    "options": {
+      "a": "Energetic",
+      "b": "Exhausted",
+      "c": "Fresh",
+      "d": "Lively"
+    },
+    "correct_answer": "b",
+    "explanation": "'Tired' (ক্লান্ত) means in need of rest. Its synonyms are exhausted (ক্লান্ত), fatigued (শ্রান্ত), weary (ক্লান্ত), and drained (নিঃশেষিত). Antonyms are energetic (উদ্যমী), fresh (তাজা), lively (প্রাণবন্ত), and active (সক্রিয়)."
+  },
+  {
+    "id": 100,
+    "question": "The antonym of 'Up' is:",
+    "options": {
+      "a": "Above",
+      "b": "Down",
+      "c": "High",
+      "d": "Over"
+    },
+    "correct_answer": "b",
+    "explanation": "'Up' (উপরে) means towards a higher position. Its synonyms are upward (ঊর্ধ্বগামী), higher (উচ্চতর), above (উপরে), and overhead (উপরে). Its antonyms are down (নিচে), downward (নিম্নগামী), below (নীচে), and beneath (নিম্নে)."
+  },
+  {
+    "id": 101,
+    "question": "What is the synonym of 'Adhere'?",
+    "options": {
+      "a": "Detach",
+      "b": "Separate",
+      "c": "Stick",
+      "d": "Loosen"
+    },
+    "correct_answer": "c",
+    "explanation": "'Adhere' (মেনে চলা/আঁকড়ে থাকা) means to stick firmly. Its synonyms are stick (আটকে থাকা), cling (জড়িয়ে ধরা), comply (মেনে চলা), and follow (অনুসরণ করা). Antonyms are detach (আলাদা করা), separate (পৃথক করা), loosen (ঢিলা করা), and unfasten (খুলে ফেলা)."
+  },
+  {
+    "id": 102,
+    "question": "The antonym of 'Bitter' is:",
+    "options": {
+      "a": "Sour",
+      "b": "Sweet",
+      "c": "Harsh",
+      "d": "Acrid"
+    },
+    "correct_answer": "b",
+    "explanation": "'Bitter' (তিক্ত) means having a sharp taste. Its synonyms are sour (টক), harsh (কঠোর), acrid (উগ্র), and sharp (তীক্ষ্ণ). Its antonyms are sweet (মিষ্টি), pleasant (আনন্দদায়ক), mild (মৃদু), and kind (সদয়)."
+  },
+  {
+    "id": 103,
+    "question": "Which word is the synonym of 'Compel'?",
+    "options": {
+      "a": "Allow",
+      "b": "Force",
+      "c": "Permit",
+      "d": "Encourage"
+    },
+    "correct_answer": "b",
+    "explanation": "'Compel' (বাধ্য করা) means to force someone to do something. Its synonyms are force (বাধ্য করা), oblige (বাধিত করা), coerce (প্রত্যয় করা), and drive (চালিত করা). Antonyms are allow (অনুমতি দেওয়া), permit (অনুমতি দেওয়া), encourage (উৎসাহিত করা), and persuade (প্ররোচিত করা)."
+  },
+  {
+    "id": 104,
+    "question": "The antonym of 'Deep' is:",
+    "options": {
+      "a": "Profound",
+      "b": "Shallow",
+      "c": "Bottomless",
+      "d": "Intense"
+    },
+    "correct_answer": "b",
+    "explanation": "'Deep' (গভীর) means extending far down. Its synonyms are profound (গভীর), bottomless (অতল), intense (তীব্র), and abyssal (গভীর সমুদ্রের). Its antonyms are shallow (অগভীর), superficial (উপরিভাগের), surface (পৃষ্ঠতলের), and flat (সমতল)."
+  },
+  {
+    "id": 105,
+    "question": "What is the synonym of 'Earnest'?",
+    "options": {
+      "a": "Frivolous",
+      "b": "Sincere",
+      "c": "Trivial",
+      "d": "Casual"
+    },
+    "correct_answer": "b",
+    "explanation": "'Earnest' (গম্ভীর/আন্তরিক) means showing sincere conviction. Its synonyms are sincere (আন্তরিক), serious (গুরুতর), solemn (গম্ভীর), and heartfelt (হৃদয়গ্রাহী). Antonyms are frivolous (অসার), trivial (তুচ্ছ), casual (অনিয়মিত), and insincere (অকৃত্রিম নয়)।"
+  },
+  {
+    "id": 106,
+    "question": "The antonym of 'Faint' is:",
+    "options": {
+      "a": "Weak",
+      "b": "Dim",
+      "c": "Strong",
+      "d": "Pale"
+    },
+    "correct_answer": "c",
+    "explanation": "'Faint' (ম্লান/দুর্বল) means barely perceptible or weak. Its synonyms are weak (দুর্বল), dim (অস্পষ্ট), pale (ফ্যাকাশে), and vague (অস্পষ্ট). Its antonyms are strong (শক্তিশালী), clear (পরিষ্কার), bright (উজ্জ্বল), and distinct (স্বতন্ত্র)."
+  },
+  {
+    "id": 107,
+    "question": "Which word is the synonym of 'Gratify'?",
+    "options": {
+      "a": "Displease",
+      "b": "Please",
+      "c": "Annoy",
+      "d": "Irritate"
+    },
+    "correct_answer": "b",
+    "explanation": "'Gratify' (সন্তুষ্ট করা) means to give pleasure. Its synonyms are please (সন্তুষ্ট করা), delight (আনন্দ দেওয়া), satisfy (তৃপ্ত করা), and content (সন্তুষ্ট করা). Antonyms are displease (অসন্তুষ্ট করা), annoy (বিরক্ত করা), irritate (জ্বালাতন করা), and vex (রাগানো)।"
+  },
+  {
+    "id": 108,
+    "question": "The antonym of 'Harmony' is:",
+    "options": {
+      "a": "Peace",
+      "b": "Conflict",
+      "c": "Unity",
+      "d": "Concord"
+    },
+    "correct_answer": "b",
+    "explanation": "'Harmony' (সম্প্রীতি) means agreement or concord. Its synonyms are peace (শান্তি), unity (ঐক্য), concord (সমঝোতা), and accord (চুক্তি). Its antonyms are conflict (দ্বন্দ্ব), discord (কলহ), disagreement (অমিল), and strife (বিবাদ)."
+  },
+  {
+    "id": 109,
+    "question": "What is the synonym of 'Imitate'?",
+    "options": {
+      "a": "Create",
+      "b": "Copy",
+      "c": "Originate",
+      "d": "Invent"
+    },
+    "correct_answer": "b",
+    "explanation": "'Imitate' (অনুকরণ করা) means to copy someone or something. Its synonyms are copy (অনুলিপি করা), mimic (নকল করা), emulate (অনুসরণ করা), and ape (অনুকরণ করা)। Antonyms are create (সৃষ্টি করা), originate (উদ্ভাবন করা), invent (আবিষ্কার করা), and innovate (নতুনত্ব আনা)।"
+  },
+  {
+    "id": 110,
+    "question": "The antonym of 'Junior' is:",
+    "options": {
+      "a": "Younger",
+      "b": "Senior",
+      "c": "Inferior",
+      "d": "Subordinate"
+    },
+    "correct_answer": "b",
+    "explanation": "'Junior' (কনিষ্ঠ) means younger or lower in rank. Its synonyms are younger (ছোট), inferior (নিম্ন), subordinate (অধস্তন), and lesser (কম)। Its antonyms are senior (বরিষ্ঠ), older (বড়), superior (উচ্চতর), and major (প্রধান)।"
+  },
+  {
+    "id": 111,
+    "question": "Which word is the synonym of 'Keen'?",
+    "options": {
+      "a": "Dull",
+      "b": "Sharp",
+      "c": "Blunt",
+      "d": "Obtuse"
+    },
+    "correct_answer": "b",
+    "explanation": "'Keen' (তীক্ষ্ণ/আগ্রহী) means having a sharp edge or great interest. Its synonyms are sharp (তীক্ষ্ণ), eager (আগ্রহী), enthusiastic (উৎসাহী), and acute (গভীর)। Antonyms are dull (ভোঁতা), blunt (ভোঁতা), apathetic (উদাসীন), and indifferent (নিরপেক্ষ)।"
+  },
+  {
+    "id": 112,
+    "question": "The antonym of 'Lament' is:",
+    "options": {
+      "a": "Mourn",
+      "b": "Rejoice",
+      "c": "Grieve",
+      "d": "Weep"
+    },
+    "correct_answer": "b",
+    "explanation": "'Lament' (বিলাপ করা) means to express sorrow. Its synonyms are mourn (শোক করা), grieve (দুঃখ করা), weep (কান্না করা), and wail (বিলাপ করা)। Its antonyms are rejoice (আনন্দ করা), celebrate (উদযাপন করা), cheer (উল্লাস করা), and delight (আনন্দিত হওয়া)।"
+  },
+  {
+    "id": 113,
+    "question": "What is the synonym of 'Mysterious'?",
+    "options": {
+      "a": "Clear",
+      "b": "Puzzling",
+      "c": "Obvious",
+      "d": "Plain"
+    },
+    "correct_answer": "b",
+    "explanation": "'Mysterious' (রহস্যময়) means difficult to understand. Its synonyms are puzzling (ধাঁধাঁযুক্ত), enigmatic (হেঁয়ালিপূর্ণ), cryptic (গোপন), and baffling (বিভ্রান্তিকর)। Antonyms are clear (পরিষ্কার), obvious (সুস্পষ্ট), plain (সরল), and understandable (বোধগম্য)।"
+  },
+  {
+    "id": 114,
+    "question": "The antonym of 'Notable' is:",
+    "options": {
+      "a": "Prominent",
+      "b": "Insignificant",
+      "c": "Eminent",
+      "d": "Distinguished"
+    },
+    "correct_answer": "b",
+    "explanation": "'Notable' (উল্লেখযোগ্য) means worthy of attention. Its synonyms are prominent (প্রধান), eminent (বিশিষ্ট), distinguished (বিশিষ্ট), and remarkable (অসাধারণ)। Its antonyms are insignificant (নগণ্য), unknown (অজানা), obscure (অস্পষ্ট), and ordinary (সাধারণ)।"
+  },
+  {
+    "id": 115,
+    "question": "Which word is the synonym of 'Obtain'?",
+    "options": {
+      "a": "Lose",
+      "b": "Get",
+      "c": "Forfeit",
+      "d": "Relinquish"
+    },
+    "correct_answer": "b",
+    "explanation": "'Obtain' (অর্জন করা) means to get something. Its synonyms are get (পাওয়া), acquire (অর্জন করা), gain (লাভ করা), and secure (নিরাপদ করা)। Antonyms are lose (হারানো), forfeit (বাজেয়াপ্ত করা), relinquish (ত্যাগ করা), and surrender (সমর্পণ করা)।"
+  },
+  {
+    "id": 116,
+    "question": "The antonym of 'Partial' is:",
+    "options": {
+      "a": "Biased",
+      "b": "Impartial",
+      "c": "Prejudiced",
+      "d": "One-sided"
+    },
+    "correct_answer": "b",
+    "explanation": "'Partial' (পক্ষপাতদুষ্ট) means favoring one side. Its synonyms are biased (পক্ষপাতী), prejudiced (পূর্বধারণাপ্রবণ), one-sided (একপেশে), and unfair (অন্যায়)। Its antonyms are impartial (নিরপেক্ষ), unbiased (অপক্ষপাত), fair (ন্যায্য), and neutral (নিরপেক্ষ)।"
+  },
+  {
+    "id": 117,
+    "question": "What is the synonym of 'Quake'?",
+    "options": {
+      "a": "Shake",
+      "b": "Stabilize",
+      "c": "Steady",
+      "d": "Calm"
+    },
+    "correct_answer": "a",
+    "explanation": "'Quake' (কাঁপানো) means to shake or tremble. Its synonyms are shake (কাঁপানো), tremble (কম্পিত হওয়া), shudder (শিউরে ওঠা), and vibrate (স্পন্দিত হওয়া)। Antonyms are stabilize (স্থিতিশীল করা), steady (স্থির করা), calm (শান্ত করা), and soothe (প্রশমিত করা)।"
+  },
+  {
+    "id": 118,
+    "question": "The antonym of 'Rough' is:",
+    "options": {
+      "a": "Coarse",
+      "b": "Smooth",
+      "c": "Uneven",
+      "d": "Harsh"
+    },
+    "correct_answer": "b",
+    "explanation": "'Rough' (রুক্ষ) means having an uneven surface. Its synonyms are coarse (মোটা), uneven (অসম), harsh (কর্কশ), and bumpy (উঁচু-নিচু)। Its antonyms are smooth (মসৃণ), even (সমতল), flat (সমতল), and polished (মসৃণ)।"
+  },
+  {
+    "id": 119,
+    "question": "Which word is the synonym of 'Scarce'?",
+    "options": {
+      "a": "Rare",
+      "b": "Plentiful",
+      "c": "Abundant",
+      "d": "Ample"
+    },
+    "correct_answer": "a",
+    "explanation": "'Scarce' (দুর্লভ) means in short supply. Its synonyms are rare (বিরল), limited (সীমিত), insufficient (অপর্যাপ্ত), and scanty (স্বল্প)। Antonyms are plentiful (প্রচুর), abundant (প্রচুর), ample (যথেষ্ট), and copious (প্রচুর)।"
+  },
+  {
+    "id": 120,
+    "question": "The antonym of 'Tame' is:",
+    "options": {
+      "a": "Domestic",
+      "b": "Wild",
+      "c": "Gentle",
+      "d": "Docile"
+    },
+    "correct_answer": "b",
+    "explanation": "'Tame' (পোষা/নম্র) means domesticated or gentle. Its synonyms are domestic (গৃহপালিত), gentle (মৃদু), docile (বশ্য), and meek (নম্র)। Its antonyms are wild (বন্য), untamed (অদম্য), fierce (হিংস্র), and savage (বর্বর)।"
+  },
+  {
+    "id": 121,
+    "question": "What is the synonym of 'Urgent'?",
+    "options": {
+      "a": "Pressing",
+      "b": "Trivial",
+      "c": "Unimportant",
+      "d": "Optional"
+    },
+    "correct_answer": "a",
+    "explanation": "'Urgent' (জরুরি) means requiring immediate action. Its synonyms are pressing (জরুরি), critical (সংকটপূর্ণ), imperative (অত্যাবশ্যক), and crucial (গুরুত্বপূর্ণ)। Antonyms are trivial (তুচ্ছ), unimportant (অগুরুত্বপূর্ণ), optional (ঐচ্ছিক), and unnecessary (অপ্রয়োজনীয়)।"
+  },
+  {
+    "id": 122,
+    "question": "The antonym of 'Vague' is:",
+    "options": {
+      "a": "Clear",
+      "b": "Hazy",
+      "c": "Faint",
+      "d": "Obscure"
+    },
+    "correct_answer": "a",
+    "explanation": "'Vague' (অস্পষ্ট) means uncertain or unclear. Its synonyms are hazy (ঝাপসা), faint (ম্লান), obscure (অস্পষ্ট), and indefinite (অনির্দিষ্ট)। Its antonyms are clear (পরিষ্কার), definite (নির্দিষ্ট), explicit (স্পষ্ট), and precise (সঠিক)।"
+  },
+  {
+    "id": 123,
+    "question": "Which word is the synonym of 'Wary'?",
+    "options": {
+      "a": "Careless",
+      "b": "Cautious",
+      "c": "Reckless",
+      "d": "Rash"
+    },
+    "correct_answer": "b",
+    "explanation": "'Wary' (সতর্ক) means feeling caution about possible dangers. Its synonyms are cautious (সতর্ক), careful (সতর্ক), vigilant (জাগ্রত), and alert (সতর্ক)। Antonyms are careless (অসতর্ক), reckless (বেপরোয়া), rash (অবিবেচক), and heedless (অমনোযোগী)।"
+  },
+  {
+    "id": 124,
+    "question": "The antonym of 'Young' is:",
+    "options": {
+      "a": "Youthful",
+      "b": "Old",
+      "c": "Juvenile",
+      "d": "Infant"
+    },
+    "correct_answer": "b",
+    "explanation": "'Young' (তরুণ) means having lived for a short time. Its synonyms are youthful (তরুণ), juvenile (কিশোর), infant (শিশু), and adolescent (কৈশোরের)। Its antonyms are old (বৃদ্ধ), aged (বয়স্ক), elderly (প্রবীণ), and ancient (প্রাচীন)।"
+  },
+  {
+    "id": 125,
+    "question": "What is the synonym of 'Zealous'?",
+    "options": {
+      "a": "Apathetic",
+      "b": "Enthusiastic",
+      "c": "Indifferent",
+      "d": "Uninterested"
+    },
+    "correct_answer": "b",
+    "explanation": "'Zealous' (উদ্যমী) means having great energy or enthusiasm. Its synonyms are enthusiastic (উৎসাহী), passionate (আবেগী), fervent (উদ্দীপ্ত), and eager (আগ্রহী)। Antonyms are apathetic (উদাসীন), indifferent (নিরপেক্ষ), uninterested (অরুচি), and lukewarm (ঔদাসীন্য)।"
+  },
+  {
+    "id": 126,
+    "question": "The antonym of 'Absent' is:",
+    "options": {
+      "a": "Missing",
+      "b": "Present",
+      "c": "Away",
+      "d": "Gone"
+    },
+    "correct_answer": "b",
+    "explanation": "'Absent' (অনুপস্থিত) means not present. Its synonyms are missing (অনুপস্থিত), away (দূরে), gone (চলে গেছে), and lacking (অভাব)। Its antonyms are present (উপস্থিত), here (এখানে), attending (উপস্থিত), and existing (বিদ্যমান)।"
+  },
+  {
+    "id": 127,
+    "question": "Which word is the synonym of 'Barrier'?",
+    "options": {
+      "a": "Obstacle",
+      "b": "Passage",
+      "c": "Pathway",
+      "d": "Opening"
+    },
+    "correct_answer": "a",
+    "explanation": "'Barrier' (বাধা) means something that blocks progress. Its synonyms are obstacle (বাধা), hindrance (বাধা), impediment (প্রতিবন্ধক), and blockade (অবরোধ)। Antonyms are passage (পথ), pathway (পথ), opening (খোলা), and gateway (দরজা)।"
+  },
+  {
+    "id": 128,
+    "question": "The antonym of 'Combine' is:",
+    "options": {
+      "a": "Merge",
+      "b": "Separate",
+      "c": "Unite",
+      "d": "Join"
+    },
+    "correct_answer": "b",
+    "explanation": "'Combine' (একত্র করা) means to join together. Its synonyms are merge (একীভূত করা), unite (একত্র করা), join (যোগ দেওয়া), and blend (মেশানো)। Its antonyms are separate (পৃথক করা), divide (ভাগ করা), part (আলাদা করা), and split (ফাটল)।"
+  },
+  {
+    "id": 129,
+    "question": "What is the synonym of 'Deliberate'?",
+    "options": {
+      "a": "Accidental",
+      "b": "Intentional",
+      "c": "Unplanned",
+      "d": "Spontaneous"
+    },
+    "correct_answer": "b",
+    "explanation": "'Deliberate' (ইচ্ছাকৃত) means done consciously and intentionally. Its synonyms are intentional (ইচ্ছাকৃত), purposeful (উদ্দেশ্যমূলক), premeditated (পূর্বপরিকল্পিত), and willful (ইচ্ছাকৃত)। Antonyms are accidental (আকস্মিক), unplanned (অপরিকল্পিত), spontaneous (স্বতঃস্ফূর্ত), and unintentional (অনিচ্ছাকৃত)।"
+  },
+  {
+    "id": 130,
+    "question": "The antonym of 'Export' is:",
+    "options": {
+      "a": "Sell abroad",
+      "b": "Import",
+      "c": "Ship",
+      "d": "Trade"
+    },
+    "correct_answer": "b",
+    "explanation": "'Export' (রপ্তানি করা) means to send goods to another country for sale. Its synonyms are sell abroad (বিদেশে বিক্রি করা), ship (পাঠানো), and trade (বাণিজ্য করা)। Its antonyms are import (আমদানি করা), bring in (আনা), and buy abroad (বিদেশ থেকে কেনা)।"
+  },
+  {
+    "id": 131,
+    "question": "Which word is the synonym of 'Fragrant'?",
+    "options": {
+      "a": "Smelly",
+      "b": "Aromatic",
+      "c": "Stinking",
+      "d": "Foul"
+    },
+    "correct_answer": "b",
+    "explanation": "'Fragrant' (সুগন্ধি) means having a pleasant smell. Its synonyms are aromatic (সুগন্ধি), perfumed (সুগন্ধিযুক্ত), sweet-smelling (মিষ্টি গন্ধ), and scented (সুবাসিত)। Antonyms are smelly (দুর্গন্ধযুক্ত), stinking (দুর্গন্ধযুক্ত), foul (নোংরা), and putrid (পচা)।"
+  },
+  {
+    "id": 132,
+    "question": "The antonym of 'Gather' is:",
+    "options": {
+      "a": "Collect",
+      "b": "Scatter",
+      "c": "Assemble",
+      "d": "Accumulate"
+    },
+    "correct_answer": "b",
+    "explanation": "'Gather' (একত্র করা) means to bring together. Its synonyms are collect (সংগ্রহ করা), assemble (জড়ো করা), accumulate (পুঞ্জীভূত করা), and congregate (সমবেত হওয়া)। Its antonyms are scatter (ছড়ানো), disperse (বিচ্ছুরিত করা), spread (প্রসারিত করা), and distribute (বিতরণ করা)।"
+  },
+  {
+    "id": 133,
+    "question": "What is the synonym of 'Hazard'?",
+    "options": {
+      "a": "Safety",
+      "b": "Danger",
+      "c": "Protection",
+      "d": "Security"
+    },
+    "correct_answer": "b",
+    "explanation": "'Hazard' (ঝুঁকি) means a danger or risk. Its synonyms are danger (বিপদ), risk (ঝুঁকি), peril (সংকট), and threat (হুমকি)। Antonyms are safety (নিরাপত্তা), security (নিরাপত্তা), protection (সুরক্ষা), and certainty (নিশ্চয়তা)।"
+  },
+  {
+    "id": 134,
+    "question": "The antonym of 'Innocent' is:",
+    "options": {
+      "a": "Guilty",
+      "b": "Pure",
+      "c": "Virtuous",
+      "d": "Sinless"
+    },
+    "correct_answer": "a",
+    "explanation": "'Innocent' (নির্দোষ) means not guilty. Its synonyms are pure (শুদ্ধ), virtuous (সৎ), sinless (পাপহীন), and blameless (নিরপরাধ)। Its antonyms are guilty (দোষী), culpable (অপরাধী), sinful (পাপী), and corrupt (দুর্নীতিগ্রস্ত)।"
+  },
+  {
+    "id": 135,
+    "question": "Which word is the synonym of 'Jealous'?",
+    "options": {
+      "a": "Envious",
+      "b": "Trusting",
+      "c": "Content",
+      "d": "Secure"
+    },
+    "correct_answer": "a",
+    "explanation": "'Jealous' (ঈর্ষান্বিত) means feeling envy. Its synonyms are envious (ঈর্ষান্বিত), covetous (লোলুপ), resentful (ক্ষুব্ধ), and begrudging (অসন্তুষ্ট)। Antonyms are trusting (বিশ্বাসী), content (সন্তুষ্ট), secure (নিরাপদ), and satisfied (তৃপ্ত)।"
+  },
+  {
+    "id": 136,
+    "question": "The antonym of 'Knowledge' is:",
+    "options": {
+      "a": "Wisdom",
+      "b": "Ignorance",
+      "c": "Understanding",
+      "d": "Awareness"
+    },
+    "correct_answer": "b",
+    "explanation": "'Knowledge' (জ্ঞান) means facts and information acquired. Its synonyms are wisdom (প্রজ্ঞা), understanding (বোধ), awareness (সচেতনতা), and erudition (পাণ্ডিত্য)। Its antonyms are ignorance (অজ্ঞতা), illiteracy (নিরক্ষরতা), unawareness (অজ্ঞানতা), and folly (মূর্খতা)।"
+  },
+  {
+    "id": 137,
+    "question": "What is the synonym of 'Laborious'?",
+    "options": {
+      "a": "Easy",
+      "b": "Effortless",
+      "c": "Arduous",
+      "d": "Simple"
+    },
+    "correct_answer": "c",
+    "explanation": "'Laborious' (পরিশ্রমসাধ্য) means requiring great effort. Its synonyms are arduous (কষ্টসাধ্য), difficult (কঠিন), strenuous (ক্লান্তিকর), and tough (কঠিন)। Antonyms are easy (সহজ), effortless (অনায়াস), simple (সরল), and light (হালকা)।"
+  },
+  {
+    "id": 138,
+    "question": "The antonym of 'Major' is:",
+    "options": {
+      "a": "Main",
+      "b": "Minor",
+      "c": "Chief",
+      "d": "Principal"
+    },
+    "correct_answer": "b",
+    "explanation": "'Major' (প্রধান) means important or significant. Its synonyms are main (প্রধান), chief (প্রধান), principal (প্রধান), and leading (প্রধান)। Its antonyms are minor (গৌণ), insignificant (নগণ্য), unimportant (অগুরুত্বপূর্ণ), and secondary (দ্বিতীয়)।"
+  },
+  {
+    "id": 139,
+    "question": "Which word is the synonym of 'Native'?",
+    "options": {
+      "a": "Foreign",
+      "b": "Indigenous",
+      "c": "Alien",
+      "d": "Immigrant"
+    },
+    "correct_answer": "b",
+    "explanation": "'Native' (স্থানীয়) means belonging to a particular place by birth. Its synonyms are indigenous (আদিবাসী), local (স্থানীয়), domestic (দেশীয়), and original (আদি)। Antonyms are foreign (বিদেশী), alien (বিদেশী), immigrant (অভিবাসী), and exotic (বিদেশী)।"
+  },
+  {
+    "id": 140,
+    "question": "The antonym of 'Optimistic' is:",
+    "options": {
+      "a": "Hopeful",
+      "b": "Pessimistic",
+      "c": "Positive",
+      "d": "Cheerful"
+    },
+    "correct_answer": "b",
+    "explanation": "'Optimistic' (আশাবাদী) means hopeful about the future. Its synonyms are hopeful (আশাবাদী), positive (ইতিবাচক), cheerful (প্রফুল্ল), and confident (আত্মবিশ্বাসী)। Its antonyms are pessimistic (হতাশাবাদী), negative (নেতিবাচক), gloomy (বিষণ্ণ), and cynical (বিদ্রূপকারী)।"
+  },
+  {
+    "id": 141,
+    "question": "What is the synonym of 'Praise'?",
+    "options": {
+      "a": "Criticize",
+      "b": "Commend",
+      "c": "Blame",
+      "d": "Condemn"
+    },
+    "correct_answer": "b",
+    "explanation": "'Praise' (প্রশংসা করা) means to express approval. Its synonyms are commend (প্রশংসা করা), applaud (সাধুবাদ জানানো), compliment (প্রশংসা করা), and acclaim (প্রশংসা করা)। Antonyms are criticize (সমালোচনা করা), blame (দোষারোপ করা), condemn (নিন্দা করা), and disparage (অবমূল্যায়ন করা)।"
+  },
+  {
+    "id": 142,
+    "question": "The antonym of 'Qualified' is:",
+    "options": {
+      "a": "Competent",
+      "b": "Unqualified",
+      "c": "Capable",
+      "d": "Skilled"
+    },
+    "correct_answer": "b",
+    "explanation": "'Qualified' (যোগ্য) means having the necessary skills. Its synonyms are competent (সক্ষম), capable (যোগ্য), skilled (দক্ষ), and trained (প্রশিক্ষিত)। Its antonyms are unqualified (অযোগ্য), incompetent (অক্ষম), unfit (অনুপযুক্ত), and incapable (অক্ষম)।"
+  },
+  {
+    "id": 143,
+    "question": "Which word is the synonym of 'Rival'?",
+    "options": {
+      "a": "Ally",
+      "b": "Competitor",
+      "c": "Friend",
+      "d": "Partner"
+    },
+    "correct_answer": "b",
+    "explanation": "'Rival' (প্রতিদ্বন্দ্বী) means a person competing with another. Its synonyms are competitor (প্রতিযোগী), opponent (প্রতিপক্ষ), adversary (শত্রু), and challenger (প্রতিদ্বন্দ্বী)। Antonyms are ally (মিত্র), friend (বন্ধু), partner (অংশীদার), and supporter (সমর্থক)।"
+  },
+  {
+    "id": 144,
+    "question": "The antonym of 'Strict' is:",
+    "options": {
+      "a": "Lenient",
+      "b": "Harsh",
+      "c": "Rigid",
+      "d": "Severe"
+    },
+    "correct_answer": "a",
+    "explanation": "'Strict' (কঠোর) means demanding that rules are obeyed. Its synonyms are harsh (কঠোর), rigid (অনমনীয়), severe (কঠোর), and stern (কঠোর)। Its antonyms are lenient (শিথিল), flexible (নমনীয়), gentle (মৃদু), and tolerant (সহনশীল)।"
+  },
+  {
+    "id": 145,
+    "question": "What is the synonym of 'Timid'?",
+    "options": {
+      "a": "Bold",
+      "b": "Shy",
+      "c": "Brave",
+      "d": "Fearless"
+    },
+    "correct_answer": "b",
+    "explanation": "'Timid' (ভীরু) means showing a lack of courage. Its synonyms are shy (লাজুক), fearful (ভীত), cowardly (কাপুরুষ), and hesitant (দ্বিধাগ্রস্ত)। Antonyms are bold (সাহসী), brave (সাহসী), fearless (নির্ভীক), and confident (আত্মবিশ্বাসী)।"
+  },
+  {
+    "id": 146,
+    "question": "The antonym of 'Urban' is:",
+    "options": {
+      "a": "City",
+      "b": "Rural",
+      "c": "Metropolitan",
+      "d": "Municipal"
+    },
+    "correct_answer": "b",
+    "explanation": "'Urban' (শহুরে) means relating to a city. Its synonyms are city (শহর), metropolitan (মহানগরীয়), municipal (পৌর), and civic (নাগরিক)। Its antonyms are rural (গ্রামীণ), country (গ্রাম), pastoral (পল্লী), and rustic (গ্রাম্য)।"
+  },
+  {
+    "id": 147,
+    "question": "Which word is the synonym of 'Vacant'?",
+    "options": {
+      "a": "Occupied",
+      "b": "Empty",
+      "c": "Filled",
+      "d": "Engaged"
+    },
+    "correct_answer": "b",
+    "explanation": "'Vacant' (খালি) means not occupied. Its synonyms are empty (খালি), unoccupied (অধিকৃত নয়), void (শূন্য), and available (উপলব্ধ)। Antonyms are occupied (অধিকৃত), filled (পূর্ণ), engaged (ব্যবহৃত), and taken (গ্রহণ করা)।"
+  },
+  {
+    "id": 148,
+    "question": "The antonym of 'Wealth' is:",
+    "options": {
+      "a": "Poverty",
+      "b": "Fortune",
+      "c": "Prosperity",
+      "d": "Affluence"
+    },
+    "correct_answer": "a",
+    "explanation": "'Wealth' (সম্পদ) means abundance of valuable possessions. Its synonyms are fortune (ভাগ্য), prosperity (সমৃদ্ধি), affluence (প্রাচুর্য), and riches (ধন-সম্পদ)। Its antonyms are poverty (দারিদ্র্য), destitution (নিঃস্বতা), need (অভাব), and want (অভাব)।"
+  },
+  {
+    "id": 149,
+    "question": "What is the synonym of 'Yield'?",
+    "options": {
+      "a": "Resist",
+      "b": "Surrender",
+      "c": "Oppose",
+      "d": "Withstand"
+    },
+    "correct_answer": "b",
+    "explanation": "'Yield' (আত্মসমর্পণ করা/উৎপাদন করা) can mean to surrender or produce. Its synonyms for surrender are surrender (আত্মসমর্পণ করা), submit (বশ্যতা স্বীকার করা), capitulate (আত্মসমর্পণ করা), and succumb (পরাস্ত হওয়া)। Antonyms are resist (প্রতিরোধ করা), oppose (বিরোধিতা করা), withstand (সহ্য করা), and fight (লড়াই করা)।"
+  },
+  {
+    "id": 150,
+    "question": "The antonym of 'Zenith' is:",
+    "options": {
+      "a": "Peak",
+      "b": "Nadir",
+      "c": "Summit",
+      "d": "Apex"
+    },
+    "correct_answer": "b",
+    "explanation": "'Zenith' (চরম শিখর) means the highest point. Its synonyms are peak (শিখর), summit (চূড়া), apex (অগ্রভাগ), and climax (চরম বিন্দু)। Its antonym is nadir (নিম্নতম বিন্দু), meaning the lowest point."
+  },
+  {
+    "id": 151,
+    "question": "What is the synonym of 'Abrupt'?",
+    "options": {
+      "a": "Gradual",
+      "b": "Sudden",
+      "c": "Expected",
+      "d": "Slow"
+    },
+    "correct_answer": "b",
+    "explanation": "'Abrupt' (হঠাৎ) means sudden and unexpected. Its synonyms are sudden (আকস্মিক), unexpected (অপ্রত্যাশিত), hasty (তড়িঘড়ি), and rash (অবিবেচক). Antonyms are gradual (ধীরে ধীরে), slow (ধীর), expected (প্রত্যাশিত), and planned (পরিকল্পিত)."
+  },
+  {
+    "id": 152,
+    "question": "The antonym of 'Beneficial' is:",
+    "options": {
+      "a": "Advantageous",
+      "b": "Harmful",
+      "c": "Helpful",
+      "d": "Useful"
+    },
+    "correct_answer": "b",
+    "explanation": "'Beneficial' (উপকারী) means favorable or advantageous. Its synonyms are advantageous (সুবিধাজনক), helpful (সহায়ক), useful (প্রয়োজনীয়), and profitable (লাভজনক). Its antonyms are harmful (ক্ষতিকর), damaging (ক্ষতিকর), detrimental (ক্ষতিকর), and injurious (আঘাতমূলক)."
+  },
+  {
+    "id": 153,
+    "question": "Which word is the synonym of 'Cease'?",
+    "options": {
+      "a": "Begin",
+      "b": "Stop",
+      "c": "Start",
+      "d": "Commence"
+    },
+    "correct_answer": "b",
+    "explanation": "'Cease' (বন্ধ করা) means to bring or come to an end. Its synonyms are stop (থামানো), halt (বিরাম দেওয়া), discontinue (বন্ধ করা), and terminate (শেষ করা). Antonyms are begin (শুরু করা), start (শুরু করা), commence (শুরু করা), and continue (চালিয়ে যাওয়া)."
+  },
+  {
+    "id": 154,
+    "question": "The antonym of 'Dense' is:",
+    "options": {
+      "a": "Thick",
+      "b": "Sparse",
+      "c": "Compact",
+      "d": "Crowded"
+    },
+    "correct_answer": "b",
+    "explanation": "'Dense' (ঘন) means closely compacted together. Its synonyms are thick (ঘন), compact (সংক্ষিপ্ত), crowded (ভিড়), and solid (কঠিন). Its antonyms are sparse (বিরল), thin (পাতলা), scattered (ছড়িয়ে ছিটিয়ে), and open (খোলা)."
+  },
+  {
+    "id": 155,
+    "question": "What is the synonym of 'Explicit'?",
+    "options": {
+      "a": "Vague",
+      "b": "Clear",
+      "c": "Ambiguous",
+      "d": "Unclear"
+    },
+    "correct_answer": "b",
+    "explanation": "'Explicit' (স্পষ্ট) means stated clearly and in detail. Its synonyms are clear (পরিষ্কার), definite (নির্দিষ্ট), precise (সঠিক), and unambiguous (দ্ব্যর্থহীন). Antonyms are vague (অস্পষ্ট), ambiguous (দ্ব্যর্থক), unclear (অস্পষ্ট), and implicit (পরোক্ষ)."
+  },
+  {
+    "id": 156,
+    "question": "The antonym of 'Frequent' is:",
+    "options": {
+      "a": "Common",
+      "b": "Rare",
+      "c": "Regular",
+      "d": "Usual"
+    },
+    "correct_answer": "b",
+    "explanation": "'Frequent' (ঘন ঘন) means occurring often. Its synonyms are common (সাধারণ), regular (নিয়মিত), repeated (পুনরাবৃত্ত), and usual (স্বাভাবিক). Its antonyms are rare (বিরল), infrequent (অস্বাভাবিক), uncommon (অসাধারণ), and occasional (মাঝে মধ্যে)."
+  },
+  {
+    "id": 157,
+    "question": "Which word is the synonym of 'Gigantic'?",
+    "options": {
+      "a": "Tiny",
+      "b": "Huge",
+      "c": "Small",
+      "d": "Miniature"
+    },
+    "correct_answer": "b",
+    "explanation": "'Gigantic' (দৈত্যাকার) means of very great size. Its synonyms are huge (বিশাল), enormous (প্রচণ্ড), colossal (বৃহদাকার), and immense (বিরাট). Antonyms are tiny (ক্ষুদ্র), small (ছোট), miniature (অতিক্ষুদ্র), and minute (অণুবীক্ষণিক)."
+  },
+  {
+    "id": 158,
+    "question": "The antonym of 'Humid' is:",
+    "options": {
+      "a": "Moist",
+      "b": "Dry",
+      "c": "Damp",
+      "d": "Wet"
+    },
+    "correct_answer": "b",
+    "explanation": "'Humid' (আর্দ্র) means marked by a high level of water vapor. Its synonyms are moist (স্যাঁতসেঁতে), damp (ভিজে), wet (ভিজা), and muggy (গরম ও আর্দ্র). Its antonyms are dry (শুষ্ক), arid (শুষ্ক), dehydrated (নিরুদন), and parched (শুষ্ক)."
+  },
+  {
+    "id": 159,
+    "question": "What is the synonym of 'Illiterate'?",
+    "options": {
+      "a": "Educated",
+      "b": "Uneducated",
+      "c": "Learned",
+      "d": "Scholarly"
+    },
+    "correct_answer": "b",
+    "explanation": "'Illiterate' (অশিক্ষিত) means unable to read or write. Its synonyms are uneducated (অশিক্ষিত), ignorant (অজ্ঞ), unlearned (অপণ্ডিত), and unschooled (অপ্রশিক্ষিত). Antonyms are educated (শিক্ষিত), literate (সাক্ষর), learned (পণ্ডিত), and scholarly (পাণ্ডিত্যপূর্ণ)."
+  },
+  {
+    "id": 160,
+    "question": "The antonym of 'Joyful' is:",
+    "options": {
+      "a": "Happy",
+      "b": "Sad",
+      "c": "Delighted",
+      "d": "Cheerful"
+    },
+    "correct_answer": "b",
+    "explanation": "'Joyful' (আনন্দিত) means feeling great pleasure. Its synonyms are happy (সুখী), delighted (আনন্দিত), cheerful (প্রফুল্ল), and elated (উল্লসিত). Its antonyms are sad (দুঃখিত), sorrowful (শোকাহত), gloomy (বিষণ্ণ), and miserable (দুঃখী)."
+  },
+  {
+    "id": 161,
+    "question": "Which word is the synonym of 'Kindred'?",
+    "options": {
+      "a": "Alien",
+      "b": "Related",
+      "c": "Stranger",
+      "d": "Foreign"
+    },
+    "correct_answer": "b",
+    "explanation": "'Kindred' (আত্মীয়/সম্পর্কিত) means similar in kind or related. Its synonyms are related (সম্পর্কিত), akin (সমগোত্রীয়), similar (অনুরূপ), and allied (মিত্র). Antonyms are alien (বিদেশী), foreign (বিদেশী), different (ভিন্ন), and unrelated (অসম্পর্কিত)."
+  },
+  {
+    "id": 162,
+    "question": "The antonym of 'Liquid' is:",
+    "options": {
+      "a": "Fluid",
+      "b": "Solid",
+      "c": "Watery",
+      "d": "Molten"
+    },
+    "correct_answer": "b",
+    "explanation": "'Liquid' (তরল) means flowing freely like water. Its synonyms are fluid (তরল), watery (জলের মতো), molten (গলিত), and runny (তরল). Its antonyms are solid (কঠিন), hard (শক্ত), firm (দৃঢ়), and rigid (অনমনীয়)."
+  },
+  {
+    "id": 163,
+    "question": "What is the synonym of 'Mild'?",
+    "options": {
+      "a": "Gentle",
+      "b": "Harsh",
+      "c": "Severe",
+      "d": "Strict"
+    },
+    "correct_answer": "a",
+    "explanation": "'Mild' (মৃদু) means gentle and not severe. Its synonyms are gentle (মৃদু), soft (নরম), calm (শান্ত), and moderate (মাঝারি). Antonyms are harsh (কঠোর), severe (কঠিন), strict (কঠোর), and intense (তীব্র)."
+  },
+  {
+    "id": 164,
+    "question": "The antonym of 'Natural' is:",
+    "options": {
+      "a": "Normal",
+      "b": "Artificial",
+      "c": "Usual",
+      "d": "Common"
+    },
+    "correct_answer": "b",
+    "explanation": "'Natural' (প্রাকৃতিক) means existing in or caused by nature. Its synonyms are normal (স্বাভাবিক), usual (সাধারণ), common (সাধারণ), and regular (নিয়মিত). Its antonyms are artificial (কৃত্রিম), unnatural (অস্বাভাবিক), synthetic (কৃত্রিম), and man-made (মানবসৃষ্ট)."
+  },
+  {
+    "id": 165,
+    "question": "Which word is the synonym of 'Obscure'?",
+    "options": {
+      "a": "Famous",
+      "b": "Unknown",
+      "c": "Prominent",
+      "d": "Renowned"
+    },
+    "correct_answer": "b",
+    "explanation": "'Obscure' (অস্পষ্ট/অখ্যাত) means not discovered or known about. Its synonyms are unknown (অজানা), unclear (অস্পষ্ট), vague (অস্পষ্ট), and hidden (লুকানো). Antonyms are famous (বিখ্যাত), prominent (প্রধান), renowned (সুপ্রসিদ্ধ), and celebrated (প্রখ্যাত)."
+  },
+  {
+    "id": 166,
+    "question": "The antonym of 'Permanent' is:",
+    "options": {
+      "a": "Everlasting",
+      "b": "Temporary",
+      "c": "Perpetual",
+      "d": "Constant"
+    },
+    "correct_answer": "b",
+    "explanation": "'Permanent' (স্থায়ী) means lasting for a long time. Its synonyms are everlasting (চিরস্থায়ী), perpetual (অবিরাম), constant (অপরিবর্তনীয়), and enduring (টেকসই). Its antonyms are temporary (অস্থায়ী), transient (ক্ষণস্থায়ী), momentary (ক্ষণস্থায়ী), and short-lived (স্বল্পস্থায়ী)."
+  },
+  {
+    "id": 167,
+    "question": "What is the synonym of 'Quiet'?",
+    "options": {
+      "a": "Noisy",
+      "b": "Silent",
+      "c": "Loud",
+      "d": "Boisterous"
+    },
+    "correct_answer": "b",
+    "explanation": "'Quiet' (শান্ত/নীরব) means making little noise. Its synonyms are silent (নীরব), calm (শান্ত), peaceful (শান্তিপূর্ণ), and still (স্থির). Antonyms are noisy (কোলাহলপূর্ণ), loud (উচ্চৈঃস্বরে), boisterous (উদ্বেল), and turbulent (অস্থির)."
+  },
+  {
+    "id": 168,
+    "question": "The antonym of 'Regular' is:",
+    "options": {
+      "a": "Normal",
+      "b": "Irregular",
+      "c": "Standard",
+      "d": "Usual"
+    },
+    "correct_answer": "b",
+    "explanation": "'Regular' (নিয়মিত) means following a pattern. Its synonyms are normal (স্বাভাবিক), standard (মান), usual (সাধারণ), and routine (রুটিন)। Its antonyms are irregular (অনিয়মিত), abnormal (অস্বাভাবিক), unusual (অসাধারণ), and inconsistent (অসংগত)।"
+  },
+  {
+    "id": 169,
+    "question": "Which word is the synonym of 'Savage'?",
+    "options": {
+      "a": "Wild",
+      "b": "Tame",
+      "c": "Gentle",
+      "d": "Civilized"
+    },
+    "correct_answer": "a",
+    "explanation": "'Savage' (বর্বর/হিংস্র) means fierce and violent. Its synonyms are wild (বন্য), brutal (নিষ্ঠুর), fierce (হিংস্র), and barbaric (বর্বরোচিত). Antonyms are tame (পোষা), gentle (মৃদু), civilized (সভ্য), and kind (সদয়)."
+  },
+  {
+    "id": 170,
+    "question": "The antonym of 'Thick' is:",
+    "options": {
+      "a": "Dense",
+      "b": "Thin",
+      "c": "Heavy",
+      "d": "Fat"
+    },
+    "correct_answer": "b",
+    "explanation": "'Thick' (ঘন/মোটা) means with opposite sides close together. Its synonyms are dense (ঘন), heavy (ভারী), fat (স্থূল), and bulky (বিশাল)। Its antonyms are thin (পাতলা), slender (ক্ষীণ), slim (চিকন), and narrow (সংকীর্ণ)।"
+  },
+  {
+    "id": 171,
+    "question": "What is the synonym of 'Urgent'?",
+    "options": {
+      "a": "Pressing",
+      "b": "Unimportant",
+      "c": "Trivial",
+      "d": "Minor"
+    },
+    "correct_answer": "a",
+    "explanation": "'Urgent' (জরুরি) means requiring immediate action. Its synonyms are pressing (জরুরি), critical (সংকটপূর্ণ), imperative (অত্যাবশ্যক), and crucial (গুরুত্বপূর্ণ)। Antonyms are unimportant (অগুরুত্বপূর্ণ), trivial (তুচ্ছ), minor (গৌণ), and optional (ঐচ্ছিক)।"
+  },
+  {
+    "id": 172,
+    "question": "The antonym of 'Voluntary' is:",
+    "options": {
+      "a": "Optional",
+      "b": "Compulsory",
+      "c": "Willing",
+      "d": "Free"
+    },
+    "correct_answer": "b",
+    "explanation": "'Voluntary' (স্বেচ্ছায়) means done by choice. Its synonyms are optional (ঐচ্ছিক), willing (ইচ্ছুক), free (স্বাধীন), and spontaneous (স্বতঃস্ফূর্ত). Its antonyms are compulsory (বাধ্যতামূলক), mandatory (বাধ্যতামূলক), forced (জোরপূর্বক), and involuntary (অনিচ্ছাকৃত)।"
+  },
+  {
+    "id": 173,
+    "question": "Which word is the synonym of 'Wise'?",
+    "options": {
+      "a": "Foolish",
+      "b": "Intelligent",
+      "c": "Silly",
+      "d": "Stupid"
+    },
+    "correct_answer": "b",
+    "explanation": "'Wise' (জ্ঞানী) means having experience and good judgment. Its synonyms are intelligent (বুদ্ধিমান), clever (চতুর), smart (চালাক), and sagacious (বিচক্ষণ). Antonyms are foolish (মূর্খ), stupid (মূর্খ), silly (বোকা), and unwise (অবিবেচক)."
+  },
+  {
+    "id": 174,
+    "question": "The antonym of 'Young' is:",
+    "options": {
+      "a": "Youthful",
+      "b": "Old",
+      "c": "Juvenile",
+      "d": "Infant"
+    },
+    "correct_answer": "b",
+    "explanation": "'Young' (তরুণ) means having lived for a short time. Its synonyms are youthful (তরুণ), juvenile (কিশোর), infant (শিশু), and adolescent (কৈশোরের)। Its antonyms are old (বৃদ্ধ), aged (বয়স্ক), elderly (প্রবীণ), and ancient (প্রাচীন)।"
+  },
+  {
+    "id": 175,
+    "question": "What is the synonym of 'Zeal'?",
+    "options": {
+      "a": "Apathy",
+      "b": "Enthusiasm",
+      "c": "Indifference",
+      "d": "Lethargy"
+    },
+    "correct_answer": "b",
+    "explanation": "'Zeal' (আগ্রহ/উদ্দীপনা) means great energy in pursuit of a cause. Its synonyms are enthusiasm (উৎসাহ), passion (আবেগ), fervor (উদ্দীপনা), and ardor (প্রবল ইচ্ছা). Antonyms are apathy (উদাসীনতা), indifference (নিরপেক্ষতা), lethargy (অলসতা), and sluggishness (মন্থরতা)."
+  },
+  {
+    "id": 176,
+    "question": "The antonym of 'Advance' is:",
+    "options": {
+      "a": "Progress",
+      "b": "Retreat",
+      "c": "Proceed",
+      "d": "Continue"
+    },
+    "correct_answer": "b",
+    "explanation": "'Advance' (অগ্রসর হওয়া) means to move forward. Its synonyms are progress (অগ্রগতি), proceed (এগিয়ে যাওয়া), continue (চালিয়ে যাওয়া), and move forward (সামনে এগোনো). Its antonyms are retreat (পিছু হটা), withdraw (প্রত্যাহার করা), recede (সরিয়ে দেওয়া), and regress (পিছিয়ে যাওয়া)."
+  },
+  {
+    "id": 177,
+    "question": "Which word is the synonym of 'Bizarre'?",
+    "options": {
+      "a": "Normal",
+      "b": "Strange",
+      "c": "Common",
+      "d": "Ordinary"
+    },
+    "correct_answer": "b",
+    "explanation": "'Bizarre' (অদ্ভুত) means very strange or unusual. Its synonyms are strange (অদ্ভুত), weird (বিচিত্র), odd (অদ্ভুত), and peculiar (অস্বাভাবিক). Antonyms are normal (স্বাভাবিক), common (সাধারণ), ordinary (সাধারণ), and typical (সাধারণ)।"
+  },
+  {
+    "id": 178,
+    "question": "The antonym of 'Confident' is:",
+    "options": {
+      "a": "Unsure",
+      "b": "Certain",
+      "c": "Assured",
+      "d": "Positive"
+    },
+    "correct_answer": "a",
+    "explanation": "'Confident' (আত্মবিশ্বাসী) means feeling sure of oneself. Its synonyms are certain (নিশ্চিত), assured (আশ্বস্ত), positive (ইতিবাচক), and self-assured (আত্মবিশ্বাসী). Its antonyms are unsure (অনিশ্চিত), uncertain (অনিশ্চিত), doubtful (সন্দেহজনক), and hesitant (দ্বিধাগ্রস্ত)."
+  },
+  {
+    "id": 179,
+    "question": "What is the synonym of 'Decrease'?",
+    "options": {
+      "a": "Increase",
+      "b": "Reduce",
+      "c": "Grow",
+      "d": "Expand"
+    },
+    "correct_answer": "b",
+    "explanation": "'Decrease' (কমানো) means to become smaller in size. Its synonyms are reduce (হ্রাস করা), diminish (ক্ষয় পাওয়া), lessen (কম করা), and decline (হ্রাস পাওয়া). Antonyms are increase (বৃদ্ধি করা), grow (বাড়া), expand (প্রসারিত করা), and enlarge (বড় করা)."
+  },
+  {
+    "id": 180,
+    "question": "The antonym of 'Encourage' is:",
+    "options": {
+      "a": "Support",
+      "b": "Discourage",
+      "c": "Inspire",
+      "d": "Motivate"
+    },
+    "correct_answer": "b",
+    "explanation": "'Encourage' (উৎসাহিত করা) means to give support or confidence. Its synonyms are support (সমর্থন করা), inspire (অনুপ্রাণিত করা), motivate (উদ্দীপ্ত করা), and urge (তাগিদ দেওয়া). Its antonyms are discourage (হতাশ করা), dishearten (মনোবল ভাঙ্গা), demotivate (অনুপ্রেরণা হ্রাস করা), and depress (হতাশ করা)."
+  },
+  {
+    "id": 181,
+    "question": "Which word is the synonym of 'Fertile'?",
+    "options": {
+      "a": "Barren",
+      "b": "Productive",
+      "c": "Sterile",
+      "d": "Infertile"
+    },
+    "correct_answer": "b",
+    "explanation": "'Fertile' (উর্বর) means capable of producing abundant vegetation. Its synonyms are productive (উৎপাদনশীল), fruitful (ফলপ্রসূ), rich (সমৃদ্ধ), and plentiful (প্রচুর). Antonyms are barren (অনুর্বর), sterile (অনুর্বর), infertile (অনুর্বর), and unproductive (অফলপ্রসূ)."
+  },
+  {
+    "id": 182,
+    "question": "The antonym of 'Generous' is:",
+    "options": {
+      "a": "Charitable",
+      "b": "Stingy",
+      "c": "Benevolent",
+      "d": "Magnanimous"
+    },
+    "correct_answer": "b",
+    "explanation": "'Generous' (উদার) means showing willingness to give. Its synonyms are charitable (দানশীল), benevolent (সদাশয়), magnanimous (মহানুভব), and liberal (উদার). Its antonyms are stingy (কৃপণ), miserly (কৃপণ), selfish (স্বার্থপর), and greedy (লোভী)."
+  },
+  {
+    "id": 183,
+    "question": "What is the synonym of 'Humble'?",
+    "options": {
+      "a": "Proud",
+      "b": "Modest",
+      "c": "Arrogant",
+      "d": "Conceited"
+    },
+    "correct_answer": "b",
+    "explanation": "'Humble' (নম্র) means having a modest view of oneself. Its synonyms are modest (বিনয়ী), meek (নম্র), unassuming (অভিমানহীন), and lowly (নীচ)। Antonyms are proud (অহংকারী), arrogant (অহংকারী), conceited (আত্মাভিমানী), and haughty (দাম্ভিক)।"
+  },
+  {
+    "id": 184,
+    "question": "The antonym of 'Increase' is:",
+    "options": {
+      "a": "Expand",
+      "b": "Decrease",
+      "c": "Enlarge",
+      "d": "Multiply"
+    },
+    "correct_answer": "b",
+    "explanation": "'Increase' (বৃদ্ধি করা) means to become larger. Its synonyms are expand (প্রসারিত করা), enlarge (বড় করা), multiply (গুণ করা), and augment (বৃদ্ধি করা)। Its antonyms are decrease (কমানো), reduce (হ্রাস করা), diminish (ক্ষয় করা), and lessen (কম করা)।"
+  },
+  {
+    "id": 185,
+    "question": "Which word is the synonym of 'Jovial'?",
+    "options": {
+      "a": "Cheerful",
+      "b": "Gloomy",
+      "c": "Sad",
+      "d": "Miserable"
+    },
+    "correct_answer": "a",
+    "explanation": "'Jovial' (প্রফুল্ল) means cheerful and friendly. Its synonyms are cheerful (প্রফুল্ল), happy (খুশি), merry (আনন্দিত), and jolly (হাসিখুশি)। Antonyms are gloomy (বিষণ্ণ), sad (দুঃখিত), miserable (দুঃখী), and sorrowful (শোকাহত)।"
+  },
+  {
+    "id": 186,
+    "question": "The antonym of 'Knowledge' is:",
+    "options": {
+      "a": "Wisdom",
+      "b": "Ignorance",
+      "c": "Understanding",
+      "d": "Awareness"
+    },
+    "correct_answer": "b",
+    "explanation": "'Knowledge' (জ্ঞান) means facts and information acquired. Its synonyms are wisdom (প্রজ্ঞা), understanding (বোধ), awareness (সচেতনতা), and erudition (পাণ্ডিত্য)। Its antonyms are ignorance (অজ্ঞতা), illiteracy (নিরক্ষরতা), unawareness (অজ্ঞানতা), and folly (মূর্খতা)।"
+  },
+  {
+    "id": 187,
+    "question": "What is the synonym of 'Lenient'?",
+    "options": {
+      "a": "Strict",
+      "b": "Merciful",
+      "c": "Harsh",
+      "d": "Rigid"
+    },
+    "correct_answer": "b",
+    "explanation": "'Lenient' (শিথিল/দয়ালু) means permissive or merciful. Its synonyms are merciful (দয়ালু), forgiving (ক্ষমাশীল), tolerant (সহনশীল), and gentle (মৃদু)। Antonyms are strict (কঠোর), harsh (কঠোর), severe (কঠিন), and rigid (অনমনীয়)।"
+  },
+  {
+    "id": 188,
+    "question": "The antonym of 'Mature' is:",
+    "options": {
+      "a": "Adult",
+      "b": "Immature",
+      "c": "Grown",
+      "d": "Ripe"
+    },
+    "correct_answer": "b",
+    "explanation": "'Mature' (পরিপক্ক) means fully developed. Its synonyms are adult (প্রাপ্তবয়স্ক), grown (বড় হওয়া), ripe (পাকা), and seasoned (অভিজ্ঞ)। Its antonyms are immature (অপরিপক্ক), childish (শিশুসুলভ), inexperienced (অনভিজ্ঞ), and young (তরুণ)।"
+  },
+  {
+    "id": 189,
+    "question": "Which word is the synonym of 'Necessary'?",
+    "options": {
+      "a": "Optional",
+      "b": "Essential",
+      "c": "Unimportant",
+      "d": "Voluntary"
+    },
+    "correct_answer": "b",
+    "explanation": "'Necessary' (প্রয়োজনীয়) means required. Its synonyms are essential (অপরিহার্য), vital (অত্যাবশ্যক), indispensable (অনিবার্য), and required (প্রয়োজনীয়). Antonyms are optional (ঐচ্ছিক), unnecessary (অপ্রয়োজনীয়), unimportant (অগুরুত্বপূর্ণ), and voluntary (স্বেচ্ছায়)."
+  },
+  {
+    "id": 190,
+    "question": "The antonym of 'Optimistic' is:",
+    "options": {
+      "a": "Hopeful",
+      "b": "Pessimistic",
+      "c": "Positive",
+      "d": "Cheerful"
+    },
+    "correct_answer": "b",
+    "explanation": "'Optimistic' (আশাবাদী) means hopeful about the future. Its synonyms are hopeful (আশাবাদী), positive (ইতিবাচক), cheerful (প্রফুল্ল), and confident (আত্মবিশ্বাসী)। Its antonyms are pessimistic (হতাশাবাদী), negative (নেতিবাচক), gloomy (বিষণ্ণ), and cynical (বিদ্রূপকারী)।"
+  },
+  {
+    "id": 191,
+    "question": "What is the synonym of 'Patient'?",
+    "options": {
+      "a": "Restless",
+      "b": "Tolerant",
+      "c": "Impatient",
+      "d": "Agitated"
+    },
+    "correct_answer": "b",
+    "explanation": "'Patient' (ধৈর্যশীল) means able to wait without becoming annoyed. Its synonyms are tolerant (সহনশীল), enduring (সহিষ্ণু), forbearing (সহিষ্ণু), and composed (স্থির)। Antonyms are impatient (অধৈর্য), restless (অস্থির), agitated (উত্তেজিত), and intolerant (অসহিষ্ণু)।"
+  },
+  {
+    "id": 192,
+    "question": "The antonym of 'Qualified' is:",
+    "options": {
+      "a": "Competent",
+      "b": "Unqualified",
+      "c": "Capable",
+      "d": "Skilled"
+    },
+    "correct_answer": "b",
+    "explanation": "'Qualified' (যোগ্য) means having the necessary skills. Its synonyms are competent (সক্ষম), capable (যোগ্য), skilled (দক্ষ), and trained (প্রশিক্ষিত)। Its antonyms are unqualified (অযোগ্য), incompetent (অক্ষম), unfit (অনুপযুক্ত), and incapable (অক্ষম)।"
+  },
+  {
+    "id": 193,
+    "question": "Which word is the synonym of 'Rival'?",
+    "options": {
+      "a": "Ally",
+      "b": "Competitor",
+      "c": "Friend",
+      "d": "Partner"
+    },
+    "correct_answer": "b",
+    "explanation": "'Rival' (প্রতিদ্বন্দ্বী) means a person competing with another. Its synonyms are competitor (প্রতিযোগী), opponent (প্রতিপক্ষ), adversary (শত্রু), and challenger (প্রতিদ্বন্দ্বী)। Antonyms are ally (মিত্র), friend (বন্ধু), partner (অংশীদার), and supporter (সমর্থক)।"
+  },
+  {
+    "id": 194,
+    "question": "The antonym of 'Secure' is:",
+    "options": {
+      "a": "Safe",
+      "b": "Unsafe",
+      "c": "Protected",
+      "d": "Guarded"
+    },
+    "correct_answer": "b",
+    "explanation": "'Secure' (নিরাপদ) means safe from danger. Its synonyms are safe (নিরাপদ), protected (সুরক্ষিত), guarded (রক্ষিত), and sheltered (আশ্রিত)। Its antonyms are unsafe (অনিরাপদ), vulnerable (অরক্ষিত), exposed (উন্মুক্ত), and insecure (অনিরাপদ)।"
+  },
+  {
+    "id": 195,
+    "question": "What is the synonym of 'Timid'?",
+    "options": {
+      "a": "Bold",
+      "b": "Shy",
+      "c": "Brave",
+      "d": "Fearless"
+    },
+    "correct_answer": "b",
+    "explanation": "'Timid' (ভীরু) means showing a lack of courage. Its synonyms are shy (লাজুক), fearful (ভীত), cowardly (কাপুরুষ), and hesitant (দ্বিধাগ্রস্ত)। Antonyms are bold (সাহসী), brave (সাহসী), fearless (নির্ভীক), and confident (আত্মবিশ্বাসী)।"
+  },
+  {
+    "id": 196,
+    "question": "The antonym of 'Urban' is:",
+    "options": {
+      "a": "City",
+      "b": "Rural",
+      "c": "Metropolitan",
+      "d": "Municipal"
+    },
+    "correct_answer": "b",
+    "explanation": "'Urban' (শহুরে) means relating to a city. Its synonyms are city (শহর), metropolitan (মহানগরীয়), municipal (পৌর), and civic (নাগরিক)। Its antonyms are rural (গ্রামীণ), country (গ্রাম), pastoral (পল্লী), and rustic (গ্রাম্য)।"
+  },
+  {
+    "id": 197,
+    "question": "Which word is the synonym of 'Vacant'?",
+    "options": {
+      "a": "Occupied",
+      "b": "Empty",
+      "c": "Filled",
+      "d": "Engaged"
+    },
+    "correct_answer": "b",
+    "explanation": "'Vacant' (খালি) means not occupied. Its synonyms are empty (খালি), unoccupied (অধিকৃত নয়), void (শূন্য), and available (উপলব্ধ)। Antonyms are occupied (অধিকৃত), filled (পূর্ণ), engaged (ব্যবহৃত), and taken (গ্রহণ করা)।"
+  },
+  {
+    "id": 198,
+    "question": "The antonym of 'Wealth' is:",
+    "options": {
+      "a": "Poverty",
+      "b": "Fortune",
+      "c": "Prosperity",
+      "d": "Affluence"
+    },
+    "correct_answer": "a",
+    "explanation": "'Wealth' (সম্পদ) means abundance of valuable possessions. Its synonyms are fortune (ভাগ্য), prosperity (সমৃদ্ধি), affluence (প্রাচুর্য), and riches (ধন-সম্পদ)। Its antonyms are poverty (দারিদ্র্য), destitution (নিঃস্বতা), need (অভাব), and want (অভাব)।"
+  },
+  {
+    "id": 199,
+    "question": "What is the synonym of 'Yield'?",
+    "options": {
+      "a": "Resist",
+      "b": "Surrender",
+      "c": "Oppose",
+      "d": "Withstand"
+    },
+    "correct_answer": "b",
+    "explanation": "'Yield' (আত্মসমর্পণ করা/উৎপাদন করা) can mean to surrender or produce. Its synonyms for surrender are surrender (আত্মসমর্পণ করা), submit (বশ্যতা স্বীকার করা), capitulate (আত্মসমর্পণ করা), and succumb (পরাস্ত হওয়া)। Antonyms are resist (প্রতিরোধ করা), oppose (বিরোধিতা করা), withstand (সহ্য করা), and fight (লড়াই করা)।"
+  },
+  {
+    "id": 200,
+    "question": "The antonym of 'Zenith' is:",
+    "options": {
+      "a": "Peak",
+      "b": "Nadir",
+      "c": "Summit",
+      "d": "Apex"
+    },
+    "correct_answer": "b",
+    "explanation": "'Zenith' (চরম শিখর) means the highest point. Its synonyms are peak (শিখর), summit (চূড়া), apex (অগ্রভাগ), and climax (চরম বিন্দু)। Its antonym is nadir (নিম্নতম বিন্দু), meaning the lowest point."
+  },
+  {
+    "id": 201,
+    "question": "What is the synonym of 'Adversity'?",
+    "options": {
+      "a": "Prosperity",
+      "b": "Misfortune",
+      "c": "Fortune",
+      "d": "Success"
+    },
+    "correct_answer": "b",
+    "explanation": "'Adversity' (দুর্দশা/প্রতিকূলতা) means difficulties or misfortune. Its synonyms are misfortune (দুর্ভাগ্য), hardship (কষ্ট), difficulty (সমস্যা), and affliction (দুঃখ). Antonyms are prosperity (সমৃদ্ধি), fortune (ভাগ্য), success (সফলতা), and advantage (সুবিধা)."
+  },
+  {
+    "id": 202,
+    "question": "The antonym of 'Bold' is:",
+    "options": {
+      "a": "Brave",
+      "b": "Cowardly",
+      "c": "Fearless",
+      "d": "Daring"
+    },
+    "correct_answer": "b",
+    "explanation": "'Bold' (সাহসী) means showing courage. Its synonyms are brave (সাহসী), fearless (নির্ভীক), daring (সাহসী), and audacious (দুঃসাহসী). Its antonyms are cowardly (কাপুরুষ), timid (ভীরু), shy (লাজুক), and meek (নম্র)."
+  },
+  {
+    "id": 203,
+    "question": "Which word is the synonym of 'Confess'?",
+    "options": {
+      "a": "Deny",
+      "b": "Admit",
+      "c": "Conceal",
+      "d": "Hide"
+    },
+    "correct_answer": "b",
+    "explanation": "'Confess' (স্বীকার করা) means to admit to something. Its synonyms are admit (স্বীকার করা), acknowledge (স্বীকার করা), reveal (প্রকাশ করা), and disclose (প্রকাশ করা). Antonyms are deny (অস্বীকার করা), conceal (গোপন করা), hide (লুকানো), and cover up (ঢেকে রাখা)."
+  },
+  {
+    "id": 204,
+    "question": "The antonym of 'Distant' is:",
+    "options": {
+      "a": "Far",
+      "b": "Near",
+      "c": "Remote",
+      "d": "Separate"
+    },
+    "correct_answer": "b",
+    "explanation": "'Distant' (দূরবর্তী) means far away. Its synonyms are far (দূরে), remote (দূরবর্তী), separate (পৃথক), and isolated (বিচ্ছিন্ন). Its antonyms are near (নিকটে), close (কাছে), adjacent (সংলগ্ন), and neighboring (প্রতিবেশী)."
+  },
+  {
+    "id": 205,
+    "question": "What is the synonym of 'Eliminate'?",
+    "options": {
+      "a": "Remove",
+      "b": "Include",
+      "c": "Add",
+      "d": "Insert"
+    },
+    "correct_answer": "a",
+    "explanation": "'Eliminate' (অপসারণ করা) means to completely remove. Its synonyms are remove (সরানো), eradicate (উৎপাটন করা), erase (মুছে ফেলা), and abolish (বিলুপ্ত করা). Antonyms are include (অন্তর্ভুক্ত করা), add (যোগ করা), insert (প্রবেশ করানো), and keep (রাখা)."
+  },
+  {
+    "id": 206,
+    "question": "The antonym of 'Flexible' is:",
+    "options": {
+      "a": "Adaptable",
+      "b": "Rigid",
+      "c": "Plastic",
+      "d": "Elastic"
+    },
+    "correct_answer": "b",
+    "explanation": "'Flexible' (নমনীয়) means capable of bending easily. Its synonyms are adaptable (অভিযোজিত), plastic (নমনীয়), elastic (স্থিতিস্থাপক), and supple (নমনীয়). Its antonyms are rigid (অনমনীয়), stiff (শক্ত), inflexible (অনমনীয়), and firm (দৃঢ়)."
+  },
+  {
+    "id": 207,
+    "question": "Which word is the synonym of 'Gloomy'?",
+    "options": {
+      "a": "Bright",
+      "b": "Dark",
+      "c": "Sunny",
+      "d": "Cheerful"
+    },
+    "correct_answer": "b",
+    "explanation": "'Gloomy' (অন্ধকার/বিষণ্ণ) means dark or sad. Its synonyms are dark (অন্ধকার), dismal (বিষণ্ণ), sad (দুঃখিত), and depressing (হতাশাজনক). Antonyms are bright (উজ্জ্বল), sunny (রৌদ্রোজ্জ্বল), cheerful (প্রফুল্ল), and joyful (আনন্দিত)."
+  },
+  {
+    "id": 208,
+    "question": "The antonym of 'Honest' is:",
+    "options": {
+      "a": "Truthful",
+      "b": "Dishonest",
+      "c": "Sincere",
+      "d": "Trustworthy"
+    },
+    "correct_answer": "b",
+    "explanation": "'Honest' (সৎ) means truthful and fair. Its synonyms are truthful (সত্যবাদী), sincere (আন্তরিক), trustworthy (বিশ্বাসযোগ্য), and upright (ন্যায়পরায়ণ). Its antonyms are dishonest (অসৎ), deceitful (প্রতারক), untruthful (মিথ্যাবাদী), and corrupt (দুর্নীতিগ্রস্ত)."
+  },
+  {
+    "id": 209,
+    "question": "What is the synonym of 'Ignorant'?",
+    "options": {
+      "a": "Educated",
+      "b": "Unaware",
+      "c": "Learned",
+      "d": "Informed"
+    },
+    "correct_answer": "b",
+    "explanation": "'Ignorant' (অজ্ঞ) means lacking knowledge. Its synonyms are unaware (অজ্ঞাত), uneducated (অশিক্ষিত), illiterate (অশিক্ষিত), and uninformed (অজ্ঞাত). Antonyms are educated (শিক্ষিত), learned (পণ্ডিত), informed (জ্ঞাত), and aware (সচেতন)."
+  },
+  {
+    "id": 210,
+    "question": "The antonym of 'Joyful' is:",
+    "options": {
+      "a": "Happy",
+      "b": "Sorrowful",
+      "c": "Delighted",
+      "d": "Cheerful"
+    },
+    "correct_answer": "b",
+    "explanation": "'Joyful' (আনন্দিত) means feeling great pleasure. Its synonyms are happy (সুখী), delighted (আনন্দিত), cheerful (প্রফুল্ল), and merry (আনন্দিত). Its antonyms are sorrowful (শোকাহত), sad (দুঃখিত), miserable (দুঃখী), and gloomy (বিষণ্ণ)."
+  },
+  {
+    "id": 211,
+    "question": "Which word is the synonym of 'Keen'?",
+    "options": {
+      "a": "Sharp",
+      "b": "Dull",
+      "c": "Blunt",
+      "d": "Obtuse"
+    },
+    "correct_answer": "a",
+    "explanation": "'Keen' (তীক্ষ্ণ/আগ্রহী) means having a sharp edge or great interest. Its synonyms are sharp (তীক্ষ্ণ), eager (আগ্রহী), enthusiastic (উৎসাহী), and acute (গভীর). Antonyms are dull (ভোঁতা), blunt (ভোঁতা), apathetic (উদাসীন), and indifferent (নিরপেক্ষ)."
+  },
+  {
+    "id": 212,
+    "question": "The antonym of 'Lazy' is:",
+    "options": {
+      "a": "Idle",
+      "b": "Active",
+      "c": "Lethargic",
+      "d": "Sluggish"
+    },
+    "correct_answer": "b",
+    "explanation": "'Lazy' (অলস) means unwilling to work. Its synonyms are idle (অলস), lethargic (অলস), sluggish (মন্থর), and indolent (অলস). Its antonyms are active (সক্রিয়), energetic (উদ্যমী), industrious (পরিশ্রমী), and diligent (অধ্যবসায়ী)."
+  },
+  {
+    "id": 213,
+    "question": "What is the synonym of 'Mend'?",
+    "options": {
+      "a": "Break",
+      "b": "Repair",
+      "c": "Damage",
+      "d": "Ruin"
+    },
+    "correct_answer": "b",
+    "explanation": "'Mend' (মেরামত করা) means to repair something. Its synonyms are repair (মেরামত করা), fix (ঠিক করা), restore (পুনরুদ্ধার করা), and patch (জোড়া দেওয়া). Antonyms are break (ভাঙ্গা), damage (ক্ষতি করা), ruin (ধ্বংস করা), and destroy (বিনষ্ট করা)."
+  },
+  {
+    "id": 214,
+    "question": "The antonym of 'Naughty' is:",
+    "options": {
+      "a": "Mischievous",
+      "b": "Disobedient",
+      "c": "Well-behaved",
+      "d": "Bad"
+    },
+    "correct_answer": "c",
+    "explanation": "'Naughty' (দুষ্ট) means badly behaved. Its synonyms are mischievous (দুষ্টু), disobedient (অবাধ্য), bad (খারাপ), and wayward (অবাধ্য). Its antonyms are well-behaved (ভদ্র), obedient (বাধ্য), good (ভালো), and polite (বিনয়ী)."
+  },
+  {
+    "id": 215,
+    "question": "Which word is the synonym of 'Obtain'?",
+    "options": {
+      "a": "Lose",
+      "b": "Get",
+      "c": "Forfeit",
+      "d": "Relinquish"
+    },
+    "correct_answer": "b",
+    "explanation": "'Obtain' (অর্জন করা) means to get something. Its synonyms are get (পাওয়া), acquire (অর্জন করা), gain (লাভ করা), and secure (নিরাপদ করা). Antonyms are lose (হারানো), forfeit (বাজেয়াপ্ত করা), relinquish (ত্যাগ করা), and surrender (সমর্পণ করা)."
+  },
+  {
+    "id": 216,
+    "question": "The antonym of 'Public' is:",
+    "options": {
+      "a": "Open",
+      "b": "Private",
+      "c": "General",
+      "d": "Common"
+    },
+    "correct_answer": "b",
+    "explanation": "'Public' (সর্বজনীন) means open to everyone. Its synonyms are open (খোলা), general (সাধারণ), common (সাধারণ), and communal (গণ-). Its antonyms are private (ব্যক্তিগত), personal (ব্যক্তিগত), confidential (গোপনীয়), and secret (গোপন)."
+  },
+  {
+    "id": 217,
+    "question": "What is the synonym of 'Question'?",
+    "options": {
+      "a": "Answer",
+      "b": "Interrogate",
+      "c": "Reply",
+      "d": "Respond"
+    },
+    "correct_answer": "b",
+    "explanation": "'Question' (প্রশ্ন করা) means to ask. Its synonyms are interrogate (জিজ্ঞাসাবাদ করা), inquire (জিজ্ঞাসা করা), query (প্রশ্ন করা), and quiz (পরীক্ষা করা). Antonyms are answer (উত্তর দেওয়া), reply (জবাব দেওয়া), respond (সাড়া দেওয়া), and rejoin (প্রত্যুত্তর দেওয়া)."
+  },
+  {
+    "id": 218,
+    "question": "The antonym of 'Rapid' is:",
+    "options": {
+      "a": "Fast",
+      "b": "Slow",
+      "c": "Quick",
+      "d": "Swift"
+    },
+    "correct_answer": "b",
+    "explanation": "'Rapid' (দ্রুত) means happening quickly. Its synonyms are fast (দ্রুত), quick (দ্রুত), swift (দ্রুত), and speedy (শীঘ্র). Its antonyms are slow (ধীর), sluggish (মন্থর), leisurely (আরামদায়ক), and gradual (ধীরে ধীরে)."
+  },
+  {
+    "id": 219,
+    "question": "Which word is the synonym of 'Secure'?",
+    "options": {
+      "a": "Safe",
+      "b": "Unsafe",
+      "c": "Vulnerable",
+      "d": "Risky"
+    },
+    "correct_answer": "a",
+    "explanation": "'Secure' (নিরাপদ) means safe from danger. Its synonyms are safe (নিরাপদ), protected (সুরক্ষিত), guarded (রক্ষিত), and sheltered (আশ্রিত). Antonyms are unsafe (অনিরাপদ), vulnerable (অরক্ষিত), risky (ঝুঁকিপূর্ণ), and exposed (উন্মুক্ত)."
+  },
+  {
+    "id": 220,
+    "question": "The antonym of 'Truth' is:",
+    "options": {
+      "a": "Fact",
+      "b": "Lie",
+      "c": "Reality",
+      "d": "Verity"
+    },
+    "correct_answer": "b",
+    "explanation": "'Truth' (সত্য) means that which is true. Its synonyms are fact (সত্য), reality (বাস্তবতা), verity (সত্যতা), and accuracy (নির্ভুলতা). Its antonyms are lie (মিথ্যা), falsehood (মিথ্যা), untruth (অসত্য), and deception (প্রতারণা)."
+  },
+  {
+    "id": 221,
+    "question": "What is the synonym of 'Under'?",
+    "options": {
+      "a": "Above",
+      "b": "Below",
+      "c": "Over",
+      "d": "Upon"
+    },
+    "correct_answer": "b",
+    "explanation": "'Under' (নীচে) means extending directly below. Its synonyms are below (নীচে), beneath (নিম্নে), underneath (নিচে), and lower (নিম্নতর). Antonyms are above (উপরে), over (উপরে), higher (উচ্চতর), and beyond (বাইরে)."
+  },
+  {
+    "id": 222,
+    "question": "The antonym of 'Victory' is:",
+    "options": {
+      "a": "Triumph",
+      "b": "Defeat",
+      "c": "Conquest",
+      "d": "Success"
+    },
+    "correct_answer": "b",
+    "explanation": "'Victory' (জয়) means success in a contest. Its synonyms are triumph (জয়), conquest (বিজয়), success (সাফল্য), and win (জয়). Its antonyms are defeat (পরাজয়), loss (ক্ষতি), failure (ব্যর্থতা), and downfall (পতন)."
+  },
+  {
+    "id": 223,
+    "question": "Which word is the synonym of 'Whole'?",
+    "options": {
+      "a": "Part",
+      "b": "Entire",
+      "c": "Partial",
+      "d": "Fraction"
+    },
+    "correct_answer": "b",
+    "explanation": "'Whole' (সমগ্র) means all of something. Its synonyms are entire (সম্পূর্ণ), total (মোট), full (পূর্ণ), and complete (সম্পূর্ণ). Antonyms are part (অংশ), partial (আংশিক), fraction (ভগ্নাংশ), and segment (খণ্ড)."
+  },
+  {
+    "id": 224,
+    "question": "The antonym of 'Young' is:",
+    "options": {
+      "a": "Youthful",
+      "b": "Old",
+      "c": "Juvenile",
+      "d": "Infant"
+    },
+    "correct_answer": "b",
+    "explanation": "'Young' (তরুণ) means having lived for a short time. Its synonyms are youthful (তরুণ), juvenile (কিশোর), infant (শিশু), and adolescent (কৈশোরের). Its antonyms are old (বৃদ্ধ), aged (বয়স্ক), elderly (প্রবীণ), and ancient (প্রাচীন)."
+  },
+  {
+    "id": 225,
+    "question": "What is the synonym of 'Zealous'?",
+    "options": {
+      "a": "Apathetic",
+      "b": "Enthusiastic",
+      "c": "Indifferent",
+      "d": "Uninterested"
+    },
+    "correct_answer": "b",
+    "explanation": "'Zealous' (উদ্যমী) means having great energy or enthusiasm. Its synonyms are enthusiastic (উৎসাহী), passionate (আবেগী), fervent (উদ্দীপ্ত), and eager (আগ্রহী). Antonyms are apathetic (উদাসীন), indifferent (নিরপেক্ষ), uninterested (অরুচি), and lukewarm (ঔদাসীন্য)."
+  },
+  {
+    "id": 226,
+    "question": "The antonym of 'Accept' is:",
+    "options": {
+      "a": "Receive",
+      "b": "Reject",
+      "c": "Agree",
+      "d": "Admit"
+    },
+    "correct_answer": "b",
+    "explanation": "'Accept' (গ্রহণ করা) means to agree to receive something. Its synonyms are receive (গ্রহণ করা), agree (সম্মত হওয়া), admit (স্বীকার করা), and embrace (অংশীদার করা). Its antonyms are reject (প্রত্যাখ্যান করা), refuse (অস্বীকার করা), decline (বাতিল করা), and deny (অস্বীকার করা)."
+  },
+  {
+    "id": 227,
+    "question": "Which word is the synonym of 'Barren'?",
+    "options": {
+      "a": "Fertile",
+      "b": "Sterile",
+      "c": "Productive",
+      "d": "Rich"
+    },
+    "correct_answer": "b",
+    "explanation": "'Barren' (অনুর্বর) means too poor to produce much. Its synonyms are sterile (অনুর্বর), infertile (অনুর্বর), unproductive (অফলপ্রসূ), and arid (শুষ্ক). Antonyms are fertile (উর্বর), productive (উৎপাদনশীল), rich (সমৃদ্ধ), and fruitful (ফলপ্রসূ)."
+  },
+  {
+    "id": 228,
+    "question": "The antonym of 'Calm' is:",
+    "options": {
+      "a": "Peaceful",
+      "b": "Agitated",
+      "c": "Serene",
+      "d": "Tranquil"
+    },
+    "correct_answer": "b",
+    "explanation": "'Calm' (শান্ত) means not showing strong emotions. Its synonyms are peaceful (শান্তিপূর্ণ), serene (নিশ্চিন্ত), tranquil (শান্ত), and composed (স্থির). Its antonyms are agitated (উত্তেজিত), excited (উত্তেজিত), disturbed (বিক্ষুব্ধ), and turbulent (অস্থির)."
+  },
+  {
+    "id": 229,
+    "question": "What is the synonym of 'Delicate'?",
+    "options": {
+      "a": "Fragile",
+      "b": "Strong",
+      "c": "Tough",
+      "d": "Sturdy"
+    },
+    "correct_answer": "a",
+    "explanation": "'Delicate' (সূক্ষ্ম/ভঙ্গুর) means very fine in structure or easily broken. Its synonyms are fragile (ভঙ্গুর), fine (সূক্ষ্ম), dainty (সুস্বাদু/সুন্দর), and elegant (মার্জিত). Antonyms are strong (শক্তিশালী), tough (কঠিন), sturdy (মজবুত), and robust (শক্তিশালী)."
+  },
+  {
+    "id": 230,
+    "question": "The antonym of 'Empty' is:",
+    "options": {
+      "a": "Vacant",
+      "b": "Full",
+      "c": "Hollow",
+      "d": "Bare"
+    },
+    "correct_answer": "b",
+    "explanation": "'Empty' (খালি) means containing nothing. Its synonyms are vacant (খালি), hollow (ফাঁপা), bare (খালি), and void (শূন্য). Its antonyms are full (ভরা), filled (পূর্ণ), loaded (বোঝাই), and packed (ঠাসা)."
+  },
+  {
+    "id": 231,
+    "question": "Which word is the synonym of 'Famous'?",
+    "options": {
+      "a": "Unknown",
+      "b": "Renowned",
+      "c": "Obscure",
+      "d": "Anonymous"
+    },
+    "correct_answer": "b",
+    "explanation": "'Famous' (বিখ্যাত) means known about by many people. Its synonyms are renowned (সুপ্রসিদ্ধ), celebrated (প্রখ্যাত), eminent (বিশিষ্ট), and notable (উল্লেখযোগ্য). Antonyms are unknown (অজানা), obscure (অস্পষ্ট/অখ্যাত), anonymous (নামহীন), and nameless (নামবিহীন)."
+  },
+  {
+    "id": 232,
+    "question": "The antonym of 'Gentle' is:",
+    "options": {
+      "a": "Mild",
+      "b": "Harsh",
+      "c": "Soft",
+      "d": "Tender"
+    },
+    "correct_answer": "b",
+    "explanation": "'Gentle' (মৃদু) means mild in character. Its synonyms are mild (মৃদু), soft (নরম), tender (কোমল), and kind (সদয়). Its antonyms are harsh (কঠোর), rough (রুক্ষ), severe (কঠিন), and violent (হিংস্র)."
+  },
+  {
+    "id": 233,
+    "question": "What is the synonym of 'Hinder'?",
+    "options": {
+      "a": "Obstruct",
+      "b": "Help",
+      "c": "Aid",
+      "d": "Assist"
+    },
+    "correct_answer": "a",
+    "explanation": "'Hinder' (বাধা দেওয়া) means to make it difficult for something to happen. Its synonyms are obstruct (বাধা দেওয়া), impede (বাধা দেওয়া), prevent (প্রতিরোধ করা), and block (অবরোধ করা). Antonyms are help (সাহায্য করা), aid (সাহায্য করা), assist (সহায়তা করা), and facilitate (সহজতর করা)."
+  },
+  {
+    "id": 234,
+    "question": "The antonym of 'Interesting' is:",
+    "options": {
+      "a": "Boring",
+      "b": "Engaging",
+      "c": "Fascinating",
+      "d": "Captivating"
+    },
+    "correct_answer": "a",
+    "explanation": "'Interesting' (আকর্ষণীয়) means arousing curiosity. Its synonyms are engaging (মনোরম), fascinating (মুগ্ধকর), captivating (চিত্তাকর্ষক), and intriguing (কৌতূহলোদ্দীপক). Its antonyms are boring (বিরক্তিকর), dull (নীরস), uninteresting (অরুচিকর), and tedious (ক্লান্তিকর)."
+  },
+  {
+    "id": 235,
+    "question": "Which word is the synonym of 'Join'?",
+    "options": {
+      "a": "Connect",
+      "b": "Separate",
+      "c": "Divide",
+      "d": "Detach"
+    },
+    "correct_answer": "a",
+    "explanation": "'Join' (যোগদান করা) means to connect or link. Its synonyms are connect (সংযোগ করা), link (যুক্ত করা), attach (সংযুক্ত করা), and unite (একত্র করা). Antonyms are separate (পৃথক করা), detach (আলাদা করা), divide (ভাগ করা), and disconnect (সংযোগ বিচ্ছিন্ন করা)."
+  },
+  {
+    "id": 236,
+    "question": "The antonym of 'Kind' is:",
+    "options": {
+      "a": "Cruel",
+      "b": "Gentle",
+      "c": "Compassionate",
+      "d": "Tender"
+    },
+    "correct_answer": "a",
+    "explanation": "'Kind' (সদয়) means having a friendly nature. Its synonyms are gentle (মৃদু), compassionate (দয়ালু), tender (কোমল), and benevolent (সদাশয়). Its antonyms are cruel (নিষ্ঠুর), unkind (অদয়ালু), harsh (কঠোর), and mean (অর্থপূর্ণ)."
+  },
+  {
+    "id": 237,
+    "question": "What is the synonym of 'Legal'?",
+    "options": {
+      "a": "Lawful",
+      "b": "Illegal",
+      "c": "Unlawful",
+      "d": "Criminal"
+    },
+    "correct_answer": "a",
+    "explanation": "'Legal' (আইনি) means permitted by law. Its synonyms are lawful (বৈধ), legitimate (বৈধ), permissible (অনুমোদিত), and authorized (অনুমোদিত). Antonyms are illegal (অবৈধ), unlawful (অবৈধ), criminal (অপরাধী), and prohibited (নিষিদ্ধ)."
+  },
+  {
+    "id": 238,
+    "question": "The antonym of 'Maximum' is:",
+    "options": {
+      "a": "Minimum",
+      "b": "Greatest",
+      "c": "Supreme",
+      "d": "Utmost"
+    },
+    "correct_answer": "a",
+    "explanation": "'Maximum' (সর্বোচ্চ) means the greatest possible. Its synonyms are greatest (সর্বশ্রেষ্ঠ), supreme (সর্বোচ্চ), utmost (চরম), and topmost (সর্বোচ্চ). Its antonyms are minimum (সর্বনিম্ন), least (সর্বনিম্ন), lowest (সর্বনিম্ন), and smallest (ছোট)."
+  },
+  {
+    "id": 239,
+    "question": "Which word is the synonym of 'Necessary'?",
+    "options": {
+      "a": "Essential",
+      "b": "Optional",
+      "c": "Unimportant",
+      "d": "Voluntary"
+    },
+    "correct_answer": "a",
+    "explanation": "'Necessary' (প্রয়োজনীয়) means required. Its synonyms are essential (অপরিহার্য), vital (অত্যাবশ্যক), indispensable (অনিবার্য), and required (প্রয়োজনীয়). Antonyms are optional (ঐচ্ছিক), unnecessary (অপ্রয়োজনীয়), unimportant (অগুরুত্বপূর্ণ), and voluntary (স্বেচ্ছায়)."
+  },
+  {
+    "id": 240,
+    "question": "The antonym of 'Often' is:",
+    "options": {
+      "a": "Seldom",
+      "b": "Frequently",
+      "c": "Regularly",
+      "d": "Usually"
+    },
+    "correct_answer": "a",
+    "explanation": "'Often' (প্রায়ই) means frequently. Its synonyms are frequently (ঘন ঘন), regularly (নিয়মিত), usually (সাধারণত), and repeatedly (পুনঃপুন). Its antonyms are seldom (কদাচিৎ), rarely (বিরল), occasionally (মাঝে মধ্যে), and infrequently (অস্বাভাবিকভাবে)."
+  },
+  {
+    "id": 241,
+    "question": "What is the synonym of 'Power'?",
+    "options": {
+      "a": "Strength",
+      "b": "Weakness",
+      "c": "Impotence",
+      "d": "Inability"
+    },
+    "correct_answer": "a",
+    "explanation": "'Power' (ক্ষমতা) means ability to do something. Its synonyms are strength (শক্তি), force (বল), energy (শক্তি), and might (পরাক্রম). Antonyms are weakness (দুর্বলতা), impotence (অক্ষমতা), inability (অক্ষমতা), and powerlessness (ক্ষমতাহীনতা)."
+  },
+  {
+    "id": 242,
+    "question": "The antonym of 'Quality' is:",
+    "options": {
+      "a": "Defect",
+      "b": "Standard",
+      "c": "Merit",
+      "d": "Virtue"
+    },
+    "correct_answer": "a",
+    "explanation": "'Quality' (গুণ) means a distinctive attribute. Its synonyms are standard (মান), merit (যোগ্যতা), virtue (সদগুণ), and excellence (উৎকর্ষ). Its antonyms are defect (ত্রুটি), flaw (খুঁত), fault (দোষ), and imperfection (অসম্পূর্ণতা)."
+  },
+  {
+    "id": 243,
+    "question": "Which word is the synonym of 'Rich'?",
+    "options": {
+      "a": "Affluent",
+      "b": "Poor",
+      "c": "Needy",
+      "d": "Destitute"
+    },
+    "correct_answer": "a",
+    "explanation": "'Rich' (ধনী) means having great wealth. Its synonyms are affluent (সমৃদ্ধ), wealthy (ধনী), prosperous (উন্নতিশীল), and opulent (বিলাসবহুল). Antonyms are poor (দরিদ্র), needy (অভাবী), destitute (নিঃস্ব), and impoverished (দরিদ্র)."
+  },
+  {
+    "id": 244,
+    "question": "The antonym of 'Sorrow' is:",
+    "options": {
+      "a": "Joy",
+      "b": "Grief",
+      "c": "Sadness",
+      "d": "Misery"
+    },
+    "correct_answer": "a",
+    "explanation": "'Sorrow' (দুঃখ) means deep distress. Its synonyms are grief (শোক), sadness (দুঃখ), misery (দুর্দশা), and woe (শোক). Its antonyms are joy (আনন্দ), happiness (সুখ), delight (পরমানন্দ), and pleasure (আনন্দ)."
+  },
+  {
+    "id": 245,
+    "question": "What is the synonym of 'Tired'?",
+    "options": {
+      "a": "Exhausted",
+      "b": "Energetic",
+      "c": "Fresh",
+      "d": "Lively"
+    },
+    "correct_answer": "a",
+    "explanation": "'Tired' (ক্লান্ত) means in need of rest. Its synonyms are exhausted (ক্লান্ত), fatigued (শ্রান্ত), weary (ক্লান্ত), and drained (নিঃশেষিত). Antonyms are energetic (উদ্যমী), fresh (তাজা), lively (প্রাণবন্ত), and active (সক্রিয়)."
+  },
+  {
+    "id": 246,
+    "question": "The antonym of 'Up' is:",
+    "options": {
+      "a": "Down",
+      "b": "Above",
+      "c": "High",
+      "d": "Over"
+    },
+    "correct_answer": "a",
+    "explanation": "'Up' (উপরে) means towards a higher position. Its synonyms are upward (ঊর্ধ্বগামী), higher (উচ্চতর), above (উপরে), and overhead (উপরে). Its antonyms are down (নিচে), downward (নিম্নগামী), below (নীচে), and beneath (নিম্নে)."
+  },
+  {
+    "id": 247,
+    "question": "Which word is the synonym of 'Valiant'?",
+    "options": {
+      "a": "Brave",
+      "b": "Cowardly",
+      "c": "Timid",
+      "d": "Fearful"
+    },
+    "correct_answer": "a",
+    "explanation": "'Valiant' (বীর/সাহসী) means possessing courage. Its synonyms are brave (সাহসী), courageous (সাহসী), fearless (নির্ভীক), and heroic (বীরোচিত). Antonyms are cowardly (কাপুরুষ), timid (ভীরু), fearful (ভীত), and weak (দুর্বল)."
+  },
+  {
+    "id": 248,
+    "question": "The antonym of 'Wide' is:",
+    "options": {
+      "a": "Broad",
+      "b": "Narrow",
+      "c": "Expansive",
+      "d": "Vast"
+    },
+    "correct_answer": "b",
+    "explanation": "'Wide' (প্রশস্ত) means of great width. Its synonyms are broad (প্রশস্ত), expansive (বিস্তৃত), vast (বিশাল), and extensive (ব্যাপক). Its antonyms are narrow (সংকীর্ণ), limited (সীমিত), restricted (সীমাবদ্ধ), and slender (ক্ষীণ)."
+  },
+  {
+    "id": 249,
+    "question": "What is the synonym of 'Yield'?",
+    "options": {
+      "a": "Surrender",
+      "b": "Resist",
+      "c": "Oppose",
+      "d": "Withstand"
+    },
+    "correct_answer": "a",
+    "explanation": "'Yield' (আত্মসমর্পণ করা/উৎপাদন করা) can mean to surrender or produce. Its synonyms for surrender are surrender (আত্মসমর্পণ করা), submit (বশ্যতা স্বীকার করা), capitulate (আত্মসমর্পণ করা), and succumb (পরাস্ত হওয়া). Antonyms are resist (প্রতিরোধ করা), oppose (বিরোধিতা করা), withstand (সহ্য করা), and fight (লড়াই করা)."
+  },
+  {
+    "id": 250,
+    "question": "The antonym of 'Zenith' is:",
+    "options": {
+      "a": "Nadir",
+      "b": "Peak",
+      "c": "Summit",
+      "d": "Apex"
+    },
+    "correct_answer": "a",
+    "explanation": "'Zenith' (চরম শিখর) means the highest point. Its synonyms are peak (শিখর), summit (চূড়া), apex (অগ্রভাগ), and climax (চরম বিন্দু). Its antonym is nadir (নিম্নতম বিন্দু), meaning the lowest point."
+  },
+  {
+    "id": 251,
+    "question": "What is the synonym of 'Abdicate'?",
+    "options": {
+      "a": "Retain",
+      "b": "Renounce",
+      "c": "Keep",
+      "d": "Hold"
+    },
+    "correct_answer": "b",
+    "explanation": "'Abdicate' (ত্যাগ করা) means to give up power or responsibility. Its synonyms are renounce (ত্যাগ করা), relinquish (পরিত্যাগ করা), surrender (সমর্পণ করা), and resign (পদত্যাগ করা). Antonyms are retain (ধরে রাখা), keep (রাখা), hold (ধরা), and maintain (বজায় রাখা)."
+  },
+  {
+    "id": 252,
+    "question": "The antonym of 'Barbaric' is:",
+    "options": {
+      "a": "Brutal",
+      "b": "Civilized",
+      "c": "Savage",
+      "d": "Cruel"
+    },
+    "correct_answer": "b",
+    "explanation": "'Barbaric' (বর্বর) means savagely cruel. Its synonyms are brutal (নিষ্ঠুর), savage (বর্বর), cruel (নিষ্ঠুর), and inhuman (অমানুষিক). Its antonyms are civilized (সভ্য), cultured (সংস্কৃতিবান), refined (পরিমার্জিত), and humane (মানবিক)."
+  },
+  {
+    "id": 253,
+    "question": "Which word is the synonym of 'Chronic'?",
+    "options": {
+      "a": "Temporary",
+      "b": "Persistent",
+      "c": "Brief",
+      "d": "Momentary"
+    },
+    "correct_answer": "b",
+    "explanation": "'Chronic' (দীর্ঘস্থায়ী) means persisting for a long time. Its synonyms are persistent (অবিরাম), constant (স্থির), continual (অবিরত), and incessant (নিরন্তর). Antonyms are temporary (অস্থায়ী), brief (সংক্ষিপ্ত), momentary (ক্ষণস্থায়ী), and acute (তীব্র কিন্তু স্বল্পস্থায়ী)."
+  },
+  {
+    "id": 254,
+    "question": "The antonym of 'Defend' is:",
+    "options": {
+      "a": "Protect",
+      "b": "Attack",
+      "c": "Guard",
+      "d": "Shield"
+    },
+    "correct_answer": "b",
+    "explanation": "'Defend' (রক্ষা করা) means to protect from harm. Its synonyms are protect (রক্ষা করা), guard (পাহারা দেওয়া), shield (ঢাল দেওয়া), and safeguard (নিরাপদ রাখা). Its antonyms are attack (আক্রমণ করা), assault (আক্রমণ করা), offend (আক্রমণ করা), and threaten (হুমকি দেওয়া)."
+  },
+  {
+    "id": 255,
+    "question": "What is the synonym of 'Exaggerate'?",
+    "options": {
+      "a": "Understate",
+      "b": "Overstate",
+      "c": "Minimize",
+      "d": "Belittle"
+    },
+    "correct_answer": "b",
+    "explanation": "'Exaggerate' (অতিরঞ্জিত করা) means to represent something as larger than it really is. Its synonyms are overstate (অতিরঞ্জিত করা), magnify (বড় করে দেখা), amplify (বর্ধিত করা), and embellish (সজ্জিত করা). Antonyms are understate (হ্রাস করে বলা), minimize (কমিয়ে বলা), belittle (ছোট করা), and play down (গুরুত্ব কমানো)."
+  },
+  {
+    "id": 256,
+    "question": "The antonym of 'Fragile' is:",
+    "options": {
+      "a": "Delicate",
+      "b": "Sturdy",
+      "c": "Breakable",
+      "d": "Brittle"
+    },
+    "correct_answer": "b",
+    "explanation": "'Fragile' (ভঙ্গুর) means easily broken. Its synonyms are delicate (সূক্ষ্ম/ভঙ্গুর), breakable (ভাঙনযোগ্য), brittle (ভঙ্গুর), and weak (দুর্বল). Its antonyms are sturdy (মজবুত), strong (শক্তিশালী), tough (কঠিন), and durable (টেকসই)."
+  },
+  {
+    "id": 257,
+    "question": "Which word is the synonym of 'Grim'?",
+    "options": {
+      "a": "Cheerful",
+      "b": "Stern",
+      "c": "Happy",
+      "d": "Pleasant"
+    },
+    "correct_answer": "b",
+    "explanation": "'Grim' (কঠোর/নির্মম) means very serious or gloomy. Its synonyms are stern (কঠোর), severe (কঠিন), harsh (কঠোর), and gloomy (বিষণ্ণ). Antonyms are cheerful (প্রফুল্ল), happy (সুখী), pleasant (আনন্দদায়ক), and gentle (মৃদু)."
+  },
+  {
+    "id": 258,
+    "question": "The antonym of 'Hasty' is:",
+    "options": {
+      "a": "Rash",
+      "b": "Careful",
+      "c": "Quick",
+      "d": "Sudden"
+    },
+    "correct_answer": "b",
+    "explanation": "'Hasty' (তাড়াহুড়ো) means done with excessive speed. Its synonyms are rash (অবিবেচক), quick (দ্রুত), sudden (হঠাৎ), and hurried (তাড়াহুড়ো)। Its antonyms are careful (সতর্ক), cautious (সতর্ক), deliberate (ইচ্ছাকৃত), and thoughtful (চিন্তাশীল)."
+  },
+  {
+    "id": 259,
+    "question": "What is the synonym of 'Inevitable'?",
+    "options": {
+      "a": "Avoidable",
+      "b": "Unavoidable",
+      "c": "Preventable",
+      "d": "Optional"
+    },
+    "correct_answer": "b",
+    "explanation": "'Inevitable' (অনিবার্য) means certain to happen. Its synonyms are unavoidable (অনিবার্য), inescapable (অপরিহার্য), certain (নিশ্চিত), and fated (ভাগ্য নির্ধারিত). Antonyms are avoidable (এড়ানো যায়), preventable (প্রতিরোধযোগ্য), uncertain (অনিশ্চিত), and optional (ঐচ্ছিক)."
+  },
+  {
+    "id": 260,
+    "question": "The antonym of 'Jubilant' is:",
+    "options": {
+      "a": "Joyful",
+      "b": "Mournful",
+      "c": "Elated",
+      "d": "Ecstatic"
+    },
+    "correct_answer": "b",
+    "explanation": "'Jubilant' (আনন্দিত) means feeling great happiness. Its synonyms are joyful (আনন্দিত), elated (উল্লসিত), ecstatic (পরমানন্দিত), and overjoyed (অতিশয় আনন্দিত). Its antonyms are mournful (শোকাহত), sad (দুঃখিত), gloomy (বিষণ্ণ), and sorrowful (দুঃখিত)."
+  },
+  {
+    "id": 261,
+    "question": "Which word is the synonym of 'Knave'?",
+    "options": {
+      "a": "Hero",
+      "b": "Villain",
+      "c": "Saint",
+      "d": "Angel"
+    },
+    "correct_answer": "b",
+    "explanation": "'Knave' (দুর্বৃত্ত/বদমাশ) means a dishonest man. Its synonyms are villain (খলনায়ক), rogue (দুর্বৃত্ত), scoundrel (বদমাশ), and rascal (দুর্বৃত্ত). Antonyms are hero (নায়ক), saint (সাধু), angel (ফেরেশতা), and gentleman (ভদ্রলোক)."
+  },
+  {
+    "id": 262,
+    "question": "The antonym of 'Lament' is:",
+    "options": {
+      "a": "Rejoice",
+      "b": "Mourn",
+      "c": "Grieve",
+      "d": "Weep"
+    },
+    "correct_answer": "a",
+    "explanation": "'Lament' (বিলাপ করা) means to express sorrow. Its synonyms are mourn (শোক করা), grieve (দুঃখ করা), weep (কান্না করা), and wail (বিলাপ করা). Its antonyms are rejoice (আনন্দ করা), celebrate (উদযাপন করা), cheer (উল্লাস করা), and delight (আনন্দিত হওয়া)."
+  },
+  {
+    "id": 263,
+    "question": "What is the synonym of 'Malice'?",
+    "options": {
+      "a": "Kindness",
+      "b": "Spite",
+      "c": "Benevolence",
+      "d": "Goodwill"
+    },
+    "correct_answer": "b",
+    "explanation": "'Malice' (বিদ্বেষ) means the desire to harm others. Its synonyms are spite (বিদ্বেষ), ill-will (বিদ্বেষ), hatred (ঘৃণা), and animosity (শত্রুতা). Antonyms are kindness (দয়া), benevolence (সদিচ্ছা), goodwill (সদিচ্ছা), and compassion (দয়া)."
+  },
+  {
+    "id": 264,
+    "question": "The antonym of 'Naive' is:",
+    "options": {
+      "a": "Inexperienced",
+      "b": "Sophisticated",
+      "c": "Simple",
+      "d": "Innocent"
+    },
+    "correct_answer": "b",
+    "explanation": "'Naive' (সরল/অনভিজ্ঞ) means lacking experience or sophistication. Its synonyms are innocent (নির্দোষ), simple (সরল), inexperienced (অনভিজ্ঞ), and artless (অকপট). Its antonyms are sophisticated (পরিশীলিত), experienced (অভিজ্ঞ), worldly (বাস্তবজ্ঞানী), and cunning (ধূর্ত)."
+  },
+  {
+    "id": 265,
+    "question": "Which word is the synonym of 'Obsolete'?",
+    "options": {
+      "a": "Modern",
+      "b": "Outdated",
+      "c": "New",
+      "d": "Current"
+    },
+    "correct_answer": "b",
+    "explanation": "'Obsolete' (অপ্রচলিত) means no longer produced or used. Its synonyms are outdated (পুরোনো), outmoded (সেকেলে), archaic (প্রাচীন), and antiquated (প্রাচীন). Antonyms are modern (আধুনিক), new (নতুন), current (বর্তমান), and contemporary (সমসাময়িক)."
+  },
+  {
+    "id": 266,
+    "question": "The antonym of 'Plentiful' is:",
+    "options": {
+      "a": "Abundant",
+      "b": "Scarce",
+      "c": "Copious",
+      "d": "Ample"
+    },
+    "correct_answer": "b",
+    "explanation": "'Plentiful' (প্রচুর) means existing in large amounts. Its synonyms are abundant (প্রচুর), copious (প্রচুর), ample (যথেষ্ট), and bountiful (প্রচুর)। Its antonyms are scarce (দুর্লভ), rare (বিরল), limited (সীমিত), and insufficient (অপর্যাপ্ত)."
+  },
+  {
+    "id": 267,
+    "question": "What is the synonym of 'Quench'?",
+    "options": {
+      "a": "Extinguish",
+      "b": "Ignite",
+      "c": "Light",
+      "d": "Kindle"
+    },
+    "correct_answer": "a",
+    "explanation": "'Quench' (নির্বাপিত করা/মেটানো) means to satisfy thirst or extinguish a fire. Its synonyms are extinguish (নিভানো), slake (মেটানো), satisfy (তৃপ্ত করা), and douse (জল দেওয়া). Antonyms are ignite (জ্বালানো), light (আলো দেওয়া), kindle (জ্বালানো), and inflame (জ্বালানো)."
+  },
+  {
+    "id": 268,
+    "question": "The antonym of 'Rigid' is:",
+    "options": {
+      "a": "Stiff",
+      "b": "Flexible",
+      "c": "Firm",
+      "d": "Hard"
+    },
+    "correct_answer": "b",
+    "explanation": "'Rigid' (অনমনীয়) means unable to bend or be changed. Its synonyms are stiff (শক্ত), firm (দৃঢ়), hard (কঠিন), and inflexible (অনমনীয়)। Its antonyms are flexible (নমনীয়), elastic (স্থিতিস্থাপক), adaptable (অভিযোজিত), and pliable (নমনীয়)."
+  },
+  {
+    "id": 269,
+    "question": "Which word is the synonym of 'Sacred'?",
+    "options": {
+      "a": "Holy",
+      "b": "Profane",
+      "c": "Secular",
+      "d": "Worldly"
+    },
+    "correct_answer": "a",
+    "explanation": "'Sacred' (পবিত্র) means connected with God or religion. Its synonyms are holy (পবিত্র), divine (ঐশ্বরিক), blessed (পুণ্য), and hallowed (পবিত্র). Antonyms are profane (অপবিত্র), secular (ধর্মনিরপেক্ষ), worldly (পার্থিব), and unholy (অপবিত্র)."
+  },
+  {
+    "id": 270,
+    "question": "The antonym of 'Temporary' is:",
+    "options": {
+      "a": "Momentary",
+      "b": "Permanent",
+      "c": "Brief",
+      "d": "Short-lived"
+    },
+    "correct_answer": "b",
+    "explanation": "'Temporary' (অস্থায়ী) means lasting for only a limited period. Its synonyms are momentary (ক্ষণস্থায়ী), brief (সংক্ষিপ্ত), short-lived (স্বল্পস্থায়ী), and passing (অস্থায়ী). Its antonyms are permanent (স্থায়ী), lasting (টেকসই), enduring (স্থায়ী), and perpetual (চিরস্থায়ী)."
+  },
+  {
+    "id": 271,
+    "question": "What is the synonym of 'Urbane'?",
+    "options": {
+      "a": "Rude",
+      "b": "Polished",
+      "c": "Crude",
+      "d": "Boorish"
+    },
+    "correct_answer": "b",
+    "explanation": "'Urbane' (ভদ্র/মার্জিত) means courteous and refined. Its synonyms are polished (পরিমার্জিত), sophisticated (পরিশীলিত), suave (ভদ্র), and courteous (বিনয়ী). Antonyms are rude (অভদ্র), crude (অপরিশোধিত), boorish (অমার্জিত), and uncouth (অভদ্র)."
+  },
+  {
+    "id": 272,
+    "question": "The antonym of 'Virtue' is:",
+    "options": {
+      "a": "Morality",
+      "b": "Vice",
+      "c": "Goodness",
+      "d": "Righteousness"
+    },
+    "correct_answer": "b",
+    "explanation": "'Virtue' (সৎগুণ) means behavior showing high moral standards. Its synonyms are morality (নৈতিকতা), goodness (ভালো), righteousness (ধার্মিকতা), and integrity (সততা). Its antonyms are vice (পাপ), immorality (অনৈতিকতা), sin (পাপ), and evil (মন্দ)."
+  },
+  {
+    "id": 273,
+    "question": "Which word is the synonym of 'Wary'?",
+    "options": {
+      "a": "Cautious",
+      "b": "Reckless",
+      "c": "Rash",
+      "d": "Careless"
+    },
+    "correct_answer": "a",
+    "explanation": "'Wary' (সতর্ক) means feeling caution about possible dangers. Its synonyms are cautious (সতর্ক), careful (সতর্ক), vigilant (জাগ্রত), and alert (সতর্ক). Antonyms are reckless (বেপরোয়া), rash (অবিবেচক), careless (অসতর্ক), and heedless (অমনোযোগী)."
+  },
+  {
+    "id": 274,
+    "question": "The antonym of 'Young' is:",
+    "options": {
+      "a": "Youthful",
+      "b": "Old",
+      "c": "Juvenile",
+      "d": "Infant"
+    },
+    "correct_answer": "b",
+    "explanation": "'Young' (তরুণ) means having lived for a short time. Its synonyms are youthful (তরুণ), juvenile (কিশোর), infant (শিশু), and adolescent (কৈশোরের). Its antonyms are old (বৃদ্ধ), aged (বয়স্ক), elderly (প্রবীণ), and ancient (প্রাচীন)."
+  },
+  {
+    "id": 275,
+    "question": "What is the synonym of 'Zeal'?",
+    "options": {
+      "a": "Enthusiasm",
+      "b": "Apathy",
+      "c": "Indifference",
+      "d": "Lethargy"
+    },
+    "correct_answer": "a",
+    "explanation": "'Zeal' (আগ্রহ/উদ্দীপনা) means great energy in pursuit of a cause. Its synonyms are enthusiasm (উৎসাহ), passion (আবেগ), fervor (উদ্দীপনা), and ardor (প্রবল ইচ্ছা). Antonyms are apathy (উদাসীনতা), indifference (নিরপেক্ষতা), lethargy (অলসতা), and sluggishness (মন্থরতা)."
+  },
+  {
+    "id": 276,
+    "question": "The antonym of 'Absurd' is:",
+    "options": {
+      "a": "Ridiculous",
+      "b": "Sensible",
+      "c": "Foolish",
+      "d": "Irrational"
+    },
+    "correct_answer": "b",
+    "explanation": "'Absurd' (অযৌক্তিক) means wildly unreasonable. Its synonyms are ridiculous (হাস্যকর), foolish (মূর্খ), irrational (অযৌক্তিক), and preposterous (অসংগত). Its antonyms are sensible (বুদ্ধিমান), logical (যুক্তিসংগত), reasonable (যুক্তিসঙ্গত), and rational (যুক্তিবাদী)."
+  },
+  {
+    "id": 277,
+    "question": "Which word is the synonym of 'Barrier'?",
+    "options": {
+      "a": "Obstacle",
+      "b": "Pathway",
+      "c": "Opening",
+      "d": "Passage"
+    },
+    "correct_answer": "a",
+    "explanation": "'Barrier' (বাধা) means something that blocks progress. Its synonyms are obstacle (বাধা), hindrance (বাধা), impediment (প্রতিবন্ধক), and blockade (অবরোধ). Antonyms are passage (পথ), pathway (পথ), opening (খোলা), and gateway (দরজা)."
+  },
+  {
+    "id": 278,
+    "question": "The antonym of 'Compassion' is:",
+    "options": {
+      "a": "Sympathy",
+      "b": "Cruelty",
+      "c": "Kindness",
+      "d": "Mercy"
+    },
+    "correct_answer": "b",
+    "explanation": "'Compassion' (দয়া) means sympathetic concern for others. Its synonyms are sympathy (সহানুভূতি), kindness (দয়া), mercy (ক্ষমা), and empathy (সহমর্মিতা)। Its antonyms are cruelty (নিষ্ঠুরতা), indifference (উদাসীনতা), harshness (কঠোরতা), and barbarity (বর্বরতা)।"
+  },
+  {
+    "id": 279,
+    "question": "What is the synonym of 'Deceive'?",
+    "options": {
+      "a": "Mislead",
+      "b": "Enlighten",
+      "c": "Inform",
+      "d": "Guide"
+    },
+    "correct_answer": "a",
+    "explanation": "'Deceive' (প্রতারণা করা) means to make someone believe something false. Its synonyms are mislead (ভুল পথে চালিত করা), trick (ফাঁকি দেওয়া), cheat (প্রতারণা করা), and dupe (ঠকানো)। Antonyms are enlighten (জ্ঞান দেওয়া), inform (জানানো), guide (পথ দেখানো), and advise (পরামর্শ দেওয়া)।"
+  },
+  {
+    "id": 280,
+    "question": "The antonym of 'Eager' is:",
+    "options": {
+      "a": "Keen",
+      "b": "Reluctant",
+      "c": "Enthusiastic",
+      "d": "Avid"
+    },
+    "correct_answer": "b",
+    "explanation": "'Eager' (আগ্রহী) means strongly wanting to do something. Its synonyms are keen (আগ্রহী), enthusiastic (উৎসাহী), avid (আগ্রহী), and zealous (সোৎসাহী)। Its antonyms are reluctant (অনিচ্ছুক), unwilling (অনিচ্ছুক), apathetic (উদাসীন), and indifferent (নিরপেক্ষ)।"
+  },
+  {
+    "id": 281,
+    "question": "Which word is the synonym of 'Fierce'?",
+    "options": {
+      "a": "Gentle",
+      "b": "Ferocious",
+      "c": "Mild",
+      "d": "Tame"
+    },
+    "correct_answer": "b",
+    "explanation": "'Fierce' (হিংস্র) means having an aggressive nature. Its synonyms are ferocious (হিংস্র), savage (বর্বর), violent (হিংস্র), and brutal (নিষ্ঠুর)। Antonyms are gentle (মৃদু), mild (মৃদু), tame (পোষা), and calm (শান্ত)।"
+  },
+  {
+    "id": 282,
+    "question": "The antonym of 'Generous' is:",
+    "options": {
+      "a": "Charitable",
+      "b": "Stingy",
+      "c": "Benevolent",
+      "d": "Magnanimous"
+    },
+    "correct_answer": "b",
+    "explanation": "'Generous' (উদার) means showing willingness to give. Its synonyms are charitable (দানশীল), benevolent (সদাশয়), magnanimous (মহানুভব), and liberal (উদার). Its antonyms are stingy (কৃপণ), miserly (কৃপণ), selfish (স্বার্থপর), and greedy (লোভী)."
+  },
+  {
+    "id": 283,
+    "question": "What is the synonym of 'Hostile'?",
+    "options": {
+      "a": "Friendly",
+      "b": "Unfriendly",
+      "c": "Warm",
+      "d": "Kind"
+    },
+    "correct_answer": "b",
+    "explanation": "'Hostile' (বিরোধী) means unfriendly or antagonistic. Its synonyms are unfriendly (অবন্ধুসুলভ), antagonistic (বিরোধী), aggressive (আক্রমণাত্মক), and belligerent (যুদ্ধপ্রিয়)। Antonyms are friendly (বন্ধুত্বপূর্ণ), kind (সদয়), warm (উষ্ণ), and amicable (সৌহার্দ্যপূর্ণ)।"
+  },
+  {
+    "id": 284,
+    "question": "The antonym of 'Innocent' is:",
+    "options": {
+      "a": "Pure",
+      "b": "Guilty",
+      "c": "Virtuous",
+      "d": "Sinless"
+    },
+    "correct_answer": "b",
+    "explanation": "'Innocent' (নির্দোষ) means not guilty. Its synonyms are pure (শুদ্ধ), virtuous (সৎ), sinless (পাপহীন), and blameless (নিরপরাধ)। Its antonyms are guilty (দোষী), culpable (অপরাধী), sinful (পাপী), and corrupt (দুর্নীতিগ্রস্ত)।"
+  },
+  {
+    "id": 285,
+    "question": "Which word is the synonym of 'Jealous'?",
+    "options": {
+      "a": "Envious",
+      "b": "Content",
+      "c": "Satisfied",
+      "d": "Secure"
+    },
+    "correct_answer": "a",
+    "explanation": "'Jealous' (ঈর্ষান্বিত) means feeling envy. Its synonyms are envious (ঈর্ষান্বিত), covetous (লোলুপ), resentful (ক্ষুব্ধ), and begrudging (অসন্তুষ্ট)। Antonyms are content (সন্তুষ্ট), satisfied (তৃপ্ত), secure (নিরাপদ), and trusting (বিশ্বাসী)।"
+  },
+  {
+    "id": 286,
+    "question": "The antonym of 'Knowledge' is:",
+    "options": {
+      "a": "Wisdom",
+      "b": "Ignorance",
+      "c": "Understanding",
+      "d": "Awareness"
+    },
+    "correct_answer": "b",
+    "explanation": "'Knowledge' (জ্ঞান) means facts and information acquired. Its synonyms are wisdom (প্রজ্ঞা), understanding (বোধ), awareness (সচেতনতা), and erudition (পাণ্ডিত্য)। Its antonyms are ignorance (অজ্ঞতা), illiteracy (নিরক্ষরতা), unawareness (অজ্ঞানতা), and folly (মূর্খতা)।"
+  },
+  {
+    "id": 287,
+    "question": "What is the synonym of 'Loyal'?",
+    "options": {
+      "a": "Faithful",
+      "b": "Disloyal",
+      "c": "Treacherous",
+      "d": "Unfaithful"
+    },
+    "correct_answer": "a",
+    "explanation": "'Loyal' (অনুগত) means giving constant support to someone. Its synonyms are faithful (বিশ্বস্ত), devoted (অনুরক্ত), trustworthy (বিশ্বাসযোগ্য), and dependable (নির্ভরযোগ্য). Antonyms are disloyal (অনুগত নয়), unfaithful (অবিশ্বস্ত), treacherous (বিশ্বাসঘাতক), and traitorous (বিশ্বাসঘাতক)।"
+  },
+  {
+    "id": 288,
+    "question": "The antonym of 'Mature' is:",
+    "options": {
+      "a": "Adult",
+      "b": "Immature",
+      "c": "Grown",
+      "d": "Ripe"
+    },
+    "correct_answer": "b",
+    "explanation": "'Mature' (পরিপক্ক) means fully developed. Its synonyms are adult (প্রাপ্তবয়স্ক), grown (বড় হওয়া), ripe (পাকা), and seasoned (অভিজ্ঞ)। Its antonyms are immature (অপরিপক্ক), childish (শিশুসুলভ), inexperienced (অনভিজ্ঞ), and young (তরুণ)।"
+  },
+  {
+    "id": 289,
+    "question": "Which word is the synonym of 'Necessary'?",
+    "options": {
+      "a": "Essential",
+      "b": "Optional",
+      "c": "Unimportant",
+      "d": "Voluntary"
+    },
+    "correct_answer": "a",
+    "explanation": "'Necessary' (প্রয়োজনীয়) means required. Its synonyms are essential (অপরিহার্য), vital (অত্যাবশ্যক), indispensable (অনিবার্য), and required (প্রয়োজনীয়). Antonyms are optional (ঐচ্ছিক), unnecessary (অপ্রয়োজনীয়), unimportant (অগুরুত্বপূর্ণ), and voluntary (স্বেচ্ছায়)."
+  },
+  {
+    "id": 290,
+    "question": "The antonym of 'Optimistic' is:",
+    "options": {
+      "a": "Hopeful",
+      "b": "Pessimistic",
+      "c": "Positive",
+      "d": "Cheerful"
+    },
+    "correct_answer": "b",
+    "explanation": "'Optimistic' (আশাবাদী) means hopeful about the future. Its synonyms are hopeful (আশাবাদী), positive (ইতিবাচক), cheerful (প্রফুল্ল), and confident (আত্মবিশ্বাসী)। Its antonyms are pessimistic (হতাশাবাদী), negative (নেতিবাচক), gloomy (বিষণ্ণ), and cynical (বিদ্রূপকারী)।"
+  },
+  {
+    "id": 291,
+    "question": "What is the synonym of 'Precious'?",
+    "options": {
+      "a": "Valuable",
+      "b": "Worthless",
+      "c": "Cheap",
+      "d": "Valueless"
+    },
+    "correct_answer": "a",
+    "explanation": "'Precious' (মূল্যবান) means of great value. Its synonyms are valuable (মূল্যবান), costly (ব্যয়বহুল), dear (প্রিয়), and prized (মূল্যবান). Antonyms are worthless (অকিঞ্চিতকর), cheap (সস্তা), valueless (মূল্যহীন), and insignificant (নগণ্য)."
+  },
+  {
+    "id": 292,
+    "question": "The antonym of 'Qualified' is:",
+    "options": {
+      "a": "Competent",
+      "b": "Unqualified",
+      "c": "Capable",
+      "d": "Skilled"
+    },
+    "correct_answer": "b",
+    "explanation": "'Qualified' (যোগ্য) means having the necessary skills. Its synonyms are competent (সক্ষম), capable (যোগ্য), skilled (দক্ষ), and trained (প্রশিক্ষিত)। Its antonyms are unqualified (অযোগ্য), incompetent (অক্ষম), unfit (অনুপযুক্ত), and incapable (অক্ষম)।"
+  },
+  {
+    "id": 293,
+    "question": "Which word is the synonym of 'Rival'?",
+    "options": {
+      "a": "Competitor",
+      "b": "Ally",
+      "c": "Friend",
+      "d": "Partner"
+    },
+    "correct_answer": "a",
+    "explanation": "'Rival' (প্রতিদ্বন্দ্বী) means a person competing with another. Its synonyms are competitor (প্রতিযোগী), opponent (প্রতিপক্ষ), adversary (শত্রু), and challenger (প্রতিদ্বন্দ্বী)। Antonyms are ally (মিত্র), friend (বন্ধু), partner (অংশীদার), and supporter (সমর্থক)।"
+  },
+  {
+    "id": 294,
+    "question": "The antonym of 'Secure' is:",
+    "options": {
+      "a": "Safe",
+      "b": "Unsafe",
+      "c": "Protected",
+      "d": "Guarded"
+    },
+    "correct_answer": "b",
+    "explanation": "'Secure' (নিরাপদ) means safe from danger. Its synonyms are safe (নিরাপদ), protected (সুরক্ষিত), guarded (রক্ষিত), and sheltered (আশ্রিত)। Its antonyms are unsafe (অনিরাপদ), vulnerable (অরক্ষিত), exposed (উন্মুক্ত), and insecure (অনিরাপদ)।"
+  },
+  {
+    "id": 295,
+    "question": "What is the synonym of 'Timid'?",
+    "options": {
+      "a": "Shy",
+      "b": "Bold",
+      "c": "Brave",
+      "d": "Fearless"
+    },
+    "correct_answer": "a",
+    "explanation": "'Timid' (ভীরু) means showing a lack of courage. Its synonyms are shy (লাজুক), fearful (ভীত), cowardly (কাপুরুষ), and hesitant (দ্বিধাগ্রস্ত)। Antonyms are bold (সাহসী), brave (সাহসী), fearless (নির্ভীক), and confident (আত্মবিশ্বাসী)।"
+  },
+  {
+    "id": 296,
+    "question": "The antonym of 'Urban' is:",
+    "options": {
+      "a": "City",
+      "b": "Rural",
+      "c": "Metropolitan",
+      "d": "Municipal"
+    },
+    "correct_answer": "b",
+    "explanation": "'Urban' (শহুরে) means relating to a city. Its synonyms are city (শহর), metropolitan (মহানগরীয়), municipal (পৌর), and civic (নাগরিক)। Its antonyms are rural (গ্রামীণ), country (গ্রাম), pastoral (পল্লী), and rustic (গ্রাম্য)।"
+  },
+  {
+    "id": 297,
+    "question": "Which word is the synonym of 'Vacant'?",
+    "options": {
+      "a": "Empty",
+      "b": "Occupied",
+      "c": "Filled",
+      "d": "Engaged"
+    },
+    "correct_answer": "a",
+    "explanation": "'Vacant' (খালি) means not occupied. Its synonyms are empty (খালি), unoccupied (অধিকৃত নয়), void (শূন্য), and available (উপলব্ধ)। Antonyms are occupied (অধিকৃত), filled (পূর্ণ), engaged (ব্যবহৃত), and taken (গ্রহণ করা)।"
+  },
+  {
+    "id": 298,
+    "question": "The antonym of 'Wealth' is:",
+    "options": {
+      "a": "Poverty",
+      "b": "Fortune",
+      "c": "Prosperity",
+      "d": "Affluence"
+    },
+    "correct_answer": "a",
+    "explanation": "'Wealth' (সম্পদ) means abundance of valuable possessions. Its synonyms are fortune (ভাগ্য), prosperity (সমৃদ্ধি), affluence (প্রাচুর্য), and riches (ধন-সম্পদ)। Its antonyms are poverty (দারিদ্র্য), destitution (নিঃস্বতা), need (অভাব), and want (অভাব)।"
+  },
+  {
+    "id": 299,
+    "question": "What is the synonym of 'Yield'?",
+    "options": {
+      "a": "Surrender",
+      "b": "Resist",
+      "c": "Oppose",
+      "d": "Withstand"
+    },
+    "correct_answer": "a",
+    "explanation": "'Yield' (আত্মসমর্পণ করা/উৎপাদন করা) can mean to surrender or produce. Its synonyms for surrender are surrender (আত্মসমর্পণ করা), submit (বশ্যতা স্বীকার করা), capitulate (আত্মসমর্পণ করা), and succumb (পরাস্ত হওয়া)। Antonyms are resist (প্রতিরোধ করা), oppose (বিরোধিতা করা), withstand (সহ্য করা), and fight (লড়াই করা)।"
+  },
+  {
+    "id": 300,
+    "question": "The antonym of 'Zenith' is:",
+    "options": {
+      "a": "Nadir",
+      "b": "Peak",
+      "c": "Summit",
+      "d": "Apex"
+    },
+    "correct_answer": "a",
+    "explanation": "'Zenith' (চরম শিখর) means the highest point. Its synonyms are peak (শিখর), summit (চূড়া), apex (অগ্রভাগ), and climax (চরম বিন্দু)। Its antonym is nadir (নিম্নতম বিন্দু), meaning the lowest point."
+  }
+
+
+
+
+]

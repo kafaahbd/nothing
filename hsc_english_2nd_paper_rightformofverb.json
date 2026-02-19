@@ -1,0 +1,3247 @@
+[
+  {
+    "id": 1,
+    "question": "Rimi ______ a very beautiful girl.",
+    "options": {
+      "a": "are",
+      "b": "is",
+      "c": "am",
+      "d": "were"
+    },
+    "correct_answer": "b",
+    "explanation": "The subject 'Rimi' is a third-person singular number. So, the singular number 'is' is the correct form of verb. (একবচন হওয়ায় 'is' সঠিক)"
+  },
+  {
+    "id": 2,
+    "question": "I ______ him yesterday.",
+    "options": {
+      "a": "see",
+      "b": "have seen",
+      "c": "saw",
+      "d": "shall see"
+    },
+    "correct_answer": "c",
+    "explanation": "'Yesterday' is an indication of past indefinite tense. So, the verb will be in past form. ('Yesterday' অতীত নির্দেশক হওয়ায় 'saw' হবে)"
+  },
+  {
+    "id": 3,
+    "question": "They ______ to Dhaka last week.",
+    "options": {
+      "a": "go",
+      "b": "gone",
+      "c": "went",
+      "d": "goes"
+    },
+    "correct_answer": "c",
+    "explanation": "'Last week' indicates a definite past action. Therefore, the past form of verb 'went' is correct. (Last week নির্দিষ্ট অতীত হওয়ায় 'went' হবে)"
+  },
+  {
+    "id": 4,
+    "question": "He usually ______ tea in the morning.",
+    "options": {
+      "a": "drink",
+      "b": "drinks",
+      "c": "is drinking",
+      "d": "drank"
+    },
+    "correct_answer": "b",
+    "explanation": "The adverb 'usually' indicates a habitual action in the present. For a third-person singular subject, 's/es' is added. ('Usually' বর্তমান অভ্যাস বোঝায়, তাই 'drinks')"
+  },
+  {
+    "id": 5,
+    "question": "It ______ since morning.",
+    "options": {
+      "a": "is raining",
+      "b": "rains",
+      "c": "has been raining",
+      "d": "was raining"
+    },
+    "correct_answer": "c",
+    "explanation": "'Since' with a point of time indicates an action that started in the past and is still continuing. Thus, present perfect continuous tense is needed. ('Since' দিয়ে শুরু হওয়া কাজ এখনও চলছে, তাই 'has been raining')"
+  },
+  {
+    "id": 6,
+    "question": "If I ______ a king, I would help the poor.",
+    "options": {
+      "a": "am",
+      "b": "was",
+      "c": "were",
+      "d": "is"
+    },
+    "correct_answer": "c",
+    "explanation": "In an 'if clause' expressing an impossible/unreal condition (subjunctive mood), 'were' is used for all subjects. (অবাস্তব শর্তে 'were' বসে, যেমন— If I were...)",
+    "difficulty": "medium"
+  },
+  {
+    "id": 7,
+    "question": "He told me that he ______ come the next day.",
+    "options": {
+      "a": "will",
+      "b": "shall",
+      "c": "would",
+      "d": "can"
+    },
+    "correct_answer": "c",
+    "explanation": "In indirect speech, when the reporting verb is in the past tense, the future tense 'will' changes to 'would'. (Reported speech-এ past tense-এর পর 'will' পরিবর্তে 'would' বসে)",
+    "difficulty": "medium"
+  },
+  {
+    "id": 8,
+    "question": "It is high time we ______ the work.",
+    "options": {
+      "a": "start",
+      "b": "started",
+      "c": "have started",
+      "d": "shall start"
+    },
+    "correct_answer": "b",
+    "explanation": "After 'It is high time' or 'It is time', the past indefinite tense is used to indicate the present necessity. ('It is high time' -এর পরে past tense বসে)",
+    "difficulty": "hard"
+  },
+  {
+    "id": 9,
+    "question": "The boy ______ to school at this moment.",
+    "options": {
+      "a": "go",
+      "b": "goes",
+      "c": "is going",
+      "d": "was going"
+    },
+    "correct_answer": "c",
+    "explanation": "'At this moment' indicates an action happening right now. So, present continuous tense is used. ('At this moment' এখন চলছে বোঝায়, তাই 'is going')",
+    "difficulty": "easy"
+  },
+  {
+    "id": 10,
+    "question": "Ten miles ______ a long way.",
+    "options": {
+      "a": "are",
+      "b": "were",
+      "c": "is",
+      "d": "have"
+    },
+    "correct_answer": "c",
+    "explanation": "Expressions of time, distance, and money (as a unit) take a singular verb. (সময়, দূরত্ব, অর্থ একক হিসেবে singular verb হয়)",
+    "difficulty": "hard"
+  },
+  {
+    "id": 11,
+    "question": "She ______ to college every day.",
+    "options": {
+      "a": "walk",
+      "b": "walks",
+      "c": "is walking",
+      "d": "has walked"
+    },
+    "correct_answer": "b",
+    "explanation": "'Every day' indicates a habitual action. So, present indefinite tense is used. ('Every day' অভ্যাস বোঝায়, তাই 'walks')"
+  },
+  {
+    "id": 12,
+    "question": "The earth ______ round the sun.",
+    "options": {
+      "a": "move",
+      "b": "moves",
+      "c": "moved",
+      "d": "is moving"
+    },
+    "correct_answer": "b",
+    "explanation": "Universal truth (চিরন্তন সত্য) is expressed in present indefinite tense, even if the subject is singular.",
+    "difficulty": "easy"
+  },
+  {
+    "id": 13,
+    "question": "I ______ the letter before he arrived.",
+    "options": {
+      "a": "posted",
+      "b": "have posted",
+      "c": "had posted",
+      "d": "was posting"
+    },
+    "correct_answer": "c",
+    "explanation": "When one past action is completed before another past action, the earlier action takes past perfect tense. (দুটি অতীত কাজের আগেরটি Past perfect-এ হয়)",
+    "difficulty": "hard"
+  },
+  {
+    "id": 14,
+    "question": "He behaves as if he ______ a mad.",
+    "options": {
+      "a": "is",
+      "b": "am",
+      "c": "was",
+      "d": "were"
+    },
+    "correct_answer": "d",
+    "explanation": "After 'as if/as though', we use a past tense (subjunctive) to show an unreal comparison. 'Were' is used for all persons. (অবাস্তব তুলনায় 'as if' -এর পরে past tense বসে)",
+    "difficulty": "hard"
+  },
+  {
+    "id": 15,
+    "question": "I wish I ______ a bird.",
+    "options": {
+      "a": "am",
+      "b": "was",
+      "c": "were",
+      "d": "have been"
+    },
+    "correct_answer": "c",
+    "explanation": "After 'wish', we use a past form (subjunctive) to express a desire about an unreal situation. 'Were' is used for all subjects. (অবাস্তব ইচ্ছা প্রকাশে 'wish' -এর পরে 'were' বসে)",
+    "difficulty": "medium"
+  },
+  {
+    "id": 16,
+    "question": "We ______ not play cricket yesterday.",
+    "options": {
+      "a": "do",
+      "b": "did",
+      "c": "have",
+      "d": "are"
+    },
+    "correct_answer": "b",
+    "explanation": "'Yesterday' indicates past tense. The negative sentence in past indefinite requires the auxiliary 'did' + not + main verb. ('Yesterday' অতীত হওয়ায় 'did not' হবে)",
+    "difficulty": "easy"
+  },
+  {
+    "id": 17,
+    "question": "Please ______ the dog.",
+    "options": {
+      "a": "not to feed",
+      "b": "do not feed",
+      "c": "does not feed",
+      "d": "not feed"
+    },
+    "correct_answer": "b",
+    "explanation": "This is an imperative sentence (আদেশ/অনুরোধ). The negative form is 'do not + verb'.",
+    "difficulty": "medium"
+  },
+  {
+    "id": 18,
+    "question": "He is used to ______ up early.",
+    "options": {
+      "a": "get",
+      "b": "gets",
+      "c": "getting",
+      "d": "got"
+    },
+    "correct_answer": "c",
+    "explanation": "After 'used to' (অভ্যস্ত), the preposition 'to' is followed by a gerund (verb + ing). ('used to' -এর পরে gerund বসে)",
+    "difficulty": "hard"
+  },
+  {
+    "id": 19,
+    "question": "The train ______ before we reached the station.",
+    "options": {
+      "a": "left",
+      "b": "has left",
+      "c": "had left",
+      "d": "was leaving"
+    },
+    "correct_answer": "c",
+    "explanation": "The train left first, then we reached. The earlier action is in past perfect tense. (আগের কাজটি Past perfect-এ হয়)",
+    "difficulty": "medium"
+  },
+  {
+    "id": 20,
+    "question": "Either he or I ______ mistaken.",
+    "options": {
+      "a": "am",
+      "b": "is",
+      "c": "are",
+      "d": "were"
+    },
+    "correct_answer": "a",
+    "explanation": "With 'either-or/neither-nor', the verb agrees with the subject closest to it. Here, 'I' is closest, so 'am' is used. (সন্নিহিত subject-এর সঙ্গে verb-এর agreement হয়)",
+    "difficulty": "hard"
+  },
+  {
+    "id": 21,
+    "question": "He ______ for a walk every morning.",
+    "options": {
+      "a": "go",
+      "b": "goes",
+      "c": "going",
+      "d": "went"
+    },
+    "correct_answer": "b",
+    "explanation": "'Every morning' indicates a habitual present action. Third-person singular subject takes 'goes'. (অভ্যাস বোঝায়, তাই 'goes')"
+  },
+  {
+    "id": 22,
+    "question": "They ______ playing football now.",
+    "options": {
+      "a": "is",
+      "b": "am",
+      "c": "are",
+      "d": "was"
+    },
+    "correct_answer": "c",
+    "explanation": "'Now' indicates present continuous. The plural subject 'They' takes 'are'. (এখন চলছে, তাই 'are')"
+  },
+  {
+    "id": 23,
+    "question": "I have finished my homework, so I ______ watch TV now.",
+    "options": {
+      "a": "may",
+      "b": "can",
+      "c": "am",
+      "d": "was"
+    },
+    "correct_answer": "b",
+    "explanation": "'Can' is used to express ability or permission (ক্ষমতা/অনুমতি). Here, it indicates permission.",
+    "difficulty": "easy"
+  },
+  {
+    "id": 24,
+    "question": "The committee ______ divided in their opinion.",
+    "options": {
+      "a": "is",
+      "b": "are",
+      "c": "has",
+      "d": "have"
+    },
+    "correct_answer": "b",
+    "explanation": "Collective nouns (সমষ্টিবাচক বিশেষ্য) like 'committee' take a plural verb when the members are acting individually. Here, 'their' indicates individuality.",
+    "difficulty": "hard"
+  },
+  {
+    "id": 25,
+    "question": "He would rather die than ______.",
+    "options": {
+      "a": "to beg",
+      "b": "beg",
+      "c": "begs",
+      "d": "begging"
+    },
+    "correct_answer": "b",
+    "explanation": "After 'would rather/ better/ sooner', the base form of the verb is used. ('would rather' -এর পরে verb-এর base form হয়)",
+    "difficulty": "hard"
+  },
+  {
+    "id": 26,
+    "question": "It is I who ______ your friend.",
+    "options": {
+      "a": "is",
+      "b": "am",
+      "c": "are",
+      "d": "were"
+    },
+    "correct_answer": "b",
+    "explanation": "In a relative clause, the verb agrees with the antecedent of the relative pronoun. Here, the antecedent is 'I'. (Antecedent 'I' হওয়ায় 'am' বসে)",
+    "difficulty": "medium"
+  },
+  {
+    "id": 27,
+    "question": "He talked as if he ______ everything.",
+    "options": {
+      "a": "knows",
+      "b": "knew",
+      "c": "has known",
+      "d": "is knowing"
+    },
+    "correct_answer": "b",
+    "explanation": "After 'as if' expressing an unreal situation, the past tense is used. ('as if' -এর পরে অবাস্তব অর্থে past tense হয়)",
+    "difficulty": "medium"
+  },
+  {
+    "id": 28,
+    "question": "The number of students ______ increasing.",
+    "options": {
+      "a": "is",
+      "b": "are",
+      "c": "were",
+      "d": "have"
+    },
+    "correct_answer": "a",
+    "explanation": "'The number of' is followed by a plural noun but takes a singular verb. ('The number of' -এর পরে singular verb হয়)",
+    "difficulty": "hard"
+  },
+  {
+    "id": 29,
+    "question": "A number of students ______ present.",
+    "options": {
+      "a": "is",
+      "b": "was",
+      "c": "are",
+      "d": "has"
+    },
+    "correct_answer": "c",
+    "explanation": "'A number of' means 'many' and takes a plural verb. ('A number of' অর্থ 'অনেক' এবং plural verb হয়)",
+    "difficulty": "hard"
+  },
+  {
+    "id": 30,
+    "question": "We ______ each other for the last ten years.",
+    "options": {
+      "a": "know",
+      "b": "knew",
+      "c": "have known",
+      "d": "are knowing"
+    },
+    "correct_answer": "c",
+    "explanation": "'For the last ten years' indicates a period continuing up to the present. So, present perfect tense is used. (বর্তমান পর্যন্ত চলে আসছে, তাই 'have known')",
+    "difficulty": "medium"
+  },
+  {
+    "id": 31,
+    "question": "The boy ______ to read the book since Monday.",
+    "options": {
+      "a": "tried",
+      "b": "has been trying",
+      "c": "is trying",
+      "d": "was trying"
+    },
+    "correct_answer": "b",
+    "explanation": "'Since Monday' indicates a continuous action from the past until now. Present perfect continuous is appropriate. ('Since Monday' দিয়ে বর্তমান পর্যন্ত চলমান কাজ বোঝায়)",
+    "difficulty": "medium"
+  },
+  {
+    "id": 32,
+    "question": "He refrained ______ any further questions.",
+    "options": {
+      "a": "to ask",
+      "b": "asking",
+      "c": "from asking",
+      "d": "ask"
+    },
+    "correct_answer": "c",
+    "explanation": "'Refrain' is always followed by the preposition 'from' and then a gerund. ('Refrain' -এর পরে 'from + ing' হয়)",
+    "difficulty": "hard"
+  },
+  {
+    "id": 33,
+    "question": "Fortune ______ the brave.",
+    "options": {
+      "a": "favour",
+      "b": "favours",
+      "c": "favoured",
+      "d": "is favouring"
+    },
+    "correct_answer": "b",
+    "explanation": "This is a proverb (প্রবাদ) expressing a general truth. So, present indefinite tense is used with a singular verb.",
+    "difficulty": "easy"
+  },
+  {
+    "id": 34,
+    "question": "They ______ the poor.",
+    "options": {
+      "a": "always help",
+      "b": "are always helping",
+      "c": "have always helped",
+      "d": "were always helping"
+    },
+    "correct_answer": "a",
+    "explanation": "'Always' with a habitual action is best expressed in the present indefinite tense. (অভ্যাসগত কাজ বোঝাতে present indefinite শ্রেষ্ঠ)",
+    "difficulty": "easy"
+  },
+  {
+    "id": 35,
+    "question": "He came after I ______ the work.",
+    "options": {
+      "a": "finished",
+      "b": "have finished",
+      "c": "had finished",
+      "d": "was finishing"
+    },
+    "correct_answer": "c",
+    "explanation": "I finished the work first, then he came. The earlier completed action is in past perfect. (আগের শেষ করা কাজটি past perfect-এ হবে)",
+    "difficulty": "medium"
+  },
+  {
+    "id": 36,
+    "question": "I don't know why he ______ to me.",
+    "options": {
+      "a": "lie",
+      "b": "lies",
+      "c": "is lying",
+      "d": "has lied"
+    },
+    "correct_answer": "c",
+    "explanation": "The context suggests a current action. 'Why he is lying to me' means he is doing it right now (now). (বর্তমান চলমান কাজ বুঝাতে 'is lying')",
+    "difficulty": "medium"
+  },
+  {
+    "id": 37,
+    "question": "He insisted ______ there.",
+    "options": {
+      "a": "to go",
+      "b": "on going",
+      "c": "go",
+      "d": "went"
+    },
+    "correct_answer": "b",
+    "explanation": "'Insist' is followed by the preposition 'on' and then a gerund. ('Insist' -এর পরে 'on + ing' হয়)",
+    "difficulty": "hard"
+  },
+  {
+    "id": 38,
+    "question": "The man and the woman ______ honest.",
+    "options": {
+      "a": "is",
+      "b": "am",
+      "c": "are",
+      "d": "was"
+    },
+    "correct_answer": "c",
+    "explanation": "Two singular subjects joined by 'and' form a plural subject and take a plural verb. ('and' দ্বারা যুক্ত হলে plural verb হয়)",
+    "difficulty": "easy"
+  },
+  {
+    "id": 39,
+    "question": "Bread and butter ______ his favourite food.",
+    "options": {
+      "a": "is",
+      "b": "are",
+      "c": "were",
+      "d": "have"
+    },
+    "correct_answer": "a",
+    "explanation": "When two nouns joined by 'and' express a single idea or unit, they take a singular verb. ('and' একক idea বোঝালে singular verb হয়)",
+    "difficulty": "hard"
+  },
+  {
+    "id": 40,
+    "question": "I ______ him for a long time.",
+    "options": {
+      "a": "know",
+      "b": "knew",
+      "c": "have known",
+      "d": "am knowing"
+    },
+    "correct_answer": "c",
+    "explanation": "'For a long time' indicates a period up to now. Present perfect is used. ('For a long time' দীর্ঘ সময় বর্তমান পর্যন্ত বোঝায়, তাই 'have known')",
+    "difficulty": "medium"
+  },
+  {
+    "id": 41,
+    "question": "He entered the room ______ the TV on.",
+    "options": {
+      "a": "to turn",
+      "b": "turning",
+      "c": "turned",
+      "d": "was turning"
+    },
+    "correct_answer": "b",
+    "explanation": "A present participle (verb+ing) can be used to describe an action that happens at the same time as the main verb. (বর্তমান কৃদন্ত দ্বারা একসঙ্গে ঘটে এমন কাজ বোঝায়)",
+    "difficulty": "hard"
+  },
+  {
+    "id": 42,
+    "question": "He will come tomorrow, ______ ?",
+    "options": {
+      "a": "will he",
+      "b": "won't he",
+      "c": "does he",
+      "d": "didn't he"
+    },
+    "correct_answer": "b",
+    "explanation": "The sentence is affirmative, so the question tag (ট্যাগ প্রশ্ন) must be negative. The auxiliary verb 'will' is used. (Affirmative sentence-এর tag negative হয়)",
+    "difficulty": "medium"
+  },
+  {
+    "id": 43,
+    "question": "He is looking forward to ______ you.",
+    "options": {
+      "a": "meet",
+      "b": "meeting",
+      "c": "met",
+      "d": "have met"
+    },
+    "correct_answer": "b",
+    "explanation": "'Look forward to' is a phrase where 'to' is a preposition, so it must be followed by a gerund. ('to' preposition হওয়ায় gerund বসে)",
+    "difficulty": "hard"
+  },
+  {
+    "id": 44,
+    "question": "She has been ill ______ last Friday.",
+    "options": {
+      "a": "since",
+      "b": "for",
+      "c": "from",
+      "d": "ago"
+    },
+    "correct_answer": "a",
+    "explanation": "'Last Friday' is a specific point in time. 'Since' is used with a point of time. (নির্দিষ্ট সময়ের শুরু বোঝাতে 'since' বসে)",
+    "difficulty": "easy"
+  },
+  {
+    "id": 45,
+    "question": "He has been working here ______ 2010.",
+    "options": {
+      "a": "for",
+      "b": "since",
+      "c": "from",
+      "d": "ago"
+    },
+    "correct_answer": "b",
+    "explanation": "2010 is a specific point in time, so 'since' is the correct preposition. ('since' নির্দিষ্ট সময়ের শুরু বোঝায়)",
+    "difficulty": "easy"
+  },
+  {
+    "id": 46,
+    "question": "You had better ______ the doctor.",
+    "options": {
+      "a": "consult",
+      "b": "to consult",
+      "c": "consulting",
+      "d": "consulted"
+    },
+    "correct_answer": "a",
+    "explanation": "After 'had better', the base form of the verb (infinitive without 'to') is used. ('had better' -এর পরে verb-এর base form হয়)",
+    "difficulty": "medium"
+  },
+  {
+    "id": 47,
+    "question": "Let me ______ the work.",
+    "options": {
+      "a": "do",
+      "b": "to do",
+      "c": "doing",
+      "d": "did"
+    },
+    "correct_answer": "a",
+    "explanation": "Causative verbs like 'let, make, bid, help' are followed by an object and then a bare infinitive (verb without 'to'). (Causative verb-এর পরে object + base form হয়)",
+    "difficulty": "medium"
+  },
+  {
+    "id": 48,
+    "question": "He refrained ______ any further questions.",
+    "options": {
+      "a": "to ask",
+      "b": "asking",
+      "c": "from asking",
+      "d": "ask"
+    },
+    "correct_answer": "c",
+    "explanation": "The verb 'refrain' is always followed by the preposition 'from' and then a gerund (verb+ing). ('Refrain' -এর পরে 'from + ing' বসে)",
+    "difficulty": "hard"
+  },
+  {
+    "id": 49,
+    "question": "He is ______ in Dhaka for ten years.",
+    "options": {
+      "a": "live",
+      "b": "lives",
+      "c": "living",
+      "d": "lived"
+    },
+    "correct_answer": "c",
+    "explanation": "The structure 'has been/have been' is followed by a present participle (verb+ing) to form the perfect continuous tense. ('has been' -এর পরে 'living' বসে)",
+    "difficulty": "easy"
+  },
+  {
+    "id": 50,
+    "question": "It is many years since I ______ him last.",
+    "options": {
+      "a": "see",
+      "b": "saw",
+      "c": "have seen",
+      "d": "had seen"
+    },
+    "correct_answer": "b",
+    "explanation": "In a 'since clause' referring to a point in the past, the verb is usually in the past indefinite tense. ('since' -এর clause-এ সাধারণত past indefinite হয়)",
+    "difficulty": "hard"
+  },
+  {
+    "id": 51,
+    "question": "The poet and philosopher ______ dead.",
+    "options": {
+      "a": "are",
+      "b": "have",
+      "c": "is",
+      "d": "were"
+    },
+    "correct_answer": "c",
+    "explanation": "When two nouns joined by 'and' refer to the same person (একই ব্যক্তি), the verb is singular. Here, one person is both poet and philosopher.",
+    "difficulty": "hard"
+  },
+  {
+    "id": 52,
+    "question": "He ______ smoke forty cigarettes a day.",
+    "options": {
+      "a": "use to",
+      "b": "used to",
+      "c": "is used to",
+      "d": "was used to"
+    },
+    "correct_answer": "b",
+    "explanation": "'Used to' (অতীত অভ্যাস) expresses a past habit or state that no longer exists. It is followed by the base form of the verb.",
+    "difficulty": "medium"
+  },
+  {
+    "id": 53,
+    "question": "They ______ in this town since 1995.",
+    "options": {
+      "a": "lived",
+      "b": "are living",
+      "c": "have been living",
+      "d": "were living"
+    },
+    "correct_answer": "c",
+    "explanation": "'Since 1995' indicates an action that started in the past and is still continuing. Present perfect continuous tense (চলমান বর্তমান) is appropriate.",
+    "difficulty": "medium"
+  },
+  {
+    "id": 54,
+    "question": "I wish I ______ younger.",
+    "options": {
+      "a": "am",
+      "b": "was",
+      "c": "were",
+      "d": "have been"
+    },
+    "correct_answer": "c",
+    "explanation": "After 'wish', we use a past form (subjunctive) to express an unreal desire. 'Were' is used for all subjects (অবাস্তব ইচ্ছা).",
+    "difficulty": "medium"
+  },
+  {
+    "id": 55,
+    "question": "He behaved as though he ______ a king.",
+    "options": {
+      "a": "is",
+      "b": "was",
+      "c": "were",
+      "d": "has been"
+    },
+    "correct_answer": "c",
+    "explanation": "After 'as though/as if', we use 'were' for all persons to show an unreal situation (অবাস্তব অবস্থা).",
+    "difficulty": "medium"
+  },
+  {
+    "id": 56,
+    "question": "I had my car ______ yesterday.",
+    "options": {
+      "a": "wash",
+      "b": "washed",
+      "c": "washing",
+      "d": "to wash"
+    },
+    "correct_answer": "b",
+    "explanation": "In causative structure, 'have + object + past participle' means to get something done by someone else (কাজ করানো).",
+    "difficulty": "hard"
+  },
+  {
+    "id": 57,
+    "question": "Let him ______ whatever he likes.",
+    "options": {
+      "a": "do",
+      "b": "to do",
+      "c": "doing",
+      "d": "does"
+    },
+    "correct_answer": "a",
+    "explanation": "After 'let', we use the base form of the verb (bare infinitive) without 'to' (Let-এর পরে verb-এর base form).",
+    "difficulty": "easy"
+  },
+  {
+    "id": 58,
+    "question": "I saw him ______ the house.",
+    "options": {
+      "a": "enter",
+      "b": "entered",
+      "c": "to enter",
+      "d": "has entered"
+    },
+    "correct_answer": "a",
+    "explanation": "After verbs of perception (see, hear, watch, feel), we use base form (bare infinitive) or gerund (দ্রষ্টব্য কাজ)।",
+    "difficulty": "medium"
+  },
+  {
+    "id": 59,
+    "question": "He refrained ______ any further questions.",
+    "options": {
+      "a": "to ask",
+      "b": "asking",
+      "c": "from asking",
+      "d": "ask"
+    },
+    "correct_answer": "c",
+    "explanation": "'Refrain' is always followed by the preposition 'from' and then a gerund (বিরত থাকা অর্থে from + ing)।",
+    "difficulty": "hard"
+  },
+  {
+    "id": 60,
+    "question": "The Principal, with all the teachers, ______ present.",
+    "options": {
+      "a": "is",
+      "b": "are",
+      "c": "were",
+      "d": "have"
+    },
+    "correct_answer": "a",
+    "explanation": "When subjects are joined by 'with/together with/as well as', the verb agrees with the first subject (প্রথম subject অনুযায়ী verb)।",
+    "difficulty": "hard"
+  },
+  {
+    "id": 61,
+    "question": "He talks as if he ______ everything.",
+    "options": {
+      "a": "knows",
+      "b": "knew",
+      "c": "has known",
+      "d": "is knowing"
+    },
+    "correct_answer": "b",
+    "explanation": "After 'as if' expressing an unreal comparison, past tense (অতীতকাল) is used. Here 'knew' is the past form.",
+    "difficulty": "medium"
+  },
+  {
+    "id": 62,
+    "question": "He is looking for a servant ______.",
+    "options": {
+      "a": "to cook",
+      "b": "cook",
+      "c": "cooking",
+      "d": "cooked"
+    },
+    "correct_answer": "a",
+    "explanation": "Infinitive of purpose (উদ্দেশ্য অর্থে) is used with 'to + verb' to show the purpose of an action.",
+    "difficulty": "easy"
+  },
+  {
+    "id": 63,
+    "question": "It is high time you ______ home.",
+    "options": {
+      "a": "go",
+      "b": "went",
+      "c": "have gone",
+      "d": "will go"
+    },
+    "correct_answer": "b",
+    "explanation": "After 'It is high time', we use past tense (অতীতকাল) to express something that should be done now.",
+    "difficulty": "medium"
+  },
+  {
+    "id": 64,
+    "question": "The boy ______ in the river now.",
+    "options": {
+      "a": "swim",
+      "b": "swims",
+      "c": "is swimming",
+      "d": "are swimming"
+    },
+    "correct_answer": "c",
+    "explanation": "'Now' indicates present continuous tense. Singular subject 'boy' takes 'is' (বর্তমান চলমান কাজ)।",
+    "difficulty": "easy"
+  },
+  {
+    "id": 65,
+    "question": "Two thirds of the work ______ finished.",
+    "options": {
+      "a": "is",
+      "b": "are",
+      "c": "were",
+      "d": "have"
+    },
+    "correct_answer": "a",
+    "explanation": "With fractions/percentages, the verb agrees with the noun after 'of'. Here 'work' is uncountable, so singular verb (গণনাযোগ্যতা অনুযায়ী verb)।",
+    "difficulty": "hard"
+  },
+  {
+    "id": 66,
+    "question": "Each of the boys ______ rewarded.",
+    "options": {
+      "a": "were",
+      "b": "have",
+      "c": "was",
+      "d": "are"
+    },
+    "correct_answer": "c",
+    "explanation": "After 'each/every/one of', the verb is always singular (প্রত্যেক অর্থে singular verb)।",
+    "difficulty": "easy"
+  },
+  {
+    "id": 67,
+    "question": "He ______ here for twenty years.",
+    "options": {
+      "a": "worked",
+      "b": "has been working",
+      "c": "is working",
+      "d": "was working"
+    },
+    "correct_answer": "b",
+    "explanation": "'For twenty years' indicates a duration up to now. Present perfect continuous (চলমান বর্তমান) emphasizes continuity.",
+    "difficulty": "medium"
+  },
+  {
+    "id": 68,
+    "question": "If I had known, I ______ helped him.",
+    "options": {
+      "a": "would have",
+      "b": "will have",
+      "c": "have",
+      "d": "had"
+    },
+    "correct_answer": "a",
+    "explanation": "In third conditional (অবাস্তব অতীত), the structure is: If + past perfect, would have + past participle.",
+    "difficulty": "hard"
+  },
+  {
+    "id": 69,
+    "question": "She ______ to me every week.",
+    "options": {
+      "a": "write",
+      "b": "writes",
+      "c": "is writing",
+      "d": "has written"
+    },
+    "correct_answer": "b",
+    "explanation": "'Every week' indicates a habitual action (অভ্যাসগত কাজ). Present indefinite tense is used.",
+    "difficulty": "easy"
+  },
+  {
+    "id": 70,
+    "question": "The police ______ the thief arrested.",
+    "options": {
+      "a": "has",
+      "b": "have",
+      "c": "is",
+      "d": "was"
+    },
+    "correct_answer": "b",
+    "explanation": "'Police' is a collective noun that is always plural in English and takes a plural verb (সর্বদা plural)।",
+    "difficulty": "medium"
+  },
+  {
+    "id": 71,
+    "question": "He died ______ overeating.",
+    "options": {
+      "a": "from",
+      "b": "of",
+      "c": "for",
+      "d": "by"
+    },
+    "correct_answer": "b",
+    "explanation": "'Die of' is used for disease, hunger, old age, etc. (রোগ/ক্ষুধায় মরা). 'Die from' is for external causes.",
+    "difficulty": "hard"
+  },
+  {
+    "id": 72,
+    "question": "I don't mind ______ late.",
+    "options": {
+      "a": "to work",
+      "b": "work",
+      "c": "working",
+      "d": "worked"
+    },
+    "correct_answer": "c",
+    "explanation": "After 'mind', we use a gerund (verb + ing) as the object (Mind-এর পরে gerund হয়)।",
+    "difficulty": "medium"
+  },
+  {
+    "id": 73,
+    "question": "He ______ a bath before breakfast.",
+    "options": {
+      "a": "take",
+      "b": "takes",
+      "c": "is taking",
+      "d": "has taken"
+    },
+    "correct_answer": "b",
+    "explanation": "This is a habitual action (অভ্যাসগত কাজ). Present indefinite tense is used for daily routines.",
+    "difficulty": "easy"
+  },
+  {
+    "id": 74,
+    "question": "He prevented me ______ there.",
+    "options": {
+      "a": "to go",
+      "b": "go",
+      "c": "from going",
+      "d": "went"
+    },
+    "correct_answer": "c",
+    "explanation": "'Prevent' is followed by 'from + gerund' (বাধা দেওয়া অর্থে from + ing)।",
+    "difficulty": "hard"
+  },
+  {
+    "id": 75,
+    "question": "It ______ raining since morning.",
+    "options": {
+      "a": "is",
+      "b": "was",
+      "c": "has been",
+      "d": "had been"
+    },
+    "correct_answer": "c",
+    "explanation": "'Since morning' indicates an action continuing from past to present. Present perfect continuous (চলমান বর্তমান) is correct.",
+    "difficulty": "medium"
+  },
+  {
+    "id": 76,
+    "question": "The rich ______ not always happy.",
+    "options": {
+      "a": "is",
+      "b": "am",
+      "c": "are",
+      "d": "were"
+    },
+    "correct_answer": "c",
+    "explanation": "When 'The + adjective' represents a class of people (সম্প্রদায়), it takes a plural verb.",
+    "difficulty": "medium"
+  },
+  {
+    "id": 77,
+    "question": "We look forward to ______ from you.",
+    "options": {
+      "a": "hear",
+      "b": "hearing",
+      "c": "heard",
+      "d": "have heard"
+    },
+    "correct_answer": "b",
+    "explanation": "'Look forward to' is a phrase where 'to' is a preposition, so it takes a gerund (ing যুক্ত verb)।",
+    "difficulty": "medium"
+  },
+  {
+    "id": 78,
+    "question": "He was seen ______ the house.",
+    "options": {
+      "a": "enter",
+      "b": "to enter",
+      "c": "entered",
+      "d": "enters"
+    },
+    "correct_answer": "b",
+    "explanation": "In passive voice, after verbs of perception (see, hear), we use 'to + verb' (Passive-এ to + verb)।",
+    "difficulty": "hard"
+  },
+  {
+    "id": 79,
+    "question": "The news ______ true.",
+    "options": {
+      "a": "is",
+      "b": "are",
+      "c": "were",
+      "d": "have"
+    },
+    "correct_answer": "a",
+    "explanation": "'News' looks plural but is singular in English (একবচন) and takes a singular verb.",
+    "difficulty": "easy"
+  },
+  {
+    "id": 80,
+    "question": "He spends his time ______ novels.",
+    "options": {
+      "a": "read",
+      "b": "to read",
+      "c": "reading",
+      "d": "reads"
+    },
+    "correct_answer": "c",
+    "explanation": "After 'spend time', we use a gerund (সময় কাটানো অর্থে gerund)।",
+    "difficulty": "medium"
+  },
+  {
+    "id": 81,
+    "question": "If I were you, I ______ accept the offer.",
+    "options": {
+      "a": "will",
+      "b": "would",
+      "c": "shall",
+      "d": "can"
+    },
+    "correct_answer": "b",
+    "explanation": "In unreal conditional sentences (অবাস্তব শর্ত), 'would' is used in the main clause.",
+    "difficulty": "medium"
+  },
+  {
+    "id": 82,
+    "question": "He advised me ______ hard.",
+    "options": {
+      "a": "work",
+      "b": "to work",
+      "c": "working",
+      "d": "worked"
+    },
+    "correct_answer": "b",
+    "explanation": "After 'advise', we use 'object + to + verb' (পরামর্শ দেওয়া অর্থে to + verb)।",
+    "difficulty": "easy"
+  },
+  {
+    "id": 83,
+    "question": "The cattle ______ grazing in the field.",
+    "options": {
+      "a": "is",
+      "b": "am",
+      "c": "are",
+      "d": "was"
+    },
+    "correct_answer": "c",
+    "explanation": "'Cattle' is a plural noun (বহুবচন) and always takes a plural verb.",
+    "difficulty": "hard"
+  },
+  {
+    "id": 84,
+    "question": "He has given up ______.",
+    "options": {
+      "a": "smoke",
+      "b": "to smoke",
+      "c": "smoking",
+      "d": "smoked"
+    },
+    "correct_answer": "c",
+    "explanation": "After 'give up', we use a gerund (পরিত্যাগ করা অর্থে gerund)।",
+    "difficulty": "easy"
+  },
+  {
+    "id": 85,
+    "question": "I would rather die than ______.",
+    "options": {
+      "a": "to beg",
+      "b": "beg",
+      "c": "begging",
+      "d": "begs"
+    },
+    "correct_answer": "b",
+    "explanation": "After 'would rather...than', we use the base form of the verb (বেস ফর্ম)।",
+    "difficulty": "medium"
+  },
+  {
+    "id": 86,
+    "question": "He insisted on ______ there.",
+    "options": {
+      "a": "go",
+      "b": "to go",
+      "c": "going",
+      "d": "went"
+    },
+    "correct_answer": "c",
+    "explanation": "After 'insist on', we use a gerund (জোর দেওয়া অর্থে on + ing)।",
+    "difficulty": "medium"
+  },
+  {
+    "id": 87,
+    "question": "The scenery of this place ______ charming.",
+    "options": {
+      "a": "are",
+      "b": "were",
+      "c": "is",
+      "d": "have"
+    },
+    "correct_answer": "c",
+    "explanation": "'Scenery' is an uncountable noun (অগণনাযোগ্য) and takes a singular verb.",
+    "difficulty": "easy"
+  },
+  {
+    "id": 88,
+    "question": "He came home after the sun ______.",
+    "options": {
+      "a": "rise",
+      "b": "rose",
+      "c": "had risen",
+      "d": "rises"
+    },
+    "correct_answer": "c",
+    "explanation": "The sun rose first, then he came. Earlier past action takes past perfect (আগের কাজ past perfect)।",
+    "difficulty": "hard"
+  },
+  {
+    "id": 89,
+    "question": "They ______ the work by next week.",
+    "options": {
+      "a": "will finish",
+      "b": "will have finished",
+      "c": "finish",
+      "d": "finished"
+    },
+    "correct_answer": "b",
+    "explanation": "'By next week' indicates future perfect tense (ভবিষ্যতে সম্পন্ন কাজ)।",
+    "difficulty": "hard"
+  },
+  {
+    "id": 90,
+    "question": "He is fond of ______ poetry.",
+    "options": {
+      "a": "recite",
+      "b": "reciting",
+      "c": "recites",
+      "d": "to recite"
+    },
+    "correct_answer": "b",
+    "explanation": "After prepositions (of, in, at, etc.), we use a gerund (ing যুক্ত verb)।",
+    "difficulty": "easy"
+  },
+  {
+    "id": 91,
+    "question": "Mathematics ______ my favorite subject.",
+    "options": {
+      "a": "are",
+      "b": "were",
+      "c": "is",
+      "d": "have"
+    },
+    "correct_answer": "c",
+    "explanation": "Subjects ending in 'ics' (Mathematics, Physics) are singular (একবচন) in English.",
+    "difficulty": "easy"
+  },
+  {
+    "id": 92,
+    "question": "He came here ______ me.",
+    "options": {
+      "a": "see",
+      "b": "to see",
+      "c": "seeing",
+      "d": "saw"
+    },
+    "correct_answer": "b",
+    "explanation": "Infinitive of purpose (উদ্দেশ্য) uses 'to + verb'.",
+    "difficulty": "easy"
+  },
+  {
+    "id": 93,
+    "question": "He ______ in the river for two hours.",
+    "options": {
+      "a": "swam",
+      "b": "has been swimming",
+      "c": "is swimming",
+      "d": "was swimming"
+    },
+    "correct_answer": "b",
+    "explanation": "'For two hours' suggests duration up to now. Present perfect continuous (সময়সীমাসহ চলমান কাজ) is correct.",
+    "difficulty": "medium"
+  },
+  {
+    "id": 94,
+    "question": "He was angry and ______ the room.",
+    "options": {
+      "a": "leave",
+      "b": "left",
+      "c": "leaves",
+      "d": "has left"
+    },
+    "correct_answer": "b",
+    "explanation": "Two past actions joined by 'and' should be in the same tense (একই tense). 'Was' is past, so 'left' is past.",
+    "difficulty": "easy"
+  },
+  {
+    "id": 95,
+    "question": "She said that she ______ help me.",
+    "options": {
+      "a": "will",
+      "b": "would",
+      "c": "shall",
+      "d": "can"
+    },
+    "correct_answer": "b",
+    "explanation": "In indirect speech, if the reporting verb is past (said), 'will' changes to 'would' (Narration-এর নিয়ম)।",
+    "difficulty": "medium"
+  },
+  {
+    "id": 96,
+    "question": "He would not go, ______ he?",
+    "options": {
+      "a": "would",
+      "b": "wouldn't",
+      "c": "will",
+      "d": "did"
+    },
+    "correct_answer": "a",
+    "explanation": "The sentence is negative (would not), so the question tag (ট্যাগ) must be positive 'would'.",
+    "difficulty": "medium"
+  },
+  {
+    "id": 97,
+    "question": "We shall wait here until he ______ back.",
+    "options": {
+      "a": "come",
+      "c": "came",
+      "b": "comes",
+      "d": "will come"
+    },
+    "correct_answer": "b",
+    "explanation": "In time clauses with 'until/when/as soon as', present tense is used for future meaning (ভবিষ্যৎ অর্থে বর্তমান)।",
+    "difficulty": "hard"
+  },
+  {
+    "id": 98,
+    "question": "He is too weak ______.",
+    "options": {
+      "a": "walk",
+      "b": "walking",
+      "c": "to walk",
+      "d": "walked"
+    },
+    "correct_answer": "c",
+    "explanation": "'Too + adjective + to + verb' structure means 'অত্যধিক...যে...না'।",
+    "difficulty": "easy"
+  },
+  {
+    "id": 99,
+    "question": "Neither Rina nor Rima ______ present.",
+    "options": {
+      "a": "are",
+      "b": "were",
+      "c": "is",
+      "d": "have"
+    },
+    "correct_answer": "c",
+    "explanation": "With 'neither...nor', the verb agrees with the nearest subject (সন্নিহিত subject). 'Rima' is singular, so 'is'.",
+    "difficulty": "medium"
+  },
+  {
+    "id": 100,
+    "question": "By the next year, he ______ his degree.",
+    "options": {
+      "a": "will complete",
+      "b": "completes",
+      "c": "will have completed",
+      "d": "completed"
+    },
+    "correct_answer": "c",
+    "explanation": "'By the next year' indicates future perfect tense (ভবিষ্যতে একটি নির্দিষ্ট সময়ের মধ্যে সম্পন্ন কাজ)।",
+    "difficulty": "hard"
+  },
+  {
+    "id": 101,
+    "question": "The committee ______ issued its report.",
+    "options": {
+      "a": "have",
+      "b": "has",
+      "c": "are",
+      "d": "were"
+    },
+    "correct_answer": "b",
+    "explanation": "When a collective noun (সমষ্টিবাচক বিশেষ্য) like 'committee' acts as a single unit, it takes a singular verb. Here, 'its' indicates unity.",
+    "difficulty": "medium"
+  },
+  {
+    "id": 102,
+    "question": "He refrained ______ any further comments.",
+    "options": {
+      "a": "to make",
+      "b": "making",
+      "c": "from making",
+      "d": "make"
+    },
+    "correct_answer": "c",
+    "explanation": "The verb 'refrain' is always followed by the preposition 'from' and then a gerund (বিরত থাকা অর্থে from + ing)।",
+    "difficulty": "hard"
+  },
+  {
+    "id": 103,
+    "question": "It is I who ______ to blame.",
+    "options": {
+      "a": "is",
+      "b": "am",
+      "c": "are",
+      "d": "were"
+    },
+    "correct_answer": "b",
+    "explanation": "In a relative clause, the verb agrees with the antecedent (পূর্ববর্তী পদ) of 'who'. The antecedent is 'I', so 'am' is correct.",
+    "difficulty": "hard"
+  },
+  {
+    "id": 104,
+    "question": "The boy along with his friends ______ coming.",
+    "options": {
+      "a": "are",
+      "b": "is",
+      "c": "were",
+      "d": "have"
+    },
+    "correct_answer": "b",
+    "explanation": "When subjects are joined by 'along with/together with', the verb agrees with the first subject (প্রথম subject অনুযায়ী verb)। Here, 'boy' is singular.",
+    "difficulty": "medium"
+  },
+  {
+    "id": 105,
+    "question": "He talks as if he ______ a fool.",
+    "options": {
+      "a": "is",
+      "b": "was",
+      "c": "were",
+      "d": "has been"
+    },
+    "correct_answer": "c",
+    "explanation": "After 'as if/as though' expressing an unreal situation (অবাস্তব অবস্থা), 'were' is used for all persons.",
+    "difficulty": "medium"
+  },
+  {
+    "id": 106,
+    "question": "I don't know why he ______ to me now.",
+    "options": {
+      "a": "lie",
+      "b": "lies",
+      "c": "is lying",
+      "d": "has lied"
+    },
+    "correct_answer": "c",
+    "explanation": "'Now' indicates present continuous tense. The action is happening at the moment of speaking (এখন ঘটছে)।",
+    "difficulty": "easy"
+  },
+  {
+    "id": 107,
+    "question": "The man and the woman ______ honest.",
+    "options": {
+      "a": "is",
+      "b": "am",
+      "c": "are",
+      "d": "was"
+    },
+    "correct_answer": "c",
+    "explanation": "Two singular subjects joined by 'and' form a plural subject and take a plural verb (দুটি একবচন = বহুবচন)।",
+    "difficulty": "easy"
+  },
+  {
+    "id": 108,
+    "question": "Bread and butter ______ what he wants.",
+    "options": {
+      "a": "is",
+      "b": "are",
+      "c": "were",
+      "d": "have"
+    },
+    "correct_answer": "a",
+    "explanation": "When two nouns joined by 'and' express a single idea or unit (একটি ধারণা), they take a singular verb.",
+    "difficulty": "hard"
+  },
+  {
+    "id": 109,
+    "question": "The novel, including all its sequels, ______ interesting.",
+    "options": {
+      "a": "are",
+      "b": "is",
+      "c": "were",
+      "d": "have"
+    },
+    "correct_answer": "b",
+    "explanation": "Phrases like 'including, together with, as well as' do not affect the number of the subject. The main subject 'novel' is singular.",
+    "difficulty": "hard"
+  },
+  {
+    "id": 110,
+    "question": "He insisted on ______ to the doctor.",
+    "options": {
+      "a": "go",
+      "b": "going",
+      "c": "to go",
+      "d": "went"
+    },
+    "correct_answer": "b",
+    "explanation": "After 'insist on', we use a gerund (verb + ing) because 'on' is a preposition (জোর দেওয়া অর্থে on + ing)।",
+    "difficulty": "medium"
+  },
+  {
+    "id": 111,
+    "question": "She has been working here ______ 2010.",
+    "options": {
+      "a": "since",
+      "b": "for",
+      "c": "from",
+      "d": "ago"
+    },
+    "correct_answer": "a",
+    "explanation": "'Since' is used with a specific point in time (2010) to indicate the starting point of an action (নির্দিষ্ট সময়ের শুরু)।",
+    "difficulty": "easy"
+  },
+  {
+    "id": 112,
+    "question": "I saw him ______ the street.",
+    "options": {
+      "a": "cross",
+      "b": "crossed",
+      "c": "to cross",
+      "d": "was crossing"
+    },
+    "correct_answer": "a",
+    "explanation": "After verbs of perception (see, hear, watch), we use the base form (bare infinitive) to describe a complete action (সম্পূর্ণ কাজ)।",
+    "difficulty": "medium"
+  },
+  {
+    "id": 113,
+    "question": "He died ______ cholera.",
+    "options": {
+      "a": "from",
+      "b": "of",
+      "c": "by",
+      "d": "with"
+    },
+    "correct_answer": "b",
+    "explanation": "'Die of' is used for diseases (রোগে মরা). 'Die from' is used for external causes like injury.",
+    "difficulty": "hard"
+  },
+  {
+    "id": 114,
+    "question": "The news ______ at noon every day.",
+    "options": {
+      "a": "broadcast",
+      "b": "is broadcast",
+      "c": "are broadcast",
+      "d": "were broadcast"
+    },
+    "correct_answer": "b",
+    "explanation": "The news is broadcast (by someone). This is passive voice (কর্মবাচ্য). 'News' is singular, so 'is' is correct.",
+    "difficulty": "medium"
+  },
+  {
+    "id": 115,
+    "question": "He ______ smoke, but now he has given it up.",
+    "options": {
+      "a": "used to",
+      "b": "is used to",
+      "c": "was used to",
+      "d": "use to"
+    },
+    "correct_answer": "a",
+    "explanation": "'Used to' (অতীত অভ্যাস) expresses a past habit that no longer continues in the present.",
+    "difficulty": "medium"
+  },
+  {
+    "id": 116,
+    "question": "Each of the students ______ done their homework.",
+    "options": {
+      "a": "have",
+      "b": "has",
+      "c": "are",
+      "d": "were"
+    },
+    "correct_answer": "b",
+    "explanation": "After 'each of', the verb is always singular (has) even though it sounds plural. (Each of + plural noun + singular verb)",
+    "difficulty": "easy"
+  },
+  {
+    "id": 117,
+    "question": "The poor ______ looked down upon by the rich.",
+    "options": {
+      "a": "is",
+      "b": "are",
+      "c": "was",
+      "d": "has"
+    },
+    "correct_answer": "b",
+    "explanation": "When 'The + adjective' represents a class of people (দরিদ্র শ্রেণী), it takes a plural verb.",
+    "difficulty": "medium"
+  },
+  {
+    "id": 118,
+    "question": "He said that he ______ go to Dhaka the next day.",
+    "options": {
+      "a": "will",
+      "b": "would",
+      "c": "shall",
+      "d": "can"
+    },
+    "correct_answer": "b",
+    "explanation": "In indirect speech, when the reporting verb (said) is past, 'will' changes to 'would' (Narration-এর নিয়ম)।",
+    "difficulty": "medium"
+  },
+  {
+    "id": 119,
+    "question": "I wish I ______ a millionaire.",
+    "options": {
+      "a": "am",
+      "b": "was",
+      "c": "were",
+      "d": "have been"
+    },
+    "correct_answer": "c",
+    "explanation": "After 'wish', we use the subjunctive mood (were) to express an unreal or impossible desire (অবাস্তব ইচ্ছা)।",
+    "difficulty": "medium"
+  },
+  {
+    "id": 120,
+    "question": "It's time you ______ to bed.",
+    "options": {
+      "a": "go",
+      "b": "went",
+      "c": "have gone",
+      "d": "will go"
+    },
+    "correct_answer": "b",
+    "explanation": "After 'It's time / It's high time', we use past tense to indicate something that should be done now (এখনই করা উচিত)।",
+    "difficulty": "medium"
+  },
+  {
+    "id": 121,
+    "question": "The cattle ______ grazing in the field.",
+    "options": {
+      "a": "is",
+      "b": "am",
+      "c": "are",
+      "d": "was"
+    },
+    "correct_answer": "c",
+    "explanation": "'Cattle' is a plural noun (গবাদি পশু বহুবচনে) and always takes a plural verb in English.",
+    "difficulty": "hard"
+  },
+  {
+    "id": 122,
+    "question": "He prevented me ______ entering the room.",
+    "options": {
+      "a": "from",
+      "b": "to",
+      "c": "for",
+      "d": "in"
+    },
+    "correct_answer": "a",
+    "explanation": "The correct structure is 'prevent someone from doing something' (কাউকে কিছু করতে বাধা দেওয়া)।",
+    "difficulty": "medium"
+  },
+  {
+    "id": 123,
+    "question": "She ______ in music since childhood.",
+    "options": {
+      "a": "interested",
+      "b": "is interested",
+      "c": "was interested",
+      "d": "has been interested"
+    },
+    "correct_answer": "d",
+    "explanation": "'Since childhood' indicates a state that started in the past and continues to the present. Present perfect tense is used.",
+    "difficulty": "medium"
+  },
+  {
+    "id": 124,
+    "question": "The Principal, with his staff, ______ present.",
+    "options": {
+      "a": "are",
+      "b": "were",
+      "c": "is",
+      "d": "have"
+    },
+    "correct_answer": "c",
+    "explanation": "When 'with' joins two subjects, the verb agrees with the first subject (প্রথম subject অনুযায়ী verb)। Here, 'Principal' is singular.",
+    "difficulty": "hard"
+  },
+  {
+    "id": 125,
+    "question": "I don't mind ______ the dish.",
+    "options": {
+      "a": "cook",
+      "b": "to cook",
+      "c": "cooking",
+      "d": "cooked"
+    },
+    "correct_answer": "c",
+    "explanation": "After 'mind', we always use a gerund (verb + ing) (আপত্তি থাকা অর্থে mind + ing)।",
+    "difficulty": "easy"
+  },
+  {
+    "id": 126,
+    "question": "He would rather starve than ______.",
+    "options": {
+      "a": "to steal",
+      "b": "steal",
+      "c": "stealing",
+      "d": "stole"
+    },
+    "correct_answer": "b",
+    "explanation": "After 'would rather...than', we use the base form of the verb (বেস ফর্ম)।",
+    "difficulty": "medium"
+  },
+  {
+    "id": 127,
+    "question": "The teacher advised us ______ hard.",
+    "options": {
+      "a": "read",
+      "b": "reading",
+      "c": "to read",
+      "d": "reads"
+    },
+    "correct_answer": "c",
+    "explanation": "After 'advise', we use 'object + to + verb' (কাউকে কিছু করতে পরামর্শ দেওয়া)।",
+    "difficulty": "easy"
+  },
+  {
+    "id": 128,
+    "question": "No one ______ what happened to him.",
+    "options": {
+      "a": "know",
+      "b": "knows",
+      "c": "are knowing",
+      "d": "have known"
+    },
+    "correct_answer": "b",
+    "explanation": "'No one' is an indefinite pronoun (অনির্দিষ্ট সর্বনাম) that is always singular and takes a singular verb.",
+    "difficulty": "easy"
+  },
+  {
+    "id": 129,
+    "question": "He confessed that he ______ guilty.",
+    "options": {
+      "a": "is",
+      "b": "has been",
+      "c": "was",
+      "d": "were"
+    },
+    "correct_answer": "c",
+    "explanation": "In indirect speech, when the reporting verb (confessed) is past, the verb in the subordinate clause usually becomes past (Narration-এর নিয়ম)।",
+    "difficulty": "medium"
+  },
+  {
+    "id": 130,
+    "question": "The work ______ by next month.",
+    "options": {
+      "a": "will be completed",
+      "b": "will complete",
+      "c": "completes",
+      "d": "completed"
+    },
+    "correct_answer": "a",
+    "explanation": "'By next month' indicates future time, and the work will be done by someone (passive voice). Future passive structure: will be + past participle.",
+    "difficulty": "hard"
+  },
+  {
+    "id": 131,
+    "question": "I had my watch ______ yesterday.",
+    "options": {
+      "a": "repair",
+      "b": "repaired",
+      "c": "repairing",
+      "d": "to repair"
+    },
+    "correct_answer": "b",
+    "explanation": "In causative structure (কাজ করানো), 'have + object + past participle' means to get something done by someone else.",
+    "difficulty": "hard"
+  },
+  {
+    "id": 132,
+    "question": "He is not used to ______ up early.",
+    "options": {
+      "a": "get",
+      "b": "gets",
+      "c": "getting",
+      "d": "got"
+    },
+    "correct_answer": "c",
+    "explanation": "'Used to' (অভ্যস্ত) is followed by a gerund when it means 'accustomed to'. Here 'to' is a preposition.",
+    "difficulty": "medium"
+  },
+  {
+    "id": 133,
+    "question": "Fortune ______ the brave.",
+    "options": {
+      "a": "favour",
+      "b": "favours",
+      "c": "favoured",
+      "d": "is favouring"
+    },
+    "correct_answer": "b",
+    "explanation": "This is a proverb (প্রবাদ) expressing a general truth. Present indefinite tense is used.",
+    "difficulty": "easy"
+  },
+  {
+    "id": 134,
+    "question": "I ______ him for a long time.",
+    "options": {
+      "a": "know",
+      "b": "knew",
+      "c": "have known",
+      "d": "am knowing"
+    },
+    "correct_answer": "c",
+    "explanation": "'For a long time' indicates a period continuing up to the present. Present perfect tense (বর্তমান পর্যন্ত) is correct.",
+    "difficulty": "medium"
+  },
+  {
+    "id": 135,
+    "question": "He jumped ______ the river.",
+    "options": {
+      "a": "in",
+      "b": "into",
+      "c": "to",
+      "d": "onto"
+    },
+    "correct_answer": "b",
+    "explanation": "'Into' (এর ভিতরে) is used with verbs of motion to show entry from outside to inside.",
+    "difficulty": "easy"
+  },
+  {
+    "id": 136,
+    "question": "They ______ playing since 4 pm.",
+    "options": {
+      "a": "are",
+      "b": "were",
+      "c": "have been",
+      "d": "had been"
+    },
+    "correct_answer": "c",
+    "explanation": "'Since 4 pm' indicates a continuous action from past to present. Present perfect continuous is used.",
+    "difficulty": "medium"
+  },
+  {
+    "id": 137,
+    "question": "The police ______ caught the thief.",
+    "options": {
+      "a": "has",
+      "b": "have",
+      "c": "is",
+      "d": "was"
+    },
+    "correct_answer": "b",
+    "explanation": "'Police' is a collective noun that is always plural in English and takes a plural verb (পুলিশ সর্বদা বহুবচন)।",
+    "difficulty": "medium"
+  },
+  {
+    "id": 138,
+    "question": "He is looking for a job ______.",
+    "options": {
+      "a": "at present",
+      "b": "every day",
+      "c": "last week",
+      "d": "tomorrow"
+    },
+    "correct_answer": "a",
+    "explanation": "'At present' (বর্তমানে) indicates present continuous tense, which matches the structure 'is looking'.",
+    "difficulty": "easy"
+  },
+  {
+    "id": 139,
+    "question": "The girl ______ the piano well.",
+    "options": {
+      "a": "play",
+      "b": "plays",
+      "c": "are playing",
+      "d": "have played"
+    },
+    "correct_answer": "b",
+    "explanation": "This sentence describes a skill or ability (দক্ষতা), which is best expressed in present indefinite tense. 'Girl' is singular.",
+    "difficulty": "easy"
+  },
+  {
+    "id": 140,
+    "question": "If he comes, I ______ him.",
+    "options": {
+      "a": "meet",
+      "b": "will meet",
+      "c": "would meet",
+      "d": "met"
+    },
+    "correct_answer": "b",
+    "explanation": "In first conditional (শর্তসাপেক্ষ বর্তমান), the structure is: If + present, subject + will + verb.",
+    "difficulty": "medium"
+  },
+  {
+    "id": 141,
+    "question": "He was seen ______ the bank.",
+    "options": {
+      "a": "enter",
+      "b": "entered",
+      "c": "to enter",
+      "d": "enters"
+    },
+    "correct_answer": "c",
+    "explanation": "In passive voice, after verbs like 'see', we use 'to + verb' (Passive-এ to + verb)।",
+    "difficulty": "hard"
+  },
+  {
+    "id": 142,
+    "question": "The committee ______ divided in their opinions.",
+    "options": {
+      "a": "is",
+      "b": "are",
+      "c": "has",
+      "d": "was"
+    },
+    "correct_answer": "b",
+    "explanation": "When a collective noun shows individual action (পৃথক মতামত), it takes a plural verb. Here, 'their' indicates individuality.",
+    "difficulty": "hard"
+  },
+  {
+    "id": 143,
+    "question": "He died ______ overeating.",
+    "options": {
+      "a": "from",
+      "b": "of",
+      "c": "for",
+      "d": "with"
+    },
+    "correct_answer": "b",
+    "explanation": "'Die of' is used for internal causes like hunger, disease, or overeating. 'Die from' is for external causes.",
+    "difficulty": "hard"
+  },
+  {
+    "id": 144,
+    "question": "The scenery of Cox's Bazar ______ beautiful.",
+    "options": {
+      "a": "are",
+      "b": "were",
+      "c": "is",
+      "d": "have"
+    },
+    "correct_answer": "c",
+    "explanation": "'Scenery' is an uncountable noun (অগণনাযোগ্য বিশেষ্য) and always takes a singular verb.",
+    "difficulty": "easy"
+  },
+  {
+    "id": 145,
+    "question": "He insisted that he ______ go.",
+    "options": {
+      "a": "will",
+      "b": "would",
+      "c": "should",
+      "d": "can"
+    },
+    "correct_answer": "c",
+    "explanation": "After 'insist' (জোর দেওয়া) in a clause, we often use 'should' or the subjunctive (base form) in formal English.",
+    "difficulty": "hard"
+  },
+  {
+    "id": 146,
+    "question": "Let me ______ the truth.",
+    "options": {
+      "a": "know",
+      "b": "to know",
+      "c": "knowing",
+      "d": "known"
+    },
+    "correct_answer": "a",
+    "explanation": "After 'let', we use the base form of the verb (bare infinitive) without 'to' (Let-এর পরে verb-এর base form)।",
+    "difficulty": "easy"
+  },
+  {
+    "id": 147,
+    "question": "She ______ here since 1990.",
+    "options": {
+      "a": "lived",
+      "b": "has lived",
+      "c": "is living",
+      "d": "was living"
+    },
+    "correct_answer": "b",
+    "explanation": "'Since 1990' indicates an action that started in the past and continues to the present. Present perfect tense is correct.",
+    "difficulty": "medium"
+  },
+  {
+    "id": 148,
+    "question": "He talked as though he ______ mad.",
+    "options": {
+      "a": "is",
+      "b": "was",
+      "c": "were",
+      "d": "has been"
+    },
+    "correct_answer": "c",
+    "explanation": "After 'as though' expressing an unreal situation (অবাস্তব অবস্থা), 'were' is used for all persons.",
+    "difficulty": "medium"
+  },
+  {
+    "id": 149,
+    "question": "No sooner had he seen me than he ______ away.",
+    "options": {
+      "a": "run",
+      "b": "ran",
+      "c": "runs",
+      "d": "has run"
+    },
+    "correct_answer": "b",
+    "explanation": "In 'No sooner...than' structure, the verb after 'than' is usually in simple past tense (অতীতকাল)।",
+    "difficulty": "hard"
+  },
+  {
+    "id": 150,
+    "question": "The United Nations ______ founded in 1945.",
+    "options": {
+      "a": "were",
+      "b": "was",
+      "c": "have",
+      "d": "are"
+    },
+    "correct_answer": "b",
+    "explanation": "Names of organizations (সংস্থার নাম) like 'The United Nations' are singular and take a singular verb.",
+    "difficulty": "hard"
+  },
+  {
+    "id": 151,
+    "question": "I don't know why he ______ absent yesterday.",
+    "options": {
+      "a": "is",
+      "b": "was",
+      "c": "has been",
+      "d": "were"
+    },
+    "correct_answer": "b",
+    "explanation": "'Yesterday' indicates past time, so past indefinite tense 'was' is correct (গতকাল অতীতকাল নির্দেশ করে)।",
+    "difficulty": "easy"
+  },
+  {
+    "id": 152,
+    "question": "He spends a lot of time ______ TV.",
+    "options": {
+      "a": "watch",
+      "b": "to watch",
+      "c": "watching",
+      "d": "watches"
+    },
+    "correct_answer": "c",
+    "explanation": "After 'spend time', we use a gerund (সময় কাটানো অর্থে gerund) to show the activity.",
+    "difficulty": "medium"
+  },
+  {
+    "id": 153,
+    "question": "The rich ______ not always happy.",
+    "options": {
+      "a": "is",
+      "b": "am",
+      "c": "are",
+      "d": "was"
+    },
+    "correct_answer": "c",
+    "explanation": "When 'The + adjective' represents a group of people (শ্রেণী), it takes a plural verb.",
+    "difficulty": "medium"
+  },
+  {
+    "id": 154,
+    "question": "He has given up ______ cigarettes.",
+    "options": {
+      "a": "smoke",
+      "b": "to smoke",
+      "c": "smoking",
+      "d": "smoked"
+    },
+    "correct_answer": "c",
+    "explanation": "After phrasal verbs like 'give up', we use a gerund (ছেড়ে দেওয়া অর্থে gerund)।",
+    "difficulty": "easy"
+  },
+  {
+    "id": 155,
+    "question": "The boy stopped ______ when he saw me.",
+    "options": {
+      "a": "to cry",
+      "b": "crying",
+      "c": "cry",
+      "d": "cried"
+    },
+    "correct_answer": "b",
+    "explanation": "'Stop + gerund' means to cease an action (কাজ করা বন্ধ করে দেওয়া)। 'Stop + infinitive' means to pause for another action.",
+    "difficulty": "hard"
+  },
+  {
+    "id": 156,
+    "question": "The company ______ a new product next month.",
+    "options": {
+      "a": "launch",
+      "b": "launches",
+      "c": "will launch",
+      "d": "launched"
+    },
+    "correct_answer": "c",
+    "explanation": "'Next month' indicates future time, so future indefinite tense 'will launch' is correct (আগামী মাস ভবিষ্যৎ নির্দেশ করে)।",
+    "difficulty": "easy"
+  },
+  {
+    "id": 157,
+    "question": "He is interested in ______ novels.",
+    "options": {
+      "a": "write",
+      "b": "writing",
+      "c": "writes",
+      "d": "to write"
+    },
+    "correct_answer": "b",
+    "explanation": "After prepositions like 'in', we use a gerund (verb + ing) (Preposition-এর পরে gerund বসে)।",
+    "difficulty": "easy"
+  },
+  {
+    "id": 158,
+    "question": "The jury ______ divided in their opinion.",
+    "options": {
+      "a": "is",
+      "b": "are",
+      "c": "has",
+      "d": "was"
+    },
+    "correct_answer": "b",
+    "explanation": "When a collective noun (যেমন jury) indicates individual members, it takes a plural verb. 'Their' shows individuality.",
+    "difficulty": "hard"
+  },
+  {
+    "id": 159,
+    "question": "If he had tried, he ______ succeeded.",
+    "options": {
+      "a": "would have",
+      "b": "will have",
+      "c": "has",
+      "d": "had"
+    },
+    "correct_answer": "a",
+    "explanation": "In third conditional (অতীতের অবাস্তব শর্ত), structure: If + past perfect, would have + past participle.",
+    "difficulty": "hard"
+  },
+  {
+    "id": 160,
+    "question": "He told me that he ______ me the next day.",
+    "options": {
+      "a": "will meet",
+      "b": "would meet",
+      "c": "meets",
+      "d": "met"
+    },
+    "correct_answer": "b",
+    "explanation": "In indirect speech, when reporting verb is past, 'will' changes to 'would' (Narration-এর নিয়ম)।",
+    "difficulty": "medium"
+  },
+  {
+    "id": 161,
+    "question": "He ______ a book when I entered the room.",
+    "options": {
+      "a": "read",
+      "b": "reads",
+      "c": "was reading",
+      "d": "has read"
+    },
+    "correct_answer": "c",
+    "explanation": "When one past action was in progress and another interrupted it, past continuous tense is used (চলমান অতীত কাজ)।",
+    "difficulty": "medium"
+  },
+  {
+    "id": 162,
+    "question": "Neither of the two boys ______ guilty.",
+    "options": {
+      "a": "are",
+      "b": "is",
+      "c": "were",
+      "d": "have"
+    },
+    "correct_answer": "b",
+    "explanation": "After 'neither of/either of', the verb is always singular (একবচন)।",
+    "difficulty": "medium"
+  },
+  {
+    "id": 163,
+    "question": "He is looking forward to ______ his parents.",
+    "options": {
+      "a": "meet",
+      "b": "meeting",
+      "c": "met",
+      "d": "have met"
+    },
+    "correct_answer": "b",
+    "explanation": "'Look forward to' is a phrase where 'to' is a preposition, so it takes a gerund (ing যুক্ত verb)।",
+    "difficulty": "medium"
+  },
+  {
+    "id": 164,
+    "question": "The water ______ for two hours.",
+    "options": {
+      "a": "is boiling",
+      "b": "has been boiling",
+      "c": "was boiling",
+      "d": "boils"
+    },
+    "correct_answer": "b",
+    "explanation": "'For two hours' indicates duration up to now. Present perfect continuous (সময়সীমাসহ চলমান কাজ) is correct.",
+    "difficulty": "medium"
+  },
+  {
+    "id": 165,
+    "question": "He was made ______ the whole night.",
+    "options": {
+      "a": "work",
+      "b": "to work",
+      "c": "working",
+      "d": "worked"
+    },
+    "correct_answer": "b",
+    "explanation": "In passive voice, after 'made', we use 'to + verb' (Passive-এ to + verb)। Active: They made him work.",
+    "difficulty": "hard"
+  },
+  {
+    "id": 166,
+    "question": "Many a man ______ died in the war.",
+    "options": {
+      "a": "have",
+      "b": "has",
+      "c": "are",
+      "d": "were"
+    },
+    "correct_answer": "b",
+    "explanation": "'Many a' is always followed by a singular noun and singular verb (Many a + singular noun + singular verb)।",
+    "difficulty": "hard"
+  },
+  {
+    "id": 167,
+    "question": "He was accused of ______ the money.",
+    "options": {
+      "a": "steal",
+      "b": "stealing",
+      "c": "stole",
+      "d": "to steal"
+    },
+    "correct_answer": "b",
+    "explanation": "After prepositions like 'of', we use a gerund (অভিযুক্ত অর্থে of + ing)।",
+    "difficulty": "medium"
+  },
+  {
+    "id": 168,
+    "question": "The patient had died before the doctor ______.",
+    "options": {
+      "a": "arrive",
+      "b": "arrived",
+      "c": "had arrived",
+      "d": "arrives"
+    },
+    "correct_answer": "b",
+    "explanation": "After past perfect in main clause, the 'before' clause takes simple past (Past perfect-এর পরে before + past indefinite)।",
+    "difficulty": "hard"
+  },
+  {
+    "id": 169,
+    "question": "He is not accustomed to ______ in public.",
+    "options": {
+      "a": "speak",
+      "b": "speaking",
+      "c": "spoke",
+      "d": "speaks"
+    },
+    "correct_answer": "b",
+    "explanation": "'Accustomed to' is followed by a gerund (অভ্যস্ত অর্থে to + ing) because 'to' is a preposition here.",
+    "difficulty": "medium"
+  },
+  {
+    "id": 170,
+    "question": "The furniture ______ very expensive.",
+    "options": {
+      "a": "are",
+      "b": "is",
+      "c": "were",
+      "d": "have"
+    },
+    "correct_answer": "b",
+    "explanation": "'Furniture' is an uncountable noun (অগণনাযোগ্য বিশেষ্য) and takes a singular verb.",
+    "difficulty": "easy"
+  },
+  {
+    "id": 171,
+    "question": "He would rather die than ______ the truth.",
+    "options": {
+      "a": "to tell",
+      "b": "tell",
+      "c": "telling",
+      "d": "told"
+    },
+    "correct_answer": "b",
+    "explanation": "After 'would rather...than', we use the base form of the verb (বেস ফর্ম)।",
+    "difficulty": "medium"
+  },
+  {
+    "id": 172,
+    "question": "The boy along with his mother ______ present.",
+    "options": {
+      "a": "are",
+      "b": "is",
+      "c": "were",
+      "d": "have"
+    },
+    "correct_answer": "b",
+    "explanation": "When subjects are joined by 'along with', the verb agrees with the first subject (প্রথম subject অনুযায়ী verb)।",
+    "difficulty": "hard"
+  },
+  {
+    "id": 173,
+    "question": "He is good at ______ stories.",
+    "options": {
+      "a": "tell",
+      "b": "telling",
+      "c": "tells",
+      "d": "to tell"
+    },
+    "correct_answer": "b",
+    "explanation": "After prepositions like 'at', we use a gerund (দক্ষতা অর্থে at + ing)।",
+    "difficulty": "easy"
+  },
+  {
+    "id": 174,
+    "question": "I will phone you when I ______ the news.",
+    "options": {
+      "a": "get",
+      "b": "will get",
+      "c": "got",
+      "d": "have got"
+    },
+    "correct_answer": "a",
+    "explanation": "In time clauses with 'when/after/before', present tense is used for future meaning (সময়সূচক clause-এ ভবিষ্যৎ অর্থে present)।",
+    "difficulty": "hard"
+  },
+  {
+    "id": 175,
+    "question": "The play ______ before we reached the hall.",
+    "options": {
+      "a": "started",
+      "b": "had started",
+      "c": "has started",
+      "d": "was starting"
+    },
+    "correct_answer": "b",
+    "explanation": "The play started first, then we reached. Earlier past action takes past perfect (আগের কাজ past perfect)।",
+    "difficulty": "medium"
+  },
+  {
+    "id": 176,
+    "question": "He told a lie ______ punishment.",
+    "options": {
+      "a": "avoid",
+      "b": "to avoid",
+      "c": "avoiding",
+      "d": "avoided"
+    },
+    "correct_answer": "b",
+    "explanation": "Infinitive of purpose (উদ্দেশ্য অর্থে) uses 'to + verb' to explain why something was done.",
+    "difficulty": "easy"
+  },
+  {
+    "id": 177,
+    "question": "Either he or I ______ to blame.",
+    "options": {
+      "a": "am",
+      "b": "is",
+      "c": "are",
+      "d": "were"
+    },
+    "correct_answer": "a",
+    "explanation": "With 'either-or', the verb agrees with the nearest subject (সন্নিহিত subject)। Here, 'I' is nearest, so 'am'.",
+    "difficulty": "hard"
+  },
+  {
+    "id": 178,
+    "question": "He was seen ______ the road.",
+    "options": {
+      "a": "cross",
+      "b": "crossed",
+      "c": "to cross",
+      "d": "crossing"
+    },
+    "correct_answer": "c",
+    "explanation": "In passive voice, after verbs of perception, we use 'to + verb' (Passive-এ to + verb)।",
+    "difficulty": "hard"
+  },
+  {
+    "id": 179,
+    "question": "The police ______ searching for the thief.",
+    "options": {
+      "a": "is",
+      "b": "are",
+      "c": "was",
+      "d": "has"
+    },
+    "correct_answer": "b",
+    "explanation": "'Police' is a collective noun that is always plural in English and takes a plural verb (পুলিশ সর্বদা বহুবচন)।",
+    "difficulty": "medium"
+  },
+  {
+    "id": 180,
+    "question": "It is high time we ______ for the exam.",
+    "options": {
+      "a": "prepare",
+      "b": "prepared",
+      "c": "have prepared",
+      "d": "will prepare"
+    },
+    "correct_answer": "b",
+    "explanation": "After 'It is high time', we use past tense (অতীতকাল) to indicate something that should be done now.",
+    "difficulty": "medium"
+  },
+  {
+    "id": 181,
+    "question": "He ______ here for twenty years by next March.",
+    "options": {
+      "a": "will work",
+      "b": "will have been working",
+      "c": "works",
+      "d": "worked"
+    },
+    "correct_answer": "b",
+    "explanation": "'By next March' with 'for twenty years' indicates future perfect continuous tense (ভবিষ্যতে চলমান কাজের সময়কাল)।",
+    "difficulty": "hard"
+  },
+  {
+    "id": 182,
+    "question": "I wish I ______ accept the offer.",
+    "options": {
+      "a": "can",
+      "b": "could",
+      "c": "will",
+      "d": "may"
+    },
+    "correct_answer": "b",
+    "explanation": "After 'wish', we use past forms (could) to express a regret about present inability (অক্ষমতার অনুশোচনা)।",
+    "difficulty": "medium"
+  },
+  {
+    "id": 183,
+    "question": "The book, including all the chapters, ______ interesting.",
+    "options": {
+      "a": "are",
+      "b": "is",
+      "c": "were",
+      "d": "have"
+    },
+    "correct_answer": "b",
+    "explanation": "Phrases like 'including' do not affect the subject. The main subject 'book' is singular, so verb is singular.",
+    "difficulty": "hard"
+  },
+  {
+    "id": 184,
+    "question": "He has been suffering from fever ______ Monday.",
+    "options": {
+      "a": "since",
+      "b": "for",
+      "c": "from",
+      "d": "ago"
+    },
+    "correct_answer": "a",
+    "explanation": "'Monday' is a specific point in time. 'Since' is used with a point of time (নির্দিষ্ট সময়ের শুরু বোঝাতে)।",
+    "difficulty": "easy"
+  },
+  {
+    "id": 185,
+    "question": "He insisted ______ there immediately.",
+    "options": {
+      "a": "to go",
+      "b": "on going",
+      "c": "go",
+      "d": "went"
+    },
+    "correct_answer": "b",
+    "explanation": "'Insist' is followed by 'on + gerund' (জোর দেওয়া অর্থে on + ing)।",
+    "difficulty": "medium"
+  },
+  {
+    "id": 186,
+    "question": "The news ______ at 9 pm every day.",
+    "options": {
+      "a": "is broadcast",
+      "b": "are broadcast",
+      "c": "broadcast",
+      "d": "broadcasts"
+    },
+    "correct_answer": "a",
+    "explanation": "The news is broadcast (by someone). This is passive voice. 'News' is singular, so 'is' is correct.",
+    "difficulty": "medium"
+  },
+  {
+    "id": 187,
+    "question": "He would not do it, ______ he?",
+    "options": {
+      "a": "would",
+      "b": "wouldn't",
+      "c": "will",
+      "d": "did"
+    },
+    "correct_answer": "a",
+    "explanation": "The sentence is negative (would not), so the question tag (ট্যাগ প্রশ্ন) must be positive 'would'.",
+    "difficulty": "medium"
+  },
+  {
+    "id": 188,
+    "question": "Two miles ______ a long distance.",
+    "options": {
+      "a": "are",
+      "b": "is",
+      "c": "were",
+      "d": "have"
+    },
+    "correct_answer": "b",
+    "explanation": "Expressions of distance (দূরত্ব) are treated as a single unit and take a singular verb.",
+    "difficulty": "hard"
+  },
+  {
+    "id": 189,
+    "question": "He is looking forward to ______ his uncle.",
+    "options": {
+      "a": "meet",
+      "b": "meeting",
+      "c": "met",
+      "d": "have met"
+    },
+    "correct_answer": "b",
+    "explanation": "'Look forward to' is a phrase where 'to' is a preposition, so it takes a gerund (ing যুক্ত verb)।",
+    "difficulty": "medium"
+  },
+  {
+    "id": 190,
+    "question": "The cattle ______ grazing in the field.",
+    "options": {
+      "a": "is",
+      "b": "are",
+      "c": "was",
+      "d": "has"
+    },
+    "correct_answer": "b",
+    "explanation": "'Cattle' is a plural noun (গবাদি পশু বহুবচনে) and always takes a plural verb.",
+    "difficulty": "hard"
+  },
+  {
+    "id": 191,
+    "question": "He died ______ overeating.",
+    "options": {
+      "a": "from",
+      "b": "of",
+      "c": "by",
+      "d": "with"
+    },
+    "correct_answer": "b",
+    "explanation": "'Die of' is used for internal causes like overeating, disease, etc. (অভ্যন্তরীণ কারণে মৃত্যু)।",
+    "difficulty": "hard"
+  },
+  {
+    "id": 192,
+    "question": "She ______ in Dhaka for ten years.",
+    "options": {
+      "a": "lived",
+      "b": "has been living",
+      "c": "is living",
+      "d": "was living"
+    },
+    "correct_answer": "b",
+    "explanation": "'For ten years' indicates duration. If she still lives there, present perfect continuous (চলমান বর্তমান) is correct.",
+    "difficulty": "medium"
+  },
+  {
+    "id": 193,
+    "question": "He talks as if he ______ a leader.",
+    "options": {
+      "a": "is",
+      "b": "was",
+      "c": "were",
+      "d": "has been"
+    },
+    "correct_answer": "c",
+    "explanation": "After 'as if' expressing an unreal situation (অবাস্তব অবস্থা), 'were' is used for all persons.",
+    "difficulty": "medium"
+  },
+  {
+    "id": 194,
+    "question": "No one ______ the secret except her.",
+    "options": {
+      "a": "know",
+      "b": "knows",
+      "c": "are knowing",
+      "d": "have known"
+    },
+    "correct_answer": "b",
+    "explanation": "'No one' is an indefinite pronoun (অনির্দিষ্ট সর্বনাম) that is always singular.",
+    "difficulty": "easy"
+  },
+  {
+    "id": 195,
+    "question": "He had his house ______ last year.",
+    "options": {
+      "a": "paint",
+      "b": "painted",
+      "c": "painting",
+      "d": "to paint"
+    },
+    "correct_answer": "b",
+    "explanation": "In causative structure (কাজ করানো), 'have + object + past participle' means to get something done.",
+    "difficulty": "hard"
+  },
+  {
+    "id": 196,
+    "question": "If I were you, I ______ not do it.",
+    "options": {
+      "a": "will",
+      "b": "would",
+      "c": "shall",
+      "d": "can"
+    },
+    "correct_answer": "b",
+    "explanation": "In unreal conditional sentences (অবাস্তব শর্ত), 'would' is used in the main clause.",
+    "difficulty": "medium"
+  },
+  {
+    "id": 197,
+    "question": "The scenery of this place ______ very charming.",
+    "options": {
+      "a": "are",
+      "b": "is",
+      "c": "were",
+      "d": "have"
+    },
+    "correct_answer": "b",
+    "explanation": "'Scenery' is an uncountable noun (অগণনাযোগ্য বিশেষ্য) and takes a singular verb.",
+    "difficulty": "easy"
+  },
+  {
+    "id": 198,
+    "question": "He is used to ______ in a joint family.",
+    "options": {
+      "a": "live",
+      "b": "living",
+      "c": "lives",
+      "d": "lived"
+    },
+    "correct_answer": "b",
+    "explanation": "'Used to' (অভ্যস্ত) is followed by a gerund when it means 'accustomed to'. Here 'to' is a preposition.",
+    "difficulty": "medium"
+  },
+  {
+    "id": 199,
+    "question": "The committee ______ issued its report.",
+    "options": {
+      "a": "have",
+      "b": "has",
+      "c": "are",
+      "d": "were"
+    },
+    "correct_answer": "b",
+    "explanation": "When a collective noun (সমষ্টিবাচক বিশেষ্য) acts as a single unit, it takes a singular verb. 'Its' indicates unity.",
+    "difficulty": "medium"
+  },
+  {
+    "id": 200,
+    "question": "He refrained ______ any further comments.",
+    "options": {
+      "a": "to make",
+      "b": "making",
+      "c": "from making",
+      "d": "make"
+    },
+    "correct_answer": "c",
+    "explanation": "The verb 'refrain' is always followed by the preposition 'from' and then a gerund (বিরত থাকা অর্থে from + ing)।",
+    "difficulty": "hard"
+  },
+  {
+    "id": 201,
+    "question": "The boy stopped ______ when he saw his mother.",
+    "options": {
+      "a": "to cry",
+      "b": "crying",
+      "c": "cry",
+      "d": "cried"
+    },
+    "correct_answer": "b",
+    "explanation": "'Stop + gerund' means to cease an action (কাজ বন্ধ করা). He was crying and then stopped.",
+    "difficulty": "medium"
+  },
+  {
+    "id": 202,
+    "question": "He is looking for a job ______.",
+    "options": {
+      "a": "at present",
+      "b": "every day",
+      "c": "last week",
+      "d": "tomorrow"
+    },
+    "correct_answer": "a",
+    "explanation": "'At present' (বর্তমানে) indicates present continuous tense, which matches 'is looking'.",
+    "difficulty": "easy"
+  },
+  {
+    "id": 203,
+    "question": "The jury ______ unanimous in its decision.",
+    "options": {
+      "a": "was",
+      "b": "were",
+      "c": "have",
+      "d": "are"
+    },
+    "correct_answer": "a",
+    "explanation": "When a collective noun (সমষ্টিবাচক বিশেষ্য) acts as a single unit, it takes a singular verb. 'Its' indicates unity.",
+    "difficulty": "hard"
+  },
+  {
+    "id": 204,
+    "question": "He was accused of ______ the money.",
+    "options": {
+      "a": "steal",
+      "b": "stealing",
+      "c": "stole",
+      "d": "to steal"
+    },
+    "correct_answer": "b",
+    "explanation": "After preposition 'of', we use a gerund (অভিযুক্ত অর্থে of + ing)।",
+    "difficulty": "medium"
+  },
+  {
+    "id": 205,
+    "question": "He ______ here since 1995.",
+    "options": {
+      "a": "lived",
+      "b": "has lived",
+      "c": "is living",
+      "d": "was living"
+    },
+    "correct_answer": "b",
+    "explanation": "'Since 1995' indicates an action that started in the past and continues to the present. Present perfect tense is correct.",
+    "difficulty": "medium"
+  },
+  {
+    "id": 206,
+    "question": "He talks as though he ______ a scholar.",
+    "options": {
+      "a": "is",
+      "b": "was",
+      "c": "were",
+      "d": "has been"
+    },
+    "correct_answer": "c",
+    "explanation": "After 'as though' expressing an unreal situation (অবাস্তব অবস্থা), 'were' is used for all persons.",
+    "difficulty": "medium"
+  },
+  {
+    "id": 207,
+    "question": "The United Nations ______ its headquarters in New York.",
+    "options": {
+      "a": "have",
+      "b": "has",
+      "c": "are",
+      "d": "were"
+    },
+    "correct_answer": "b",
+    "explanation": "Names of organizations (সংস্থার নাম) like 'The United Nations' are singular and take a singular verb.",
+    "difficulty": "hard"
+  },
+  {
+    "id": 208,
+    "question": "He insisted that he ______ go there.",
+    "options": {
+      "a": "will",
+      "b": "would",
+      "c": "should",
+      "d": "can"
+    },
+    "correct_answer": "c",
+    "explanation": "After 'insist' (জোর দেওয়া) in a clause, we often use 'should' in formal English.",
+    "difficulty": "hard"
+  },
+  {
+    "id": 209,
+    "question": "I don't know why he ______ to me now.",
+    "options": {
+      "a": "lie",
+      "b": "lies",
+      "c": "is lying",
+      "d": "has lied"
+    },
+    "correct_answer": "c",
+    "explanation": "'Now' indicates present continuous tense. The action is happening at the moment of speaking (এখন ঘটছে)।",
+    "difficulty": "easy"
+  },
+  {
+    "id": 210,
+    "question": "The poet and the philosopher ______ dead.",
+    "options": {
+      "a": "are",
+      "b": "is",
+      "c": "was",
+      "d": "has"
+    },
+    "correct_answer": "a",
+    "explanation": "Here, 'the poet and the philosopher' refers to two different persons (দুই ভিন্ন ব্যক্তি) because 'the' is used before both. So plural verb.",
+    "difficulty": "hard"
+  },
+  {
+    "id": 211,
+    "question": "He was made ______ the work again.",
+    "options": {
+      "a": "do",
+      "b": "to do",
+      "c": "doing",
+      "d": "did"
+    },
+    "correct_answer": "b",
+    "explanation": "In passive voice, after 'made', we use 'to + verb' (Passive-এ to + verb)।",
+    "difficulty": "hard"
+  },
+  {
+    "id": 212,
+    "question": "The cattle ______ grazing in the field.",
+    "options": {
+      "a": "is",
+      "b": "are",
+      "c": "was",
+      "d": "has"
+    },
+    "correct_answer": "b",
+    "explanation": "'Cattle' is a plural noun (গবাদি পশু বহুবচনে) and always takes a plural verb.",
+    "difficulty": "hard"
+  },
+  {
+    "id": 213,
+    "question": "He is good at ______ stories.",
+    "options": {
+      "a": "tell",
+      "b": "telling",
+      "c": "tells",
+      "d": "to tell"
+    },
+    "correct_answer": "b",
+    "explanation": "After prepositions like 'at', we use a gerund (দক্ষতা অর্থে at + ing)।",
+    "difficulty": "easy"
+  },
+  {
+    "id": 214,
+    "question": "I will call you when I ______ the result.",
+    "options": {
+      "a": "get",
+      "b": "will get",
+      "c": "got",
+      "d": "have got"
+    },
+    "correct_answer": "a",
+    "explanation": "In time clauses with 'when/after/before', present tense is used for future meaning (সময়সূচক clause-এ ভবিষ্যৎ অর্থে present)।",
+    "difficulty": "hard"
+  },
+  {
+    "id": 215,
+    "question": "He died ______ cholera.",
+    "options": {
+      "a": "from",
+      "b": "of",
+      "c": "by",
+      "d": "with"
+    },
+    "correct_answer": "b",
+    "explanation": "'Die of' is used for diseases (রোগে মরা). 'Die from' is used for external causes.",
+    "difficulty": "hard"
+  },
+  {
+    "id": 216,
+    "question": "The boy along with his friends ______ present.",
+    "options": {
+      "a": "are",
+      "b": "is",
+      "c": "were",
+      "d": "have"
+    },
+    "correct_answer": "b",
+    "explanation": "When subjects are joined by 'along with', the verb agrees with the first subject (প্রথম subject অনুযায়ী verb)।",
+    "difficulty": "hard"
+  },
+  {
+    "id": 217,
+    "question": "He spends a lot of time ______ mobile games.",
+    "options": {
+      "a": "play",
+      "b": "to play",
+      "c": "playing",
+      "d": "plays"
+    },
+    "correct_answer": "c",
+    "explanation": "After 'spend time', we use a gerund (সময় কাটানো অর্থে gerund) to show the activity.",
+    "difficulty": "medium"
+  },
+  {
+    "id": 218,
+    "question": "He would rather starve than ______.",
+    "options": {
+      "a": "to steal",
+      "b": "steal",
+      "c": "stealing",
+      "d": "stole"
+    },
+    "correct_answer": "b",
+    "explanation": "After 'would rather...than', we use the base form of the verb (বেস ফর্ম)।",
+    "difficulty": "medium"
+  },
+  {
+    "id": 219,
+    "question": "The police ______ arrested the culprit.",
+    "options": {
+      "a": "has",
+      "b": "have",
+      "c": "is",
+      "d": "was"
+    },
+    "correct_answer": "b",
+    "explanation": "'Police' is a collective noun that is always plural in English and takes a plural verb (পুলিশ সর্বদা বহুবচন)।",
+    "difficulty": "medium"
+  },
+  {
+    "id": 220,
+    "question": "It is time you ______ home.",
+    "options": {
+      "a": "go",
+      "b": "went",
+      "c": "have gone",
+      "d": "will go"
+    },
+    "correct_answer": "b",
+    "explanation": "After 'It is time', we use past tense (অতীতকাল) to indicate something that should be done now.",
+    "difficulty": "medium"
+  },
+  {
+    "id": 221,
+    "question": "He was seen ______ the house.",
+    "options": {
+      "a": "enter",
+      "b": "entered",
+      "c": "to enter",
+      "d": "enters"
+    },
+    "correct_answer": "c",
+    "explanation": "In passive voice, after verbs of perception, we use 'to + verb' (Passive-এ to + verb)।",
+    "difficulty": "hard"
+  },
+  {
+    "id": 222,
+    "question": "Many a student ______ failed in the exam.",
+    "options": {
+      "a": "have",
+      "b": "has",
+      "c": "are",
+      "d": "were"
+    },
+    "correct_answer": "b",
+    "explanation": "'Many a' is always followed by a singular noun and singular verb (Many a + singular noun + singular verb)।",
+    "difficulty": "hard"
+  },
+  {
+    "id": 223,
+    "question": "He is not accustomed to ______ in public.",
+    "options": {
+      "a": "speak",
+      "b": "speaking",
+      "c": "spoke",
+      "d": "speaks"
+    },
+    "correct_answer": "b",
+    "explanation": "'Accustomed to' is followed by a gerund (অভ্যস্ত অর্থে to + ing) because 'to' is a preposition here.",
+    "difficulty": "medium"
+  },
+  {
+    "id": 224,
+    "question": "The furniture ______ been repaired.",
+    "options": {
+      "a": "have",
+      "b": "has",
+      "c": "are",
+      "d": "were"
+    },
+    "correct_answer": "b",
+    "explanation": "'Furniture' is an uncountable noun (অগণনাযোগ্য বিশেষ্য) and takes a singular verb 'has'.",
+    "difficulty": "easy"
+  },
+  {
+    "id": 225,
+    "question": "If he had studied, he ______ passed.",
+    "options": {
+      "a": "would have",
+      "b": "will have",
+      "c": "has",
+      "d": "had"
+    },
+    "correct_answer": "a",
+    "explanation": "In third conditional (অতীতের অবাস্তব শর্ত), structure: If + past perfect, would have + past participle.",
+    "difficulty": "hard"
+  },
+  {
+    "id": 226,
+    "question": "He told me that he ______ come the next day.",
+    "options": {
+      "a": "will",
+      "b": "would",
+      "c": "shall",
+      "d": "can"
+    },
+    "correct_answer": "b",
+    "explanation": "In indirect speech, when reporting verb is past, 'will' changes to 'would' (Narration-এর নিয়ম)।",
+    "difficulty": "medium"
+  },
+  {
+    "id": 227,
+    "question": "He ______ a letter when I entered his room.",
+    "options": {
+      "a": "wrote",
+      "b": "was writing",
+      "c": "has written",
+      "d": "writes"
+    },
+    "correct_answer": "b",
+    "explanation": "When one past action was in progress and another interrupted it, past continuous tense is used (চলমান অতীত কাজ)।",
+    "difficulty": "medium"
+  },
+  {
+    "id": 228,
+    "question": "Neither of the two candidates ______ suitable.",
+    "options": {
+      "a": "are",
+      "b": "is",
+      "c": "were",
+      "d": "have"
+    },
+    "correct_answer": "b",
+    "explanation": "After 'neither of/either of', the verb is always singular (একবচন)।",
+    "difficulty": "medium"
+  },
+  {
+    "id": 229,
+    "question": "He is looking forward to ______ his parents.",
+    "options": {
+      "a": "meet",
+      "b": "meeting",
+      "c": "met",
+      "d": "have met"
+    },
+    "correct_answer": "b",
+    "explanation": "'Look forward to' is a phrase where 'to' is a preposition, so it takes a gerund (ing যুক্ত verb)।",
+    "difficulty": "medium"
+  },
+  {
+    "id": 230,
+    "question": "The water ______ for two hours.",
+    "options": {
+      "a": "boils",
+      "b": "has been boiling",
+      "c": "is boiling",
+      "d": "was boiling"
+    },
+    "correct_answer": "b",
+    "explanation": "'For two hours' indicates duration up to now. Present perfect continuous (সময়সীমাসহ চলমান কাজ) is correct.",
+    "difficulty": "medium"
+  },
+  {
+    "id": 231,
+    "question": "The patient died before the doctor ______.",
+    "options": {
+      "a": "arrived",
+      "b": "had arrived",
+      "c": "arrives",
+      "d": "has arrived"
+    },
+    "correct_answer": "a",
+    "explanation": "After 'before', when the main clause is past perfect, the 'before' clause takes simple past (Past perfect-এর পরে before + past indefinite)।",
+    "difficulty": "hard"
+  },
+  {
+    "id": 232,
+    "question": "He is fond of ______ poetry.",
+    "options": {
+      "a": "recite",
+      "b": "reciting",
+      "c": "recites",
+      "d": "to recite"
+    },
+    "correct_answer": "b",
+    "explanation": "After prepositions (of, in, at, etc.), we use a gerund (ing যুক্ত verb)।",
+    "difficulty": "easy"
+  },
+  {
+    "id": 233,
+    "question": "The Principal, with his staff, ______ present.",
+    "options": {
+      "a": "are",
+      "b": "were",
+      "c": "is",
+      "d": "have"
+    },
+    "correct_answer": "c",
+    "explanation": "When 'with' joins two subjects, the verb agrees with the first subject (প্রথম subject অনুযায়ী verb)। Here, 'Principal' is singular.",
+    "difficulty": "hard"
+  },
+  {
+    "id": 234,
+    "question": "He has given up ______.",
+    "options": {
+      "a": "smoke",
+      "b": "to smoke",
+      "c": "smoking",
+      "d": "smoked"
+    },
+    "correct_answer": "c",
+    "explanation": "After 'give up', we use a gerund (পরিত্যাগ করা অর্থে gerund)।",
+    "difficulty": "easy"
+  },
+  {
+    "id": 235,
+    "question": "I wish I ______ a bird.",
+    "options": {
+      "a": "am",
+      "b": "was",
+      "c": "were",
+      "d": "have been"
+    },
+    "correct_answer": "c",
+    "explanation": "After 'wish', we use the subjunctive mood (were) to express an unreal or impossible desire (অবাস্তব ইচ্ছা)।",
+    "difficulty": "medium"
+  },
+  {
+    "id": 236,
+    "question": "He refrained ______ any further questions.",
+    "options": {
+      "a": "to ask",
+      "b": "asking",
+      "c": "from asking",
+      "d": "ask"
+    },
+    "correct_answer": "c",
+    "explanation": "The verb 'refrain' is always followed by the preposition 'from' and then a gerund (বিরত থাকা অর্থে from + ing)।",
+    "difficulty": "hard"
+  },
+  {
+    "id": 237,
+    "question": "The scenery of this place ______ charming.",
+    "options": {
+      "a": "are",
+      "b": "were",
+      "c": "is",
+      "d": "have"
+    },
+    "correct_answer": "c",
+    "explanation": "'Scenery' is an uncountable noun (অগণনাযোগ্য) and takes a singular verb.",
+    "difficulty": "easy"
+  },
+  {
+    "id": 238,
+    "question": "He ______ here for twenty years by next December.",
+    "options": {
+      "a": "will work",
+      "b": "will have been working",
+      "c": "works",
+      "d": "worked"
+    },
+    "correct_answer": "b",
+    "explanation": "'By next December' with 'for twenty years' indicates future perfect continuous tense (ভবিষ্যতে চলমান কাজের সময়কাল)।",
+    "difficulty": "hard"
+  },
+  {
+    "id": 239,
+    "question": "I don't mind ______ late at night.",
+    "options": {
+      "a": "work",
+      "b": "to work",
+      "c": "working",
+      "d": "worked"
+    },
+    "correct_answer": "c",
+    "explanation": "After 'mind', we always use a gerund (verb + ing) (আপত্তি থাকা অর্থে mind + ing)।",
+    "difficulty": "easy"
+  },
+  {
+    "id": 240,
+    "question": "He talked as if he ______ everything.",
+    "options": {
+      "a": "knows",
+      "b": "knew",
+      "c": "has known",
+      "d": "is knowing"
+    },
+    "correct_answer": "b",
+    "explanation": "After 'as if' expressing an unreal situation (অবাস্তব অবস্থা), past tense is used.",
+    "difficulty": "medium"
+  },
+  {
+    "id": 241,
+    "question": "The number of students ______ increasing day by day.",
+    "options": {
+      "a": "is",
+      "b": "are",
+      "c": "were",
+      "d": "have"
+    },
+    "correct_answer": "a",
+    "explanation": "'The number of' is followed by a plural noun but takes a singular verb. ('The number of' -এর পরে singular verb হয়)",
+    "difficulty": "hard"
+  },
+  {
+    "id": 242,
+    "question": "A number of students ______ present in the class.",
+    "options": {
+      "a": "is",
+      "b": "was",
+      "c": "are",
+      "d": "has"
+    },
+    "correct_answer": "c",
+    "explanation": "'A number of' means 'many' and takes a plural verb. ('A number of' অর্থ 'অনেক' এবং plural verb হয়)",
+    "difficulty": "hard"
+  },
+  {
+    "id": 243,
+    "question": "He insisted on ______ there immediately.",
+    "options": {
+      "a": "go",
+      "b": "going",
+      "c": "to go",
+      "d": "went"
+    },
+    "correct_answer": "b",
+    "explanation": "After 'insist on', we use a gerund (verb + ing) because 'on' is a preposition (জোর দেওয়া অর্থে on + ing)।",
+    "difficulty": "medium"
+  },
+  {
+    "id": 244,
+    "question": "The news ______ at 8 pm every day.",
+    "options": {
+      "a": "is broadcast",
+      "b": "are broadcast",
+      "c": "broadcast",
+      "d": "broadcasts"
+    },
+    "correct_answer": "a",
+    "explanation": "The news is broadcast (by someone). This is passive voice. 'News' is singular, so 'is' is correct.",
+    "difficulty": "medium"
+  },
+  {
+    "id": 245,
+    "question": "He would not come, ______ he?",
+    "options": {
+      "a": "would",
+      "b": "wouldn't",
+      "c": "will",
+      "d": "did"
+    },
+    "correct_answer": "a",
+    "explanation": "The sentence is negative (would not), so the question tag (ট্যাগ প্রশ্ন) must be positive 'would'.",
+    "difficulty": "medium"
+  },
+  {
+    "id": 246,
+    "question": "Five miles ______ a long way to walk.",
+    "options": {
+      "a": "are",
+      "b": "is",
+      "c": "were",
+      "d": "have"
+    },
+    "correct_answer": "b",
+    "explanation": "Expressions of distance (দূরত্ব) are treated as a single unit and take a singular verb.",
+    "difficulty": "hard"
+  },
+  {
+    "id": 247,
+    "question": "He is looking forward to ______ his uncle.",
+    "options": {
+      "a": "meet",
+      "b": "meeting",
+      "c": "met",
+      "d": "have met"
+    },
+    "correct_answer": "b",
+    "explanation": "'Look forward to' is a phrase where 'to' is a preposition, so it takes a gerund (ing যুক্ত verb)।",
+    "difficulty": "medium"
+  },
+  {
+    "id": 248,
+    "question": "The cattle ______ grazing in the field.",
+    "options": {
+      "a": "is",
+      "b": "are",
+      "c": "was",
+      "d": "has"
+    },
+    "correct_answer": "b",
+    "explanation": "'Cattle' is a plural noun (গবাদি পশু বহুবচনে) and always takes a plural verb.",
+    "difficulty": "hard"
+  },
+  {
+    "id": 249,
+    "question": "He died ______ overeating.",
+    "options": {
+      "a": "from",
+      "b": "of",
+      "c": "by",
+      "d": "with"
+    },
+    "correct_answer": "b",
+    "explanation": "'Die of' is used for internal causes like overeating, disease, etc. (অভ্যন্তরীণ কারণে মৃত্যু)।",
+    "difficulty": "hard"
+  },
+  {
+    "id": 250,
+    "question": "She ______ in Chittagong for ten years.",
+    "options": {
+      "a": "lived",
+      "b": "has been living",
+      "c": "is living",
+      "d": "was living"
+    },
+    "correct_answer": "b",
+    "explanation": "'For ten years' indicates duration. If she still lives there, present perfect continuous (চলমান বর্তমান) is correct.",
+    "difficulty": "medium"
+  }
+
+
+
+]
