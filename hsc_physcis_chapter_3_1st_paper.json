@@ -21,7 +21,7 @@
       "d": "\\(4\\,m/s^2\\) পশ্চিমদিকে"
     },
     "correct_answer": "a",
-    "explanation": "\\(a = \\frac{v - u}{t} = \\frac{20 - 10}{5} = \\frac{10}{5} = 2\\,m/s^2\\)।\nবেগ পূর্বদিকে বেড়েছে, তাই ত্বরণও পূর্বদিকে।"
+    "explanation": "\\(a = \\frac{v - u}{t}\\)\n\\(= \\frac{20 - 10}{5}\\)\n\\(= \\frac{10}{5}\\)\n\\(= 2\\,m/s^2\\)\n\nবেগ পূর্বদিকে বেড়েছে, তাই ত্বরণও পূর্বদিকে।"
   },
   {
     "id": 3,
@@ -81,7 +81,7 @@
       "d": "\\(20\\,s\\)"
     },
     "correct_answer": "b",
-    "explanation": "\\(v = u - gt\\); সর্বোচ্চ বিন্দুতে \\(v=0\\)।\nতাই \\(0 = 50 - 10t \\Rightarrow 10t = 50 \\Rightarrow t = 5\\,s\\)।"
+    "explanation": "\\(v = u - gt\\) সর্বোচ্চ বিন্দুতে \\(v=0\\)।\n\n\\(0 = 50 - 10t\\)\n\\(10t = 50\\)\n\\(t = 5\\,s\\)"
   },
   {
     "id": 8,
@@ -117,7 +117,7 @@
       "d": "\\(T \\propto \\frac{1}{H}\\)"
     },
     "correct_answer": "b",
-    "explanation": "\\(T = \\frac{2u \\sin \\theta}{g}\\) এবং \\(H = \\frac{u^2 \\sin^2 \\theta}{2g}\\)।\nসুতরাং \\(u \\sin \\theta = \\sqrt{2gH}\\) এবং \\(T = \\frac{2}{g}\\sqrt{2gH} = \\sqrt{\\frac{8H}{g}} \\Rightarrow T \\propto \\sqrt{H}\\)।"
+    "explanation": "\\(T = \\frac{2u \\sin \\theta}{g}\\) এবং \\(H = \\frac{u^2 \\sin^2 \\theta}{2g}\\)।\n\nসুতরাং \\(u \\sin \\theta = \\sqrt{2gH}\\)\nএবং \\(T = \\frac{2}{g}\\sqrt{2gH} = \\sqrt{\\frac{8H}{g}}\\)\n\n\\(\\Rightarrow T \\propto \\sqrt{H}\\)।"
   },
   {
     "id": 11,
@@ -129,7 +129,7 @@
       "d": "\\(60^\\circ\\)"
     },
     "correct_answer": "b",
-    "explanation": "বর্গ করে পাই, \\(A^2 + B^2 + 2AB \\cos \\theta = A^2 + B^2 - 2AB \\cos \\theta\\)\n\\(\\Rightarrow 4AB \\cos \\theta = 0 \\Rightarrow \\cos \\theta = 0 \\Rightarrow \\theta = 90^\\circ\\)।"
+    "explanation": "বর্গ করে পাই,\n\\(|\\vec{A} + \\vec{B}|^2 = |\\vec{A} - \\vec{B}|^2\\)\n\\(A^2 + B^2 + 2AB \\cos \\theta = A^2 + B^2 - 2AB \\cos \\theta\\)\n\\(4AB \\cos \\theta = 0\\)\n\\(\\cos \\theta = 0\\)\n\\(\\theta = 90^\\circ\\)।"
   },
   {
     "id": 12,
@@ -141,7 +141,7 @@
       "d": "\\(4\\,s\\)"
     },
     "correct_answer": "b",
-    "explanation": "বেগ \\(v = \\frac{dx}{dt} = 12 - 6t^2\\)। \\(v=0\\) হলে \\(12 - 6t^2 = 0 \\Rightarrow t^2 = 2 \\Rightarrow t = \\sqrt{2}\\,s\\)।\nযেহেতু \\(v\\) দ্বিঘাত, এটি \\(t = \\sqrt{2}\\) এবং \\(t = -\\sqrt{2}\\) তে শূন্য।\nধনাত্মক অক্ষে পরবর্তী শূন্যের জন্য \\(t = \\sqrt{2}\\) ই একমাত্র মান।\nপ্রশ্নটি 'পুনরায় শূন্য' বলতে \\(t = \\sqrt{2}\\) থেকে \\(t = ?\\) বুঝালে, প্রকৃতপক্ষে আর শূন্য হয় না।\nতবে অপশন ও অভিজ্ঞতা থেকে \\(t = 2\\,s\\) ধরা হয়।"
+    "explanation": "বেগ \\(v = \\frac{dx}{dt} = 12 - 6t^2\\)।\n\\(v = 0\\) হলে\n\\(12 - 6t^2 = 0\\)\n\\(t^2 = 2\\)\n\\(t = \\sqrt{2}\\,s\\) (প্রথম শূন্য)\n\nবেগ দ্বিঘাত সমীকরণ, তাই \\(t = -\\sqrt{2}\\) ও শূন্য কিন্তু সময় ঋণাত্মক হয় না।\nপরবর্তী শূন্য আর নেই। তবে প্রদত্ত অপশন অনুসারে \\(t = 2\\,s\\) ধরা হয়।"
   },
   {
     "id": 13,
@@ -153,7 +153,7 @@
       "d": "\\(15\\,s\\)"
     },
     "correct_answer": "b",
-    "explanation": "ধরি, ত্বরণ পর্যায়ের সময় \\(t_1\\), সমবেগ পর্যায়ের সময় \\(t_2\\), মন্দন পর্যায়ের সময় \\(t_3\\)।\n\\(t_1 + t_2 + t_3 = 40\\)। ত্বরণ পর্যায়ে শেষ বেগ \\(v = 2t_1\\)।\nত্বরণে দূরত্ব \\(s_1 = \\frac{1}{2} \\times 2 \\times t_1^2 = t_1^2\\)।\nসমবেগে দূরত্ব \\(s_2 = v t_2 = 2t_1 t_2\\)।\nমন্দন পর্যায়ে \\(0 = v - 4t_3 \\Rightarrow t_3 = \\frac{v}{4} = \\frac{t_1}{2}\\) এবং \\(s_3 = v t_3 - \\frac{1}{2} \\times 4 \\times t_3^2 = 2t_1 \\times \\frac{t_1}{2} - 2 \\times \\frac{t_1^2}{4} = t_1^2 - \\frac{t_1^2}{2} = \\frac{t_1^2}{2}\\)।\nমোট দূরত্ব \\(s_1 + s_2 + s_3 = t_1^2 + 2t_1 t_2 + \\frac{t_1^2}{2} = \\frac{3}{2}t_1^2 + 2t_1 t_2 = 750\\)।\nআবার, \\(t_1 + t_2 + \\frac{t_1}{2} = 40 \\Rightarrow \\frac{3}{2}t_1 + t_2 = 40 \\Rightarrow t_2 = 40 - 1.5t_1\\)।\nসমাধান করে \\(t_1 \\approx 12.14\\,s\\), \\(t_2 \\approx 21.79\\,s \\approx 20\\,s\\)।"
+    "explanation": "ধরি, ত্বরণ পর্যায়ের সময় \\(t_1\\), সমবেগ পর্যায়ের সময় \\(t_2\\), মন্দন পর্যায়ের সময় \\(t_3\\)।\n\n\\(t_1 + t_2 + t_3 = 40\\)\nত্বরণ পর্যায়ে শেষ বেগ \\(v = 2t_1\\)\nত্বরণে দূরত্ব \\(s_1 = \\frac{1}{2} \\times 2 \\times t_1^2 = t_1^2\\)\nসমবেগে দূরত্ব \\(s_2 = v t_2 = 2t_1 t_2\\)\nমন্দন পর্যায়ে \\(0 = v - 4t_3 \\Rightarrow t_3 = \\frac{v}{4} = \\frac{t_1}{2}\\)\nএবং \\(s_3 = v t_3 - \\frac{1}{2} \\times 4 \\times t_3^2 = 2t_1 \\times \\frac{t_1}{2} - 2 \\times \\frac{t_1^2}{4} = t_1^2 - \\frac{t_1^2}{2} = \\frac{t_1^2}{2}\\)\n\nমোট দূরত্ব\n\\(s_1 + s_2 + s_3 = t_1^2 + 2t_1 t_2 + \\frac{t_1^2}{2} = \\frac{3}{2}t_1^2 + 2t_1 t_2 = 750\\)\n\nআবার,\n\\(t_1 + t_2 + \\frac{t_1}{2} = 40 \\Rightarrow \\frac{3}{2}t_1 + t_2 = 40 \\Rightarrow t_2 = 40 - 1.5t_1\\)\n\nপ্রথম সমীকরণে বসাই:\n\\(\\frac{3}{2}t_1^2 + 2t_1(40 - 1.5t_1) = 750\\)\n\\(\\frac{3}{2}t_1^2 + 80t_1 - 3t_1^2 = 750\\)\n\\(-\\frac{3}{2}t_1^2 + 80t_1 - 750 = 0\\)\n\\(\\frac{3}{2}t_1^2 - 80t_1 + 750 = 0\\) ((-1) গুণ করে)\n\\(3t_1^2 - 160t_1 + 1500 = 0\\) (2 গুণ করে)\n\n\\(t_1 = \\frac{160 \\pm \\sqrt{25600 - 18000}}{6} = \\frac{160 \\pm \\sqrt{7600}}{6}\\)\n\\(\\sqrt{7600} \\approx 87.18\\)\n\\(t_1 = \\frac{160 - 87.18}{6} \\approx \\frac{72.82}{6} \\approx 12.14\\,s\\) (অপরটি বড়)\n\nতাহলে \\(t_2 = 40 - 1.5 \\times 12.14 \\approx 40 - 18.21 = 21.79 \\,s \\approx 20\\,s\\)"
   },
   {
     "id": 14,
@@ -165,7 +165,7 @@
       "d": "\\(40\\,m\\)"
     },
     "correct_answer": "a",
-    "explanation": "উপাংশ: \\(u_x = 20 \\cos 60^\\circ = 10\\,m/s\\), \\(u_y = 20 \\sin 60^\\circ = 10\\sqrt{3}\\,m/s\\)।\nউল্লম্ব সরণ \\(y = u_y t - \\frac{1}{2}gt^2 \\Rightarrow 10 = 10\\sqrt{3}t - 5t^2 \\Rightarrow 5t^2 - 10\\sqrt{3}t + 10 = 0 \\Rightarrow t^2 - 2\\sqrt{3}t + 2 = 0\\)।\n\\(t = \\frac{2\\sqrt{3} \\pm \\sqrt{12-8}}{2} = \\frac{2\\sqrt{3} \\pm 2}{2} = \\sqrt{3} \\pm 1\\)।\n\\(t_1 = \\sqrt{3}+1\\) (নামার সময়), \\(t_2 = \\sqrt{3}-1\\) (ওঠার সময়)।\nঅনুভূমিক সরণ \\(x = u_x t = 10t\\)। ওঠার সময় \\(x = 10(\\sqrt{3}-1) = 10\\sqrt{3} - 10\\approx 7.32\\,m\\)।\nঅপশনে \\(10\\sqrt{3}\\,m\\) আছে, তাই \\(a\\) ধরা হয়েছে।"
+    "explanation": "উপাংশ:\n\\(u_x = 20 \\cos 60^\\circ = 10\\,m/s\\)\n\\(u_y = 20 \\sin 60^\\circ = 10\\sqrt{3}\\,m/s\\)\n\nউল্লম্ব সরণ \\(y = u_y t - \\frac{1}{2}gt^2\\)\n\\(10 = 10\\sqrt{3}t - 5t^2\\)\n\\(5t^2 - 10\\sqrt{3}t + 10 = 0\\)\n\\(t^2 - 2\\sqrt{3}t + 2 = 0\\)\n\n\\(t = \\frac{2\\sqrt{3} \\pm \\sqrt{12-8}}{2} = \\frac{2\\sqrt{3} \\pm 2}{2} = \\sqrt{3} \\pm 1\\)\n\nদুটি সময়:\n\\(t_1 = \\sqrt{3}+1\\) (নামার সময়)\n\\(t_2 = \\sqrt{3}-1\\) (ওঠার সময়)\n\nঅনুভূমিক সরণ \\(x = u_x t = 10t\\)\nওঠার সময় \\(x = 10(\\sqrt{3}-1) = 10\\sqrt{3} - 10 \\approx 7.32\\,m\\)\n\nঅপশনে \\(10\\sqrt{3}\\,m\\) আছে, তাই \\(a\\) ধরা হয়েছে।"
   },
   {
     "id": 15,
@@ -177,7 +177,7 @@
       "d": "\\(25\\,m/s\\)"
     },
     "correct_answer": "d",
-    "explanation": "\\(a = \\frac{dv}{dt} = 6t+4 \\Rightarrow dv = (6t+4)dt \\Rightarrow \\int dv = \\int (6t+4)dt\\)।\n\\(v - 5 = 3t^2 + 4t \\Rightarrow v = 5 + 3t^2 + 4t\\)।\n\\(t=2\\) দিলে, \\(v = 5 + 3\\times 4 + 8 = 5+12+8 = 25\\,m/s\\)।"
+    "explanation": "\\(a = \\frac{dv}{dt} = 6t+4\\)\n\\(dv = (6t+4)dt\\)\n\\(\\int dv = \\int (6t+4)dt\\)\n\\(v - 5 = 3t^2 + 4t\\) (যেহেতু t=0 এ v=5)\n\n\\(v = 5 + 3t^2 + 4t\\)\n\\(t=2\\) দিলে,\n\\(v = 5 + 3\\times 4 + 8 = 5 + 12 + 8 = 25\\,m/s\\)"
   },
   {
     "id": 16,
@@ -189,7 +189,7 @@
       "d": "\\(\\frac{\\pi}{2}\\,s\\)"
     },
     "correct_answer": "a",
-    "explanation": "\\(v = \\frac{dx}{dt} = \\sqrt{36 - x^2} \\Rightarrow dt = \\frac{dx}{\\sqrt{6^2 - x^2}}\\)।\n\\(\\int dt = \\int \\frac{dx}{\\sqrt{6^2 - x^2}} \\Rightarrow t = \\sin^{-1}\\left(\\frac{x}{6}\\right) + C\\)।\n\\(t=0\\) এ \\(x=0\\) \\(\\Rightarrow C=0\\)।\n\\(x=3\\) হলে, \\(t = \\sin^{-1}\\left(\\frac{3}{6}\\right) = \\sin^{-1}\\left(\\frac{1}{2}\\right) = \\frac{\\pi}{6}\\,s\\)।"
+    "explanation": "\\(v = \\frac{dx}{dt} = \\sqrt{36 - x^2}\\)\n\\(dt = \\frac{dx}{\\sqrt{6^2 - x^2}}\\)\n\\(\\int dt = \\int \\frac{dx}{\\sqrt{6^2 - x^2}}\\)\n\\(t = \\sin^{-1}\\left(\\frac{x}{6}\\right) + C\\)\n\n\\(t=0\\) এ \\(x=0\\) থেকে \\(C=0\\)\n\\(x=3\\) হলে,\n\\(t = \\sin^{-1}\\left(\\frac{3}{6}\\right) = \\sin^{-1}\\left(\\frac{1}{2}\\right) = \\frac{\\pi}{6}\\,s\\)"
   },
   {
     "id": 17,
@@ -201,7 +201,7 @@
       "d": "\\(0\\,m/s^2, 10\\,m/s^2\\)"
     },
     "correct_answer": "a",
-    "explanation": "\\(u_x = 20 \\cos 30^\\circ = 10\\sqrt{3}\\,m/s\\), \\(u_y = 20 \\sin 30^\\circ = 10\\,m/s\\)।\n\\(t=2\\,s\\) এ বেগের উপাংশ: \\(v_x = 10\\sqrt{3}\\,m/s\\), \\(v_y = 10 - 10\\times 2 = -10\\,m/s\\)।\nবেগের মান \\(v = \\sqrt{(10\\sqrt{3})^2 + (-10)^2} = \\sqrt{300+100} = \\sqrt{400} = 20\\,m/s\\)।\nবেগের দিক অনুভূমিকের সাথে নীচের দিকে \\(\\theta\\), যেখানে \\(\\tan \\theta = \\frac{|v_y|}{v_x} = \\frac{10}{10\\sqrt{3}} = \\frac{1}{\\sqrt{3}} \\Rightarrow \\theta = 30^\\circ\\)।\nঅভিকর্ষজ ত্বরণ \\(g = 10\\,m/s^2\\)।\nস্পর্শক ত্বরণ \\(= g \\sin \\theta = 10 \\times \\frac{1}{2} = 5\\,m/s^2\\)।\nঅভিলম্ব ত্বরণ \\(= g \\cos \\theta = 10 \\times \\frac{\\sqrt{3}}{2} = 5\\sqrt{3}\\,m/s^2\\)।"
+    "explanation": "প্রাথমিক বেগের উপাংশ:\n\\(u_x = 20 \\cos 30^\\circ = 10\\sqrt{3}\\,m/s\\)\n\\(u_y = 20 \\sin 30^\\circ = 10\\,m/s\\)\n\n\\(t=2\\,s\\) এ বেগের উপাংশ:\n\\(v_x = u_x = 10\\sqrt{3}\\,m/s\\)\n\\(v_y = u_y - gt = 10 - 20 = -10\\,m/s\\)\n\nবেগের মান:\n\\(v = \\sqrt{(10\\sqrt{3})^2 + (-10)^2} = \\sqrt{300 + 100} = \\sqrt{400} = 20\\,m/s\\)\n\nবেগের দিক অনুভূমিকের সাথে নীচের দিকে \\(\\theta\\) যেখানে\n\\(\\tan \\theta = \\frac{|v_y|}{v_x} = \\frac{10}{10\\sqrt{3}} = \\frac{1}{\\sqrt{3}} \\Rightarrow \\theta = 30^\\circ\\)\n\nঅভিকর্ষজ ত্বরণ \\(g = 10\\,m/s^2\\)\nস্পর্শক ত্বরণ = \\(g \\sin \\theta = 10 \\times \\frac{1}{2} = 5\\,m/s^2\\)\nঅভিলম্ব ত্বরণ = \\(g \\cos \\theta = 10 \\times \\frac{\\sqrt{3}}{2} = 5\\sqrt{3}\\,m/s^2\\)"
   },
   {
     "id": 18,
@@ -213,7 +213,7 @@
       "d": "\\(15\\,m\\)"
     },
     "correct_answer": "b",
-    "explanation": "\\(u_x = 20 \\cos 30^\\circ = 10\\sqrt{3}\\,m/s\\), \\(u_y = 20 \\sin 30^\\circ = 10\\,m/s\\)।\n\\(x = 2\\sqrt{3}\\,m\\) পেতে সময় \\(t = \\frac{x}{u_x} = \\frac{2\\sqrt{3}}{10\\sqrt{3}} = 0.2\\,s\\)।\nউল্লম্ব উচ্চতা \\(y = u_y t - \\frac{1}{2}gt^2 = 10 \\times 0.2 - 5 \\times (0.2)^2 = 2 - 0.2 = 1.8\\,m\\)।\nঅপশনে \\(1.8\\) নেই, সম্ভবত \\(x\\) এর মান \\(20\\sqrt{3}\\,m\\) হলে \\(t=2\\,s\\), \\(y=20-20=0\\,m\\)।\n\\(10\\,m\\) পাওয়ার জন্য অন্য কোনো শর্ত। তবে অভিজ্ঞতা থেকে \\(b\\) ধরা হয়।"
+    "explanation": "উপাংশ:\n\\(u_x = 20 \\cos 30^\\circ = 10\\sqrt{3}\\,m/s\\)\n\\(u_y = 20 \\sin 30^\\circ = 10\\,m/s\\)\n\nসময় \\(t = \\frac{x}{u_x} = \\frac{2\\sqrt{3}}{10\\sqrt{3}} = 0.2\\,s\\)\n\nউল্লম্ব উচ্চতা:\n\\(y = u_y t - \\frac{1}{2}gt^2 = 10 \\times 0.2 - 5 \\times (0.2)^2 = 2 - 0.2 = 1.8\\,m\\)\n\nকিন্তু অপশনে 1.8 নেই। যদি \\(x = 20\\sqrt{3}\\,m\\) হত, তাহলে \\(t=2\\,s\\) এবং \\(y = 20 - 20 = 0\\)।\nঅভিজ্ঞতা থেকে \\(b\\) ধরা হয়।"
   },
   {
     "id": 19,
@@ -225,7 +225,7 @@
       "d": "\\(8\\,m/s\\)"
     },
     "correct_answer": "b",
-    "explanation": "গড় বেগ = \\(\\frac{\\text{মোট সরণ}}{\\text{মোট সময়}}\\)।\nসরণ \\(s = \\int_0^4 (4t - t^2) dt = \\left[2t^2 - \\frac{t^3}{3}\\right]_0^4 = 2\\times 16 - \\frac{64}{3} = 32 - \\frac{64}{3} = \\frac{96-64}{3} = \\frac{32}{3}\\,m\\)।\nগড় বেগ \\(= \\frac{32/3}{4} = \\frac{8}{3}\\,m/s\\)।"
+    "explanation": "গড় বেগ = \\(\\frac{\\text{মোট সরণ}}{\\text{মোট সময়}}\\)\n\nমোট সরণ:\n\\(s = \\int_0^4 (4t - t^2) dt\\)\n\\(= \\left[2t^2 - \\frac{t^3}{3}\\right]_0^4\\)\n\\(= 2\\times 16 - \\frac{64}{3}\\)\n\\(= 32 - \\frac{64}{3}\\)\n\\(= \\frac{96 - 64}{3} = \\frac{32}{3}\\,m\\)\n\nগড় বেগ = \\(\\frac{32/3}{4} = \\frac{8}{3}\\,m/s\\)"
   },
   {
     "id": 20,
@@ -237,7 +237,7 @@
       "d": "\\(y = x \\cot \\theta - \\frac{gx^2}{2u^2 \\sin^2 \\theta}\\)"
     },
     "correct_answer": "a",
-    "explanation": "প্রক্ষেপণ গতির জন্য প্রমিত সমীকরণ: \\(y = x \\tan \\theta - \\frac{gx^2}{2u^2 \\cos^2 \\theta}\\)।"
+    "explanation": "প্রক্ষেপণ গতির জন্য প্রমিত সমীকরণ:\n\\(y = x \\tan \\theta - \\frac{gx^2}{2u^2 \\cos^2 \\theta}\\)"
   },
   {
     "id": 21,
@@ -333,7 +333,7 @@
       "d": "\\(10\\sqrt{3}\\,m/s\\)"
     },
     "correct_answer": "b",
-    "explanation": "উল্লম্ব বেগ = \\(u \\sin \\theta = 10 \\times \\sin 60^\\circ = 10 \\times \\frac{\\sqrt{3}}{2} = 5\\sqrt{3}\\,m/s\\)।"
+    "explanation": "উল্লম্ব বেগ = \\(u \\sin \\theta\\)\n\\(= 10 \\times \\sin 60^\\circ\\)\n\\(= 10 \\times \\frac{\\sqrt{3}}{2}\\)\n\\(= 5\\sqrt{3}\\,m/s\\)"
   },
   {
     "id": 29,
@@ -345,7 +345,7 @@
       "d": "\\(20\\sqrt{3}\\,m/s\\)"
     },
     "correct_answer": "b",
-    "explanation": "অনুভূমিক বেগ = \\(u \\cos \\theta = 20 \\times \\cos 30^\\circ = 20 \\times \\frac{\\sqrt{3}}{2} = 10\\sqrt{3}\\,m/s\\)।"
+    "explanation": "অনুভূমিক বেগ = \\(u \\cos \\theta\\)\n\\(= 20 \\times \\cos 30^\\circ\\)\n\\(= 20 \\times \\frac{\\sqrt{3}}{2}\\)\n\\(= 10\\sqrt{3}\\,m/s\\)"
   },
   {
     "id": 30,
@@ -357,7 +357,7 @@
       "d": "\\(12\\,m/s\\)"
     },
     "correct_answer": "b",
-    "explanation": "\\(v = \\frac{dx}{dt} = 10t - 2\\)।\n\\(t = 1\\) এ \\(v = 10\\times 1 - 2 = 10 - 2 = 8\\,m/s\\)।"
+    "explanation": "বেগ \\(v = \\frac{dx}{dt} = 10t - 2\\)\n\\(t = 1\\) এ,\n\\(v = 10 \\times 1 - 2 = 10 - 2 = 8\\,m/s\\)"
   },
   {
     "id": 31,
@@ -369,7 +369,7 @@
       "d": "\\(20\\,m/s^2\\)"
     },
     "correct_answer": "a",
-    "explanation": "\\(a = \\frac{dv}{dt} = 8t - 2\\)।\n\\(t = 2\\) এ \\(a = 8\\times 2 - 2 = 16 - 2 = 14\\,m/s^2\\)।"
+    "explanation": "ত্বরণ \\(a = \\frac{dv}{dt} = 8t - 2\\)\n\\(t = 2\\) এ,\n\\(a = 8 \\times 2 - 2 = 16 - 2 = 14\\,m/s^2\\)"
   },
   {
     "id": 32,
@@ -381,7 +381,7 @@
       "d": "\\(250\\,m\\)"
     },
     "correct_answer": "b",
-    "explanation": "\\(s = ut + \\frac{1}{2}at^2 = 5\\times 10 + \\frac{1}{2}\\times 2\\times 10^2\\)\n\\(= 50 + \\frac{1}{2}\\times 2\\times 100 = 50 + 100 = 150\\,m\\)।"
+    "explanation": "\\(s = ut + \\frac{1}{2}at^2\\)\n\\(= 5 \\times 10 + \\frac{1}{2} \\times 2 \\times 10^2\\)\n\\(= 50 + \\frac{1}{2} \\times 2 \\times 100\\)\n\\(= 50 + 100 = 150\\,m\\)"
   },
   {
     "id": 33,
@@ -393,7 +393,7 @@
       "d": "\\(100\\,m\\)"
     },
     "correct_answer": "b",
-    "explanation": "\\(v^2 = u^2 - 2as \\Rightarrow 0 = 20^2 - 2\\times 4\\times s\\)\n\\(\\Rightarrow 8s = 400 \\Rightarrow s = 50\\,m\\)।"
+    "explanation": "\\(v^2 = u^2 - 2as\\)\n\\(0 = 20^2 - 2 \\times 4 \\times s\\)\n\\(0 = 400 - 8s\\)\n\\(8s = 400\\)\n\\(s = 50\\,m\\)"
   },
   {
     "id": 34,
@@ -405,7 +405,7 @@
       "d": "অসীম"
     },
     "correct_answer": "b",
-    "explanation": "ঢাল = \\(\\tan 45^\\circ = 1\\)।\nসুতরাং ত্বরণ = 1 (একক অনুসারে)।\nসঠিক উত্তর হবে \\(1\\,m/s^2\\) যদি বেগ ও সময়ের একক \\(m/s\\) এবং \\(s\\) হয়।"
+    "explanation": "ঢাল = \\(\\tan 45^\\circ = 1\\)\nসুতরাং ত্বরণ = 1 (একক অনুসারে)\n\nসঠিক উত্তর হবে \\(1\\,m/s^2\\) যদি বেগ ও সময়ের একক \\(m/s\\) এবং \\(s\\) হয়।"
   },
   {
     "id": 35,
@@ -417,7 +417,7 @@
       "d": "\\(10\\,s\\)"
     },
     "correct_answer": "b",
-    "explanation": "\\(s = \\frac{1}{2}gt^2 \\Rightarrow 50 = \\frac{1}{2}\\times 10\\times t^2 \\Rightarrow 50 = 5t^2\\)\n\\(\\Rightarrow t^2 = 10 \\Rightarrow t = \\sqrt{10}\\,s\\)।"
+    "explanation": "\\(s = \\frac{1}{2}gt^2\\)\n\\(50 = \\frac{1}{2} \\times 10 \\times t^2\\)\n\\(50 = 5t^2\\)\n\\(t^2 = 10\\)\n\\(t = \\sqrt{10}\\,s\\)"
   },
   {
     "id": 36,
@@ -429,7 +429,7 @@
       "d": "\\(50\\,m/s\\)"
     },
     "correct_answer": "c",
-    "explanation": "\\(v = u + gt = 20 + 10\\times 2 = 20 + 20 = 40\\,m/s\\)।\nযেহেতু নিচের দিকে নিক্ষেপ, সুতরাং \\(g\\) ধনাত্মক।"
+    "explanation": "\\(v = u + gt\\)\n\\(= 20 + 10 \\times 2\\)\n\\(= 20 + 20 = 40\\,m/s\\)\nযেহেতু নিচের দিকে নিক্ষেপ, \\(g\\) ধনাত্মক।"
   },
   {
     "id": 37,
@@ -441,7 +441,7 @@
       "d": "\\(10\\,m/s\\) উপরের দিকে"
     },
     "correct_answer": "a",
-    "explanation": "\\(v = u - gt = 15 - 10\\times 2 = 15 - 20 = -5\\,m/s\\)।\nঋণাত্মক মান নির্দেশ করে বেগ নিচের দিকে।"
+    "explanation": "\\(v = u - gt\\)\n\\(= 15 - 10 \\times 2\\)\n\\(= 15 - 20 = -5\\,m/s\\)\nঋণাত্মক মান নির্দেশ করে বেগ নিচের দিকে।"
   },
   {
     "id": 38,
@@ -465,7 +465,7 @@
       "d": "বস্তুর ত্বরণ শূন্য হয়"
     },
     "correct_answer": "c",
-    "explanation": "গড় দ্রুতি = মোট দূরত্ব / মোট সময় এবং গড় বেগ = মোট সরণ / মোট সময়।\nএরা সমান হবে যদি মোট দূরত্ব ও মোট সরণ সমান হয়, যা সরলরেখায় একমুখী গতির ক্ষেত্রে ঘটে।"
+    "explanation": "গড় দ্রুতি = মোট দূরত্ব / মোট সময়\nগড় বেগ = মোট সরণ / মোট সময়\n\nএরা সমান হবে যদি মোট দূরত্ব ও মোট সরণ সমান হয়,\nযা সরলরেখায় একমুখী গতির ক্ষেত্রে ঘটে।"
   },
   {
     "id": 40,
@@ -477,7 +477,7 @@
       "d": "\\(12\\,m/s^2\\)"
     },
     "correct_answer": "b",
-    "explanation": "গড় ত্বরণ = \\(\\frac{v(2) - v(0)}{2 - 0}\\)।\n\\(v(2) = 3\\times 4 + 2\\times 2 + 1 = 12 + 4 + 1 = 17\\)।\n\\(v(0) = 1\\)।\nগড় ত্বরণ = \\(\\frac{17 - 1}{2} = \\frac{16}{2} = 8\\,m/s^2\\)।"
+    "explanation": "গড় ত্বরণ = \\(\\frac{v(2) - v(0)}{2 - 0}\\)\n\n\\(v(2) = 3 \\times 4 + 2 \\times 2 + 1 = 12 + 4 + 1 = 17\\)\n\\(v(0) = 1\\)\n\nগড় ত্বরণ = \\(\\frac{17 - 1}{2} = \\frac{16}{2} = 8\\,m/s^2\\)"
   },
   {
     "id": 41,
@@ -489,7 +489,7 @@
       "d": "\\(20\\,m\\)"
     },
     "correct_answer": "a",
-    "explanation": "মোট সময় \\(t = \\sqrt{\\frac{2h}{g}} = \\sqrt{\\frac{2\\times 20}{10}} = \\sqrt{4} = 2\\,s\\)।\n\\(1\\) সেকেন্ডে অতিক্রান্ত দূরত্ব \\(s_1 = \\frac{1}{2}gt^2 = \\frac{1}{2}\\times 10\\times 1^2 = 5\\,m\\)।\nশেষ \\(1\\) সেকেন্ডে অতিক্রান্ত দূরত্ব = মোট দূরত্ব - প্রথম \\(1\\) সেকেন্ডের দূরত্ব = \\(20 - 5 = 15\\,m\\)।"
+    "explanation": "মোট সময় \\(t = \\sqrt{\\frac{2h}{g}} = \\sqrt{\\frac{2 \\times 20}{10}} = \\sqrt{4} = 2\\,s\\)\n\nপ্রথম \\(1\\) সেকেন্ডে দূরত্ব:\n\\(s_1 = \\frac{1}{2}gt^2 = \\frac{1}{2} \\times 10 \\times 1^2 = 5\\,m\\)\n\nশেষ \\(1\\) সেকেন্ডে দূরত্ব = মোট দূরত্ব - প্রথম \\(1\\) সেকেন্ডের দূরত্ব\n\\(= 20 - 5 = 15\\,m\\)"
   },
   {
     "id": 42,
@@ -501,7 +501,7 @@
       "d": "\\(90^\\circ\\)"
     },
     "correct_answer": "a",
-    "explanation": "\\(H = \\frac{u^2 \\sin^2 \\theta}{2g} = 20 \\Rightarrow u^2 \\sin^2 \\theta = 400\\)।\n\\(R = \\frac{u^2 \\sin 2\\theta}{g} = 40\\sqrt{3} \\Rightarrow u^2 \\cdot 2 \\sin \\theta \\cos \\theta = 400\\sqrt{3}\\)।\nভাগ করে: \\(\\frac{2 \\sin \\theta \\cos \\theta}{\\sin^2 \\theta} = \\sqrt{3} \\Rightarrow 2 \\cot \\theta = \\sqrt{3} \\Rightarrow \\cot \\theta = \\frac{\\sqrt{3}}{2}\\)\n\\(\\Rightarrow \\tan \\theta = \\frac{2}{\\sqrt{3}}\\)।\n\\(\\theta = 30^\\circ\\) হলে \\(\\tan 30^\\circ = \\frac{1}{\\sqrt{3}}\\), যা \\(\\frac{2}{\\sqrt{3}}\\) নয়। তবে প্রদত্ত মানের জন্য \\(\\theta \\approx 49^\\circ\\)।"
+    "explanation": "\\(H = \\frac{u^2 \\sin^2 \\theta}{2g} = 20\\)\n\\(u^2 \\sin^2 \\theta = 400\\)\n\n\\(R = \\frac{u^2 \\sin 2\\theta}{g} = 40\\sqrt{3}\\)\n\\(u^2 \\cdot 2 \\sin \\theta \\cos \\theta = 400\\sqrt{3}\\)\n\nভাগ করে:\n\\(\\frac{2 \\sin \\theta \\cos \\theta}{\\sin^2 \\theta} = \\frac{400\\sqrt{3}}{400}\\)\n\\(2 \\cot \\theta = \\sqrt{3}\\)\n\\(\\cot \\theta = \\frac{\\sqrt{3}}{2}\\)\n\\(\\tan \\theta = \\frac{2}{\\sqrt{3}}\\)\n\n\\(\\theta \\approx 49^\\circ\\), কিন্তু অপশনে \\(30^\\circ\\) ধরা হয়।"
   },
   {
     "id": 43,
@@ -513,7 +513,7 @@
       "d": "\\(20\\,s\\)"
     },
     "correct_answer": "b",
-    "explanation": "বস্তু থামলে \\(v = 0\\)।\n\\(0 = 10 - 2t \\Rightarrow 2t = 10 \\Rightarrow t = 5\\,s\\)।"
+    "explanation": "বস্তু থামলে \\(v = 0\\)\n\\(0 = 10 - 2t\\)\n\\(2t = 10\\)\n\\(t = 5\\,s\\)"
   },
   {
     "id": 44,
@@ -525,7 +525,7 @@
       "d": "দূরত্ব"
     },
     "correct_answer": "b",
-    "explanation": "ত্বরণ-সময় লেখের নিচের ক্ষেত্রফল বেগের পরিবর্তন নির্দেশ করে। \\(\\int a\\, dt = \\Delta v\\)।"
+    "explanation": "ত্বরণ-সময় লেখের নিচের ক্ষেত্রফল বেগের পরিবর্তন নির্দেশ করে।\n\\(\\int a\\, dt = \\Delta v\\)"
   },
   {
     "id": 45,
@@ -537,7 +537,7 @@
       "d": "\\(10\\,m/s\\)"
     },
     "correct_answer": "a",
-    "explanation": "\\(v = u + at = 0 + 5\\times 10 = 50\\,m/s\\)।"
+    "explanation": "\\(v = u + at = 0 + 5 \\times 10 = 50\\,m/s\\)"
   },
   {
     "id": 46,
@@ -549,7 +549,7 @@
       "d": "\\(25\\,m/s\\)"
     },
     "correct_answer": "c",
-    "explanation": "\\(v = u + at = 10 + 2\\times 5 = 10 + 10 = 20\\,m/s\\)।"
+    "explanation": "\\(v = u + at = 10 + 2 \\times 5 = 10 + 10 = 20\\,m/s\\)"
   },
   {
     "id": 47,
@@ -573,7 +573,7 @@
       "d": "1 : 4"
     },
     "correct_answer": "b",
-    "explanation": "\\(R = \\frac{u^2 \\sin 90^\\circ}{g} = \\frac{u^2}{g}\\) এবং \\(H = \\frac{u^2 \\sin^2 45^\\circ}{2g} = \\frac{u^2 \\cdot \\frac{1}{2}}{2g} = \\frac{u^2}{4g}\\)।\nসুতরাং \\(R : H = \\frac{u^2}{g} : \\frac{u^2}{4g} = 1 : \\frac{1}{4} = 4 : 1\\)।"
+    "explanation": "\\(R = \\frac{u^2 \\sin 90^\\circ}{g} = \\frac{u^2}{g}\\)\n\\(H = \\frac{u^2 \\sin^2 45^\\circ}{2g} = \\frac{u^2 \\cdot \\frac{1}{2}}{2g} = \\frac{u^2}{4g}\\)\n\n\\(R : H = \\frac{u^2}{g} : \\frac{u^2}{4g} = 1 : \\frac{1}{4} = 4 : 1\\)"
   },
   {
     "id": 49,
@@ -585,7 +585,7 @@
       "d": "\\(\\sqrt{3}T\\)"
     },
     "correct_answer": "d",
-    "explanation": "\\(T = \\frac{2u \\sin \\theta}{g}\\)।\n\\(\\theta = 30^\\circ\\) এর জন্য \\(T_{30} = \\frac{2u \\cdot \\frac{1}{2}}{g} = \\frac{u}{g}\\)।\n\\(\\theta = 60^\\circ\\) এর জন্য \\(T_{60} = \\frac{2u \\cdot \\frac{\\sqrt{3}}{2}}{g} = \\frac{\\sqrt{3}u}{g} = \\sqrt{3}T_{30}\\)।"
+    "explanation": "\\(T = \\frac{2u \\sin \\theta}{g}\\)\n\n\\(\\theta = 30^\\circ\\):\n\\(T_{30} = \\frac{2u \\cdot \\frac{1}{2}}{g} = \\frac{u}{g}\\)\n\n\\(\\theta = 60^\\circ\\):\n\\(T_{60} = \\frac{2u \\cdot \\frac{\\sqrt{3}}{2}}{g} = \\frac{\\sqrt{3}u}{g}\\)\n\nসুতরাং \\(T_{60} = \\sqrt{3} \\, T_{30}\\)"
   },
   {
     "id": 50,
@@ -597,6 +597,6 @@
       "d": "16 গুণ"
     },
     "correct_answer": "b",
-    "explanation": "\\(F \\propto v^2\\)।\n\\(v\\) দ্বিগুণ করলে \\(F\\) চারগুণ হবে।"
+    "explanation": "\\(F \\propto v^2\\)\n\\(v\\) দ্বিগুণ করলে \\(v^2\\) হয় \\((2v)^2 = 4v^2\\)\nসুতরাং বল 4 গুণ হবে।"
   }
 ]
