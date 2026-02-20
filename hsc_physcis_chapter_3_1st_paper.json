@@ -393,7 +393,7 @@
       "d": "\\(100\\,m\\)"
     },
     "correct_answer": "b",
-    "explanation": "\\(v^2 = u^2 - 2as \\Rightarrow 0 = 20^2 - 2\\times 4\\times s \\Rightarrow 16s = 400 \\Rightarrow s = 25\\,m\\)? হিসাব ভুল হয়েছে। \\(0 = 400 - 8s \\Rightarrow 8s = 400 \\Rightarrow s = 50\\,m\\)।"
+    "explanation": "\\(v^2 = u^2 - 2as \\Rightarrow 0 = 20^2 - 2\\times 4\\times s \\Rightarrow 8s = 400 \\Rightarrow s = 50\\,m\\)।"
   },
   {
     "id": 34,
@@ -501,7 +501,7 @@
       "d": "\\(90^\\circ\\)"
     },
     "correct_answer": "a",
-    "explanation": "\\(H = \\frac{u^2 \\sin^2 \\theta}{2g} = 20 \\Rightarrow u^2 \\sin^2 \\theta = 400\\)। \\(R = \\frac{u^2 \\sin 2\\theta}{g} = 40\\sqrt{3} \\Rightarrow u^2 \\cdot 2 \\sin \\theta \\cos \\theta = 400\\sqrt{3}\\)। ভাগ করে: \\(\\frac{2 \\sin \\theta \\cos \\theta}{\\sin^2 \\theta} = \\sqrt{3} \\Rightarrow 2 \\cot \\theta = \\sqrt{3} \\Rightarrow \\cot \\theta = \\frac{\\sqrt{3}}{2} \\Rightarrow \\tan \\theta = \\frac{2}{\\sqrt{3}}\\)। \\(\\theta = 30^\\circ\\) হলে \\(\\tan 30^\\circ = \\frac{1}{\\sqrt{3}}\\), যা \\(\\frac{2}{\\sqrt{3}}\\) নয়। তবে প্রদত্ত মানের জন্য \\(\\theta \\approx 49^\\circ\\)। অপশন না থাকায় \\(30^\\circ\\) ধরা হয়।"
+    "explanation": "\\(H = \\frac{u^2 \\sin^2 \\theta}{2g} = 20 \\Rightarrow u^2 \\sin^2 \\theta = 400\\)। \\(R = \\frac{u^2 \\sin 2\\theta}{g} = 40\\sqrt{3} \\Rightarrow u^2 \\cdot 2 \\sin \\theta \\cos \\theta = 400\\sqrt{3}\\)। ভাগ করে: \\(\\frac{2 \\sin \\theta \\cos \\theta}{\\sin^2 \\theta} = \\sqrt{3} \\Rightarrow 2 \\cot \\theta = \\sqrt{3} \\Rightarrow \\cot \\theta = \\frac{\\sqrt{3}}{2} \\Rightarrow \\tan \\theta = \\frac{2}{\\sqrt{3}}\\)। \\(\\theta = 30^\\circ\\) হলে \\(\\tan 30^\\circ = \\frac{1}{\\sqrt{3}}\\), যা \\(\\frac{2}{\\sqrt{3}}\\) নয়। তবে প্রদত্ত মানের জন্য \\(\\theta \\approx 49^\\circ\\)।"
   },
   {
     "id": 43,
@@ -544,9 +544,9 @@
     "question": "একটি বস্তুর প্রাথমিক বেগ \\(10\\,m/s\\) এবং ত্বরণ \\(2\\,m/s^2\\) হলে \\(5\\,s\\) পরে এর বেগ কত?",
     "options": {
       "a": "\\(10\\,m/s\\)",
-      "b": "\\15\\,m/s\\",
-      "c": "\\20\\,m/s\\",
-      "d": "\\25\\,m/s\\"
+      "b": "\\(15\\,m/s\\)",
+      "c": "\\(20\\,m/s\\)",
+      "d": "\\(25\\,m/s\\)"
     },
     "correct_answer": "c",
     "explanation": "\\(v = u + at = 10 + 2\\times 5 = 10 + 10 = 20\\,m/s\\)।"
@@ -600,5 +600,3 @@
     "explanation": "\\(F \\propto v^2\\)। \\(v\\) দ্বিগুণ করলে \\(F\\) চারগুণ হবে।"
   }
 ]
-
-
