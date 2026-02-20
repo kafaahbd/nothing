@@ -178,5 +178,6 @@
     },
     "correct_answer": "d",
     "explanation": "\\(a = \\frac{dv}{dt} = 6t+4\\)<br>\\(dv = (6t+4)dt\\)<br>\\(\\int dv = \\int (6t+4)dt\\)<br>\\(v - 5 = 3t^2 + 4t\\) (যেহেতু t=0 এ v=5)<br><br>\\(v = 5 + 3t^2 + 4t\\)<br>\\(t=2\\) দিলে,<br>\\(v = 5 + 3\\times 4 + 8 = 5 + 12 + 8 = 25\\,m/s\\)"
-  },
+  }
 ]
+
