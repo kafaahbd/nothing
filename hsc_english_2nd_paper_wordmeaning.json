@@ -1,5 +1,5 @@
 [
-  {
+    {
     "id": 1,
     "question": "What is the Bangla meaning of the word 'Abolish'?",
     "options": {
@@ -8,9 +8,6 @@
       "c": "গঠন করা",
       "d": "ধ্বংস করা"
     },
-    "correct_answer": "b",
-    "explanation": "The correct Bangla meaning of 'Abolish' is বিলু্ত করা, which means to formally put an end to something. 'প্রতিষ্ঠা করা' (establish) is the opposite, 'গঠন করা' (form) is different, and 'ধ্বংস করা' (destroy) implies physical destruction, not formal ending."
-  },
   {
     "id": 2,
     "question": "Identify the correct Bangla meaning for the word 'Cordial'.",
@@ -2999,6 +2996,7 @@
     "correct_answer": "b",
     "explanation": "'Xeric' is an adjective meaning containing or characterized by a dry environment. The Bangla word is শুষ্ক (dry/arid). 'আর্দ্র' (humid), 'জলাবদ্ধ' (waterlogged), and 'স্যাঁতসেঁতে' (damp) are all opposites."
   }
+
 
 
 
