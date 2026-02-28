@@ -10,7 +10,8 @@
     },
     "correct_answer": "b",
     "explanation":"The English word \"Abolish\" means to formally put an end to a system, practice, or institution (e.g., slavery, a law)."
-  {
+    },
+    {
     "id": 2,
     "question": "Identify the correct Bangla meaning for the word 'Cordial'.",
     "options": {
@@ -3004,5 +3005,6 @@
 
 
 ]
+
 
 
