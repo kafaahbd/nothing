@@ -1,0 +1,6002 @@
+[
+  {
+    "id": 1,
+    "question": "I think you are irregular in studies. Be attentive lest —",
+    "options": {
+      "a": "you will fail in the exam",
+      "b": "you should fail in the exam",
+      "c": "you do not fail in the exam",
+      "d": "you would have failed"
+    },
+    "correct_answer": "b",
+    "explanation": "'Lest' যুক্ত বাক্যে structure হলো: lest + subject + should/might + verb-এর base form। এখানে 'should fail' সঠিক।"
+  },
+  {
+    "id": 2,
+    "question": "Jamil had an accident yesterday while he —",
+    "options": {
+      "a": "is crossing the road",
+      "b": "crossed the road",
+      "c": "was crossing the road",
+      "d": "had crossed the road"
+    },
+    "correct_answer": "c",
+    "explanation": "'While' এর ঠিক পরে subject থাকলে সাধারণত past continuous tense হয়। যেহেতু দুর্ঘটনাটি অতীতে (yesterday) ঘটেছিল, তাই 'was crossing' সঠিক।"
+  },
+  {
+    "id": 3,
+    "question": "Corruption is a bottleneck to our national development. It is high time —",
+    "options": {
+      "a": "we check corruption",
+      "b": "we checked corruption",
+      "c": "we should check corruption",
+      "d": "to checking corruption"
+    },
+    "correct_answer": "b",
+    "explanation": "'It is high time' এরপর subject থাকলে verb-এর past form (V2) বসে। তাই 'checked' সঠিক।"
+  },
+  {
+    "id": 4,
+    "question": "Had I been a millionaire, —",
+    "options": {
+      "a": "I will help the poor",
+      "b": "I would help the poor",
+      "c": "I would have helped the poor",
+      "d": "I could help the poor"
+    },
+    "correct_answer": "c",
+    "explanation": "এটি 3rd Conditional (Had + Subject + V3)। এর পরবর্তী অংশে subject + would have/could have + V3 বসে।"
+  },
+  {
+    "id": 5,
+    "question": "Whenever he speaks in English, —. In fact, we learn through mistakes.",
+    "options": {
+      "a": "he makes mistakes",
+      "b": "he made mistakes",
+      "c": "he is making mistakes",
+      "d": "he will make mistakes"
+    },
+    "correct_answer": "a",
+    "explanation": "Whenever সাধারণত চিরন্তন সত্য বা অভ্যাস বুঝাতে Present Simple tense গ্রহণ করে। পরের বাক্যে 'learn' (present) থাকায় এখানে 'makes' সঠিক।"
+  },
+  {
+    "id": 6,
+    "question": "Danger comes where —. So, we have to be careful in our life.",
+    "options": {
+      "a": "danger is feared",
+      "b": "it is feared",
+      "c": "it feared",
+      "d": "it is fearing"
+    },
+    "correct_answer": "b",
+    "explanation": "এটি একটি বিখ্যাত প্রবাদ (Proverb): 'Danger comes where it is feared' (যেখানে বাঘের ভয় সেখানেই রাত হয়)।"
+  },
+  {
+    "id": 7,
+    "question": "It was many years since we —",
+    "options": {
+      "a": "met first",
+      "b": "have met first",
+      "c": "had met first",
+      "d": "meet first"
+    },
+    "correct_answer": "c",
+    "explanation": "'Since' এর প্রথম অংশ Past Indefinite হলে পরের অংশ Past Perfect হয়। তাই 'had met' সঠিক।"
+  },
+  {
+    "id": 8,
+    "question": "Had I got a helicopter, —",
+    "options": {
+      "a": "I would fly in the sky",
+      "b": "I would have flown in the sky",
+      "c": "I will fly in the sky",
+      "d": "I shall fly in the sky"
+    },
+    "correct_answer": "b",
+    "explanation": "এখানে 'Had I got' (Had + Sub + V3) হলো 3rd conditional, তাই structure অনুযায়ী 'would have flown' বসবে।"
+  },
+  {
+    "id": 9,
+    "question": "Rahim Mia is a quack. He behaves as if —",
+    "options": {
+      "a": "he is a doctor",
+      "b": "he was a doctor",
+      "c": "he were a doctor",
+      "d": "he has been a doctor"
+    },
+    "correct_answer": "c",
+    "explanation": "'As if' বা 'As though' এর আগে Present Indefinite থাকলে পরে Past Indefinite (be verb হলে were) বসে।"
+  },
+  {
+    "id": 10,
+    "question": "Don't waste time. Go hurry lest —",
+    "options": {
+      "a": "you should miss the train",
+      "b": "you will miss the train",
+      "c": "you missed the train",
+      "d": "you can miss the train"
+    },
+    "correct_answer": "a",
+    "explanation": "Lest-এর নিয়মানুযায়ী Subject (you) + should + Verb-এর base form (miss) ব্যবহৃত হয়েছে।"
+  },
+  {
+    "id": 11,
+    "question": "Wait until —. You should not go out alone.",
+    "options": {
+      "a": "the rain stopped",
+      "b": "the rain stops",
+      "c": "the rain will stop",
+      "d": "the rain is stopping"
+    },
+    "correct_answer": "b",
+    "explanation": "'Until' যুক্ত clause-টি সাধারণত Present Indefinite হয় যদি আগের অংশটি Imperative বা Future হয়।"
+  },
+  {
+    "id": 12,
+    "question": "The patient was so serious and we were looking for a doctor. Alas! The patient had died before —",
+    "options": {
+      "a": "the doctor came",
+      "b": "the doctor has come",
+      "c": "the doctor had come",
+      "d": "the doctor was coming"
+    },
+    "correct_answer": "a",
+    "explanation": "Before-এর আগে Past Perfect (had died) থাকলে পরে Past Indefinite (came) বসে।"
+  },
+  {
+    "id": 13,
+    "question": "The train will start at 10 a.m. Now it is 09:55 a.m. So, walk fast lest —",
+    "options": {
+      "a": "you would miss the train",
+      "b": "you might miss the train",
+      "c": "you will miss the train",
+      "d": "you should miss the train"
+    },
+    "correct_answer": "d",
+    "explanation": "Lest-এর পর subject + should/might বসে। এখানে 'should miss' সবচেয়ে উপযুক্ত।"
+  },
+  {
+    "id": 14,
+    "question": "Ayesha is a bright student. She studies hard so that —",
+    "options": {
+      "a": "she may make a good result",
+      "b": "she could make a good result",
+      "c": "she makes a good result",
+      "d": "she might make a good result"
+    },
+    "correct_answer": "a",
+    "explanation": "'So that' এর আগের অংশ Present tense (studies) হলে পরের অংশে Subject + can/may + V1 বসে।"
+  },
+  {
+    "id": 15,
+    "question": "Had you sought my help, —",
+    "options": {
+      "a": "I would help you",
+      "b": "I would have helped you",
+      "c": "I will help you",
+      "d": "I helped you"
+    },
+    "correct_answer": "b",
+    "explanation": "Had + Subject + V3 দিয়ে বাক্য শুরু হলে তা 3rd conditional, তাই 'would have + V3' হবে।"
+  },
+  {
+    "id": 16,
+    "question": "The men, who love their country, —",
+    "options": {
+      "a": "is called patriots",
+      "b": "are called patriots",
+      "c": "called patriots",
+      "d": "are calling patriots"
+    },
+    "correct_answer": "b",
+    "explanation": "এখানে subject 'The men' প্লুরাল, তাই verb 'are' হবে এবং এটি প্যাসিভ ভয়েসে আছে।"
+  },
+  {
+    "id": 17,
+    "question": "The beggar was very hungry. No sooner had he got a piece of loaf on the road than —",
+    "options": {
+      "a": "he began to eat it",
+      "b": "he begins to eat it",
+      "c": "he had begun to eat it",
+      "d": "he was beginning to eat it"
+    },
+    "correct_answer": "a",
+    "explanation": "No sooner had... than-এর পর Past Indefinite tense (V2) বসে। তাই 'began' সঠিক।"
+  },
+  {
+    "id": 18,
+    "question": "My brother will come to Rajshahi from Dhaka. So, I have to go to station with a view to —",
+    "options": {
+      "a": "receive him",
+      "b": "receiving him",
+      "c": "received him",
+      "d": "be receiving him"
+    },
+    "correct_answer": "b",
+    "explanation": "'With a view to' এর পর verb-এর সাথে 'ing' যুক্ত হয়। তাই 'receiving' সঠিক।"
+  },
+  {
+    "id": 19,
+    "question": "I wish I —. I would express my feelings in my poems.",
+    "options": {
+      "a": "am a poet",
+      "b": "was a poet",
+      "c": "were a poet",
+      "d": "had been a poet"
+    },
+    "correct_answer": "c",
+    "explanation": "অসম্ভব ইচ্ছা প্রকাশ করতে 'I wish' এর পর 'were' বসে।"
+  },
+  {
+    "id": 20,
+    "question": "It is too late. — we would not have missed the train.",
+    "options": {
+      "a": "Had we been late",
+      "b": "If we had started earlier",
+      "c": "Unless we started early",
+      "d": "If we started early"
+    },
+    "correct_answer": "b",
+    "explanation": "পরের অংশে 'would not have missed' (3rd conditional) থাকায় আগের অংশটি If + Past Perfect হতে হবে।"
+  },
+  {
+    "id": 21,
+    "question": "The poem is too difficult for —",
+    "options": {
+      "a": "me to understand",
+      "b": "me understanding",
+      "c": "I to understand",
+      "d": "me that I understand"
+    },
+    "correct_answer": "a",
+    "explanation": "Too + adjective + for + personal object + to + V1 — এই গঠন অনুযায়ী 'me to understand' সঠিক।"
+  },
+  {
+    "id": 22,
+    "question": "Despite —, he helps his relatives.",
+    "options": {
+      "a": "he is poor",
+      "b": "his being poor",
+      "c": "being rich",
+      "d": "his poverty"
+    },
+    "correct_answer": "d",
+    "explanation": "Despite-এর পর noun phrase বা possessive + V-ing বসে। 'his poverty' (তার দারিদ্র্য সত্ত্বেও) অর্থপূর্ণ।"
+  },
+  {
+    "id": 23,
+    "question": "He took Logic — History. History seems to be difficult to him.",
+    "options": {
+      "a": "instead of",
+      "b": "because of",
+      "c": "in spite of",
+      "d": "despite"
+    },
+    "correct_answer": "a",
+    "explanation": "ইতিহাসের পরিবর্তে সে লজিক নিয়েছে, তাই 'instead of' (পরিবর্তে) সঠিক।"
+  },
+  {
+    "id": 24,
+    "question": "Overeating is harmful to health. It is high time —",
+    "options": {
+      "a": "we should stop overeating",
+      "b": "we stop overeating",
+      "c": "we stopped overeating",
+      "d": "to stop overeating"
+    },
+    "correct_answer": "c",
+    "explanation": "'It is high time' এরপর subject থাকলে verb-এর past form হয়।"
+  },
+  {
+    "id": 25,
+    "question": "No sooner had I reached the college —",
+    "options": {
+      "a": "then the bell rang",
+      "b": "when the bell rang",
+      "c": "than the bell rang",
+      "d": "that the bell rang"
+    },
+    "correct_answer": "c",
+    "explanation": "No sooner had...-এর সাথে correlative হিসেবে 'than' বসে।"
+  },
+  {
+    "id": 26,
+    "question": "In spite of having all facilities, the boy —",
+    "options": {
+      "a": "could not succeed",
+      "b": "succeeded",
+      "c": "is succeeding",
+      "d": "has success"
+    },
+    "correct_answer": "a",
+    "explanation": "'In spite of' বিপরীত অর্থ প্রকাশ করে। সব সুবিধা থাকা সত্ত্বেও সে সফল হতে পারেনি।"
+  },
+  {
+    "id": 27,
+    "question": "Unity is strength. United we stand, —",
+    "options": {
+      "a": "divided we fail",
+      "b": "divided we fall",
+      "c": "divided we won",
+      "d": "divided we stood"
+    },
+    "correct_answer": "b",
+    "explanation": "এটি একটি প্রবাদ: 'United we stand, divided we fall' (একতাই বল, বিভেদেই পতন)।"
+  },
+  {
+    "id": 28,
+    "question": "If I had the wings of a bird, I —",
+    "options": {
+      "a": "would have flown",
+      "b": "would fly",
+      "c": "will fly",
+      "d": "could have flown"
+    },
+    "correct_answer": "b",
+    "explanation": "এখানে 'had' মূল verb হিসেবে আছে (Past Indefinite), যা 2nd Conditional। তাই 'would + V1' হবে।"
+  },
+  {
+    "id": 29,
+    "question": "John is fond of reading. Whenever he goes to the book fair, —",
+    "options": {
+      "a": "he bought some books",
+      "b": "he buys some books",
+      "c": "he will buy some books",
+      "d": "he has bought books"
+    },
+    "correct_answer": "b",
+    "explanation": "অভ্যাসগত কাজ বুঝাতে 'whenever' এর সাথে Present Indefinite ব্যবহার করা হয়।"
+  },
+  {
+    "id": 30,
+    "question": "Would you mind —? I am very thirsty.",
+    "options": {
+      "a": "to give me a glass of water",
+      "b": "giving me a glass of water",
+      "c": "if you give me water",
+      "d": "give me water"
+    },
+    "correct_answer": "b",
+    "explanation": "'Would you mind' এর পর verb-এর সাথে 'ing' যুক্ত হয়।"
+  },
+  {
+    "id": 31,
+    "question": "Air is polluted in many ways. It is high time —",
+    "options": {
+      "a": "we prevent air pollution",
+      "b": "we prevented air pollution",
+      "c": "we should prevent it",
+      "d": "to preventing air pollution"
+    },
+    "correct_answer": "b",
+    "explanation": "It is high time + subject + V2 (past form) নিয়ম অনুযায়ী 'prevented' সঠিক।"
+  },
+  {
+    "id": 32,
+    "question": "He wrote very quickly. He had finished the exam before the —",
+    "options": {
+      "a": "bell rang",
+      "b": "bell had rung",
+      "c": "bell rings",
+      "d": "bell was ringing"
+    },
+    "correct_answer": "a",
+    "explanation": "Before-এর আগে Past Perfect থাকলে পরে Past Indefinite (V2) হয়।"
+  },
+  {
+    "id": 33,
+    "question": "A village doctor is a person who —. He is the best friend to the villagers.",
+    "options": {
+      "a": "treats the village people",
+      "b": "treated the village people",
+      "c": "is treating the people",
+      "d": "was a doctor"
+    },
+    "correct_answer": "a",
+    "explanation": "সাধারণ পরিচয় বা পেশা বুঝাতে Present Indefinite tense ব্যবহৃত হয়।"
+  },
+  {
+    "id": 34,
+    "question": "Scarcely had the teacher entered the classroom —",
+    "options": {
+      "a": "than the students stood up",
+      "b": "when the students stood up",
+      "c": "then the students stood up",
+      "d": "after the students stood up"
+    },
+    "correct_answer": "b",
+    "explanation": "Scarcely had... এর সাথে 'when' বসে।"
+  },
+  {
+    "id": 35,
+    "question": "The load is so heavy that —",
+    "options": {
+      "a": "he cannot carry it",
+      "b": "he could not carry it",
+      "c": "he cannot carry",
+      "d": "he could not carry"
+    },
+    "correct_answer": "a",
+    "explanation": "So + adjective + that + sub + cannot/could not + V1। যেহেতু 'is' present, তাই 'cannot carry it' সঠিক।"
+  },
+  {
+    "id": 36,
+    "question": "I went to the library with a view to —",
+    "options": {
+      "a": "read books",
+      "b": "reading books",
+      "c": "to read books",
+      "d": "have read books"
+    },
+    "correct_answer": "b",
+    "explanation": "With a view to + (verb+ing) নিয়ম অনুযায়ী 'reading' সঠিক।"
+  },
+  {
+    "id": 37,
+    "question": "Strike the iron —",
+    "options": {
+      "a": "as it is hot",
+      "b": "while it is hot",
+      "c": "when it will be hot",
+      "d": "after it is hot"
+    },
+    "correct_answer": "b",
+    "explanation": "এটি একটি প্রবাদ: 'Strike the iron while it is hot' (ঝোপ বুঝে কোপ মারা)।"
+  },
+  {
+    "id": 38,
+    "question": "Five years passed since —",
+    "options": {
+      "a": "his father died",
+      "b": "his father has died",
+      "c": "his father had died",
+      "d": "his father dies"
+    },
+    "correct_answer": "a",
+    "explanation": "Since-এর আগের অংশ Present Perfect বা Present Indefinite হলে পরের অংশ Past Indefinite হয়।"
+  },
+  {
+    "id": 39,
+    "question": "The box is very heavy. Are you strong enough —?",
+    "options": {
+      "a": "to carry it",
+      "b": "to carrying it",
+      "c": "carrying it",
+      "d": "that you carry it"
+    },
+    "correct_answer": "a",
+    "explanation": "Adjective + enough + to + V1 — এই গঠন অনুযায়ী 'to carry it' সঠিক।"
+  },
+  {
+    "id": 40,
+    "question": "Had I seen him, —",
+    "options": {
+      "a": "I would tell him the news",
+      "b": "I would have told him the news",
+      "c": "I will tell him the news",
+      "d": "I told him the news"
+    },
+    "correct_answer": "b",
+    "explanation": "3rd Conditional (Had + Sub + V3) এর নিয়ম অনুযায়ী 'would have + V3' হবে।"
+  },
+  {
+    "id": 41,
+    "question": "Unless you work hard, —",
+    "options": {
+      "a": "you will succeed",
+      "b": "you cannot succeed",
+      "c": "you would not succeed",
+      "d": "you will be succeed"
+    },
+    "correct_answer": "b",
+    "explanation": "Unless (যদি না) নেতিবাচক অর্থ দেয়। কঠোর পরিশ্রম না করলে তুমি সফল হতে পারবে না।"
+  },
+  {
+    "id": 42,
+    "question": "Walk fast lest —",
+    "options": {
+      "a": "you should miss the class",
+      "b": "you will miss the class",
+      "c": "you could miss the class",
+      "d": "you miss the class"
+    },
+    "correct_answer": "a",
+    "explanation": "Lest-এর পরে subject + should বসে।"
+  },
+  {
+    "id": 43,
+    "question": "It is high time we — our habits.",
+    "options": {
+      "a": "change",
+      "b": "changed",
+      "c": "will change",
+      "d": "should change"
+    },
+    "correct_answer": "b",
+    "explanation": "It is high time-এর পর subject থাকলে past indefinite tense হয়।"
+  },
+  {
+    "id": 44,
+    "question": "Many years have passed since —",
+    "options": {
+      "a": "I saw you last",
+      "b": "I had seen you last",
+      "c": "I see you last",
+      "d": "I have seen you last"
+    },
+    "correct_answer": "a",
+    "explanation": "Since-এর আগে Present Perfect থাকলে পরে Past Indefinite হয়।"
+  },
+  {
+    "id": 45,
+    "question": "If you provided the information, I — the report.",
+    "options": {
+      "a": "will complete",
+      "b": "would complete",
+      "c": "would have completed",
+      "d": "complete"
+    },
+    "correct_answer": "b",
+    "explanation": "If + Past Indefinite (provided) থাকলে পরের অংশে would + V1 বসে (2nd Conditional)।"
+  },
+  {
+    "id": 46,
+    "question": "As he was ill, —",
+    "options": {
+      "a": "he cannot attend the meeting",
+      "b": "he could not attend the meeting",
+      "c": "he will not attend the meeting",
+      "d": "he does not attend the meeting"
+    },
+    "correct_answer": "b",
+    "explanation": "আগের অংশটি Past Tense (was) হওয়ায় পরের অংশটিও Past Tense (could not) হবে।"
+  },
+  {
+    "id": 47,
+    "question": "Wait here until —",
+    "options": {
+      "a": "I come back",
+      "b": "I will come back",
+      "c": "I had come back",
+      "d": "I came back"
+    },
+    "correct_answer": "a",
+    "explanation": "Until যুক্ত অংশটি সাধারণত Present Indefinite হয়।"
+  },
+  {
+    "id": 48,
+    "question": "Though he is poor, —",
+    "options": {
+      "a": "he is dishonest",
+      "b": "he is honest",
+      "c": "he was honest",
+      "d": "he has been honest"
+    },
+    "correct_answer": "b",
+    "explanation": "Though/Although বিপরীত অর্থ প্রকাশ করে। সে গরীব হলেও সৎ।"
+  },
+  {
+    "id": 49,
+    "question": "He speaks as if —",
+    "options": {
+      "a": "he knows everything",
+      "b": "he had known everything",
+      "c": "he knew everything",
+      "d": "he has known everything"
+    },
+    "correct_answer": "c",
+    "explanation": "As if-এর আগে Present Indefinite থাকলে পরে Past Indefinite হয়।"
+  },
+  {
+    "id": 50,
+    "question": "He ran fast so that —",
+    "options": {
+      "a": "he can win the race",
+      "b": "he could win the race",
+      "c": "he would win the race",
+      "d": "he may win the race"
+    },
+    "correct_answer": "b",
+    "explanation": "So that-এর আগে Past Indefinite (ran) থাকলে পরে subject + could/might + V1 বসে।"
+  },
+  {
+    "id": 51,
+    "question": "The box is too heavy for the old man —",
+    "options": {
+      "a": "to carry it",
+      "b": "to carry",
+      "c": "carrying",
+      "d": "that he can carry"
+    },
+    "correct_answer": "b",
+    "explanation": "Too + adjective + for + person + to + V1। মনে রাখতে হবে, বাক্যের শুরুতে object (The box) থাকলে শেষে পুনরায় 'it' ব্যবহারের প্রয়োজন নেই।"
+  },
+  {
+    "id": 52,
+    "question": "1971 is the year when —",
+    "options": {
+      "a": "Bangladesh became independent",
+      "b": "Bangladesh becomes independent",
+      "c": "Bangladesh has become independent",
+      "d": "Bangladesh had become independent"
+    },
+    "correct_answer": "a",
+    "explanation": "অতীতের কোনো নির্দিষ্ট সাল বা সময় বুঝাতে 'when' এর পর Past Indefinite tense বসে।"
+  },
+  {
+    "id": 53,
+    "question": "A newspaper is a storehouse of knowledge. A man can be benefited in many ways —",
+    "options": {
+      "a": "if he read it",
+      "b": "by reading it",
+      "c": "to read it",
+      "d": "unless he reads it"
+    },
+    "correct_answer": "b",
+    "explanation": "পন্থা বা মাধ্যম বুঝাতে 'by + gerund' (by reading it) ব্যবহার করা সবচেয়ে উপযুক্ত।"
+  },
+  {
+    "id": 54,
+    "question": "Student politics, nowadays, has become a serious issue. It is high time we —",
+    "options": {
+      "a": "banned it",
+      "b": "ban it",
+      "c": "should ban it",
+      "d": "had banned it"
+    },
+    "correct_answer": "a",
+    "explanation": "It is high time + subject + V2 (past form) নিয়ম অনুযায়ী 'banned' সঠিক।"
+  },
+  {
+    "id": 55,
+    "question": "A book fair is an attraction for the city-dwellers. Book-lovers gather in the fair so that —",
+    "options": {
+      "a": "they can buy books",
+      "b": "they could buy books",
+      "c": "they can bought books",
+      "d": "they might buy books"
+    },
+    "correct_answer": "a",
+    "explanation": "'So that' এর আগে present tense (gather) থাকলে পরে subject + can/may + V1 বসে।"
+  },
+  {
+    "id": 56,
+    "question": "Success depends on the proper use of time. You will surely succeed provided that —",
+    "options": {
+      "a": "you work hard",
+      "b": "you worked hard",
+      "c": "you will work hard",
+      "d": "you have worked hard"
+    },
+    "correct_answer": "a",
+    "explanation": "'Provided that' অর্থ 'যদি' (if)। এটি 1st conditional হিসেবে কাজ করে, তাই পরের অংশ Present Indefinite হবে।"
+  },
+  {
+    "id": 57,
+    "question": "Time plays a very crucial role in human life. We cannot prosper in life unless —",
+    "options": {
+      "a": "we make the best use of time",
+      "b": "we do not make the best use of time",
+      "c": "we made the best use of time",
+      "d": "we will make the best use of time"
+    },
+    "correct_answer": "a",
+    "explanation": "'Unless' মানে 'যদি না'। এটি নিজেই নেতিবাচক, তাই এর পরের অংশে 'not' বসে না।"
+  },
+  {
+    "id": 58,
+    "question": "His only daughter lives in Canada. It is many years since —",
+    "options": {
+      "a": "he last saw her",
+      "b": "he had last seen her",
+      "c": "he has last seen her",
+      "d": "he sees her"
+    },
+    "correct_answer": "a",
+    "explanation": "Since-এর আগে Present Indefinite/Perfect থাকলে পরে Past Indefinite (saw) হয়।"
+  },
+  {
+    "id": 59,
+    "question": "To tell a lie is a bad habit. The cowboy was used to —",
+    "options": {
+      "a": "tell a lie",
+      "b": "telling a lie",
+      "c": "told a lie",
+      "d": "telling lies"
+    },
+    "correct_answer": "b",
+    "explanation": "'Be used to' (was used to) এর পর verb-এর সাথে 'ing' যুক্ত হয়।"
+  },
+  {
+    "id": 60,
+    "question": "Eve-teasing is a heinous crime. It is high time we —",
+    "options": {
+      "a": "built social awareness",
+      "b": "build social awareness",
+      "c": "should build social awareness",
+      "d": "to build social awareness"
+    },
+    "correct_answer": "a",
+    "explanation": "It is high time-এর পর subject থাকলে verb-এর past form হয়।"
+  },
+  {
+    "id": 61,
+    "question": "My brother had no job then. He went to Dhaka with a view to —",
+    "options": {
+      "a": "find a job",
+      "b": "finding a job",
+      "c": "found a job",
+      "d": "finds a job"
+    },
+    "correct_answer": "b",
+    "explanation": "With a view to + (verb+ing) নিয়ম অনুযায়ী 'finding' সঠিক।"
+  },
+  {
+    "id": 62,
+    "question": "Trees are essential for our existence. So, —",
+    "options": {
+      "a": "we should plant more trees",
+      "b": "we must plant more trees",
+      "c": "we can plant more trees",
+      "d": "all of the above"
+    },
+    "correct_answer": "d",
+    "explanation": "উপদেশ বা প্রয়োজনীয়তা বুঝাতে should, must বা can সবই ব্যবহার করা যেতে পারে।"
+  },
+  {
+    "id": 63,
+    "question": "Wait until —. You should not go out alone.",
+    "options": {
+      "a": "I return",
+      "b": "I will return",
+      "c": "I returned",
+      "d": "I am returning"
+    },
+    "correct_answer": "a",
+    "explanation": "Until যুক্ত clause সাধারণত Present Indefinite হয়।"
+  },
+  {
+    "id": 64,
+    "question": "Love is divine. You can't find others to love you unless —",
+    "options": {
+      "a": "you love them",
+      "b": "you do not love them",
+      "c": "you loved them",
+      "d": "you will love them"
+    },
+    "correct_answer": "a",
+    "explanation": "Unless নিজেই negative অর্থ বহন করে, তাই এর সাথে নতুন করে 'not' দরকার নেই।"
+  },
+  {
+    "id": 65,
+    "question": "Punctuality is a great virtue. So try —",
+    "options": {
+      "a": "to be punctual",
+      "b": "being punctual",
+      "c": "to being punctual",
+      "d": "be punctual"
+    },
+    "correct_answer": "a",
+    "explanation": "Try-এর পর সাধারণত infinitive (to + V1) বসে।"
+  },
+  {
+    "id": 66,
+    "question": "Everybody must be conscious of health because —",
+    "options": {
+      "a": "health is wealth",
+      "b": "health was wealth",
+      "c": "health be wealth",
+      "d": "health being wealth"
+    },
+    "correct_answer": "a",
+    "explanation": "চিরন্তন সত্য (Universal Truth) সবসময় Present Indefinite হয়।"
+  },
+  {
+    "id": 67,
+    "question": "Corruption is a hindrance to national development. It is high time —",
+    "options": {
+      "a": "the government took steps",
+      "b": "the government takes steps",
+      "c": "the government should take steps",
+      "d": "taking steps"
+    },
+    "correct_answer": "a",
+    "explanation": "It is high time + sub + V2।"
+  },
+  {
+    "id": 68,
+    "question": "Patriotism is a noble virtue. It is high time —",
+    "options": {
+      "a": "we loved our country",
+      "b": "we love our country",
+      "c": "to love our country",
+      "d": "both a and c"
+    },
+    "correct_answer": "d",
+    "explanation": "It is high time-এর পর Subject থাকলে V2 হয়, আর সরাসরি Verb বসলে 'to + V1' হয়। এখানে দুটিই গ্রামাটিক্যালি সঠিক।"
+  },
+  {
+    "id": 69,
+    "question": "Hasan got GPA 4.50. Had he studied seriously he —",
+    "options": {
+      "a": "would get GPA 5.00",
+      "b": "would have got GPA 5.00",
+      "c": "will get GPA 5.00",
+      "d": "gets GPA 5.00"
+    },
+    "correct_answer": "b",
+    "explanation": "Had + Sub + V3 (3rd conditional) থাকলে পরের অংশে would have + V3 বসে।"
+  },
+  {
+    "id": 70,
+    "question": "Time is valuable. Those who waste time —",
+    "options": {
+      "a": "cannot shine in life",
+      "b": "could not shine in life",
+      "c": "will shine in life",
+      "d": "shine in life"
+    },
+    "correct_answer": "a",
+    "explanation": "যারা সময় নষ্ট করে তারা জীবনে সফল হতে পারে না—এটি একটি সাধারণ সত্য।"
+  },
+  {
+    "id": 71,
+    "question": "This ceiling is not so high. He is tall enough —",
+    "options": {
+      "a": "to touch it",
+      "b": "touching it",
+      "c": "to touch",
+      "d": "touch it"
+    },
+    "correct_answer": "a",
+    "explanation": "Adjective (tall) + enough + to + V1। এখানে 'touch it' বলা যায় কারণ ceiling-টি নির্দিষ্ট।"
+  },
+  {
+    "id": 72,
+    "question": "Lock the door and keep the key in a safe place lest —",
+    "options": {
+      "a": "anybody should steal it",
+      "b": "anybody will steal it",
+      "c": "anybody stole it",
+      "d": "anybody could steal it"
+    },
+    "correct_answer": "a",
+    "explanation": "Lest-এর নিয়ম: subject + should/might + V1।"
+  },
+  {
+    "id": 73,
+    "question": "You cannot understand everything clearly unless —",
+    "options": {
+      "a": "you are attentive",
+      "b": "you were attentive",
+      "c": "you are not attentive",
+      "d": "you will be attentive"
+    },
+    "correct_answer": "a",
+    "explanation": "Unless-এর পর clause-টি affirmative হয় এবং অর্থ অনুযায়ী present tense বসে।"
+  },
+  {
+    "id": 74,
+    "question": "In spite of facing so many drawbacks in life, he — ultimately.",
+    "options": {
+      "a": "succeeded",
+      "b": "fails",
+      "c": "is failing",
+      "d": "succeed"
+    },
+    "correct_answer": "a",
+    "explanation": "In spite of (সত্ত্বেও) বিপরীত অর্থ দেয়। অনেক বাধা থাকা সত্ত্বেও সে শেষ পর্যন্ত সফল হয়েছিল।"
+  },
+  {
+    "id": 75,
+    "question": "Freedom is man's birthright. He is born free but everywhere —",
+    "options": {
+      "a": "he is in chains",
+      "b": "he was in chains",
+      "c": "he is free",
+      "d": "he will be in chains"
+    },
+    "correct_answer": "a",
+    "explanation": "এটি রুশোর একটি বিখ্যাত উক্তি। বর্তমান অবস্থা বুঝাতে Present Indefinite হয়।"
+  },
+  {
+    "id": 76,
+    "question": "A man leading an indolent life —",
+    "options": {
+      "a": "cannot prosper",
+      "b": "could not prosper",
+      "c": "prosper",
+      "d": "will be prosper"
+    },
+    "correct_answer": "a",
+    "explanation": "অলস ব্যক্তি উন্নতি করতে পারে না—এটি একটি চিরন্তন সত্য।"
+  },
+  {
+    "id": 77,
+    "question": "Be punctual in your studies —",
+    "options": {
+      "a": "lest you should fail",
+      "b": "so that you can fail",
+      "c": "if you fail",
+      "d": "because you fail"
+    },
+    "correct_answer": "a",
+    "explanation": "পাছে বা ভয়ে বুঝাতে 'lest' ব্যবহার করা হয়।"
+  },
+  {
+    "id": 78,
+    "question": "Food adulteration is a crime. It is high time —",
+    "options": {
+      "a": "we stopped it",
+      "b": "we stop it",
+      "c": "we should stop it",
+      "d": "both a and b"
+    },
+    "correct_answer": "a",
+    "explanation": "HSC standard-এ 'It is high time' এরপর Subject থাকলে V2-ই সবচেয়ে গ্রহণযোগ্য।"
+  },
+  {
+    "id": 79,
+    "question": "The old man is very weak. He is walking slowly —",
+    "options": {
+      "a": "lest he should fall down",
+      "b": "so that he can fall down",
+      "c": "lest he will fall down",
+      "d": "if he falls down"
+    },
+    "correct_answer": "a",
+    "explanation": "পড়ে যাওয়ার ভয়ে সে আস্তে হাঁটছে। Lest + sub + should/might + V1।"
+  },
+  {
+    "id": 80,
+    "question": "A student should not memorize any answer blindly. If he memorizes the answer without knowing the meaning, —",
+    "options": {
+      "a": "he will forget it soon",
+      "b": "he would forget it soon",
+      "c": "he forgets it soon",
+      "d": "he can forget it soon"
+    },
+    "correct_answer": "a",
+    "explanation": "If + Present Indefinite (1st conditional) হলে পরের অংশ Future Indefinite (will + V1) হয়।"
+  },
+  {
+    "id": 81,
+    "question": "Had I earned enough money —",
+    "options": {
+      "a": "I would establish a hospital",
+      "b": "I would have established a hospital",
+      "c": "I will establish a hospital",
+      "d": "I established a hospital"
+    },
+    "correct_answer": "b",
+    "explanation": "Had + Subject + V3 (3rd conditional)।"
+  },
+  {
+    "id": 82,
+    "question": "There was a little rain yesterday. If it had rained heavily, —",
+    "options": {
+      "a": "we would not go out",
+      "b": "we would not have gone out",
+      "c": "we will not go out",
+      "d": "we did not go out"
+    },
+    "correct_answer": "b",
+    "explanation": "3rd conditional: If + had + V3, subject + would have + V3।"
+  },
+  {
+    "id": 83,
+    "question": "Though junk foods look appetizing, —. We should avoid them.",
+    "options": {
+      "a": "they are healthy",
+      "b": "they are unhealthy",
+      "c": "they were unhealthy",
+      "d": "they are nutritious"
+    },
+    "correct_answer": "b",
+    "explanation": "Though-এর পরের অংশ আগের অংশের বিপরীত অর্থ দেয়। দেখতে লোভনীয় হলেও এগুলো অস্বাস্থ্যকর।"
+  },
+  {
+    "id": 84,
+    "question": "Opportunity does not always come. You would have succeeded in life provided that —",
+    "options": {
+      "a": "you used the opportunity",
+      "b": "you had used the opportunity",
+      "c": "you use the opportunity",
+      "d": "you will use it"
+    },
+    "correct_answer": "b",
+    "explanation": "যেহেতু বাক্যের শুরুতেই 'would have succeeded' (3rd conditional) আছে, তাই provided that (if) এর পরে Past Perfect বসবে।"
+  },
+  {
+    "id": 85,
+    "question": "The amount of waste is growing rapidly all over the world and polluting the environment. It is high time —",
+    "options": {
+      "a": "we recycled waste",
+      "b": "we recycle waste",
+      "c": "we should recycle waste",
+      "d": "to recycle waste"
+    },
+    "correct_answer": "a",
+    "explanation": "It is high time + subject + V2।"
+  },
+  {
+    "id": 86,
+    "question": "English is an international language. We need to learn it as —",
+    "options": {
+      "a": "it helps us get a good job",
+      "b": "it is international",
+      "c": "it helped us",
+      "d": "it is very difficult"
+    },
+    "correct_answer": "a",
+    "explanation": "As (যেহেতু) যুক্ত বাক্যে কারণ দর্শানো হয়েছে।"
+  },
+  {
+    "id": 87,
+    "question": "Kiran got a foreign scholarship. She was so happy that —",
+    "options": {
+      "a": "she started crying",
+      "b": "she starts crying",
+      "c": "she will cry",
+      "d": "she can cry"
+    },
+    "correct_answer": "a",
+    "explanation": "So + adjective + that + subject + V2 (যেহেতু 'was' অতীতে)।"
+  },
+  {
+    "id": 88,
+    "question": "Manners define a man. We always appreciate a person —",
+    "options": {
+      "a": "who has good manners",
+      "b": "who had good manners",
+      "c": "who have good manners",
+      "d": "whose good manners"
+    },
+    "correct_answer": "a",
+    "explanation": "A person (singular) এর জন্য relative pronoun 'who' এবং singular verb 'has' বসবে।"
+  },
+  {
+    "id": 89,
+    "question": "The martyrs laid down their lives in 1971. They did it so that —",
+    "options": {
+      "a": "we can live freely",
+      "b": "we could live freely",
+      "c": "we live freely",
+      "d": "we might have lived"
+    },
+    "correct_answer": "b",
+    "explanation": "So that-এর আগের অংশ Past Indefinite (did) হলে পরে subject + could/might + V1 বসে।"
+  },
+  {
+    "id": 90,
+    "question": "The thief was afraid of police. He ran away lest — arrested.",
+    "options": {
+      "a": "he should be",
+      "b": "he will be",
+      "c": "he were",
+      "d": "he would"
+    },
+    "correct_answer": "a",
+    "explanation": "Lest-এর পরে subject + should + be (passive sense)।"
+  },
+  {
+    "id": 91,
+    "question": "If I had been hungry, —. But I am not hungry at all.",
+    "options": {
+      "a": "I would eat",
+      "b": "I would have eaten",
+      "c": "I will eat",
+      "d": "I eat"
+    },
+    "correct_answer": "b",
+    "explanation": "3rd Conditional: If + had + V3 (had been), subject + would have + V3।"
+  },
+  {
+    "id": 92,
+    "question": "Honesty is the best policy. The people who are honest —",
+    "options": {
+      "a": "is respected",
+      "b": "are respected",
+      "c": "respected",
+      "d": "are respecting"
+    },
+    "correct_answer": "b",
+    "explanation": "'The people' plural subject, তাই verb 'are' হবে।"
+  },
+  {
+    "id": 93,
+    "question": "Because of greenhouse effect, the climate —",
+    "options": {
+      "a": "is changing",
+      "b": "has changed",
+      "c": "changed",
+      "d": "was changing"
+    },
+    "correct_answer": "a",
+    "explanation": "জলবায়ু পরিবর্তনের প্রক্রিয়াটি চলমান, তাই Present Continuous (is changing) সবচেয়ে সঠিক।"
+  },
+  {
+    "id": 94,
+    "question": "There goes a proverb that morning —",
+    "options": {
+      "a": "shows the day",
+      "b": "show the day",
+      "c": "showed the day",
+      "d": "is showing the day"
+    },
+    "correct_answer": "a",
+    "explanation": "এটি প্রবাদ: 'Morning shows the day' (উঠন্ত মূলো পত্তনেই চেনা যায়)।"
+  },
+  {
+    "id": 95,
+    "question": "I work hard although —",
+    "options": {
+      "a": "I am tired",
+      "b": "I was tired",
+      "c": "I am not tired",
+      "d": "I am rich"
+    },
+    "correct_answer": "a",
+    "explanation": "Although বিপরীত অর্থ দেয়—ক্লান্ত হওয়া সত্ত্বেও কাজ করছি।"
+  },
+  {
+    "id": 96,
+    "question": "There are so many poor people in our country. I wish —",
+    "options": {
+      "a": "I could help them",
+      "b": "I will help them",
+      "c": "I help them",
+      "d": "I had helped them"
+    },
+    "correct_answer": "a",
+    "explanation": "I wish-এর পর কাল্পনিক সামর্থ্য বুঝাতে 'could + V1' বসে।"
+  },
+  {
+    "id": 97,
+    "question": "The old man — is my grandfather.",
+    "options": {
+      "a": "who is walking",
+      "b": "is walking",
+      "c": "walks",
+      "d": "walking"
+    },
+    "correct_answer": "a",
+    "explanation": "Subject-এর পরিচয় দিতে Relative Clause (who is walking) ব্যবহৃত হয়েছে।"
+  },
+  {
+    "id": 98,
+    "question": "Unity is strength. United we stand, —",
+    "options": {
+      "a": "divided we fall",
+      "b": "divided we fail",
+      "c": "divided we will fall",
+      "d": "divided we failed"
+    },
+    "correct_answer": "a",
+    "explanation": "এটি প্রবাদবাক্য।"
+  },
+  {
+    "id": 99,
+    "question": "John is fond of reading. Whenever he goes to the book fair, —",
+    "options": {
+      "a": "he buys books",
+      "b": "he bought books",
+      "c": "he will buy books",
+      "d": "he has bought books"
+    },
+    "correct_answer": "a",
+    "explanation": "Whenever অভ্যাস বুঝাতে Present Indefinite গ্রহণ করে।"
+  },
+  {
+    "id": 100,
+    "question": "Rima is a good singer. She sings so well that —",
+    "options": {
+      "a": "everyone likes her",
+      "b": "everyone liked her",
+      "c": "everyone will like her",
+      "d": "everyone can like her"
+    },
+    "correct_answer": "a",
+    "explanation": "So + adverb + that + Present Indefinite ফলাফল বুঝাতে ব্যবহৃত হয়েছে।"
+  },
+  {
+    "id": 101,
+    "question": "Since Bangladesh is an agricultural country, —. We should put emphasis on our agricultural sectors.",
+    "options": {
+      "a": "our economy depends on it",
+      "b": "our economy depended on it",
+      "c": "our economy will depend on it",
+      "d": "our economy has depends on it"
+    },
+    "correct_answer": "a",
+    "explanation": "যেহেতু এটি একটি বর্তমান সাধারণ সত্য (General Truth), তাই Present Indefinite tense ব্যবহার করতে হবে।"
+  },
+  {
+    "id": 102,
+    "question": "There is a wise saying that united we stand, —. So, we must be united.",
+    "options": {
+      "a": "divided we fail",
+      "b": "divided we fall",
+      "c": "divided we fell",
+      "d": "divided we are falling"
+    },
+    "correct_answer": "b",
+    "explanation": "এটি একটি বিখ্যাত প্রবাদ (Proverb): 'United we stand, divided we fall' (একতায় উত্থান, বিভেদে পতন)।"
+  },
+  {
+    "id": 103,
+    "question": "Industry is the key to success. We work hard so that —",
+    "options": {
+      "a": "we can prosper in life",
+      "b": "we could prosper in life",
+      "c": "we may prospered in life",
+      "d": "we will prosper in life"
+    },
+    "correct_answer": "a",
+    "explanation": "'So that' এর আগের অংশ Present tense (work) হলে পরের অংশে Subject + can/may + V1 বসে।"
+  },
+  {
+    "id": 104,
+    "question": "My younger brother is very fond of me. Whenever I go out, —",
+    "options": {
+      "a": "he wants to go with me",
+      "b": "he wanted to go with me",
+      "c": "he will want to go with me",
+      "d": "he has wanted to go with me"
+    },
+    "correct_answer": "a",
+    "explanation": "Whenever সাধারণত নিত্যনৈমিত্তিক কাজ বা অভ্যাস বুঝাতে Present Indefinite tense গ্রহণ করে।"
+  },
+  {
+    "id": 105,
+    "question": "Bangladesh is my motherland. It is blessed with rivers. In spite of that, we do not get water during dry season because —",
+    "options": {
+      "a": "the rivers dry up",
+      "b": "the rivers dried up",
+      "c": "the rivers will dry up",
+      "d": "the rivers are dry up"
+    },
+    "correct_answer": "a",
+    "explanation": "শুষ্ক মৌসুমে নদী শুকিয়ে যাওয়া একটি নিয়মিত কারণ, তাই Present Indefinite tense সঠিক।"
+  },
+  {
+    "id": 106,
+    "question": "If we lose the morning hours of life, —",
+    "options": {
+      "a": "we will suffer in the long run",
+      "b": "we would suffer in the long run",
+      "c": "we would have suffered",
+      "d": "we suffer in the long run"
+    },
+    "correct_answer": "a",
+    "explanation": "এটি 1st Conditional (If + Present Indefinite)। এর পরের অংশে Subject + shall/will + V1 বসে।"
+  },
+  {
+    "id": 107,
+    "question": "I can't recall his name. It is long since —",
+    "options": {
+      "a": "I met him last",
+      "b": "I had met him last",
+      "c": "I have met him last",
+      "d": "I see him last"
+    },
+    "correct_answer": "a",
+    "explanation": "'Since' এর প্রথম অংশ Present Indefinite হলে পরের অংশ Past Indefinite (V2) হয়।"
+  },
+  {
+    "id": 108,
+    "question": "The poem is too difficult —. The teacher told us to listen to him very carefully.",
+    "options": {
+      "a": "for us to understand",
+      "b": "to understand it",
+      "c": "that we cannot understand",
+      "d": "to understanding"
+    },
+    "correct_answer": "a",
+    "explanation": "Too + adj + for + object + to + V1 গঠন অনুযায়ী 'for us to understand' সঠিক।"
+  },
+  {
+    "id": 109,
+    "question": "My childhood was full of joys and happiness. Would that —",
+    "options": {
+      "a": "I could be a child again",
+      "b": "I were a child again",
+      "c": "I can be a child again",
+      "d": "both a and b"
+    },
+    "correct_answer": "d",
+    "explanation": "'Would that' দিয়ে অসম্ভব ইচ্ছা প্রকাশ করা হয়। এর পরে subject + were অথবা subject + could + V1 বসে।"
+  },
+  {
+    "id": 110,
+    "question": "We met the strange person while —",
+    "options": {
+      "a": "we were walking in the park",
+      "b": "walking in the park",
+      "c": "we walked in the park",
+      "d": "both a and b"
+    },
+    "correct_answer": "d",
+    "explanation": "While এর পর সরাসরি verb থাকলে 'ing' হয়, আর subject থাকলে Past Continuous হয়। এখানে দুটিই সঠিক।"
+  },
+  {
+    "id": 111,
+    "question": "We take physical exercise so that —",
+    "options": {
+      "a": "we can keep fit",
+      "b": "we could keep fit",
+      "c": "we kept fit",
+      "d": "we may keeping fit"
+    },
+    "correct_answer": "a",
+    "explanation": "সোজা নিয়ম: So that + subject + can/may + V1 (যদি আগের অংশ present হয়)।"
+  },
+  {
+    "id": 112,
+    "question": "Prosperity does not come in one's life automatically. If —, you can't prosper in life.",
+    "options": {
+      "a": "you do not work hard",
+      "b": "you work hard",
+      "c": "you did not work hard",
+      "d": "you will not work hard"
+    },
+    "correct_answer": "a",
+    "explanation": "শর্ত বুঝাতে If + Present Indefinite নেতিবাচক অর্থে ব্যবহৃত হয়েছে।"
+  },
+  {
+    "id": 113,
+    "question": "Time is very important in our life. You can't succeed in life unless —",
+    "options": {
+      "a": "you make the best use of time",
+      "b": "you do not use time",
+      "c": "you will use time",
+      "d": "you made the best use of time"
+    },
+    "correct_answer": "a",
+    "explanation": "Unless (যদি না) নিজে নেতিবাচক, তাই এর সাথে নতুন করে 'not' বসে না।"
+  },
+  {
+    "id": 114,
+    "question": "He wrote very quickly. He had finished the exam before the —",
+    "options": {
+      "a": "final bell rang",
+      "b": "final bell had rung",
+      "c": "final bell rings",
+      "d": "final bell was ringing"
+    },
+    "correct_answer": "a",
+    "explanation": "Before এর আগে Past Perfect (had finished) থাকলে পরে Past Indefinite (rang) বসে।"
+  },
+  {
+    "id": 115,
+    "question": "Early rising gives a man enough free time. Had I been an early riser, —",
+    "options": {
+      "a": "I would have enjoyed the morning air",
+      "b": "I would enjoy the morning air",
+      "c": "I will enjoy the morning air",
+      "d": "I could enjoy the morning air"
+    },
+    "correct_answer": "a",
+    "explanation": "3rd Conditional (Had + sub + V3) এর পরের অংশে would have + V3 বসে।"
+  },
+  {
+    "id": 116,
+    "question": "There is nobody —. Hence happiness is a relative term.",
+    "options": {
+      "a": "who is completely happy",
+      "b": "who was completely happy",
+      "c": "who are completely happy",
+      "d": "that is happy"
+    },
+    "correct_answer": "a",
+    "explanation": "Nobody সিঙ্গুলার, তাই relative pronoun 'who' এর পর সিঙ্গুলার verb 'is' বসবে।"
+  },
+  {
+    "id": 117,
+    "question": "I worked hard although —",
+    "options": {
+      "a": "I was very tired",
+      "b": "I was not tired",
+      "c": "I am tired",
+      "d": "I work hard"
+    },
+    "correct_answer": "a",
+    "explanation": "Although (যদিও) বিপরীত বৈপরীত্য প্রকাশ করে। ক্লান্ত হওয়া সত্ত্বেও কঠোর পরিশ্রম করেছি।"
+  },
+  {
+    "id": 118,
+    "question": "The crown is a symbol of a king. Uneasy lies the head —",
+    "options": {
+      "a": "that wears a crown",
+      "b": "who wears a crown",
+      "c": "that wear a crown",
+      "d": "wears a crown"
+    },
+    "correct_answer": "a",
+    "explanation": "এটি শেক্সপিয়ারের বিখ্যাত উক্তি। Head (মাথা) বস্তুবচক হওয়ায় 'that' ব্যবহার করা হয়েছে।"
+  },
+  {
+    "id": 119,
+    "question": "Man proposes, —",
+    "options": {
+      "a": "but God disposes",
+      "b": "and God disposes",
+      "c": "God disposes",
+      "d": "but God disposed"
+    },
+    "correct_answer": "a",
+    "explanation": "এটি একটি প্রবাদ: 'Man proposes, but God disposes' (মানুষ ভাবে এক, হয় আর এক)।"
+  },
+  {
+    "id": 120,
+    "question": "Traffic jam in Dhaka has been unbearable these days. Had I got a Helicopter, —",
+    "options": {
+      "a": "I would fly to my office",
+      "b": "I would have flown to my office",
+      "c": "I will fly to my office",
+      "d": "I could fly to my office"
+    },
+    "correct_answer": "b",
+    "explanation": "Had + sub + V3 (3rd conditional) এর নিয়ম অনুযায়ী 'would have flown' সঠিক।"
+  },
+  {
+    "id": 121,
+    "question": "Human body needs a balanced diet. If we take a balanced diet, it —",
+    "options": {
+      "a": "will keep us healthy",
+      "b": "keeps us healthy",
+      "c": "would keep us healthy",
+      "d": "kept us healthy"
+    },
+    "correct_answer": "a",
+    "explanation": "If + Present (take) হলে পরের অংশে Future Indefinite (will keep) বসে।"
+  },
+  {
+    "id": 122,
+    "question": "It is my dream to establish a hospital for the poor. Had I been a millionaire, —",
+    "options": {
+      "a": "I would have established it",
+      "b": "I would establish it",
+      "c": "I will establish it",
+      "d": "I could establish it"
+    },
+    "correct_answer": "a",
+    "explanation": "আবারও ৩য় শর্ত (3rd Conditional) এর প্রয়োগ।"
+  },
+  {
+    "id": 123,
+    "question": "English is an international language. If you do not learn English, —",
+    "options": {
+      "a": "you cannot get a good job",
+      "b": "you could not get a good job",
+      "c": "you will get a good job",
+      "d": "you do not get a good job"
+    },
+    "correct_answer": "a",
+    "explanation": "বাস্তব ফলাফল বুঝাতে Present Indefinite এর সাথে can/cannot ব্যবহার করা যায়।"
+  },
+  {
+    "id": 124,
+    "question": "The rats are now thinking who will tie the bell on cat. Finally they realize it is easy to say —",
+    "options": {
+      "a": "but difficult to do",
+      "b": "and difficult to do",
+      "c": "but easy to do",
+      "d": "but not difficult"
+    },
+    "correct_answer": "a",
+    "explanation": "এটি প্রবাদ: 'It is easy to say but difficult to do' (বলা সহজ কিন্তু করা কঠিন)।"
+  },
+  {
+    "id": 125,
+    "question": "Sharing is —. So, teach your children how to share.",
+    "options": {
+      "a": "caring",
+      "b": "a virtue",
+      "c": "good",
+      "d": "all of the above"
+    },
+    "correct_answer": "d",
+    "explanation": "প্রবাদ অনুযায়ী 'Sharing is caring' সবচেয়ে জনপ্রিয়, তবে গ্রামাটিক্যালি বাকিগুলোও সঠিক।"
+  },
+  {
+    "id": 126,
+    "question": "The train will start at 10 a.m. Now it is 09:55 a.m. So, walk fast lest —",
+    "options": {
+      "a": "you should miss it",
+      "b": "you might miss it",
+      "c": "you will miss it",
+      "d": "both a and b"
+    },
+    "correct_answer": "d",
+    "explanation": "Lest এর পর should বা might উভয়ই গ্রামাটিক্যালি সঠিক।"
+  },
+  {
+    "id": 127,
+    "question": "A lot of passengers were waiting at the bus stop. A bus came. But the bus was so small that —",
+    "options": {
+      "a": "it could not hold all the passengers",
+      "b": "it cannot hold all the passengers",
+      "c": "it could hold all the passengers",
+      "d": "it was too small"
+    },
+    "correct_answer": "a",
+    "explanation": "So + adj + that + sub + could not + V1 (যেহেতু বাক্যটি past tense-এ আছে)।"
+  },
+  {
+    "id": 128,
+    "question": "He, who — makes a glorious result in the examination.",
+    "options": {
+      "a": "studies hard",
+      "b": "study hard",
+      "c": "studied hard",
+      "d": "will study hard"
+    },
+    "correct_answer": "a",
+    "explanation": "He (singular) এর জন্য relative pronoun 'who' এর পর সিঙ্গুলার verb (studies) বসবে।"
+  },
+  {
+    "id": 129,
+    "question": "Whenever he speaks in English, —. In fact, we learn through mistakes.",
+    "options": {
+      "a": "he makes mistakes",
+      "b": "he made mistakes",
+      "c": "he is making mistakes",
+      "d": "he has made mistakes"
+    },
+    "correct_answer": "a",
+    "explanation": "বর্তমান অভ্যাস বুঝাতে Present Indefinite tense ব্যবহৃত হয়েছে।"
+  },
+  {
+    "id": 130,
+    "question": "Danger comes where —. So, we have to be careful in our life.",
+    "options": {
+      "a": "it is feared",
+      "b": "danger is feared",
+      "c": "it feared",
+      "d": "both a and b"
+    },
+    "correct_answer": "d",
+    "explanation": "প্রবাদ: 'Danger comes where it/danger is feared' (যেখানে বাঘের ভয় সেখানেই রাত হয়)।"
+  },
+  {
+    "id": 131,
+    "question": "Scarcely had the party begun —",
+    "options": {
+      "a": "when the lights went out",
+      "b": "than the lights went out",
+      "c": "then the lights went out",
+      "d": "after the lights went out"
+    },
+    "correct_answer": "a",
+    "explanation": "Scarcely had... এর সাথে correlative হিসেবে 'when' বসে।"
+  },
+  {
+    "id": 132,
+    "question": "Wait here until —",
+    "options": {
+      "a": "I come back",
+      "b": "I do not come back",
+      "c": "I will come back",
+      "d": "I came back"
+    },
+    "correct_answer": "a",
+    "explanation": "Until নিজে negative, তাই এর ভেতরে 'not' বসে না এবং এটি Present Indefinite হয়।"
+  },
+  {
+    "id": 133,
+    "question": "It is high time you — for the HSC exam.",
+    "options": {
+      "a": "prepared",
+      "b": "prepare",
+      "c": "should prepare",
+      "d": "will prepare"
+    },
+    "correct_answer": "a",
+    "explanation": "It is high time + sub + V2 (past form)।"
+  },
+  {
+    "id": 134,
+    "question": "If I were a bird, —",
+    "options": {
+      "a": "I would fly in the sky",
+      "b": "I will fly in the sky",
+      "c": "I would have flown",
+      "d": "I could have flown"
+    },
+    "correct_answer": "a",
+    "explanation": "2nd Conditional (If + sub + were) এর পরে would/could + V1 বসে।"
+  },
+  {
+    "id": 135,
+    "question": "Though he is a small boy, —",
+    "options": {
+      "a": "he is very strong",
+      "b": "he is very weak",
+      "c": "he was very strong",
+      "d": "he can be strong"
+    },
+    "correct_answer": "a",
+    "explanation": "Though বৈপরীত্য বুঝায়। ছোট হওয়া সত্ত্বেও সে শক্তিশালী।"
+  },
+  {
+    "id": 136,
+    "question": "I would rather die —",
+    "options": {
+      "a": "than beg",
+      "b": "then beg",
+      "c": "to beg",
+      "d": "than begging"
+    },
+    "correct_answer": "a",
+    "explanation": "Would rather... than একটি নির্দিষ্ট গঠন যা দুটি কাজের মধ্যে একটিকে বেছে নিতে ব্যবহৃত হয়।"
+  },
+  {
+    "id": 137,
+    "question": "The load is so heavy that —",
+    "options": {
+      "a": "I cannot carry it",
+      "b": "I could not carry it",
+      "c": "I cannot carry",
+      "d": "I am not carrying"
+    },
+    "correct_answer": "a",
+    "explanation": "So + adj + that + sub + cannot + V1 (Present tense এর ক্ষেত্রে)।"
+  },
+  {
+    "id": 138,
+    "question": "He speaks as if —",
+    "options": {
+      "a": "he were a leader",
+      "b": "he was a leader",
+      "c": "he is a leader",
+      "d": "he had been a leader"
+    },
+    "correct_answer": "a",
+    "explanation": "As if এর আগে Present Indefinite থাকলে পরে অবাস্তব অবস্থা বুঝাতে 'were' বসে।"
+  },
+  {
+    "id": 139,
+    "question": "The man is so old that —",
+    "options": {
+      "a": "he cannot walk",
+      "b": "he could not walk",
+      "c": "he cannot be walk",
+      "d": "he will not walk"
+    },
+    "correct_answer": "a",
+    "explanation": "Present tense-এ 'so...that' এর পর cannot + V1 বসে।"
+  },
+  {
+    "id": 140,
+    "question": "As you have made a mistake, —",
+    "options": {
+      "a": "you should apologize",
+      "b": "you will apologize",
+      "c": "you apologize",
+      "d": "you could apologize"
+    },
+    "correct_answer": "a",
+    "explanation": "কারণ ও ফলাফল বুঝাতে উপদেশ হিসেবে 'should' ব্যবহৃত হয়েছে।"
+  },
+  {
+    "id": 141,
+    "question": "Wait until the rain —",
+    "options": {
+      "a": "stops",
+      "b": "stopped",
+      "c": "will stop",
+      "d": "is stop"
+    },
+    "correct_answer": "a",
+    "explanation": "Until যুক্ত ক্লজটি Present Indefinite হয়।"
+  },
+  {
+    "id": 142,
+    "question": "Scarcely had I reached the station —",
+    "options": {
+      "a": "when the train left",
+      "b": "than the train left",
+      "c": "then the train left",
+      "d": "that the train left"
+    },
+    "correct_answer": "a",
+    "explanation": "Scarcely...when একটি নির্দিষ্ট জোড়া (correlative)।"
+  },
+  {
+    "id": 143,
+    "question": "No sooner had he seen the police —",
+    "options": {
+      "a": "than he ran away",
+      "b": "when he ran away",
+      "c": "then he ran away",
+      "d": "after he ran away"
+    },
+    "correct_answer": "a",
+    "explanation": "No sooner had... এর সাথে 'than' বসে।"
+  },
+  {
+    "id": 144,
+    "question": "It is high time we — our environment from pollution.",
+    "options": {
+      "a": "saved",
+      "b": "save",
+      "c": "should save",
+      "d": "protect"
+    },
+    "correct_answer": "a",
+    "explanation": "It is high time-এর পর subject থাকলে V2 হয়।"
+  },
+  {
+    "id": 145,
+    "question": "If you had worked hard, —",
+    "options": {
+      "a": "you would have succeeded",
+      "b": "you would succeed",
+      "c": "you will succeed",
+      "d": "you succeeded"
+    },
+    "correct_answer": "a",
+    "explanation": "3rd Conditional এর নিয়ম: If + Past Perfect, sub + would have + V3।"
+  },
+  {
+    "id": 146,
+    "question": "I wish I — a poet.",
+    "options": {
+      "a": "were",
+      "b": "am",
+      "c": "was",
+      "d": "be"
+    },
+    "correct_answer": "a",
+    "explanation": "অসম্ভব ইচ্ছা প্রকাশে 'I wish' এর পর 'were' বসে।"
+  },
+  {
+    "id": 147,
+    "question": "He ran away lest he —",
+    "options": {
+      "a": "should be seen",
+      "b": "will be seen",
+      "c": "would be seen",
+      "d": "is seen"
+    },
+    "correct_answer": "a",
+    "explanation": "Lest + subject + should + V1 (passive হলে be + V3)।"
+  },
+  {
+    "id": 148,
+    "question": "Knowledge is power. The more you read, —",
+    "options": {
+      "a": "the more you learn",
+      "b": "the more you will learn",
+      "c": "you learn more",
+      "d": "the more you learned"
+    },
+    "correct_answer": "a",
+    "explanation": "The more... the more একটি সমান্তরাল গঠন (parallel structure)।"
+  },
+  {
+    "id": 149,
+    "question": "Health is wealth. We should take balanced diet so that —",
+    "options": {
+      "a": "we can be healthy",
+      "b": "we could be healthy",
+      "c": "we are healthy",
+      "d": "we will be healthy"
+    },
+    "correct_answer": "a",
+    "explanation": "So that + sub + can/may + V1।"
+  },
+  {
+    "id": 150,
+    "question": "A friend in need —",
+    "options": {
+      "a": "is a friend indeed",
+      "b": "is friend indeed",
+      "c": "is a true friend",
+      "d": "helps a friend"
+    },
+    "correct_answer": "a",
+    "explanation": "এটি অতি পরিচিত প্রবাদ: 'A friend in need is a friend indeed' (অসময়ের বন্ধুই প্রকৃত বন্ধু)।"
+  },
+  {
+    "id": 151,
+    "question": "A student should be regular in his studies. If he is not, —",
+    "options": {
+      "a": "he will fail in the exam",
+      "b": "he would fail in the exam",
+      "c": "he fails in the exam",
+      "d": "he would have failed"
+    },
+    "correct_answer": "a",
+    "explanation": "If + Present Indefinite হলে ফলাফল বুঝাতে Future Indefinite (will + V1) বসে।"
+  },
+  {
+    "id": 152,
+    "question": "He is very miserly. He spent money as if —",
+    "options": {
+      "a": "he were a rich man",
+      "b": "he was a rich man",
+      "c": "he had been a rich man",
+      "d": "he is a rich man"
+    },
+    "correct_answer": "c",
+    "explanation": "'As if' এর আগে Past Indefinite (spent) থাকলে পরে Past Perfect (had been) বসে।"
+  },
+  {
+    "id": 153,
+    "question": "I have no money. I would rather starve —",
+    "options": {
+      "a": "than borrow money",
+      "b": "than borrowing money",
+      "c": "then borrow money",
+      "d": "to borrow money"
+    },
+    "correct_answer": "a",
+    "explanation": "'Would rather... than' এর পর verb-এর base form বসে।"
+  },
+  {
+    "id": 154,
+    "question": "The boy was so weak that —",
+    "options": {
+      "a": "he cannot walk",
+      "b": "he could not walk",
+      "c": "he was not walk",
+      "d": "he will not walk"
+    },
+    "correct_answer": "b",
+    "explanation": "আগের অংশ Past (was) হওয়ায় পরের অংশে 'could not' ব্যবহৃত হবে।"
+  },
+  {
+    "id": 155,
+    "question": "We should not ignore our duties. We must work hard lest —",
+    "options": {
+      "a": "we should fail in life",
+      "b": "we will fail in life",
+      "c": "we can fail in life",
+      "d": "we failed in life"
+    },
+    "correct_answer": "a",
+    "explanation": "'Lest' যুক্ত বাক্যে structure হলো: subject + should/might + V1।"
+  },
+  {
+    "id": 156,
+    "question": "Bangladesh is a land of beauty. It is high time —",
+    "options": {
+      "a": "we visited the natural spots",
+      "b": "we visit the natural spots",
+      "c": "to visit the natural spots",
+      "d": "both a and c"
+    },
+    "correct_answer": "d",
+    "explanation": "'It is high time' এর পর subject থাকলে V2 হয়, আর সরাসরি verb থাকলে 'to + V1' হয়।"
+  },
+  {
+    "id": 157,
+    "question": "Books are our best friends. Reading books with a view to — is a great habit.",
+    "options": {
+      "a": "acquiring knowledge",
+      "b": "acquire knowledge",
+      "c": "acquired knowledge",
+      "d": "acquires knowledge"
+    },
+    "correct_answer": "a",
+    "explanation": "'With a view to' এর পর verb-এর সাথে 'ing' যুক্ত হয়।"
+  },
+  {
+    "id": 158,
+    "question": "My father is very strict. He behaves as though —",
+    "options": {
+      "a": "he were a military officer",
+      "b": "he was a military officer",
+      "c": "he is a military officer",
+      "d": "he had been an officer"
+    },
+    "correct_answer": "a",
+    "explanation": "'As though' এর আগে Present Indefinite থাকলে অবাস্তব কল্পনা বুঝাতে পরে 'were' বসে।"
+  },
+  {
+    "id": 159,
+    "question": "I don't know why he is absent. Had I known his address, —",
+    "options": {
+      "a": "I would visit him",
+      "b": "I would have visited him",
+      "c": "I will visit him",
+      "d": "I visit him"
+    },
+    "correct_answer": "b",
+    "explanation": "3rd Conditional (Had + Sub + V3) এর নিয়ম অনুযায়ী 'would have + V3' হবে।"
+  },
+  {
+    "id": 160,
+    "question": "Unity is a must. If you do not remain united, —",
+    "options": {
+      "a": "others will harm you",
+      "b": "others would harm you",
+      "c": "others harm you",
+      "d": "others will be harm you"
+    },
+    "correct_answer": "a",
+    "explanation": "If + Present Indefinite (1st Conditional) এর পরবর্তী অংশে Future Indefinite হয়।"
+  },
+  {
+    "id": 161,
+    "question": "Rony is very meritorious. He had passed the exam before —",
+    "options": {
+      "a": "the results were published",
+      "b": "the results are published",
+      "c": "the results had published",
+      "d": "the results have published"
+    },
+    "correct_answer": "a",
+    "explanation": "'Before' এর আগে Past Perfect থাকলে পরে Past Indefinite (প্যাসিভ হলে were + V3) হয়।"
+  },
+  {
+    "id": 162,
+    "question": "Scarcely had the teacher entered the room —",
+    "options": {
+      "a": "when the students kept quiet",
+      "b": "than the students kept quiet",
+      "c": "then the students kept quiet",
+      "d": "before the students kept quiet"
+    },
+    "correct_answer": "a",
+    "explanation": "Scarcely had... when জোড়া শব্দ হিসেবে ব্যবহৃত হয়।"
+  },
+  {
+    "id": 163,
+    "question": "Wait until —. I am coming soon.",
+    "options": {
+      "a": "I return",
+      "b": "I will return",
+      "c": "I do not return",
+      "d": "I returned"
+    },
+    "correct_answer": "a",
+    "explanation": "'Until' এর পর clause টি affirmative হয় এবং Present Indefinite tense হয়।"
+  },
+  {
+    "id": 164,
+    "question": "A friend in need —. It is a very common proverb.",
+    "options": {
+      "a": "is a friend indeed",
+      "b": "is friend indeed",
+      "c": "is friend in deed",
+      "d": "is a true friend"
+    },
+    "correct_answer": "a",
+    "explanation": "প্রবাদবাক্য: A friend in need is a friend indeed (অসময়ের বন্ধুই প্রকৃত বন্ধু)।"
+  },
+  {
+    "id": 165,
+    "question": "Though he is rich, —. He always thinks about money.",
+    "options": {
+      "a": "he is unhappy",
+      "b": "he is happy",
+      "c": "he was unhappy",
+      "d": "he is a miser"
+    },
+    "correct_answer": "a",
+    "explanation": "'Though' বৈপরীত্য বুঝায়। ধনী হওয়া সত্ত্বেও সে অসুখী।"
+  },
+  {
+    "id": 166,
+    "question": "He ran away for fear that —",
+    "options": {
+      "a": "he might be seen",
+      "b": "he should be seen",
+      "c": "he would be seen",
+      "d": "both a and b"
+    },
+    "correct_answer": "d",
+    "explanation": "'For fear that' এবং 'Lest' একই অর্থ বহন করে, যার পর should/might বসে।"
+  },
+  {
+    "id": 167,
+    "question": "The sum is too hard —",
+    "options": {
+      "a": "for me to solve",
+      "b": "for me solving",
+      "c": "to me solve",
+      "d": "for me to solve it"
+    },
+    "correct_answer": "a",
+    "explanation": "Too + adj + for + person + to + V1। এখানে শেষে it প্রয়োজন নেই।"
+  },
+  {
+    "id": 168,
+    "question": "Whenever he speaks, —. It's really annoying.",
+    "options": {
+      "a": "he tells a lie",
+      "b": "he told a lie",
+      "c": "he will tell a lie",
+      "d": "he has told a lie"
+    },
+    "correct_answer": "a",
+    "explanation": "অভ্যাস বুঝাতে Whenever এর সাথে Present Indefinite হয়।"
+  },
+  {
+    "id": 169,
+    "question": "No sooner had the thief seen the police —",
+    "options": {
+      "a": "than he ran away",
+      "b": "when he ran away",
+      "c": "then he ran away",
+      "d": "but he ran away"
+    },
+    "correct_answer": "a",
+    "explanation": "No sooner had... than একটি গ্রামাটিক্যাল গঠন।"
+  },
+  {
+    "id": 170,
+    "question": "If I had seen him, —",
+    "options": {
+      "a": "I would have given him the letter",
+      "b": "I would give him the letter",
+      "c": "I will give him the letter",
+      "d": "I gave him the letter"
+    },
+    "correct_answer": "a",
+    "explanation": "3rd Conditional এর নিয়ম অনুযায়ী would have + V3 বসে।"
+  },
+  {
+    "id": 171,
+    "question": "Honesty is a great virtue. You will be respected provided that —",
+    "options": {
+      "a": "you are honest",
+      "b": "you will be honest",
+      "c": "you were honest",
+      "d": "you have been honest"
+    },
+    "correct_answer": "a",
+    "explanation": "'Provided that' (যদি) এর পর Present Indefinite ব্যবহৃত হয়।"
+  },
+  {
+    "id": 172,
+    "question": "I was not hungry. If I had been hungry, —",
+    "options": {
+      "a": "I would have eaten something",
+      "b": "I would eat something",
+      "c": "I will eat something",
+      "d": "I could eat something"
+    },
+    "correct_answer": "a",
+    "explanation": "অতীতের কোনো অসম্ভব শর্ত বুঝাতে 3rd Conditional ব্যবহৃত হয়।"
+  },
+  {
+    "id": 173,
+    "question": "The patient died after —",
+    "options": {
+      "a": "the doctor had come",
+      "b": "the doctor came",
+      "c": "the doctor was coming",
+      "d": "the doctor had been coming"
+    },
+    "correct_answer": "a",
+    "explanation": "'After' এর আগে Past Indefinite থাকলে পরে Past Perfect হয়।"
+  },
+  {
+    "id": 174,
+    "question": "It is many years since —",
+    "options": {
+      "a": "we last met",
+      "b": "we had last met",
+      "c": "we have last met",
+      "d": "we meet last"
+    },
+    "correct_answer": "a",
+    "explanation": "'Since' এর আগে 'It is' থাকলে পরে Past Indefinite (V2) হয়।"
+  },
+  {
+    "id": 175,
+    "question": "Had I been a king, —",
+    "options": {
+      "a": "I would have helped the poor",
+      "b": "I would help the poor",
+      "c": "I will help the poor",
+      "d": "I helped the poor"
+    },
+    "correct_answer": "a",
+    "explanation": "Had + Sub + V3 দিয়ে ৩য় শর্ত বুঝানো হয়েছে।"
+  },
+  {
+    "id": 176,
+    "question": "The tea is too hot —",
+    "options": {
+      "a": "for me to drink",
+      "b": "to me drink",
+      "c": "to drink it",
+      "d": "for me to drink it"
+    },
+    "correct_answer": "a",
+    "explanation": "গঠন: Too + adj + for + person + to + V1।"
+  },
+  {
+    "id": 177,
+    "question": "He has failed. He would have passed if —",
+    "options": {
+      "a": "he had studied hard",
+      "b": "he studied hard",
+      "c": "he will study hard",
+      "d": "he has studied hard"
+    },
+    "correct_answer": "a",
+    "explanation": "Would have passed থাকলে ইফ ক্লজটি Past Perfect (had studied) হতে হবে।"
+  },
+  {
+    "id": 178,
+    "question": "He acts as if — everything.",
+    "options": {
+      "a": "he knew",
+      "b": "he knows",
+      "c": "he had known",
+      "d": "he has known"
+    },
+    "correct_answer": "a",
+    "explanation": "'As if' এর আগে present থাকলে পরে past indefinite হয়।"
+  },
+  {
+    "id": 179,
+    "question": "Scarcely had the bell rung —",
+    "options": {
+      "a": "when the students left the class",
+      "b": "than the students left the class",
+      "c": "then the students left the class",
+      "d": "before the students left the class"
+    },
+    "correct_answer": "a",
+    "explanation": "Scarcely এর সাথে when-এর সম্পর্ক চিরস্থায়ী।"
+  },
+  {
+    "id": 180,
+    "question": "I would rather die —",
+    "options": {
+      "a": "than tell a lie",
+      "b": "then tell a lie",
+      "c": "to tell a lie",
+      "d": "than telling a lie"
+    },
+    "correct_answer": "a",
+    "explanation": "পছন্দ প্রকাশ করতে 'Would rather... than' বসে।"
+  },
+  {
+    "id": 181,
+    "question": "Unless you speak the truth, —",
+    "options": {
+      "a": "you will be punished",
+      "b": "you will not be punished",
+      "c": "you would be punished",
+      "d": "you are punished"
+    },
+    "correct_answer": "a",
+    "explanation": "সত্য না বললে শাস্তি পাবে—এটিই স্বাভাবিক পরিণতি (Unless + Present, Future)।"
+  },
+  {
+    "id": 182,
+    "question": "It is high time you — your career.",
+    "options": {
+      "a": "built",
+      "b": "build",
+      "c": "should build",
+      "d": "will build"
+    },
+    "correct_answer": "a",
+    "explanation": "'It is high time' এর পর V2 বসে।"
+  },
+  {
+    "id": 183,
+    "question": "Walking is a good exercise. We should walk so that —",
+    "options": {
+      "a": "we can keep fit",
+      "b": "we could keep fit",
+      "c": "we keep fit",
+      "d": "we may keeping fit"
+    },
+    "correct_answer": "a",
+    "explanation": "So that + sub + can/may + V1।"
+  },
+  {
+    "id": 184,
+    "question": "I went to the market with a view to — a shirt.",
+    "options": {
+      "a": "buying",
+      "b": "buy",
+      "c": "bought",
+      "d": "to buy"
+    },
+    "correct_answer": "a",
+    "explanation": "With a view to-র পর verb-এর সাথে ing যুক্ত হয়।"
+  },
+  {
+    "id": 185,
+    "question": "If you came, —",
+    "options": {
+      "a": "I would go",
+      "b": "I will go",
+      "c": "I would have gone",
+      "d": "I could have gone"
+    },
+    "correct_answer": "a",
+    "explanation": "If + Past Indefinite থাকলে would + V1 হয় (2nd Conditional)।"
+  },
+  {
+    "id": 186,
+    "question": "Wait here until the rain —",
+    "options": {
+      "a": "stops",
+      "b": "stopped",
+      "c": "will stop",
+      "d": "is stopping"
+    },
+    "correct_answer": "a",
+    "explanation": "'Until' এর পর Present Indefinite হয়।"
+  },
+  {
+    "id": 187,
+    "question": "No sooner had I reached the station —",
+    "options": {
+      "a": "than the train left",
+      "b": "when the train left",
+      "c": "then the train left",
+      "d": "after the train left"
+    },
+    "correct_answer": "a",
+    "explanation": "No sooner had... than নিয়মটি সঠিক।"
+  },
+  {
+    "id": 188,
+    "question": "As he was ill, —",
+    "options": {
+      "a": "he could not go to school",
+      "b": "he cannot go to school",
+      "c": "he will not go to school",
+      "d": "he did not go to school"
+    },
+    "correct_answer": "a",
+    "explanation": "যেহেতু তিনি অসুস্থ ছিলেন, তিনি স্কুলে যেতে পারেননি (Past sense)।"
+  },
+  {
+    "id": 189,
+    "question": "Walk fast lest —",
+    "options": {
+      "a": "you should miss the train",
+      "b": "you will miss the train",
+      "c": "you could miss the train",
+      "d": "you missed the train"
+    },
+    "correct_answer": "a",
+    "explanation": "Lest + sub + should + V1।"
+  },
+  {
+    "id": 190,
+    "question": "Though he worked hard, —",
+    "options": {
+      "a": "he failed in the exam",
+      "b": "he passed in the exam",
+      "c": "he can pass",
+      "d": "he will fail"
+    },
+    "correct_answer": "a",
+    "explanation": "বিপরীত অর্থ: কঠোর পরিশ্রম করা সত্ত্বেও সে ফেল করেছে।"
+  },
+  {
+    "id": 191,
+    "question": "If I were you, —",
+    "options": {
+      "a": "I would not do this",
+      "b": "I will not do this",
+      "c": "I would not have done this",
+      "d": "I did not do this"
+    },
+    "correct_answer": "a",
+    "explanation": "ইফ ক্লজটি past হলে পরেরটি would + V1 হয়।"
+  },
+  {
+    "id": 192,
+    "question": "I wish I — a king.",
+    "options": {
+      "a": "were",
+      "b": "am",
+      "c": "was",
+      "d": "be"
+    },
+    "correct_answer": "a",
+    "explanation": "I wish এর পর were বসে।"
+  },
+  {
+    "id": 193,
+    "question": "Knowledge is power. The more you read, —",
+    "options": {
+      "a": "the more you learn",
+      "b": "the more you will learn",
+      "c": "you learn more",
+      "d": "the more you learned"
+    },
+    "correct_answer": "a",
+    "explanation": "The more... the more একটি প্রবাদসম নিয়ম।"
+  },
+  {
+    "id": 194,
+    "question": "It is high time we — our bad habits.",
+    "options": {
+      "a": "gave up",
+      "b": "give up",
+      "c": "should give up",
+      "d": "will give up"
+    },
+    "correct_answer": "a",
+    "explanation": "It is high time-এর পর V2 ব্যবহৃত হয়।"
+  },
+  {
+    "id": 195,
+    "question": "Had I enough money, —",
+    "options": {
+      "a": "I would help the poor",
+      "b": "I would have helped the poor",
+      "c": "I will help the poor",
+      "d": "I could help the poor"
+    },
+    "correct_answer": "a",
+    "explanation": "এখানে 'Had' মূল verb (V2) হিসেবে আছে, তাই এটি 2nd Conditional। ফলে 'would + V1' হবে।"
+  },
+  {
+    "id": 196,
+    "question": "He speaks as though —",
+    "options": {
+      "a": "he knew everything",
+      "b": "he knows everything",
+      "c": "he has known everything",
+      "d": "he had known everything"
+    },
+    "correct_answer": "a",
+    "explanation": "'As though' এর আগে present থাকলে পরে past indefinite হয়।"
+  },
+  {
+    "id": 197,
+    "question": "I would rather take coffee —",
+    "options": {
+      "a": "than tea",
+      "b": "then tea",
+      "c": "to tea",
+      "d": "than taking tea"
+    },
+    "correct_answer": "a",
+    "explanation": "দুটি জিনিসের মধ্যে একটিকে বেছে নিতে Would rather... than ব্যবহৃত হয়।"
+  },
+  {
+    "id": 198,
+    "question": "It is ten years since —",
+    "options": {
+      "a": "my father died",
+      "b": "my father has died",
+      "c": "my father had died",
+      "d": "my father dies"
+    },
+    "correct_answer": "a",
+    "explanation": "Since-এর প্রথম অংশ present হলে পরের অংশ past indefinite হয়।"
+  },
+  {
+    "id": 199,
+    "question": "Unless you work hard, —",
+    "options": {
+      "a": "you cannot succeed",
+      "b": "you will succeed",
+      "c": "you would succeed",
+      "d": "you can succeed"
+    },
+    "correct_answer": "a",
+    "explanation": "শর্ত ও ফলাফল: কাজ না করলে সফল হতে পারবে না।"
+  },
+  {
+    "id": 200,
+    "question": "A friend in need —",
+    "options": {
+      "a": "is a friend indeed",
+      "b": "is friend indeed",
+      "c": "is a true friend",
+      "d": "helps always"
+    },
+    "correct_answer": "a",
+    "explanation": "প্রবাদবাক্যটি পূর্ণ করা হয়েছে।"
+  },
+  {
+    "id": 201,
+    "question": "A student should be sincere. He must study hard with a view to —",
+    "options": {
+      "a": "attaining success",
+      "b": "attain success",
+      "c": "to attain success",
+      "d": "attained success"
+    },
+    "correct_answer": "a",
+    "explanation": "'With a view to' একটি phrase যার পর verb-এর সাথে 'ing' যুক্ত হয়।"
+  },
+  {
+    "id": 202,
+    "question": "He is so foolish that —. We cannot expect any wise decision from him.",
+    "options": {
+      "a": "he cannot understand the matter",
+      "b": "he could not understand the matter",
+      "c": "he understands the matter",
+      "d": "he will understand the matter"
+    },
+    "correct_answer": "a",
+    "explanation": "'So + adjective + that' এর পর negative sense বুঝাতে present tense-এ cannot + V1 বসে।"
+  },
+  {
+    "id": 203,
+    "question": "The sky is cloudy. It may rain today. You had better — an umbrella.",
+    "options": {
+      "a": "take",
+      "b": "to take",
+      "c": "taking",
+      "d": "took"
+    },
+    "correct_answer": "a",
+    "explanation": "'Had better' এর পর verb-এর base form (V1) বসে।"
+  },
+  {
+    "id": 204,
+    "question": "He has a lot of money, but he is a miser. He would rather die —",
+    "options": {
+      "a": "than spend a single farthing",
+      "b": "than spending a single farthing",
+      "c": "to spend a single farthing",
+      "d": "then spend a single farthing"
+    },
+    "correct_answer": "a",
+    "explanation": "'Would rather... than' কাঠামোতে দুটি কাজের মধ্যে তুলনা বুঝাতে base form ব্যবহৃত হয়।"
+  },
+  {
+    "id": 205,
+    "question": "Birds fly in the sky. I wish —",
+    "options": {
+      "a": "I were a bird",
+      "b": "I could fly like a bird",
+      "c": "I am a bird",
+      "d": "both a and b"
+    },
+    "correct_answer": "d",
+    "explanation": "'I wish' এর পর অবাস্তব ইচ্ছা প্রকাশে were অথবা could + V1 বসে।"
+  },
+  {
+    "id": 206,
+    "question": "We should keep our promise. A promise is a promise, and it —",
+    "options": {
+      "a": "should be kept",
+      "b": "should keep",
+      "c": "must keep",
+      "d": "kept"
+    },
+    "correct_answer": "a",
+    "explanation": "Promise রক্ষা করা উচিত—প্যাসিভ অর্থে 'should be + V3' সঠিক।"
+  },
+  {
+    "id": 207,
+    "question": "The box is too heavy for her —",
+    "options": {
+      "a": "to carry",
+      "b": "to carry it",
+      "c": "carrying it",
+      "d": "that she cannot carry"
+    },
+    "correct_answer": "a",
+    "explanation": "Too + adj + for + person + to + V1। মূল subject (The box) অবজেক্ট হিসেবে থাকলে শেষে it বসে না।"
+  },
+  {
+    "id": 208,
+    "question": "Hardly had the train stopped —",
+    "options": {
+      "a": "when we got down",
+      "b": "than we got down",
+      "c": "then we got down",
+      "d": "before we got down"
+    },
+    "correct_answer": "a",
+    "explanation": "Hardly had... when একটি ফিক্সড কোরিলেটিভ কনজাংশন।"
+  },
+  {
+    "id": 209,
+    "question": "The examination is knocking at the door. It is high time —",
+    "options": {
+      "a": "we started studying",
+      "b": "we start studying",
+      "c": "we should start studying",
+      "d": "to starting studying"
+    },
+    "correct_answer": "a",
+    "explanation": "It is high time + subject + V2।"
+  },
+  {
+    "id": 210,
+    "question": "He is not an honest man. He speaks as if —",
+    "options": {
+      "a": "he were very honest",
+      "b": "he was very honest",
+      "c": "he is very honest",
+      "d": "he has been honest"
+    },
+    "correct_answer": "a",
+    "explanation": "'As if' এর আগে present থাকলে অবাস্তব কল্পনায় 'were' বসে।"
+  },
+  {
+    "id": 211,
+    "question": "Since he was late for the meeting, —",
+    "options": {
+      "a": "he apologized to the chairman",
+      "b": "he apologize to the chairman",
+      "c": "he will apologize",
+      "d": "he is apologizing"
+    },
+    "correct_answer": "a",
+    "explanation": "Since যুক্ত বাক্যের দুটি অংশই একই tense (past) হবে।"
+  },
+  {
+    "id": 212,
+    "question": "I have to finish the work. Unless I finish the work, —",
+    "options": {
+      "a": "I will not go home",
+      "b": "I will go home",
+      "c": "I would not go home",
+      "d": "I shall go home"
+    },
+    "correct_answer": "a",
+    "explanation": "Unless (যদি না) নেতিবাচক শর্ত দেয়। কাজ শেষ না করলে বাড়ি যাব না।"
+  },
+  {
+    "id": 213,
+    "question": "We should be grateful to our teachers. They are the persons who —",
+    "options": {
+      "a": "light the candle of knowledge",
+      "b": "lights the candle of knowledge",
+      "c": "lighted the candle",
+      "d": "are lighting"
+    },
+    "correct_answer": "a",
+    "explanation": "Teachers (plural) এর পর relative pronoun 'who' আসলে plural verb 'light' হবে।"
+  },
+  {
+    "id": 214,
+    "question": "Where there is a will, —. It is a popular proverb.",
+    "options": {
+      "a": "there is a way",
+      "b": "there is way",
+      "c": "a way is there",
+      "d": "there was a way"
+    },
+    "correct_answer": "a",
+    "explanation": "প্রবাদবাক্য: 'Where there is a will, there is a way' (ইচ্ছা থাকলে উপায় হয়)।"
+  },
+  {
+    "id": 215,
+    "question": "I would have met you if —",
+    "options": {
+      "a": "I had known you were here",
+      "b": "I knew you were here",
+      "c": "I have known you were here",
+      "d": "I will know you are here"
+    },
+    "correct_answer": "a",
+    "explanation": "Would have + V3 থাকলে ইফ ক্লজটি Past Perfect (had known) হতে হবে।"
+  },
+  {
+    "id": 216,
+    "question": "The criminal ran away lest —",
+    "options": {
+      "a": "he should be caught",
+      "b": "he will be caught",
+      "c": "he would be caught",
+      "d": "he might caught"
+    },
+    "correct_answer": "a",
+    "explanation": "Lest + subject + should/might + V1 (প্যাসিভ হলে be + V3)।"
+  },
+  {
+    "id": 217,
+    "question": "Provided that the weather is fine, —",
+    "options": {
+      "a": "we will go for a picnic",
+      "b": "we would go for a picnic",
+      "c": "we went for a picnic",
+      "d": "we could go"
+    },
+    "correct_answer": "a",
+    "explanation": "Provided that (if) এর সাথে present থাকলে পরে future tense হয়।"
+  },
+  {
+    "id": 218,
+    "question": "As soon as the thief saw the police, —",
+    "options": {
+      "a": "he ran away",
+      "b": "he runs away",
+      "c": "he has run away",
+      "d": "than he ran away"
+    },
+    "correct_answer": "a",
+    "explanation": "As soon as যুক্ত বাক্যের দুটি অংশই সাধারণত Past Indefinite হয় এবং মাঝখানে কমা বসে।"
+  },
+  {
+    "id": 219,
+    "question": "Faults are thick where —",
+    "options": {
+      "a": "love is thin",
+      "b": "love is thick",
+      "c": "love was thin",
+      "d": "love is gone"
+    },
+    "correct_answer": "a",
+    "explanation": "প্রবাদবাক্য: 'Faults are thick where love is thin' (যারে দেখতে নারি, তার চলন বাঁকা)।"
+  },
+  {
+    "id": 220,
+    "question": "Ten years passed since —",
+    "options": {
+      "a": "I had seen her last",
+      "b": "I saw her last",
+      "c": "I have seen her last",
+      "d": "I see her last"
+    },
+    "correct_answer": "b",
+    "explanation": "Since-এর আগে past indefinite (passed) থাকলে পরে past perfect হওয়ার কথা, কিন্তু HSC পরীক্ষায় অনেক সময় first part past থাকলে second part-ও past indefinite হিসেবে দেখা হয় (বোর্ড ভেদে)। তবে আদর্শ নিয়ম অনুযায়ী এটি had seen হওয়া উচিত। বিকল্প (b) সাধারণত সাধারণ বাক্যে ব্যবহৃত হয়।"
+  },
+  {
+    "id": 221,
+    "question": "If you do not hurry, —",
+    "options": {
+      "a": "you will miss the train",
+      "b": "you would miss the train",
+      "c": "you missed the train",
+      "d": "you would have missed"
+    },
+    "correct_answer": "a",
+    "explanation": "1st Conditional এর সাধারণ নিয়ম।"
+  },
+  {
+    "id": 222,
+    "question": "He speaks English as if —. He is actually a native speaker.",
+    "options": {
+      "a": "he were an Englishman",
+      "b": "he was an Englishman",
+      "c": "he is an Englishman",
+      "d": "he had been an Englishman"
+    },
+    "correct_answer": "a",
+    "explanation": "অবাস্তব বা কাল্পনিক পরিচয়ে 'were' ব্যবহৃত হয়।"
+  },
+  {
+    "id": 223,
+    "question": "Punctuality is a virtue. Try —",
+    "options": {
+      "a": "to be punctual",
+      "b": "being punctual",
+      "c": "to being punctual",
+      "d": "be punctual"
+    },
+    "correct_answer": "a",
+    "explanation": "Try এর পর সাধারণত infinitive (to + V1) বসে।"
+  },
+  {
+    "id": 224,
+    "question": "He has a lot of enemies, but —",
+    "options": {
+      "a": "he is not afraid of them",
+      "b": "he is afraid of them",
+      "c": "he was not afraid",
+      "d": "he does not afraid"
+    },
+    "correct_answer": "a",
+    "explanation": "But বৈপরীত্য প্রকাশ করে—শত্রু থাকলেও সে ভীত নয়।"
+  },
+  {
+    "id": 225,
+    "question": "The students were making a noise. No sooner had the teacher entered the class —",
+    "options": {
+      "a": "than they became silent",
+      "b": "when they became silent",
+      "c": "then they became silent",
+      "d": "after they became silent"
+    },
+    "correct_answer": "a",
+    "explanation": "No sooner had... than নিয়ম।"
+  },
+  {
+    "id": 226,
+    "question": "Scarcely had I reached the station —",
+    "options": {
+      "a": "when the train left",
+      "b": "than the train left",
+      "c": "then the train left",
+      "d": "before the train left"
+    },
+    "correct_answer": "a",
+    "explanation": "Scarcely... when নিয়ম।"
+  },
+  {
+    "id": 227,
+    "question": "Wait here until —",
+    "options": {
+      "a": "I come back",
+      "b": "I do not come back",
+      "c": "I will come back",
+      "d": "I came back"
+    },
+    "correct_answer": "a",
+    "explanation": "Until যুক্ত অংশটি affirmative এবং present indefinite হয়।"
+  },
+  {
+    "id": 228,
+    "question": "It is high time you — for the exam.",
+    "options": {
+      "a": "prepared",
+      "b": "prepare",
+      "c": "should prepare",
+      "d": "must prepare"
+    },
+    "correct_answer": "a",
+    "explanation": "It is high time এর পর past tense হয়।"
+  },
+  {
+    "id": 229,
+    "question": "Though he is poor, —",
+    "options": {
+      "a": "he is honest",
+      "b": "he is dishonest",
+      "c": "he was honest",
+      "d": "he can be honest"
+    },
+    "correct_answer": "a",
+    "explanation": "বিপরীত অর্থ প্রকাশ করেছে।"
+  },
+  {
+    "id": 230,
+    "question": "He ran away lest —",
+    "options": {
+      "a": "he should be punished",
+      "b": "he will be punished",
+      "c": "he would be punished",
+      "d": "he could be punished"
+    },
+    "correct_answer": "a",
+    "explanation": "Lest এর পর should বসে।"
+  },
+  {
+    "id": 231,
+    "question": "If I had seen him, —",
+    "options": {
+      "a": "I would have given him the message",
+      "b": "I would give him the message",
+      "c": "I will give him the message",
+      "d": "I gave him the message"
+    },
+    "correct_answer": "a",
+    "explanation": "3rd Conditional এর নিয়ম।"
+  },
+  {
+    "id": 232,
+    "question": "A friend in need —",
+    "options": {
+      "a": "is a friend indeed",
+      "b": "is friend indeed",
+      "c": "is a true friend",
+      "d": "is help indeed"
+    },
+    "correct_answer": "a",
+    "explanation": "প্রবাদবাক্য।"
+  },
+  {
+    "id": 233,
+    "question": "The tea is too hot —",
+    "options": {
+      "a": "to drink",
+      "b": "to drink it",
+      "c": "for drinking",
+      "d": "that I cannot drink"
+    },
+    "correct_answer": "a",
+    "explanation": "Too + adj + to + V1।"
+  },
+  {
+    "id": 234,
+    "question": "I went to the library with a view to —",
+    "options": {
+      "a": "reading books",
+      "b": "read books",
+      "c": "to read books",
+      "d": "reading book"
+    },
+    "correct_answer": "a",
+    "explanation": "With a view to + V-ing।"
+  },
+  {
+    "id": 235,
+    "question": "If I were a bird, —",
+    "options": {
+      "a": "I would fly in the sky",
+      "b": "I will fly in the sky",
+      "c": "I would have flown",
+      "d": "I could fly"
+    },
+    "correct_answer": "a",
+    "explanation": "2nd Conditional (If + were) এর পর would + V1 হয়।"
+  },
+  {
+    "id": 236,
+    "question": "Unity is strength. United we stand, —",
+    "options": {
+      "a": "divided we fall",
+      "b": "divided we fail",
+      "c": "divided we will fall",
+      "d": "divided we were falling"
+    },
+    "correct_answer": "a",
+    "explanation": "প্রবাদবাক্য।"
+  },
+  {
+    "id": 237,
+    "question": "I would rather die —",
+    "options": {
+      "a": "than beg",
+      "b": "then beg",
+      "c": "to beg",
+      "d": "than begging"
+    },
+    "correct_answer": "a",
+    "explanation": "Would rather... than এর নিয়ম।"
+  },
+  {
+    "id": 238,
+    "question": "It is high time we — our environment.",
+    "options": {
+      "a": "protected",
+      "b": "protect",
+      "c": "should protect",
+      "d": "will protect"
+    },
+    "correct_answer": "a",
+    "explanation": "It is high time এর পর V2 হয়।"
+  },
+  {
+    "id": 239,
+    "question": "He works hard so that —",
+    "options": {
+      "a": "he can succeed in life",
+      "b": "he could succeed in life",
+      "c": "he succeeds in life",
+      "d": "he may success"
+    },
+    "correct_answer": "a",
+    "explanation": "So that + can/may + V1।"
+  },
+  {
+    "id": 240,
+    "question": "I wish I — a millionaire.",
+    "options": {
+      "a": "were",
+      "b": "am",
+      "c": "was",
+      "d": "be"
+    },
+    "correct_answer": "a",
+    "explanation": "I wish এর পর were বসে।"
+  },
+  {
+    "id": 241,
+    "question": "Strike the iron —",
+    "options": {
+      "a": "while it is hot",
+      "b": "when it is hot",
+      "c": "as it is hot",
+      "d": "after it is hot"
+    },
+    "correct_answer": "a",
+    "explanation": "প্রবাদবাক্য: 'Strike the iron while it is hot' (ঝোপ বুঝে কোপ মারো)।"
+  },
+  {
+    "id": 242,
+    "question": "The load is so heavy that —",
+    "options": {
+      "a": "he cannot carry it",
+      "b": "he could not carry it",
+      "c": "he cannot carry",
+      "d": "he cannot be carry it"
+    },
+    "correct_answer": "a",
+    "explanation": "So... that এর নিয়ম।"
+  },
+  {
+    "id": 243,
+    "question": "Unless you study hard, —",
+    "options": {
+      "a": "you will fail in the exam",
+      "b": "you will pass in the exam",
+      "c": "you would fail",
+      "d": "you failed"
+    },
+    "correct_answer": "a",
+    "explanation": "শর্ত ও ফলাফল (1st Conditional)।"
+  },
+  {
+    "id": 244,
+    "question": "Wait here until the rain —",
+    "options": {
+      "a": "stops",
+      "b": "stopped",
+      "c": "will stop",
+      "d": "is stopping"
+    },
+    "correct_answer": "a",
+    "explanation": "Until + present indefinite।"
+  },
+  {
+    "id": 245,
+    "question": "He walks as if —",
+    "options": {
+      "a": "he were lame",
+      "b": "he was lame",
+      "c": "he is lame",
+      "d": "he has been lame"
+    },
+    "correct_answer": "a",
+    "explanation": "As if + were নিয়ম।"
+  },
+  {
+    "id": 246,
+    "question": "Scarcely had I reached the college —",
+    "options": {
+      "a": "when the bell rang",
+      "b": "than the bell rang",
+      "c": "then the bell rang",
+      "d": "after the bell rang"
+    },
+    "correct_answer": "a",
+    "explanation": "Scarcely... when নিয়ম।"
+  },
+  {
+    "id": 247,
+    "question": "A friend in need —",
+    "options": {
+      "a": "is a friend indeed",
+      "b": "is friend indeed",
+      "c": "is friend in deed",
+      "d": "is helpful"
+    },
+    "correct_answer": "a",
+    "explanation": "প্রবাদবাক্য।"
+  },
+  {
+    "id": 248,
+    "question": "I wish I — a poet.",
+    "options": {
+      "a": "were",
+      "b": "am",
+      "c": "was",
+      "d": "be"
+    },
+    "correct_answer": "a",
+    "explanation": "I wish + were নিয়ম।"
+  },
+  {
+    "id": 249,
+    "question": "No sooner had the teacher entered the classroom —",
+    "options": {
+      "a": "than the students stood up",
+      "b": "when the students stood up",
+      "c": "then the students stood up",
+      "d": "after the students stood up"
+    },
+    "correct_answer": "a",
+    "explanation": "No sooner had... than নিয়ম।"
+  },
+  {
+    "id": 250,
+    "question": "Walk fast lest —",
+    "options": {
+      "a": "you should miss the class",
+      "b": "you will miss the class",
+      "c": "you could miss the class",
+      "d": "you missed the class"
+    },
+    "correct_answer": "a",
+    "explanation": "Lest + should নিয়ম।"
+  },
+  {
+    "id": 251,
+    "question": "The boy is not only brilliant —",
+    "options": {
+      "a": "but also industrious",
+      "b": "but industrious also",
+      "c": "and also industrious",
+      "d": "but he is industrious"
+    },
+    "correct_answer": "a",
+    "explanation": "'Not only' এর সাথে জোড়া হিসেবে 'but also' ব্যবহৃত হয়।"
+  },
+  {
+    "id": 252,
+    "question": "If you had informed me earlier, —",
+    "options": {
+      "a": "I would have helped you",
+      "b": "I would help you",
+      "c": "I will help you",
+      "d": "I could help you"
+    },
+    "correct_answer": "a",
+    "explanation": "3rd Conditional: If + Past Perfect, Subject + would have + V3।"
+  },
+  {
+    "id": 253,
+    "question": "Since he was not attentive to his studies, —",
+    "options": {
+      "a": "he failed in the exam",
+      "b": "he will fail in the exam",
+      "c": "he has failed in the exam",
+      "d": "he fails in the exam"
+    },
+    "correct_answer": "a",
+    "explanation": "যেহেতু প্রথম অংশ Past (was), পরের অংশটিও Past Indefinite হবে।"
+  },
+  {
+    "id": 254,
+    "question": "A person who is honest —. He is respected by all.",
+    "options": {
+      "a": "leads a happy life",
+      "b": "lead a happy life",
+      "c": "led a happy life",
+      "d": "will lead a happy life"
+    },
+    "correct_answer": "a",
+    "explanation": "'A person' (singular) এর জন্য 'leads' (V1+s) ব্যবহৃত হয়েছে।"
+  },
+  {
+    "id": 255,
+    "question": "He had better — the place at once.",
+    "options": {
+      "a": "leave",
+      "b": "leaves",
+      "c": "left",
+      "d": "leaving"
+    },
+    "correct_answer": "a",
+    "explanation": "'Had better' এর পর সরাসরি Verb-এর base form বসে।"
+  },
+  {
+    "id": 256,
+    "question": "It is ten years since —. We haven't seen each other since then.",
+    "options": {
+      "a": "we met last",
+      "b": "we had met last",
+      "c": "we have met last",
+      "d": "we meet last"
+    },
+    "correct_answer": "a",
+    "explanation": "Since-এর আগে Present Indefinite/Perfect থাকলে পরে Past Indefinite হয়।"
+  },
+  {
+    "id": 257,
+    "question": "The old man is so weak that —",
+    "options": {
+      "a": "he cannot walk a mile",
+      "b": "he could not walk a mile",
+      "c": "he cannot be walk",
+      "d": "he will not walk"
+    },
+    "correct_answer": "a",
+    "explanation": "'So + adj + that' এর পর বর্তমান সামর্থ্যহীনতা বুঝাতে 'cannot' বসে।"
+  },
+  {
+    "id": 258,
+    "question": "Unless you work hard, —",
+    "options": {
+      "a": "you cannot shine in life",
+      "b": "you can shine in life",
+      "c": "you will shine in life",
+      "d": "you could not shine"
+    },
+    "correct_answer": "a",
+    "explanation": "Unless (যদি না) নেতিবাচক শর্ত দেয়, তাই ফলাফলও নেতিবাচক হবে।"
+  },
+  {
+    "id": 259,
+    "question": "I would rather take a bus —",
+    "options": {
+      "a": "than walk",
+      "b": "then walk",
+      "c": "to walk",
+      "d": "than walking"
+    },
+    "correct_answer": "a",
+    "explanation": "'Would rather... than' পছন্দ নির্ধারণে ব্যবহৃত হয়।"
+  },
+  {
+    "id": 260,
+    "question": "It is high time you — your bad habit.",
+    "options": {
+      "a": "gave up",
+      "b": "give up",
+      "c": "should give up",
+      "d": "had given up"
+    },
+    "correct_answer": "a",
+    "explanation": "'It is high time' এর পর Verb-এর Past form বসে।"
+  },
+  {
+    "id": 261,
+    "question": "Had I been a king, —",
+    "options": {
+      "a": "I would have helped the poor",
+      "b": "I would help the poor",
+      "c": "I will help the poor",
+      "d": "I had helped the poor"
+    },
+    "correct_answer": "a",
+    "explanation": "3rd Conditional structure।"
+  },
+  {
+    "id": 262,
+    "question": "Scarcely had the party begun —",
+    "options": {
+      "a": "when the lights went out",
+      "b": "than the lights went out",
+      "c": "then the lights went out",
+      "d": "while the lights went out"
+    },
+    "correct_answer": "a",
+    "explanation": "Scarcely... when একটি নির্দিষ্ট জোড়া।"
+  },
+  {
+    "id": 263,
+    "question": "He talks as if — everything.",
+    "options": {
+      "a": "he knew",
+      "b": "he knows",
+      "c": "he had known",
+      "d": "he has known"
+    },
+    "correct_answer": "a",
+    "explanation": "As if-এর আগে Present থাকলে পরে Past Indefinite (were/V2) হয়।"
+  },
+  {
+    "id": 264,
+    "question": "Walking is a good exercise. We should walk regularly so that —",
+    "options": {
+      "a": "we can keep fit",
+      "b": "we could keep fit",
+      "c": "we keep fit",
+      "d": "we may keeping fit"
+    },
+    "correct_answer": "a",
+    "explanation": "উদ্দেশ্য বুঝাতে 'So that + can/may' ব্যবহৃত হয়।"
+  },
+  {
+    "id": 265,
+    "question": "If I were you, —",
+    "options": {
+      "a": "I would not do this",
+      "b": "I will not do this",
+      "c": "I would not have done this",
+      "d": "I did not do this"
+    },
+    "correct_answer": "a",
+    "explanation": "2nd Conditional: If + Past Indefinite, Subject + would + V1।"
+  },
+  {
+    "id": 266,
+    "question": "Strike the iron —",
+    "options": {
+      "a": "while it is hot",
+      "b": "when it is hot",
+      "c": "after it is hot",
+      "d": "until it is hot"
+    },
+    "correct_answer": "a",
+    "explanation": "এটি একটি অতি পরিচিত প্রবাদ।"
+  },
+  {
+    "id": 267,
+    "question": "The load is so heavy that —",
+    "options": {
+      "a": "I cannot carry it",
+      "b": "I could not carry it",
+      "c": "I cannot carry",
+      "d": "I cannot be carry it"
+    },
+    "correct_answer": "a",
+    "explanation": "সোজা নিয়ম: So...that এর পর সামর্থ্য অনুযায়ী cannot বসে।"
+  },
+  {
+    "id": 268,
+    "question": "I went to the post office with a view to —",
+    "options": {
+      "a": "posting a letter",
+      "b": "post a letter",
+      "c": "posted a letter",
+      "d": "posts a letter"
+    },
+    "correct_answer": "a",
+    "explanation": "With a view to + (verb+ing)।"
+  },
+  {
+    "id": 269,
+    "question": "No sooner had he seen the police —",
+    "options": {
+      "a": "than he ran away",
+      "b": "when he ran away",
+      "c": "then he ran away",
+      "d": "but he ran away"
+    },
+    "correct_answer": "a",
+    "explanation": "No sooner had-এর সাথে 'than' বসে।"
+  },
+  {
+    "id": 270,
+    "question": "Wait until —",
+    "options": {
+      "a": "I return",
+      "b": "I will return",
+      "c": "I do not return",
+      "d": "I returned"
+    },
+    "correct_answer": "a",
+    "explanation": "Until-এর পর Present Indefinite tense হয়।"
+  },
+  {
+    "id": 271,
+    "question": "Though he is a small boy, —",
+    "options": {
+      "a": "he is very strong",
+      "b": "he is very weak",
+      "c": "he was very strong",
+      "d": "he can be strong"
+    },
+    "correct_answer": "a",
+    "explanation": "বিপরীত অর্থ প্রকাশ করেছে।"
+  },
+  {
+    "id": 272,
+    "question": "I wish I — a millionaire.",
+    "options": {
+      "a": "were",
+      "b": "am",
+      "c": "was",
+      "d": "be"
+    },
+    "correct_answer": "a",
+    "explanation": "অবাস্তব ইচ্ছায় were বসে।"
+  },
+  {
+    "id": 273,
+    "question": "Where there is a will, —",
+    "options": {
+      "a": "there is a way",
+      "b": "there is way",
+      "c": "a way is there",
+      "d": "there was a way"
+    },
+    "correct_answer": "a",
+    "explanation": "প্রবাদবাক্য।"
+  },
+  {
+    "id": 274,
+    "question": "Unity is strength. United we stand, —",
+    "options": {
+      "a": "divided we fall",
+      "b": "divided we fail",
+      "c": "divided we will fall",
+      "d": "divided we fell"
+    },
+    "correct_answer": "a",
+    "explanation": "প্রবাদবাক্য।"
+  },
+  {
+    "id": 275,
+    "question": "A friend in need —",
+    "options": {
+      "a": "is a friend indeed",
+      "b": "is friend indeed",
+      "c": "is a true friend",
+      "d": "is help indeed"
+    },
+    "correct_answer": "a",
+    "explanation": "প্রবাদবাক্য।"
+  },
+  {
+    "id": 276,
+    "question": "You will not prosper in life unless —",
+    "options": {
+      "a": "you make the best use of time",
+      "b": "you do not make the best use of time",
+      "c": "you will use time",
+      "d": "you made the best use of time"
+    },
+    "correct_answer": "a",
+    "explanation": "Unless নিজেই negative।"
+  },
+  {
+    "id": 277,
+    "question": "He ran away lest —",
+    "options": {
+      "a": "he should be caught",
+      "b": "he will be caught",
+      "c": "he would be caught",
+      "d": "he might caught"
+    },
+    "correct_answer": "a",
+    "explanation": "Lest + subject + should + V1 (passive হলে be + V3)।"
+  },
+  {
+    "id": 278,
+    "question": "Knowledge is power. The more you read, —",
+    "options": {
+      "a": "the more you learn",
+      "b": "the more you will learn",
+      "c": "you learn more",
+      "d": "the more you learned"
+    },
+    "correct_answer": "a",
+    "explanation": "The more... the more কাঠামো।"
+  },
+  {
+    "id": 279,
+    "question": "If you had worked hard, —",
+    "options": {
+      "a": "you would have succeeded",
+      "b": "you would succeed",
+      "c": "you will succeed",
+      "d": "you succeeded"
+    },
+    "correct_answer": "a",
+    "explanation": "3rd Conditional নিয়ম।"
+  },
+  {
+    "id": 280,
+    "question": "I would rather die —",
+    "options": {
+      "a": "than steal",
+      "b": "then steal",
+      "c": "to steal",
+      "d": "than stealing"
+    },
+    "correct_answer": "a",
+    "explanation": "Would rather... than এর সঠিক প্রয়োগ।"
+  },
+  {
+    "id": 281,
+    "question": "It is high time we — our bad habits.",
+    "options": {
+      "a": "gave up",
+      "b": "give up",
+      "c": "should give up",
+      "d": "will give up"
+    },
+    "correct_answer": "a",
+    "explanation": "V2 নিয়ম।"
+  },
+  {
+    "id": 282,
+    "question": "I wish I — a poet.",
+    "options": {
+      "a": "were",
+      "b": "am",
+      "c": "was",
+      "d": "be"
+    },
+    "correct_answer": "a",
+    "explanation": "অবাস্তব ইচ্ছা।"
+  },
+  {
+    "id": 283,
+    "question": "Had I enough money, —",
+    "options": {
+      "a": "I would help the poor",
+      "b": "I would have helped the poor",
+      "c": "I will help the poor",
+      "d": "I could help the poor"
+    },
+    "correct_answer": "a",
+    "explanation": "এখানে Had মূল verb, তাই এটি 2nd Conditional।"
+  },
+  {
+    "id": 284,
+    "question": "He speaks as though —",
+    "options": {
+      "a": "he knew everything",
+      "b": "he knows everything",
+      "c": "he has known everything",
+      "d": "he had known everything"
+    },
+    "correct_answer": "a",
+    "explanation": "As though + Past Indefinite।"
+  },
+  {
+    "id": 285,
+    "question": "It is ten years since —",
+    "options": {
+      "a": "my father died",
+      "b": "my father has died",
+      "c": "my father had died",
+      "d": "my father dies"
+    },
+    "correct_answer": "a",
+    "explanation": "Since এর আগে present হলে পরে past indefinite।"
+  },
+  {
+    "id": 286,
+    "question": "Wait until the rain —",
+    "options": {
+      "a": "stops",
+      "b": "stopped",
+      "c": "will stop",
+      "d": "is stopping"
+    },
+    "correct_answer": "a",
+    "explanation": "Until + present indefinite।"
+  },
+  {
+    "id": 287,
+    "question": "If you do not hurry, —",
+    "options": {
+      "a": "you will miss the train",
+      "b": "you would miss the train",
+      "c": "you missed the train",
+      "d": "you would have missed"
+    },
+    "correct_answer": "a",
+    "explanation": "1st Conditional।"
+  },
+  {
+    "id": 288,
+    "question": "Walk fast lest —",
+    "options": {
+      "a": "you should miss the train",
+      "b": "you will miss the train",
+      "c": "you could miss the train",
+      "d": "you missed the train"
+    },
+    "correct_answer": "a",
+    "explanation": "Lest + should নিয়ম।"
+  },
+  {
+    "id": 289,
+    "question": "A student who — can make a good result.",
+    "options": {
+      "a": "studies hard",
+      "b": "study hard",
+      "c": "studied hard",
+      "d": "will study hard"
+    },
+    "correct_answer": "a",
+    "explanation": "Relative Pronoun Singular হওয়ায় Verb-ও Singular।"
+  },
+  {
+    "id": 290,
+    "question": "Trees are helpful because —",
+    "options": {
+      "a": "they provide us with oxygen",
+      "b": "they provided us with oxygen",
+      "c": "they will provide us with oxygen",
+      "d": "they are provide"
+    },
+    "correct_answer": "a",
+    "explanation": "চিরন্তন সত্য বা সাধারণ তথ্যে Present Indefinite হয়।"
+  },
+  {
+    "id": 291,
+    "question": "As he was ill, —",
+    "options": {
+      "a": "he could not go to school",
+      "b": "he cannot go to school",
+      "c": "he will not go to school",
+      "d": "he did not go to school"
+    },
+    "correct_answer": "a",
+    "explanation": "Past tense এর সামঞ্জস্য।"
+  },
+  {
+    "id": 292,
+    "question": "The man — is my uncle.",
+    "options": {
+      "a": "who is walking there",
+      "b": "is walking there",
+      "c": "who walking there",
+      "d": "walks there"
+    },
+    "correct_answer": "a",
+    "explanation": "Relative Clause এর সঠিক গঠন।"
+  },
+  {
+    "id": 293,
+    "question": "Time is very valuable. Once lost —",
+    "options": {
+      "a": "it can never be regained",
+      "b": "it could never be regained",
+      "c": "it will never be regained",
+      "d": "it can never regain"
+    },
+    "correct_answer": "a",
+    "explanation": "প্যাসিভ অর্থে 'can never be regained' সঠিক।"
+  },
+  {
+    "id": 294,
+    "question": "Unless you study hard, —",
+    "options": {
+      "a": "you will fail",
+      "b": "you will pass",
+      "c": "you would fail",
+      "d": "you are failing"
+    },
+    "correct_answer": "a",
+    "explanation": "নতিবাচক শর্ত।"
+  },
+  {
+    "id": 295,
+    "question": "He acts as if —",
+    "options": {
+      "a": "he were a hero",
+      "b": "he was a hero",
+      "c": "he is a hero",
+      "d": "he has been a hero"
+    },
+    "correct_answer": "a",
+    "explanation": "অবাস্তব কল্পনা।"
+  },
+  {
+    "id": 296,
+    "question": "Honesty is the best policy. Everyone —",
+    "options": {
+      "a": "respects an honest man",
+      "b": "respect an honest man",
+      "c": "respected an honest man",
+      "d": "respecting an honest man"
+    },
+    "correct_answer": "a",
+    "explanation": "Everyone singular subject।"
+  },
+  {
+    "id": 297,
+    "question": "Whenever he speaks, —",
+    "options": {
+      "a": "he tells the truth",
+      "b": "he told the truth",
+      "c": "he will tell the truth",
+      "d": "he is telling the truth"
+    },
+    "correct_answer": "a",
+    "explanation": "অভ্যাস বুঝাতে Present Indefinite।"
+  },
+  {
+    "id": 288,
+    "question": "Scarcely had the teacher entered the room —",
+    "options": {
+      "a": "when the students kept quiet",
+      "b": "than the students kept quiet",
+      "c": "then the students kept quiet",
+      "d": "after the students kept quiet"
+    },
+    "correct_answer": "a",
+    "explanation": "Scarcely... when নিয়ম।"
+  },
+  {
+    "id": 299,
+    "question": "A friend in need —",
+    "options": {
+      "a": "is a friend indeed",
+      "b": "is friend indeed",
+      "c": "is friend in deed",
+      "d": "is help always"
+    },
+    "correct_answer": "a",
+    "explanation": "প্রবাদ।"
+  },
+  {
+    "id": 300,
+    "question": "Poverty is a curse. I wish —",
+    "options": {
+      "a": "I were rich",
+      "b": "I am rich",
+      "c": "I could be rich",
+      "d": "both a and c"
+    },
+    "correct_answer": "d",
+    "explanation": "অবাস্তব ইচ্ছা বা প্রার্থনা।"
+  },
+  {
+    "id": 301,
+    "question": "The man is as if —. He doesn't listen to anyone.",
+    "options": {
+      "a": "he were a king",
+      "b": "he was a king",
+      "c": "he is a king",
+      "d": "he had been a king"
+    },
+    "correct_answer": "a",
+    "explanation": "বাক্যে 'as if' থাকলে অবাস্তব কল্পনা বুঝাতে subject-এর পর 'were' বসে।"
+  },
+  {
+    "id": 302,
+    "question": "It is not that —. I just don't have enough time to go with you.",
+    "options": {
+      "a": "I do not like you",
+      "b": "I like you",
+      "c": "I did not like you",
+      "d": "I am not liking you"
+    },
+    "correct_answer": "a",
+    "explanation": "'It is not that' একটি ফ্রেজ যা কোনো কারণকে অস্বীকার করতে ব্যবহৃত হয়। অর্থ: এমন নয় যে আমি তোমাকে পছন্দ করি না।"
+  },
+  {
+    "id": 303,
+    "question": "Were I a bird, —",
+    "options": {
+      "a": "I would fly in the sky",
+      "b": "I will fly in the sky",
+      "c": "I would have flown",
+      "d": "I could have flown"
+    },
+    "correct_answer": "a",
+    "explanation": "এটি Inverted 2nd Conditional (If I were = Were I)। ফলে পরের অংশে 'would + V1' হবে।"
+  },
+  {
+    "id": 304,
+    "question": "Scarcely had we reached there —",
+    "options": {
+      "a": "when the program started",
+      "b": "than the program started",
+      "c": "then the program started",
+      "d": "after the program started"
+    },
+    "correct_answer": "a",
+    "explanation": "Scarcely... when জোড়া শব্দ।"
+  },
+  {
+    "id": 305,
+    "question": "He works hard lest —",
+    "options": {
+      "a": "he should fail",
+      "b": "he will fail",
+      "c": "he would fail",
+      "d": "he fails"
+    },
+    "correct_answer": "a",
+    "explanation": "Lest-এর চিরন্তন নিয়ম: Subject + should/might + V1।"
+  },
+  {
+    "id": 306,
+    "question": "I would rather you — here now.",
+    "options": {
+      "a": "stayed",
+      "b": "stay",
+      "c": "to stay",
+      "d": "would stay"
+    },
+    "correct_answer": "a",
+    "explanation": "'Would rather' এর পর সরাসরি verb থাকলে V1 হয়, কিন্তু subject আসলে (you) verb-এর Past form (stayed) হয়।"
+  },
+  {
+    "id": 307,
+    "question": "The more you give, —",
+    "options": {
+      "a": "the more you get",
+      "b": "the more you will get",
+      "c": "you get more",
+      "d": "the more you got"
+    },
+    "correct_answer": "a",
+    "explanation": "The more... the more সমান্তরাল গঠন।"
+  },
+  {
+    "id": 308,
+    "question": "It is high time we — against corruption.",
+    "options": {
+      "a": "stood",
+      "b": "stand",
+      "c": "should stand",
+      "d": "had stood"
+    },
+    "correct_answer": "a",
+    "explanation": "It is high time + V2।"
+  },
+  {
+    "id": 309,
+    "question": "Hardly had I finished the work —",
+    "options": {
+      "a": "when my friend arrived",
+      "b": "than my friend arrived",
+      "c": "then my friend arrived",
+      "d": "before my friend arrived"
+    },
+    "correct_answer": "a",
+    "explanation": "Hardly... when নিয়ম।"
+  },
+  {
+    "id": 310,
+    "question": "If you had not helped me, —",
+    "options": {
+      "a": "I would have been in danger",
+      "b": "I would be in danger",
+      "c": "I will be in danger",
+      "d": "I would have danger"
+    },
+    "correct_answer": "a",
+    "explanation": "3rd Conditional নিয়ম।"
+  },
+  {
+    "id": 311,
+    "question": "He pretended as though —",
+    "options": {
+      "a": "he had not known anything",
+      "b": "he did not know anything",
+      "c": "he knows everything",
+      "d": "he has known everything"
+    },
+    "correct_answer": "a",
+    "explanation": "As though-এর আগে Past (pretended) থাকলে পরে Past Perfect (had not known) হয়।"
+  },
+  {
+    "id": 312,
+    "question": "The load is so heavy that —",
+    "options": {
+      "a": "it cannot be carried",
+      "b": "it cannot carry",
+      "c": "he cannot carry",
+      "d": "both a and c"
+    },
+    "correct_answer": "d",
+    "explanation": "Passive (it cannot be carried) এবং Active (he cannot carry) উভয়ই গ্রামাটিক্যালি সঠিক।"
+  },
+  {
+    "id": 313,
+    "question": "Wait here until the rain —",
+    "options": {
+      "a": "stops",
+      "b": "stopped",
+      "c": "will stop",
+      "d": "is stop"
+    },
+    "correct_answer": "a",
+    "explanation": "Until + Present Indefinite।"
+  },
+  {
+    "id": 314,
+    "question": "Provided that he works hard, —",
+    "options": {
+      "a": "he will succeed",
+      "b": "he would succeed",
+      "c": "he succeeds",
+      "d": "he would have succeeded"
+    },
+    "correct_answer": "a",
+    "explanation": "Provided that = If (1st conditional)।"
+  },
+  {
+    "id": 315,
+    "question": "I would rather die —",
+    "options": {
+      "a": "than beg",
+      "b": "then beg",
+      "c": "to beg",
+      "d": "than begging"
+    },
+    "correct_answer": "a",
+    "explanation": "Would rather... than এর প্রয়োগ।"
+  },
+  {
+    "id": 316,
+    "question": "No sooner had the teacher entered the class —",
+    "options": {
+      "a": "than the students stood up",
+      "b": "when the students stood up",
+      "c": "then the students stood up",
+      "d": "after the students stood up"
+    },
+    "correct_answer": "a",
+    "explanation": "No sooner had... than নিয়ম।"
+  },
+  {
+    "id": 317,
+    "question": "I wish I — the wings of a bird.",
+    "options": {
+      "a": "had",
+      "b": "have",
+      "c": "were",
+      "d": "would have"
+    },
+    "correct_answer": "a",
+    "explanation": "অতীতের ইচ্ছা বুঝাতে I wish-এর পর Past form 'had' বসে।"
+  },
+  {
+    "id": 318,
+    "question": "Since the water was salty, —",
+    "options": {
+      "a": "we could not drink it",
+      "b": "we cannot drink it",
+      "c": "we did not drink it",
+      "d": "both a and c"
+    },
+    "correct_answer": "d",
+    "explanation": "Past tense-এর কারণে could not বা did not উভয়ই যৌক্তিক।"
+  },
+  {
+    "id": 319,
+    "question": "A friend in need —",
+    "options": {
+      "a": "is a friend indeed",
+      "b": "is friend indeed",
+      "c": "is friend in deed",
+      "d": "is helpful"
+    },
+    "correct_answer": "a",
+    "explanation": "প্রবাদ বাক্য।"
+  },
+  {
+    "id": 320,
+    "question": "Walk fast lest —",
+    "options": {
+      "a": "you should miss the train",
+      "b": "you will miss the train",
+      "c": "you could miss the train",
+      "d": "you missed the train"
+    },
+    "correct_answer": "a",
+    "explanation": "Lest + should নিয়ম।"
+  },
+  {
+    "id": 321,
+    "question": "Ten years passed since —",
+    "options": {
+      "a": "I had seen her last",
+      "b": "I saw her last",
+      "c": "I have seen her last",
+      "d": "I see her last"
+    },
+    "correct_answer": "a",
+    "explanation": "Since-এর প্রথম অংশ Past Indefinite (passed) হলে পরের অংশ Past Perfect (had seen) হয়।"
+  },
+  {
+    "id": 322,
+    "question": "The boy went to market with a view to —",
+    "options": {
+      "a": "buying a book",
+      "b": "buy a book",
+      "c": "bought a book",
+      "d": "buying books"
+    },
+    "correct_answer": "a",
+    "explanation": "With a view to + V-ing।"
+  },
+  {
+    "id": 223,
+    "question": "Though he is poor, —",
+    "options": {
+      "a": "he is honest",
+      "b": "he is dishonest",
+      "c": "he was honest",
+      "d": "he can be honest"
+    },
+    "correct_answer": "a",
+    "explanation": "বিপরীত অর্থ প্রকাশ করেছে।"
+  },
+  {
+    "id": 324,
+    "question": "It is high time we — for the betterment of our country.",
+    "options": {
+      "a": "worked",
+      "b": "work",
+      "c": "should work",
+      "d": "will work"
+    },
+    "correct_answer": "a",
+    "explanation": "It is high time এর পর V2 হয়।"
+  },
+  {
+    "id": 325,
+    "question": "If I had a camera, —",
+    "options": {
+      "a": "I would take some photos",
+      "b": "I would have taken some photos",
+      "c": "I will take some photos",
+      "d": "I took some photos"
+    },
+    "correct_answer": "a",
+    "explanation": "এখানে 'had' মূল verb (V2), তাই এটি 2nd Conditional। ফলে 'would + V1' হবে।"
+  },
+  {
+    "id": 326,
+    "question": "Danger comes where —",
+    "options": {
+      "a": "danger is feared",
+      "b": "danger was feared",
+      "c": "danger will be feared",
+      "d": "danger has feared"
+    },
+    "correct_answer": "a",
+    "explanation": "প্রবাদ: 'Danger comes where danger is feared' (যেখানে বাঘের ভয় সেখানেই রাত হয়)।"
+  },
+  {
+    "id": 327,
+    "question": "Knowledge is power. The more you read, —",
+    "options": {
+      "a": "the more you learn",
+      "b": "the more you will learn",
+      "c": "you learn more",
+      "d": "the more you learned"
+    },
+    "correct_answer": "a",
+    "explanation": "The more... the more নিয়ম।"
+  },
+  {
+    "id": 328,
+    "question": "I would rather take coffee —",
+    "options": {
+      "a": "than tea",
+      "b": "then tea",
+      "c": "to tea",
+      "d": "than taking tea"
+    },
+    "correct_answer": "a",
+    "explanation": "পছন্দ প্রকাশ।"
+  },
+  {
+    "id": 329,
+    "question": "Wait until —",
+    "options": {
+      "a": "I come back",
+      "b": "I will come back",
+      "c": "I do not come back",
+      "d": "I returned"
+    },
+    "correct_answer": "a",
+    "explanation": "Until + Present Indefinite।"
+  },
+  {
+    "id": 330,
+    "question": "The load is so heavy that —",
+    "options": {
+      "a": "I cannot carry it",
+      "b": "I could not carry it",
+      "c": "I cannot carry",
+      "d": "I cannot be carry it"
+    },
+    "correct_answer": "a",
+    "explanation": "So...that এর নিয়ম।"
+  },
+  {
+    "id": 331,
+    "question": "He has a lot of enemies, but —",
+    "options": {
+      "a": "he is not afraid of them",
+      "b": "he is afraid of them",
+      "c": "he was not afraid",
+      "d": "he does not afraid"
+    },
+    "correct_answer": "a",
+    "explanation": "বৈপরীত্য প্রকাশ।"
+  },
+  {
+    "id": 332,
+    "question": "Honesty is the best policy. Everyone —",
+    "options": {
+      "a": "respects an honest man",
+      "b": "respect an honest man",
+      "c": "respected an honest man",
+      "d": "respecting an honest man"
+    },
+    "correct_answer": "a",
+    "explanation": "Everyone singular subject।"
+  },
+  {
+    "id": 333,
+    "question": "Unless you study hard, —",
+    "options": {
+      "a": "you will fail in the exam",
+      "b": "you will pass in the exam",
+      "c": "you would fail",
+      "d": "you failed"
+    },
+    "correct_answer": "a",
+    "explanation": "1st Conditional।"
+  },
+  {
+    "id": 334,
+    "question": "Strike the iron —",
+    "options": {
+      "a": "while it is hot",
+      "b": "when it is hot",
+      "c": "as it is hot",
+      "d": "after it is hot"
+    },
+    "correct_answer": "a",
+    "explanation": "প্রবাদ বাক্য।"
+  },
+  {
+    "id": 335,
+    "question": "He acts as if —",
+    "options": {
+      "a": "he were a hero",
+      "b": "he was a hero",
+      "c": "he is a hero",
+      "d": "he has been a hero"
+    },
+    "correct_answer": "a",
+    "explanation": "As if-এর নিয়ম।"
+  },
+  {
+    "id": 336,
+    "question": "Unity is strength. United we stand, —",
+    "options": {
+      "a": "divided we fall",
+      "b": "divided we fail",
+      "c": "divided we will fall",
+      "d": "divided we were falling"
+    },
+    "correct_answer": "a",
+    "explanation": "প্রবাদ বাক্য।"
+  },
+  {
+    "id": 337,
+    "question": "I wish I — a millionaire.",
+    "options": {
+      "a": "were",
+      "b": "am",
+      "c": "was",
+      "d": "be"
+    },
+    "correct_answer": "a",
+    "explanation": "I wish + were।"
+  },
+  {
+    "id": 338,
+    "question": "It is high time we — our environment.",
+    "options": {
+      "a": "protected",
+      "b": "protect",
+      "c": "should protect",
+      "d": "will protect"
+    },
+    "correct_answer": "a",
+    "explanation": "It is high time এর পর V2 হয়।"
+  },
+  {
+    "id": 339,
+    "question": "He works hard so that —",
+    "options": {
+      "a": "he can succeed in life",
+      "b": "he could succeed in life",
+      "c": "he succeeds in life",
+      "d": "he may success"
+    },
+    "correct_answer": "a",
+    "explanation": "So that-এর নিয়ম।"
+  },
+  {
+    "id": 340,
+    "question": "Ten years passed since —",
+    "options": {
+      "a": "his father died",
+      "b": "his father had died",
+      "c": "his father dies",
+      "d": "his father has died"
+    },
+    "correct_answer": "b",
+    "explanation": "Since-এর আগে Past থাকলে পরে Past Perfect হয়।"
+  },
+  {
+    "id": 341,
+    "question": "If you do not hurry, —",
+    "options": {
+      "a": "you will miss the train",
+      "b": "you would miss the train",
+      "c": "you missed the train",
+      "d": "you would have missed"
+    },
+    "correct_answer": "a",
+    "explanation": "1st Conditional।"
+  },
+  {
+    "id": 342,
+    "question": "Had I been a rich man, —",
+    "options": {
+      "a": "I would have helped the poor",
+      "b": "I would help the poor",
+      "c": "I will help the poor",
+      "d": "I helped the poor"
+    },
+    "correct_answer": "a",
+    "explanation": "3rd Conditional।"
+  },
+  {
+    "id": 343,
+    "question": "Scarcely had I reached the college —",
+    "options": {
+      "a": "when the bell rang",
+      "b": "than the bell rang",
+      "c": "then the bell rang",
+      "d": "after the bell rang"
+    },
+    "correct_answer": "a",
+    "explanation": "Scarcely... when নিয়ম।"
+  },
+  {
+    "id": 344,
+    "question": "The climate — because of greenhouse effect.",
+    "options": {
+      "a": "is changing",
+      "b": "has changed",
+      "c": "changed",
+      "d": "was changing"
+    },
+    "correct_answer": "a",
+    "explanation": "বর্তমান চলমান অবস্থা।"
+  },
+  {
+    "id": 345,
+    "question": "I wish I — a poet.",
+    "options": {
+      "a": "were",
+      "b": "am",
+      "c": "was",
+      "d": "be"
+    },
+    "correct_answer": "a",
+    "explanation": "I wish + were।"
+  },
+  {
+    "id": 346,
+    "question": "Walk fast lest —",
+    "options": {
+      "a": "you should miss the class",
+      "b": "you will miss the class",
+      "c": "you could miss the class",
+      "d": "you missed the class"
+    },
+    "correct_answer": "a",
+    "explanation": "Lest + should নিয়ম।"
+  },
+  {
+    "id": 347,
+    "question": "No sooner had the teacher entered the classroom —",
+    "options": {
+      "a": "than the students stood up",
+      "b": "when the students stood up",
+      "c": "then the students stood up",
+      "d": "after the students stood up"
+    },
+    "correct_answer": "a",
+    "explanation": "No sooner had... than নিয়ম।"
+  },
+  {
+    "id": 348,
+    "question": "If you had informed me, —",
+    "options": {
+      "a": "I would have gone with you",
+      "b": "I would go with you",
+      "c": "I will go with you",
+      "d": "I went with you"
+    },
+    "correct_answer": "a",
+    "explanation": "3rd Conditional নিয়ম।"
+  },
+  {
+    "id": 349,
+    "question": "Though he is a small boy, —",
+    "options": {
+      "a": "he is very strong",
+      "b": "he is very weak",
+      "c": "he was very strong",
+      "d": "he can be strong"
+    },
+    "correct_answer": "a",
+    "explanation": "বিপরীত অর্থ প্রকাশ।"
+  },
+  {
+    "id": 350,
+    "question": "Wait until —",
+    "options": {
+      "a": "I finish my breakfast",
+      "b": "I will finish my breakfast",
+      "c": "I do not finish my breakfast",
+      "d": "I finished my breakfast"
+    },
+    "correct_answer": "a",
+    "explanation": "Until + Present Indefinite।"
+  },
+  {
+    "id": 351,
+    "question": "The exam is very near. It is high time —.",
+    "options": {
+      "a": "we started studying seriously",
+      "b": "we start studying seriously",
+      "c": "we should start studying",
+      "d": "to starting studying"
+    },
+    "correct_answer": "a",
+    "explanation": "বোর্ড পরীক্ষায় 'It is high time' খুবই কমন। এরপর subject থাকলে verb-এর past form (V2) বসে।"
+  },
+  {
+    "id": 352,
+    "question": "Bangladesh is our motherland. We should work hard so that —.",
+    "options": {
+      "a": "we can make her prosperous",
+      "b": "we could make her prosperous",
+      "c": "we can make her prosper",
+      "d": "both a and c"
+    },
+    "correct_answer": "d",
+    "explanation": "দেশের উন্নতি করার উদ্দেশ্যে Present tense-এ 'so that + can + V1' ব্যবহৃত হয়।"
+  },
+  {
+    "id": 353,
+    "question": "He is very meritorious. Had I been as meritorious as he, —.",
+    "options": {
+      "a": "I would have got a scholarship",
+      "b": "I would get a scholarship",
+      "c": "I will get a scholarship",
+      "d": "I could get a scholarship"
+    },
+    "correct_answer": "a",
+    "explanation": "এটি 3rd Conditional (Had + Sub + V3)। নিয়ম অনুযায়ী পরের অংশে 'would have + V3' বসে।"
+  },
+  {
+    "id": 354,
+    "question": "Birds fly in the sky. I wish —.",
+    "options": {
+      "a": "I were a bird",
+      "b": "I had the wings of a bird",
+      "c": "I could fly like a bird",
+      "d": "All of the above"
+    },
+    "correct_answer": "d",
+    "explanation": "অবাস্তব ইচ্ছা বুঝাতে wish-এর পর were, had বা could + V1 তিনটেই সঠিক।"
+  },
+  {
+    "id": 355,
+    "question": "A student must be punctual. He should go to school lest —.",
+    "options": {
+      "a": "he should miss the lessons",
+      "b": "he will miss the lessons",
+      "c": "he would miss the lessons",
+      "d": "he might missed the lessons"
+    },
+    "correct_answer": "a",
+    "explanation": "Lest-এর পর subject + should + V1 বসে। এটি প্রায় প্রতি বছর বোর্ডে আসে।"
+  },
+  {
+    "id": 356,
+    "question": "The old man is very weak. He is too weak —.",
+    "options": {
+      "a": "to walk properly",
+      "b": "for walk properly",
+      "c": "that he cannot walk",
+      "d": "to walking properly"
+    },
+    "correct_answer": "a",
+    "explanation": "Too + adjective + to + V1 গঠনটি বোর্ড পরীক্ষায় প্রায়ই দেখা যায়।"
+  },
+  {
+    "id": 357,
+    "question": "Corruption is a curse. We must take steps provided that —.",
+    "options": {
+      "a": "we want to save our country",
+      "b": "we wanted to save our country",
+      "c": "we will save our country",
+      "d": "we can save our country"
+    },
+    "correct_answer": "a",
+    "explanation": "Provided that (যদি) যুক্ত অংশটি সাধারণত Present Indefinite হয়।"
+  },
+  {
+    "id": 358,
+    "question": "I have to meet my friend. It is long since —.",
+    "options": {
+      "a": "I met him last",
+      "b": "I had met him last",
+      "c": "I have met him last",
+      "d": "I see him last"
+    },
+    "correct_answer": "a",
+    "explanation": "Since-এর আগে Present (is) থাকলে পরে Past Indefinite (met) হয়।"
+  },
+  {
+    "id": 359,
+    "question": "The boy was very hungry. No sooner had he seen the food —.",
+    "options": {
+      "a": "than he started eating",
+      "b": "when he started eating",
+      "c": "then he started eating",
+      "d": "before he started eating"
+    },
+    "correct_answer": "a",
+    "explanation": "No sooner had... than বোর্ড কোশ্চেনের অন্যতম প্রিয় নিয়ম।"
+  },
+  {
+    "id": 360,
+    "question": "Trees are our best friends. We should plant more trees unless —.",
+    "options": {
+      "a": "we want to face natural disasters",
+      "b": "we do not want to face disasters",
+      "c": "we will face disasters",
+      "d": "we wanted to face disasters"
+    },
+    "correct_answer": "a",
+    "explanation": "Unless (যদি না) নিজে নেতিবাচক। আমরা গাছ লাগাব যদি না আমরা দুর্যোগে পড়তে চাই।"
+  },
+  {
+    "id": 361,
+    "question": "He is a liar. He speaks as though —.",
+    "options": {
+      "a": "he knew everything",
+      "b": "he knows everything",
+      "c": "he has known everything",
+      "d": "he is knowing everything"
+    },
+    "correct_answer": "a",
+    "explanation": "As though-এর আগে Present (speaks) থাকলে পরে Past Indefinite (knew) হয়।"
+  },
+  {
+    "id": 362,
+    "question": "Unity is strength. There is a proverb that —.",
+    "options": {
+      "a": "United we stand, divided we fall",
+      "b": "Where there is a will, there is a way",
+      "c": "A friend in need is a friend indeed",
+      "d": "Honesty is the best policy"
+    },
+    "correct_answer": "a",
+    "explanation": "Context (Unity) অনুযায়ী প্রবাদটি বাছাই করতে হবে।"
+  },
+  {
+    "id": 363,
+    "question": "The weather was very cold. I would rather stay at home —.",
+    "options": {
+      "a": "than go outside",
+      "b": "then go outside",
+      "c": "than going outside",
+      "d": "to go outside"
+    },
+    "correct_answer": "a",
+    "explanation": "Would rather... than এর পর verb-এর base form বসে।"
+  },
+  {
+    "id": 364,
+    "question": "He failed in the exam. If he had been serious, —.",
+    "options": {
+      "a": "he would have passed",
+      "b": "he would pass",
+      "c": "he will pass",
+      "d": "he could pass"
+    },
+    "correct_answer": "a",
+    "explanation": "অতীতের আফসোস বুঝাতে 3rd Conditional ব্যবহৃত হয়েছে।"
+  },
+  {
+    "id": 365,
+    "question": "I don't have enough money. If I had money, —.",
+    "options": {
+      "a": "I would help the poor",
+      "b": "I would have helped the poor",
+      "c": "I will help the poor",
+      "d": "I could helped the poor"
+    },
+    "correct_answer": "a",
+    "explanation": "এখানে 'had' মূল verb (V2), তাই এটি 2nd Conditional। নিয়ম: would + V1।"
+  },
+  {
+    "id": 366,
+    "question": "Smoking is harmful to health. It is high time we — smoking.",
+    "options": {
+      "a": "gave up",
+      "b": "give up",
+      "c": "should give up",
+      "d": "will give up"
+    },
+    "correct_answer": "a",
+    "explanation": "বোর্ড স্ট্যান্ডার্ড অনুযায়ী 'gave up' (V2) সঠিক।"
+  },
+  {
+    "id": 367,
+    "question": "The load is very heavy. I cannot carry it. It is too heavy for me —.",
+    "options": {
+      "a": "to carry",
+      "b": "to carry it",
+      "c": "to carrying",
+      "d": "that I cannot carry"
+    },
+    "correct_answer": "a",
+    "explanation": "ইনফিনিটিভ যুক্ত অংশে অবজেক্ট (it) বসানোর প্রয়োজন নেই যদি তা বাক্যের শুরুতে থাকে।"
+  },
+  {
+    "id": 368,
+    "question": "Wait for me until —.",
+    "options": {
+      "a": "I come back",
+      "b": "I do not come back",
+      "c": "I will come back",
+      "d": "I returned"
+    },
+    "correct_answer": "a",
+    "explanation": "Until-এর পর affirmative বাক্য হয়।"
+  },
+  {
+    "id": 369,
+    "question": "Scarcely had the teacher entered the class —.",
+    "options": {
+      "a": "when the students stood up",
+      "b": "than the students stood up",
+      "c": "then the students stood up",
+      "d": "after the students stood up"
+    },
+    "correct_answer": "a",
+    "explanation": "Scarcely... when কোরিলেটিভ কনজাংশন।"
+  },
+  {
+    "id": 370,
+    "question": "Education is the backbone of a nation. We should be educated so that —.",
+    "options": {
+      "a": "we can serve our country",
+      "b": "we could serve our country",
+      "c": "we can be serve our country",
+      "d": "we may served"
+    },
+    "correct_answer": "a",
+    "explanation": "উদ্দেশ্য বুঝাতে so that + can + V1।"
+  },
+  {
+    "id": 371,
+    "question": "Honesty is the best policy. An honest man is respected everywhere because —.",
+    "options": {
+      "a": "he is truthful",
+      "b": "he was truthful",
+      "c": "he has truthful",
+      "d": "he will be truthful"
+    },
+    "correct_answer": "a",
+    "explanation": "বর্তমান সাধারণ সত্য বুঝাতে Present Indefinite।"
+  },
+  {
+    "id": 372,
+    "question": "I was very busy. Had I known you were in the hospital, —.",
+    "options": {
+      "a": "I would have visited you",
+      "b": "I would visit you",
+      "c": "I will visit you",
+      "d": "I could visit you"
+    },
+    "correct_answer": "a",
+    "explanation": "3rd Conditional নিয়ম।"
+  },
+  {
+    "id": 373,
+    "question": "Danger comes where —. It is a common saying.",
+    "options": {
+      "a": "danger is feared",
+      "b": "it is feared",
+      "c": "death is feared",
+      "d": "both a and b"
+    },
+    "correct_answer": "d",
+    "explanation": "বোর্ড পরীক্ষায় 'danger is feared' বা 'it is feared' দুটোই চলে।"
+  },
+  {
+    "id": 374,
+    "question": "He ran away for fear that —.",
+    "options": {
+      "a": "he might be seen",
+      "b": "he should be seen",
+      "c": "he would be seen",
+      "d": "both a and b"
+    },
+    "correct_answer": "d",
+    "explanation": "For fear that = Lest. তাই এরপর should বা might উভয়ই বসে।"
+  },
+  {
+    "id": 375,
+    "question": "Knowledge is power. The more you read, —.",
+    "options": {
+      "a": "the more you learn",
+      "b": "the more you will learn",
+      "c": "you learn more",
+      "d": "the more you learned"
+    },
+    "correct_answer": "a",
+    "explanation": "সমান্তরাল বৃদ্ধি বুঝাতে the more... the more।"
+  },
+  {
+    "id": 376,
+    "question": "It is many years since —. Time flies very fast.",
+    "options": {
+      "a": "we last met",
+      "b": "we had last met",
+      "c": "we have last met",
+      "d": "we meet last"
+    },
+    "correct_answer": "a",
+    "explanation": "Since-এর নিয়ম: Present + since + Past Indefinite।"
+  },
+  {
+    "id": 377,
+    "question": "He is too clever —. Nobody can cheat him.",
+    "options": {
+      "a": "to be cheated",
+      "b": "to cheat",
+      "c": "for cheat",
+      "d": "that he cannot be cheated"
+    },
+    "correct_answer": "a",
+    "explanation": "সে এতই চালাক যে তাকে ঠকানো যায় না (Passive Infinitive)।"
+  },
+  {
+    "id": 378,
+    "question": "I would rather take coffee —. I don't like tea.",
+    "options": {
+      "a": "than tea",
+      "b": "then tea",
+      "c": "to tea",
+      "d": "than taking tea"
+    },
+    "correct_answer": "a",
+    "explanation": "Would rather-এর সাথে comparison বুঝাতে 'than' বসে।"
+  },
+  {
+    "id": 379,
+    "question": "Unless you study hard, —.",
+    "options": {
+      "a": "you will fail in the exam",
+      "b": "you will not fail",
+      "c": "you would fail",
+      "d": "you failed"
+    },
+    "correct_answer": "a",
+    "explanation": "নেতিবাচক শর্তের স্বাভাবিক ফলাফল।"
+  },
+  {
+    "id": 380,
+    "question": "Wait here until the rain —.",
+    "options": {
+      "a": "stops",
+      "b": "stopped",
+      "c": "will stop",
+      "d": "is stop"
+    },
+    "correct_answer": "a",
+    "explanation": "Until যুক্ত অংশটি Present Indefinite হয়।"
+  },
+  {
+    "id": 381,
+    "question": "A friend in need —. This is the definition of a true friend.",
+    "options": {
+      "a": "is a friend indeed",
+      "b": "is friend indeed",
+      "c": "is friend in deed",
+      "d": "is a help indeed"
+    },
+    "correct_answer": "a",
+    "explanation": "জনপ্রিয় প্রবাদ।"
+  },
+  {
+    "id": 382,
+    "question": "I went to the library with a view to —.",
+    "options": {
+      "a": "making notes",
+      "b": "make notes",
+      "c": "to make notes",
+      "d": "made notes"
+    },
+    "correct_answer": "a",
+    "explanation": "With a view to + (verb + ing)।"
+  },
+  {
+    "id": 383,
+    "question": "If I were you, —. But I am not.",
+    "options": {
+      "a": "I would not do this",
+      "b": "I will not do this",
+      "c": "I would not have done this",
+      "d": "I did not do this"
+    },
+    "correct_answer": "a",
+    "explanation": "2nd Conditional-এর প্রয়োগ।"
+  },
+  {
+    "id": 384,
+    "question": "He behaves as if —. It is very annoying.",
+    "options": {
+      "a": "he were a leader",
+      "b": "he was a leader",
+      "c": "he is a leader",
+      "d": "he had been a leader"
+    },
+    "correct_answer": "a",
+    "explanation": "As if + were নিয়ম।"
+  },
+  {
+    "id": 385,
+    "question": "Walk fast lest —.",
+    "options": {
+      "a": "you should miss the train",
+      "b": "you will miss the train",
+      "c": "you could miss the train",
+      "d": "you missed"
+    },
+    "correct_answer": "a",
+    "explanation": "Lest-এর চিরস্থায়ী নিয়ম।"
+  },
+  {
+    "id": 386,
+    "question": "Strike the iron —. Don't waste your time.",
+    "options": {
+      "a": "while it is hot",
+      "b": "when it is hot",
+      "c": "after it is hot",
+      "d": "until it is hot"
+    },
+    "correct_answer": "a",
+    "explanation": "প্রবাদবাক্য।"
+  },
+  {
+    "id": 387,
+    "question": "It is ten years since —. We haven't met since then.",
+    "options": {
+      "a": "his father died",
+      "b": "his father had died",
+      "c": "his father dies",
+      "d": "his father has died"
+    },
+    "correct_answer": "a",
+    "explanation": "Since-এর আগে Present থাকলে পরে Past Indefinite (V2)।"
+  },
+  {
+    "id": 388,
+    "question": "The man is so old that —.",
+    "options": {
+      "a": "he cannot walk properly",
+      "b": "he could not walk properly",
+      "c": "he cannot walk proper",
+      "d": "he will not walk"
+    },
+    "correct_answer": "a",
+    "explanation": "So...that-এর নিয়ম।"
+  },
+  {
+    "id": 389,
+    "question": "If you had worked hard, —.",
+    "options": {
+      "a": "you would have succeeded",
+      "b": "you would succeed",
+      "c": "you will succeed",
+      "d": "you succeeded"
+    },
+    "correct_answer": "a",
+    "explanation": "3rd Conditional নিয়ম।"
+  },
+  {
+    "id": 390,
+    "question": "Though he is rich, —. He always wants more.",
+    "options": {
+      "a": "he is unhappy",
+      "b": "he is happy",
+      "c": "he was unhappy",
+      "d": "he is greedy"
+    },
+    "correct_answer": "a",
+    "explanation": "Though বৈপরীত্য প্রকাশ করে।"
+  },
+  {
+    "id": 391,
+    "question": "Health is wealth. We should take exercise so that —.",
+    "options": {
+      "a": "we can keep fit",
+      "b": "we could keep fit",
+      "c": "we are fit",
+      "d": "we will be fit"
+    },
+    "correct_answer": "a",
+    "explanation": "উদ্দেশ্য বুঝাতে so that + can।"
+  },
+  {
+    "id": 392,
+    "question": "The criminal ran away for fear that —.",
+    "options": {
+      "a": "he might be caught",
+      "b": "he will be caught",
+      "c": "he would be caught",
+      "d": "he might caught"
+    },
+    "correct_answer": "a",
+    "explanation": "For fear that-এর পর might/should + be + V3।"
+  },
+  {
+    "id": 393,
+    "question": "Poverty is a curse. I wish —.",
+    "options": {
+      "a": "I were rich",
+      "b": "I could be rich",
+      "c": "I was rich",
+      "d": "both a and b"
+    },
+    "correct_answer": "d",
+    "explanation": "অবাস্তব ইচ্ছা।"
+  },
+  {
+    "id": 394,
+    "question": "He has failed in the test. He would have passed if —.",
+    "options": {
+      "a": "he had studied more",
+      "b": "he studied more",
+      "c": "he will study more",
+      "d": "he has studied"
+    },
+    "correct_answer": "a",
+    "explanation": "3rd Conditional।"
+  },
+  {
+    "id": 395,
+    "question": "Knowledge is power. The more you read, —.",
+    "options": {
+      "a": "the more you learn",
+      "b": "the more you will learn",
+      "c": "you learn more",
+      "d": "the more you learned"
+    },
+    "correct_answer": "a",
+    "explanation": "সমান্তরাল কাঠামো।"
+  },
+  {
+    "id": 396,
+    "question": "It is high time we — against corruption.",
+    "options": {
+      "a": "stood",
+      "b": "stand",
+      "c": "should stand",
+      "d": "must stand"
+    },
+    "correct_answer": "a",
+    "explanation": "V2 এর নিয়ম।"
+  },
+  {
+    "id": 397,
+    "question": "A person who is honest —.",
+    "options": {
+      "a": "leads a happy life",
+      "b": "lead a happy life",
+      "c": "led a happy life",
+      "d": "is lead a happy life"
+    },
+    "correct_answer": "a",
+    "explanation": "Relative pronoun-এর antecedent (A person) অনুযায়ী verb (leads)।"
+  },
+  {
+    "id": 398,
+    "question": "Provided that the weather is fine, —.",
+    "options": {
+      "a": "we will go for a picnic",
+      "b": "we would go for a picnic",
+      "c": "we went for a picnic",
+      "d": "we could go"
+    },
+    "correct_answer": "a",
+    "explanation": "Provided that = If। 1st Conditional।"
+  },
+  {
+    "id": 399,
+    "question": "Scarcely had I reached the station —.",
+    "options": {
+      "a": "when the train left",
+      "b": "than the train left",
+      "c": "then the train left",
+      "d": "while the train left"
+    },
+    "correct_answer": "a",
+    "explanation": "Scarcely... when জোড়া শব্দ।"
+  },
+  {
+    "id": 400,
+    "question": "Where there is a will, —. This is a very popular proverb.",
+    "options": {
+      "a": "there is a way",
+      "b": "there is way",
+      "c": "a way is there",
+      "d": "there was a way"
+    },
+    "correct_answer": "a",
+    "explanation": "প্রবাদবাক্য।"
+  },
+  {
+    "id": 401,
+    "question": "The boss insisted that he — the work on time.",
+    "options": {
+      "a": "finish",
+      "b": "finishes",
+      "c": "finished",
+      "d": "must finish"
+    },
+    "correct_answer": "a",
+    "explanation": "এটি Subjunctive Mood। Insist, suggest, recommend-এর পর 'that' থাকলে পরবর্তী verb-এর base form হয় (s/es যুক্ত হয় না)।"
+  },
+  {
+    "id": 402,
+    "question": "No matter how fast he ran, —.",
+    "options": {
+      "a": "he could not win the race",
+      "b": "he cannot win the race",
+      "c": "he will not win the race",
+      "d": "he did not win the race"
+    },
+    "correct_answer": "a",
+    "explanation": "'No matter how' বৈপরীত্য প্রকাশ করে। আগের অংশ Past হওয়ায় পরের অংশে 'could not' বসেছে।"
+  },
+  {
+    "id": 403,
+    "question": "I had my car — by a mechanic yesterday.",
+    "options": {
+      "a": "repaired",
+      "b": "repair",
+      "c": "repairing",
+      "d": "to repair"
+    },
+    "correct_answer": "a",
+    "explanation": "Causative 'Have' (had): বস্তুবাচক object থাকলে এরপর V3 (repaired) হয়।"
+  },
+  {
+    "id": 404,
+    "question": "He would rather you — a doctor immediately.",
+    "options": {
+      "a": "saw",
+      "b": "see",
+      "c": "seen",
+      "d": "to see"
+    },
+    "correct_answer": "a",
+    "explanation": "Would rather-এর পর subject আসলে verb-এর past form (saw) হয়।"
+  },
+  {
+    "id": 405,
+    "question": "He ran as fast as —. He didn't want to miss the bus.",
+    "options": {
+      "a": "he could",
+      "b": "he can",
+      "c": "he would",
+      "d": "he might"
+    },
+    "correct_answer": "a",
+    "explanation": "অতীতের সর্বোচ্চ ক্ষমতা বুঝাতে 'as fast as he could' ব্যবহৃত হয়।"
+  },
+  {
+    "id": 406,
+    "question": "Hardly had I reached the station —.",
+    "options": {
+      "a": "when the train left",
+      "b": "than the train left",
+      "c": "then the train left",
+      "d": "after the train left"
+    },
+    "correct_answer": "a",
+    "explanation": "Hardly-এর সাথে 'when' বসে।"
+  },
+  {
+    "id": 407,
+    "question": "It is high time you — your career path.",
+    "options": {
+      "a": "decided",
+      "b": "decide",
+      "c": "should decide",
+      "d": "will decide"
+    },
+    "correct_answer": "a",
+    "explanation": "V2 এর নিয়ম।"
+  },
+  {
+    "id": 408,
+    "question": "I am looking forward to — from you soon.",
+    "options": {
+      "a": "hearing",
+      "b": "hear",
+      "c": "heard",
+      "d": "be hearing"
+    },
+    "correct_answer": "a",
+    "explanation": "'Looking forward to' এর পর verb+ing বসে।"
+  },
+  {
+    "id": 409,
+    "question": "Not only did he come here —.",
+    "options": {
+      "a": "but he also helped me",
+      "b": "but also he helped me",
+      "c": "but also helped me",
+      "d": "and he helped me"
+    },
+    "correct_answer": "a",
+    "explanation": "বাক্যের শুরুতে Not only থাকলে inversion হয় (did he come), এবং পরের অংশে 'but also' থাকে।"
+  },
+  {
+    "id": 410,
+    "question": "Even if he is poor, —.",
+    "options": {
+      "a": "he is honest",
+      "b": "he will be honest",
+      "c": "he would be honest",
+      "d": "he cannot be honest"
+    },
+    "correct_answer": "a",
+    "explanation": "'Even if' (যদিও) বৈপরীত্য প্রকাশ করে।"
+  },
+  {
+    "id": 411,
+    "question": "Were I a king, —.",
+    "options": {
+      "a": "I would help the poor",
+      "b": "I would have helped the poor",
+      "c": "I will help the poor",
+      "d": "I could helped the poor"
+    },
+    "correct_answer": "a",
+    "explanation": "Inverted 2nd Conditional।"
+  },
+  {
+    "id": 412,
+    "question": "The more you read, —.",
+    "options": {
+      "a": "the more you learn",
+      "b": "the more you will learn",
+      "c": "you learn more",
+      "d": "the more you learned"
+    },
+    "correct_answer": "a",
+    "explanation": "Double comparative।"
+  },
+  {
+    "id": 413,
+    "question": "He behaved as though —.",
+    "options": {
+      "a": "he had been a fool",
+      "b": "he were a fool",
+      "c": "he is a fool",
+      "d": "he has been a fool"
+    },
+    "correct_answer": "b",
+    "explanation": "অবাস্তব কল্পনায় Present + as though + were।"
+  },
+  {
+    "id": 414,
+    "question": "He is getting used to — in a cold climate.",
+    "options": {
+      "a": "living",
+      "b": "live",
+      "c": "lived",
+      "d": "be living"
+    },
+    "correct_answer": "a",
+    "explanation": "'Get used to' বা 'Be used to' এর পর verb+ing বসে।"
+  },
+  {
+    "id": 415,
+    "question": "If you had not helped me, —.",
+    "options": {
+      "a": "I would have failed",
+      "b": "I would fail",
+      "c": "I will fail",
+      "d": "I had failed"
+    },
+    "correct_answer": "a",
+    "explanation": "3rd Conditional।"
+  },
+  {
+    "id": 416,
+    "question": "He had his servant — the room.",
+    "options": {
+      "a": "clean",
+      "b": "cleaned",
+      "c": "cleaning",
+      "d": "to clean"
+    },
+    "correct_answer": "a",
+    "explanation": "Causative Have: ব্যক্তিবাচক object (servant) থাকলে V1 (clean) হয়।"
+  },
+  {
+    "id": 417,
+    "question": "No sooner had I reached the station —.",
+    "options": {
+      "a": "than the train started",
+      "b": "when the train started",
+      "c": "then the train started",
+      "d": "before the train started"
+    },
+    "correct_answer": "a",
+    "explanation": "No sooner had... than নিয়ম।"
+  },
+  {
+    "id": 418,
+    "question": "I cannot but — a lie. I am an honest man.",
+    "options": {
+      "a": "hate",
+      "b": "hating",
+      "c": "to hate",
+      "d": "hated"
+    },
+    "correct_answer": "a",
+    "explanation": "'Cannot but' এর পর verb-এর base form বসে।"
+  },
+  {
+    "id": 419,
+    "question": "The boy is too small —.",
+    "options": {
+      "a": "to carry the bag",
+      "b": "to carry it",
+      "c": "carrying the bag",
+      "d": "to be carry"
+    },
+    "correct_answer": "a",
+    "explanation": "Too... to নিয়ম।"
+  },
+  {
+    "id": 420,
+    "question": "Scarcely had the bell rung —.",
+    "options": {
+      "a": "when the students left the class",
+      "b": "than the students left the class",
+      "c": "then the students left the class",
+      "d": "after the students left the class"
+    },
+    "correct_answer": "a",
+    "explanation": "Scarcely-এর নিয়ম।"
+  },
+  {
+    "id": 421,
+    "question": "Unless you are careful, —.",
+    "options": {
+      "a": "you will make a mistake",
+      "b": "you will not make a mistake",
+      "c": "you would make a mistake",
+      "d": "you made a mistake"
+    },
+    "correct_answer": "a",
+    "explanation": "সতর্ক না থাকলে ভুল করবে।"
+  },
+  {
+    "id": 422,
+    "question": "If I had a lot of money, —.",
+    "options": {
+      "a": "I would set up a hospital",
+      "b": "I would have set up a hospital",
+      "c": "I will set up a hospital",
+      "d": "I could set up"
+    },
+    "correct_answer": "a",
+    "explanation": "2nd Conditional (had এখানে V2)।"
+  },
+  {
+    "id": 423,
+    "question": "I would rather you — me later.",
+    "options": {
+      "a": "called",
+      "b": "call",
+      "c": "calling",
+      "d": "had called"
+    },
+    "correct_answer": "a",
+    "explanation": "Would rather + subject + V2।"
+  },
+  {
+    "id": 424,
+    "question": "It is ten years since —.",
+    "options": {
+      "a": "we met last",
+      "b": "we had met last",
+      "c": "we have met last",
+      "d": "we meet last"
+    },
+    "correct_answer": "a",
+    "explanation": "Since এর আগে present হলে পরে V2 হয়।"
+  },
+  {
+    "id": 425,
+    "question": "Wait until —.",
+    "options": {
+      "a": "the sun sets",
+      "b": "the sun will set",
+      "c": "the sun does not set",
+      "d": "the sun set"
+    },
+    "correct_answer": "a",
+    "explanation": "Until এর পর Present Indefinite।"
+  },
+  {
+    "id": 426,
+    "question": "He got used to — hard.",
+    "options": {
+      "a": "working",
+      "b": "work",
+      "c": "worked",
+      "d": "be work"
+    },
+    "correct_answer": "a",
+    "explanation": "Got used to + V-ing।"
+  },
+  {
+    "id": 427,
+    "question": "He speaks as if —.",
+    "options": {
+      "a": "he knew the secret",
+      "b": "he knows the secret",
+      "c": "he has known the secret",
+      "d": "he is knowing"
+    },
+    "correct_answer": "a",
+    "explanation": "As if + V2 নিয়ম।"
+  },
+  {
+    "id": 428,
+    "question": "I cannot help — a song when I am happy.",
+    "options": {
+      "a": "singing",
+      "b": "sing",
+      "c": "to sing",
+      "d": "sung"
+    },
+    "correct_answer": "a",
+    "explanation": "'Cannot help' এর পর verb-এর সাথে 'ing' যুক্ত হয়।"
+  },
+  {
+    "id": 429,
+    "question": "If I had seen him, —.",
+    "options": {
+      "a": "I would have told him the truth",
+      "b": "I would tell him the truth",
+      "c": "I will tell him the truth",
+      "d": "I had told him"
+    },
+    "correct_answer": "a",
+    "explanation": "3rd Conditional।"
+  },
+  {
+    "id": 430,
+    "question": "Lest you — miss the bus, walk fast.",
+    "options": {
+      "a": "should",
+      "b": "will",
+      "c": "could",
+      "d": "might not"
+    },
+    "correct_answer": "a",
+    "explanation": "Lest-এর সাথে should বসে।"
+  },
+  {
+    "id": 431,
+    "question": "I would rather you — the truth.",
+    "options": {
+      "a": "told",
+      "b": "tell",
+      "c": "to tell",
+      "d": "telling"
+    },
+    "correct_answer": "a",
+    "explanation": "Would rather + subject + V2।"
+  },
+  {
+    "id": 432,
+    "question": "It is high time we — our environment.",
+    "options": {
+      "a": "saved",
+      "b": "save",
+      "c": "should save",
+      "d": "will save"
+    },
+    "correct_answer": "a",
+    "explanation": "V2 এর নিয়ম।"
+  },
+  {
+    "id": 433,
+    "question": "He acts as if —.",
+    "options": {
+      "a": "he were mad",
+      "b": "he was mad",
+      "c": "he is mad",
+      "d": "he has been mad"
+    },
+    "correct_answer": "a",
+    "explanation": "As if + were নিয়ম।"
+  },
+  {
+    "id": 434,
+    "question": "Had I been a king, —.",
+    "options": {
+      "a": "I would have helped the poor",
+      "b": "I would help the poor",
+      "c": "I will help the poor",
+      "d": "I helped"
+    },
+    "correct_answer": "a",
+    "explanation": "3rd Conditional।"
+  },
+  {
+    "id": 435,
+    "question": "A friend in need —.",
+    "options": {
+      "a": "is a friend indeed",
+      "b": "is friend indeed",
+      "c": "is friend in deed",
+      "d": "helps always"
+    },
+    "correct_answer": "a",
+    "explanation": "প্রবাদ।"
+  },
+  {
+    "id": 436,
+    "question": "You will not prosper unless —.",
+    "options": {
+      "a": "you work hard",
+      "b": "you do not work hard",
+      "c": "you will work hard",
+      "d": "you worked hard"
+    },
+    "correct_answer": "a",
+    "explanation": "Unless নিজেই negative।"
+  },
+  {
+    "id": 437,
+    "question": "Wait until —.",
+    "options": {
+      "a": "I finish my work",
+      "b": "I will finish my work",
+      "c": "I do not finish my work",
+      "d": "I finished my work"
+    },
+    "correct_answer": "a",
+    "explanation": "Until + Present Indefinite।"
+  },
+  {
+    "id": 438,
+    "question": "If you came, —.",
+    "options": {
+      "a": "I would go",
+      "b": "I will go",
+      "c": "I would have gone",
+      "d": "I went"
+    },
+    "correct_answer": "a",
+    "explanation": "2nd Conditional।"
+  },
+  {
+    "id": 439,
+    "question": "The load is so heavy that —.",
+    "options": {
+      "a": "he cannot carry it",
+      "b": "he could not carry it",
+      "c": "he cannot carry",
+      "d": "he cannot be carry"
+    },
+    "correct_answer": "a",
+    "explanation": "So...that নিয়ম।"
+  },
+  {
+    "id": 440,
+    "question": "Strike the iron —.",
+    "options": {
+      "a": "while it is hot",
+      "b": "when it is hot",
+      "c": "after it is hot",
+      "d": "as it is hot"
+    },
+    "correct_answer": "a",
+    "explanation": "প্রবাদ।"
+  },
+  {
+    "id": 441,
+    "question": "He ran away lest —.",
+    "options": {
+      "a": "he should be caught",
+      "b": "he will be caught",
+      "c": "he would be caught",
+      "d": "he might caught"
+    },
+    "correct_answer": "a",
+    "explanation": "Lest + should নিয়ম।"
+  },
+  {
+    "id": 442,
+    "question": "I would rather die —.",
+    "options": {
+      "a": "than beg",
+      "b": "then beg",
+      "c": "to beg",
+      "d": "than begging"
+    },
+    "correct_answer": "a",
+    "explanation": "Would rather... than নিয়ম।"
+  },
+  {
+    "id": 443,
+    "question": "If I had seen him, —.",
+    "options": {
+      "a": "I would have given him the book",
+      "b": "I would give him the book",
+      "c": "I will give him the book",
+      "d": "I gave him"
+    },
+    "correct_answer": "a",
+    "explanation": "3rd Conditional।"
+  },
+  {
+    "id": 444,
+    "question": "Unity is strength. United we stand, —.",
+    "options": {
+      "a": "divided we fall",
+      "b": "divided we fail",
+      "c": "divided we will fall",
+      "d": "divided we fell"
+    },
+    "correct_answer": "a",
+    "explanation": "প্রবাদ।"
+  },
+  {
+    "id": 445,
+    "question": "It is ten years since —.",
+    "options": {
+      "a": "my brother died",
+      "b": "my brother had died",
+      "c": "my brother dies",
+      "d": "my brother has died"
+    },
+    "correct_answer": "a",
+    "explanation": "Since এর আগে present হলে পরে V2 হয়।"
+  },
+  {
+    "id": 446,
+    "question": "I wish I — a poet.",
+    "options": {
+      "a": "were",
+      "b": "am",
+      "c": "was",
+      "d": "be"
+    },
+    "correct_answer": "a",
+    "explanation": "I wish + were নিয়ম।"
+  },
+  {
+    "id": 447,
+    "question": "Scarcely had I reached the college —.",
+    "options": {
+      "a": "when the bell rang",
+      "b": "than the bell rang",
+      "c": "then the bell rang",
+      "d": "after the bell rang"
+    },
+    "correct_answer": "a",
+    "explanation": "Scarcely... when নিয়ম।"
+  },
+  {
+    "id": 448,
+    "question": "He has a lot of enemies, but —.",
+    "options": {
+      "a": "he is not afraid of them",
+      "b": "he is afraid of them",
+      "c": "he was not afraid",
+      "d": "he does not afraid"
+    },
+    "correct_answer": "a",
+    "explanation": "বিপরীত অর্থ।"
+  },
+  {
+    "id": 449,
+    "question": "Though he is poor, —.",
+    "options": {
+      "a": "he is honest",
+      "b": "he is dishonest",
+      "c": "he was honest",
+      "d": "he can be honest"
+    },
+    "correct_answer": "a",
+    "explanation": "বিপরীত অর্থ।"
+  },
+  {
+    "id": 450,
+    "question": "Knowledge is power. The more you read, —.",
+    "options": {
+      "a": "the more you learn",
+      "b": "the more you will learn",
+      "c": "you learn more",
+      "d": "the more you learned"
+    },
+    "correct_answer": "a",
+    "explanation": "Double comparative।"
+  },
+  {
+    "id": 451,
+    "question": "The man is so talkative that —.",
+    "options": {
+      "a": "nobody likes him",
+      "b": "everybody likes him",
+      "c": "he can speak well",
+      "d": "he could not speak"
+    },
+    "correct_answer": "a",
+    "explanation": "অতিরিক্ত কথা বলা নেতিবাচক গুণ, তাই ফলাফলও নেতিবাচক হবে।"
+  },
+  {
+    "id": 452,
+    "question": "He had a narrow escape. Had he not jumped aside, —.",
+    "options": {
+      "a": "the car would have hit him",
+      "b": "the car would hit him",
+      "c": "the car will hit him",
+      "d": "the car had hit him"
+    },
+    "correct_answer": "a",
+    "explanation": "3rd Conditional (Had + Sub + V3) এর নিয়ম।"
+  },
+  {
+    "id": 453,
+    "question": "Time is the most valuable thing. We must use it properly lest —.",
+    "options": {
+      "a": "we should repent in the long run",
+      "b": "we will repent in the long run",
+      "c": "we would repent",
+      "d": "we might not repent"
+    },
+    "correct_answer": "a",
+    "explanation": "Lest + subject + should + V1।"
+  },
+  {
+    "id": 454,
+    "question": "Though Bangladesh is a small country, —.",
+    "options": {
+      "a": "she has a large population",
+      "b": "she is very poor",
+      "c": "she is beautiful",
+      "d": "both a and c"
+    },
+    "correct_answer": "d",
+    "explanation": "Though বৈপরীত্য প্রকাশ করে। জনসংখ্যা বেশি হওয়া বা সুন্দর হওয়া উভয়ই ছোট দেশের সাথে বৈপরীত্যপূর্ণ তথ্য হতে পারে।"
+  },
+  {
+    "id": 455,
+    "question": "It is high time you — for the HSC exam.",
+    "options": {
+      "a": "prepared yourself",
+      "b": "prepare yourself",
+      "c": "should prepare",
+      "d": "had prepared"
+    },
+    "correct_answer": "a",
+    "explanation": "It is high time এর পর V2 হয়।"
+  },
+  {
+    "id": 456,
+    "question": "My father always tells me that —.",
+    "options": {
+      "a": "honesty is the best policy",
+      "b": "honesty was the best policy",
+      "c": "honesty has been the best policy",
+      "d": "honesty will be the best policy"
+    },
+    "correct_answer": "a",
+    "explanation": "চিরন্তন সত্য সব সময় Present Indefinite হয়।"
+  },
+  {
+    "id": 457,
+    "question": "As soon as I saw my teacher, —.",
+    "options": {
+      "a": "I stood up",
+      "b": "I stand up",
+      "c": "than I stood up",
+      "d": "when I stood up"
+    },
+    "correct_answer": "a",
+    "explanation": "As soon as যুক্ত বাক্যের দুটি অংশই Past Indefinite হয়।"
+  },
+  {
+    "id": 458,
+    "question": "I would rather you — here till tomorrow.",
+    "options": {
+      "a": "stayed",
+      "b": "stay",
+      "c": "to stay",
+      "d": "will stay"
+    },
+    "correct_answer": "a",
+    "explanation": "Would rather-এর পর subject আসলে V2 হয়।"
+  },
+  {
+    "id": 459,
+    "question": "He speaks as if —.",
+    "options": {
+      "a": "he knew everything",
+      "b": "he knows everything",
+      "c": "he has known everything",
+      "d": "he is knowing"
+    },
+    "correct_answer": "a",
+    "explanation": "As if-এর নিয়ম।"
+  },
+  {
+    "id": 460,
+    "question": "The load is so heavy that —.",
+    "options": {
+      "a": "he cannot carry it",
+      "b": "it cannot be carried",
+      "c": "he could not carry it",
+      "d": "both a and b"
+    },
+    "correct_answer": "d",
+    "explanation": "বোর্ড পরীক্ষায় active/passive দুইভাবেই অপশন আসতে পারে।"
+  },
+  {
+    "id": 461,
+    "question": "If I had seen him, —.",
+    "options": {
+      "a": "I would have given him the news",
+      "b": "I would give him the news",
+      "c": "I will give him the news",
+      "d": "I had given"
+    },
+    "correct_answer": "a",
+    "explanation": "3rd Conditional।"
+  },
+  {
+    "id": 462,
+    "question": "A friend in need —.",
+    "options": {
+      "a": "is a friend indeed",
+      "b": "is friend indeed",
+      "c": "is friend in deed",
+      "d": "helps always"
+    },
+    "correct_answer": "a",
+    "explanation": "প্রবাদ বাক্য।"
+  },
+  {
+    "id": 463,
+    "question": "Wait here until —.",
+    "options": {
+      "a": "I come back",
+      "b": "I do not come back",
+      "c": "I will come back",
+      "d": "I returned"
+    },
+    "correct_answer": "a",
+    "explanation": "Until + Present Indefinite (Affirmative)।"
+  },
+  {
+    "id": 464,
+    "question": "Scarcely had the teacher entered the room —.",
+    "options": {
+      "a": "when the students kept quiet",
+      "b": "than the students kept quiet",
+      "c": "then the students kept quiet",
+      "d": "after the students kept quiet"
+    },
+    "correct_answer": "a",
+    "explanation": "Scarcely... when জোড়া শব্দ।"
+  },
+  {
+    "id": 465,
+    "question": "I went to the market with a view to —.",
+    "options": {
+      "a": "buying a shirt",
+      "b": "buy a shirt",
+      "c": "bought a shirt",
+      "d": "buys a shirt"
+    },
+    "correct_answer": "a",
+    "explanation": "With a view to + V-ing।"
+  },
+  {
+    "id": 466,
+    "question": "If I were a bird, —.",
+    "options": {
+      "a": "I would fly",
+      "b": "I will fly",
+      "c": "I would have flown",
+      "d": "I could fly"
+    },
+    "correct_answer": "a",
+    "explanation": "2nd Conditional।"
+  },
+  {
+    "id": 467,
+    "question": "Ten years passed since —.",
+    "options": {
+      "a": "I had seen her last",
+      "b": "I saw her last",
+      "c": "I have seen her last",
+      "d": "I see her last"
+    },
+    "correct_answer": "a",
+    "explanation": "Past + since + Past Perfect।"
+  },
+  {
+    "id": 468,
+    "question": "He has a lot of enemies, but —.",
+    "options": {
+      "a": "he is not afraid of them",
+      "b": "he is afraid of them",
+      "c": "he was not afraid",
+      "d": "he does not afraid"
+    },
+    "correct_answer": "a",
+    "explanation": "বৈপরীত্য প্রকাশ।"
+  },
+  {
+    "id": 469,
+    "question": "Walk fast lest —.",
+    "options": {
+      "a": "you should miss the train",
+      "b": "you will miss the train",
+      "c": "you could miss the train",
+      "d": "you missed"
+    },
+    "correct_answer": "a",
+    "explanation": "Lest + should নিয়ম।"
+  },
+  {
+    "id": 470,
+    "question": "No sooner had he reached the airport —.",
+    "options": {
+      "a": "than the plane took off",
+      "b": "when the plane took off",
+      "c": "then the plane took off",
+      "d": "after the plane took off"
+    },
+    "correct_answer": "a",
+    "explanation": "No sooner had... than নিয়ম।"
+  },
+  {
+    "id": 471,
+    "question": "If you had studied hard, —.",
+    "options": {
+      "a": "you would have passed",
+      "b": "you would pass",
+      "c": "you will pass",
+      "d": "you passed"
+    },
+    "correct_answer": "a",
+    "explanation": "3rd Conditional।"
+  },
+  {
+    "id": 472,
+    "question": "Unity is strength. United we stand, —.",
+    "options": {
+      "a": "divided we fall",
+      "b": "divided we fail",
+      "c": "divided we will fall",
+      "d": "divided we fell"
+    },
+    "correct_answer": "a",
+    "explanation": "প্রবাদ বাক্য।"
+  },
+  {
+    "id": 473,
+    "question": "I wish I — a millionaire.",
+    "options": {
+      "a": "were",
+      "b": "am",
+      "c": "was",
+      "d": "be"
+    },
+    "correct_answer": "a",
+    "explanation": "I wish + were নিয়ম।"
+  },
+  {
+    "id": 474,
+    "question": "It is high time we — against child marriage.",
+    "options": {
+      "a": "stood up",
+      "b": "stand up",
+      "c": "should stand up",
+      "d": "will stand up"
+    },
+    "correct_answer": "a",
+    "explanation": "V2 এর নিয়ম।"
+  },
+  {
+    "id": 475,
+    "question": "He works hard so that —.",
+    "options": {
+      "a": "he can succeed",
+      "b": "he could succeed",
+      "c": "he succeeds",
+      "d": "he may success"
+    },
+    "correct_answer": "a",
+    "explanation": "So that + can/may + V1।"
+  },
+  {
+    "id": 476,
+    "question": "Danger comes where —.",
+    "options": {
+      "a": "danger is feared",
+      "b": "danger was feared",
+      "c": "danger will be feared",
+      "d": "danger has feared"
+    },
+    "correct_answer": "a",
+    "explanation": "প্রবাদ।"
+  },
+  {
+    "id": 477,
+    "question": "Had I been a king, —.",
+    "options": {
+      "a": "I would have helped the poor",
+      "b": "I would help the poor",
+      "c": "I will help the poor",
+      "d": "I helped"
+    },
+    "correct_answer": "a",
+    "explanation": "3rd Conditional।"
+  },
+  {
+    "id": 478,
+    "question": "Unless you are attentive, —.",
+    "options": {
+      "a": "you cannot learn anything",
+      "b": "you can learn anything",
+      "c": "you will learn anything",
+      "d": "you could not learn"
+    },
+    "correct_answer": "a",
+    "explanation": "নেতিবাচক শর্ত।"
+  },
+  {
+    "id": 479,
+    "question": "The more you read, —.",
+    "options": {
+      "a": "the more you learn",
+      "b": "the more you will learn",
+      "c": "you learn more",
+      "d": "the more you learned"
+    },
+    "correct_answer": "a",
+    "explanation": "সমান্তরাল বৃদ্ধি।"
+  },
+  {
+    "id": 480,
+    "question": "I would rather die —.",
+    "options": {
+      "a": "than beg",
+      "b": "then beg",
+      "c": "to beg",
+      "d": "than begging"
+    },
+    "correct_answer": "a",
+    "explanation": "Would rather... than নিয়ম।"
+  },
+  {
+    "id": 481,
+    "question": "I wish I — a poet.",
+    "options": {
+      "a": "were",
+      "b": "am",
+      "c": "was",
+      "d": "be"
+    },
+    "correct_answer": "a",
+    "explanation": "অবাস্তব ইচ্ছা।"
+  },
+  {
+    "id": 482,
+    "question": "He runs fast lest —.",
+    "options": {
+      "a": "he should miss the bus",
+      "b": "he will miss the bus",
+      "c": "he could miss the bus",
+      "d": "he missed"
+    },
+    "correct_answer": "a",
+    "explanation": "Lest + should নিয়ম।"
+  },
+  {
+    "id": 483,
+    "question": "It is ten years since —.",
+    "options": {
+      "a": "my father died",
+      "b": "my father had died",
+      "c": "my father dies",
+      "d": "my father has died"
+    },
+    "correct_answer": "a",
+    "explanation": "Since এর আগে present হলে পরে V2 হয়।"
+  },
+  {
+    "id": 484,
+    "question": "If you came, —.",
+    "options": {
+      "a": "I would go",
+      "b": "I will go",
+      "c": "I would have gone",
+      "d": "I went"
+    },
+    "correct_answer": "a",
+    "explanation": "2nd Conditional।"
+  },
+  {
+    "id": 485,
+    "question": "Strike the iron —.",
+    "options": {
+      "a": "while it is hot",
+      "b": "when it is hot",
+      "c": "after it is hot",
+      "d": "as it is hot"
+    },
+    "correct_answer": "a",
+    "explanation": "প্রবাদ।"
+  },
+  {
+    "id": 486,
+    "question": "He behaves as if —.",
+    "options": {
+      "a": "he were a leader",
+      "b": "he was a leader",
+      "c": "he is a leader",
+      "d": "he has been a leader"
+    },
+    "correct_answer": "a",
+    "explanation": "As if + were নিয়ম।"
+  },
+  {
+    "id": 487,
+    "question": "Knowledge is power. The more you read, —.",
+    "options": {
+      "a": "the more you learn",
+      "b": "the more you will learn",
+      "c": "you learn more",
+      "d": "the more you learned"
+    },
+    "correct_answer": "a",
+    "explanation": "সমান্তরাল কাঠামো।"
+  },
+  {
+    "id": 488,
+    "question": "No sooner had the teacher entered the classroom —.",
+    "options": {
+      "a": "than the students stood up",
+      "b": "when the students stood up",
+      "c": "then the students stood up",
+      "d": "after the students stood up"
+    },
+    "correct_answer": "a",
+    "explanation": "No sooner had... than নিয়ম।"
+  },
+  {
+    "id": 489,
+    "question": "If you had informed me, —.",
+    "options": {
+      "a": "I would have gone with you",
+      "b": "I would go with you",
+      "c": "I will go with you",
+      "d": "I went with you"
+    },
+    "correct_answer": "a",
+    "explanation": "3rd Conditional।"
+  },
+  {
+    "id": 490,
+    "question": "Wait until the rain —.",
+    "options": {
+      "a": "stops",
+      "b": "stopped",
+      "c": "will stop",
+      "d": "is stopping"
+    },
+    "correct_answer": "a",
+    "explanation": "Until + Present Indefinite।"
+  },
+  {
+    "id": 491,
+    "question": "Poverty is a curse. I wish —.",
+    "options": {
+      "a": "I were rich",
+      "b": "I could be rich",
+      "c": "I was rich",
+      "d": "both a and b"
+    },
+    "correct_answer": "d",
+    "explanation": "অবাস্তব ইচ্ছা।"
+  },
+  {
+    "id": 492,
+    "question": "He acts as if —.",
+    "options": {
+      "a": "he were mad",
+      "b": "he was mad",
+      "c": "he is mad",
+      "d": "he has been mad"
+    },
+    "correct_answer": "a",
+    "explanation": "অবাস্তব কল্পনা।"
+  },
+  {
+    "id": 493,
+    "question": "Though he is rich, —. He always wants more.",
+    "options": {
+      "a": "he is unhappy",
+      "b": "he is happy",
+      "c": "he was unhappy",
+      "d": "he is greedy"
+    },
+    "correct_answer": "a",
+    "explanation": "বিপরীত অর্থ।"
+  },
+  {
+    "id": 494,
+    "question": "It is high time we — our environment.",
+    "options": {
+      "a": "protected",
+      "b": "protect",
+      "c": "should protect",
+      "d": "will protect"
+    },
+    "correct_answer": "a",
+    "explanation": "V2 এর নিয়ম।"
+  },
+  {
+    "id": 495,
+    "question": "He has failed in the test. He would have passed if —.",
+    "options": {
+      "a": "he had studied more",
+      "b": "he studied more",
+      "c": "he will study more",
+      "d": "he has studied"
+    },
+    "correct_answer": "a",
+    "explanation": "3rd Conditional।"
+  },
+  {
+    "id": 496,
+    "question": "A friend in need —.",
+    "options": {
+      "a": "is a friend indeed",
+      "b": "is friend indeed",
+      "c": "is friend in deed",
+      "d": "helps always"
+    },
+    "correct_answer": "a",
+    "explanation": "প্রবাদ।"
+  },
+  {
+    "id": 497,
+    "question": "Knowledge is power. The more you read, —.",
+    "options": {
+      "a": "the more you learn",
+      "b": "the more you will learn",
+      "c": "you learn more",
+      "d": "the more you learned"
+    },
+    "correct_answer": "a",
+    "explanation": "Double comparative।"
+  },
+  {
+    "id": 498,
+    "question": "Unless you work hard, —.",
+    "options": {
+      "a": "you will fail",
+      "b": "you will pass",
+      "c": "you would fail",
+      "d": "you are failing"
+    },
+    "correct_answer": "a",
+    "explanation": "নেতিবাচক শর্ত।"
+  },
+  {
+    "id": 499,
+    "question": "The load is so heavy that —.",
+    "options": {
+      "a": "he cannot carry it",
+      "b": "he could not carry it",
+      "c": "he cannot carry",
+      "d": "he cannot be carry"
+    },
+    "correct_answer": "a",
+    "explanation": "So...that নিয়ম।"
+  },
+  {
+    "id": 500,
+    "question": "Where there is a will, —. This is a very popular proverb.",
+    "options": {
+      "a": "there is a way",
+      "b": "there is way",
+      "c": "a way is there",
+      "d": "there was a way"
+    },
+    "correct_answer": "a",
+    "explanation": "প্রবাদবাক্য।"
+  }
+]
